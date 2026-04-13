@@ -1,0 +1,161 @@
+{
+  "food_name": "Nasi Ambeng (Javanese-Malay communal festive rice platter)",
+  "local_names": {
+    "malay": "Nasi Ambeng",
+    "chinese_simplified": "雅旺饭",
+    "chinese_traditional": "雅旺飯",
+    "tamil": "நாசி அம்பெங்",
+    "indonesian": "Nasi Ambeng"
+  },
+  "aliases": [
+    "nasi ambeng",
+    "Javanese festive rice",
+    "Singapore Malay communal rice",
+    "nasi ambeng kampong glam",
+    "Javanese-Malay banquet rice"
+  ],
+  "cuisine": "Singapore Malay / Javanese-Malay (Kampong Glam tradition)",
+  "region_of_origin": "Javanese-Malay Singapore community — associated with Kampong Glam and Geylang",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Communal festive rice platter with multiple Malay side dishes",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Nasi Ambeng. Closest parent is communal festive rice with multiple side dishes.",
+    "foodex2_code": "A00PB",
+    "foodex2_description": "Communal festive rice platter with multiple Malay side dishes (Javanese-Malay nasi ambeng style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed (rice)",
+      "fried (chicken)",
+      "simmered (sambal goreng)",
+      "toasted (serunding)",
+      "pan-fried (bergedil)"
+    ],
+    "processing_level": "composite communal rice dish",
+    "main_ingredients": [
+      "steamed white rice",
+      "ayam goreng (fried chicken)",
+      "sambal goreng (tempeh and long beans)",
+      "serunding kelapa (coconut floss)",
+      "bergedil (potato meat patty)",
+      "hard-boiled egg"
+    ],
+    "allergens": [
+      "eggs",
+      "soy (tempeh)",
+      "gluten (bergedil coating)",
+      "crustaceans (belacan in sambal)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 individual portion = 420g",
+    "size_g": 420,
+    "natural_language_portion": "A single portion of Nasi Ambeng (from a communal platter shared between 4–6 people) is approximately 420g: 200g steamed white rice plus approximately 220g assorted side dishes (fried chicken, sambal goreng, serunding, bergedil, boiled egg)."
+  },
+  "nutrient_source": {
+    "title": "Nasi Ambeng — IMR Malaysia MyFCD; adapted from HPB Singapore component data",
+    "organization": "Institute for Medical Research (IMR) Malaysia; Health Promotion Board (HPB), Singapore",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "IMR Malaysia and FAO/INFOODS SEA have limited direct Nasi Ambeng data. Values derived from canonical component combination: steamed white rice (HPB Singapore) + ayam goreng berempah (#158) + sambal goreng tempeh (#170) + serunding kelapa (#169) + bergedil (potato-beef patty, HPB Singapore) + boiled egg. Per-100g represents blended plate composition at the specified weights."
+  },
+  "per_100g": {
+    "energy_kcal": 195.0,
+    "protein_g": 8.5,
+    "fat_g": 9.8,
+    "saturated_fat_g": 4.2,
+    "monounsaturated_fat_g": 3.2,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 21.5,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 380.0,
+    "potassium_mg": 210.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 58.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 42.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.4,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 128.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 12.0,
+    "water_g": 57.0
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 55.7,
+  "gi_source": "University of Sydney GI Database — GI driven by white rice (GI ~73). The combination of fried chicken (high fat), sambal goreng (protein + fat), and serunding (coconut fat) slows gastric emptying, lowering the effective composite GI to approximately 60–65. Per-420g portion delivers approximately 90.3g carbohydrate; GL per plate ~55.7.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "A 420g nasi ambeng portion delivers approximately 1,596mg sodium from multiple high-sodium components: serunding (toasted coconut with spices), sambal goreng (belacan-based), ayam goreng (salt marinade), and bergedil (salt seasoning). The combination of multiple sodium sources is the primary concern.",
+      "guidance": "Patients with hypertension should approach nasi ambeng cautiously. Request reduced serunding quantity (highest sodium contribution per gram). Avoid adding sambal at the table. This is a festive dish — acceptable at celebrations if portion is controlled."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "A 420g portion delivers approximately 90g carbohydrate with GL ~55.7 from jasmine rice. The diverse side dishes add fat and protein that moderately slow glucose absorption, but the GL remains very high.",
+      "guidance": "Patients with type 2 diabetes should request a smaller rice portion (100g instead of 200g) and compensate with extra protein (chicken) and vegetable components. The tempeh in sambal goreng provides plant protein and isoflavones that may improve insulin sensitivity."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Nasi Ambeng has moderate saturated fat (4.2g/100g) from coconut-based serunding and fried chicken. The tempeh component provides soy isoflavones with anti-inflammatory properties. The diverse herb components in sambal goreng (lemongrass, galangal) contribute anti-inflammatory phytochemicals.",
+      "guidance": "Patients with rheumatoid arthritis can enjoy nasi ambeng at festive occasions. The tempeh provides anti-inflammatory benefit. Prioritise the tempeh (sambal goreng) and vegetable components over large quantities of fried chicken and serunding."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Ambeng is a unique communal festive rice tradition of the Javanese-Malay community in Singapore, particularly associated with the Kampong Glam neighbourhood. A large wooden tray or banana leaf is piled with steamed rice in the centre, ringed by multiple side dishes arranged around it: golden fried spiced chicken (ayam goreng berempah), sambal goreng of tempeh and long beans, fragrant serunding kelapa (spiced toasted coconut floss), bergedil (potato and minced meat patties), and a whole hard-boiled egg. Traditionally, 4–6 people sit around the tray and eat together using their right hands, sharing from the communal platter — reinforcing Javanese-Malay communal food culture. It is served at kenduri (religious feast), weddings, and Ramadan gatherings.",
+    "common_user_queries": [
+      "nasi ambeng calories",
+      "nasi ambeng nutrition",
+      "nasi ambeng Singapore",
+      "nasi ambeng vs nasi padang",
+      "nasi ambeng healthy",
+      "nasi ambeng Javanese Malay"
+    ],
+    "meal_context": [
+      "Kampong Glam food stalls",
+      "Hari Raya",
+      "Malay wedding feast",
+      "Ramadan kenduri",
+      "communal Javanese-Malay eating"
+    ],
+    "ingredient_synonyms": {
+      "nasi ambeng": [
+        "Javanese festive rice platter",
+        "ambeng rice"
+      ],
+      "bergedil": [
+        "potato meat patty Malay",
+        "begedil",
+        "fried potato croquette"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No single direct Nasi Ambeng entry in primary databases. Values adapted from canonical component combination using HPB Singapore and IMR Malaysia data for each side dish. Confidence: medium — actual nutrient values depend on specific stall's component proportions.",
+  "notes": "The traditional communal eating format (eating from a shared tray) is a defining cultural feature of Nasi Ambeng, not replicated in other Malay rice dishes. Values represent an individual portion from a 4-person shared platter. Nasi Ambeng is distinct from Nasi Padang: Ambeng is served on a single communal tray (not self-selected), always includes bergedil and serunding, and has Javanese rather than Minangkabau roots."
+}

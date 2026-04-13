@@ -1,0 +1,74 @@
+{
+  "source_json": "nasi_ambeng.json",
+  "filename_prefix": "nasi_ambeng",
+  "save_pattern": "nasi_ambeng_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify Nasi Ambeng, a Javanese-Malay communal festive rice platter with its characteristic side dishes, preparation styles, and cultural serving context in Singapore.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic Javanese-Malay Nasi Ambeng communal rice platter on wooden tray with steamed white rice center and assorted side dishes",
+      "Nasi Ambeng kampong glam style festive rice platter with ayam goreng, sambal goreng tempeh, serunding kelapa, bergedil, and hard-boiled egg",
+      "Singapore Malay nasi ambeng banquet rice dish served on banana leaf with fried chicken, tempeh sambal, coconut floss, potato patties, and boiled egg"
+    ],
+    "macro_texture": [
+      "close-up of steamed white rice grains in nasi ambeng",
+      "texture of golden fried ayam goreng berempah chicken in nasi ambeng",
+      "detailed view of toasted spiced serunding kelapa coconut floss",
+      "surface texture of fried potato meat patties bergedil in nasi ambeng",
+      "appearance of sambal goreng tempeh and long beans in nasi ambeng"
+    ],
+    "raw_ingredients_and_process": [
+      "raw tempeh and long beans used in sambal goreng for nasi ambeng",
+      "fried ayam goreng berempah chicken pieces before plating",
+      "toasted spiced coconut flakes for serunding kelapa",
+      "preparing bergedil potato and minced meat patties before frying",
+      "hard-boiled eggs peeled and ready for nasi ambeng platter"
+    ],
+    "in_the_wild_context": [
+      "Nasi Ambeng communal platter served at Malay wedding feast in Kampong Glam Singapore",
+      "Javanese-Malay communal dining with multiple people sharing nasi ambeng on wooden tray",
+      "Hari Raya festive gathering with nasi ambeng served on banana leaf in Singapore",
+      "Ramadan kenduri event featuring traditional nasi ambeng communal rice platter",
+      "Malay food stall in Kampong Glam selling nasi ambeng with visible side dishes"
+    ],
+    "culinary_application": [
+      "individual portion plate of nasi ambeng with steamed rice and assorted side dishes",
+      "serving nasi ambeng from communal tray using right hand in traditional style",
+      "nasi ambeng plated with extra fried chicken and sambal goreng on side",
+      "close-up of nasi ambeng side dishes arranged around central rice mound",
+      "nasi ambeng served as festive banquet dish at religious feast"
+    ],
+    "label_truth": [
+      "ingredient label showing allergens eggs, soy, gluten, crustaceans in nasi ambeng components",
+      "nutritional label highlighting high sodium content in nasi ambeng due to serunding and sambal goreng",
+      "food packaging label for nasi ambeng kampong glam style with halal certification"
+    ],
+    "optional_local_language_queries": [
+      "雅旺饭 Javanese-Malay communal rice platter Singapore",
+      "நாசி அம்பெங் Malay festive rice dish with fried chicken and sambal",
+      "Nasi Ambeng kampong glam communal platter with serunding and bergedil",
+      "nasi ambeng Javanese festive rice with ayam goreng and tempeh sambal",
+      "nasi ambeng Malay Ramadan kenduri communal rice platter"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
