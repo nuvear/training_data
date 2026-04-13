@@ -1,0 +1,150 @@
+{
+  "food_name": "Pork Belly (raw, skin-on, with fat layers)",
+  "local_names": {
+    "chinese_simplified": "五花肉（生，带皮）",
+    "chinese_traditional": "五花肉（生，帶皮）",
+    "malay": "Perut Babi (mentah, berkulit)",
+    "hokkien": "Ngor Hiang bak / Ba Wang Bak"
+  },
+  "aliases": [
+    "pork belly raw",
+    "wu hua rou",
+    "five-layer pork",
+    "streaky pork",
+    "fatty pork belly",
+    "ba wang bak"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China / East Asia",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Pork belly, raw, skin-on, with alternating fat and lean layers",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302765",
+    "foodon_label": "Pork belly",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A04CN",
+    "foodex2_description": "Pork belly, raw, skin-on",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh meat)",
+    "main_ingredients": [
+      "pork (Sus scrofa domesticus) belly with skin, fat, and lean muscle layers"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "100g raw",
+    "size_g": 100,
+    "natural_language_portion": "A standard 100g raw pork belly portion is a typical pre-cooking weight used in recipes. Cooked pork belly (braised or roasted) shrinks to approximately 65–75g per 100g raw due to moisture and fat rendering."
+  },
+  "nutrient_source": {
+    "title": "Pork Belly (raw, skin-on) — HPB Singapore Foodo Database, Food Code F06090023; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F06090023 — Pork Belly, raw, skin-on."
+  },
+  "per_100g": {
+    "energy_kcal": 518.0,
+    "protein_g": 9.3,
+    "fat_g": 53.0,
+    "saturated_fat_g": 19.3,
+    "monounsaturated_fat_g": 24.5,
+    "polyunsaturated_fat_g": 5.9,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 38.0,
+    "potassium_mg": 178.0,
+    "calcium_mg": 5.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 72.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 11.0,
+    "vitamin_b1_thiamine_mg": 0.47,
+    "vitamin_b2_riboflavin_mg": 0.15,
+    "vitamin_b3_niacin_mg": 3.6,
+    "vitamin_b6_mg": 0.34,
+    "vitamin_b12_mcg": 0.6,
+    "folate_mcg_dfe": 2.0,
+    "vitamin_d_mcg": 0.6,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 115.0,
+    "magnesium_mg": 14.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 21.3,
+    "water_g": 36.7
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — pork belly contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Pork belly is very high in saturated fat (19.3g/100g raw). Saturated fat intake raises LDL cholesterol and is a major modifiable cardiovascular risk factor. Although raw pork belly itself has modest sodium (38mg/100g), typical preparations (char siu, braised pork, bak kut teh) add 500–1500mg sodium per serving.",
+      "guidance": "Patients with hypertension and dyslipidaemia should significantly limit pork belly consumption. Maximum 1–2 servings per week (50–75g cooked). Prefer lean cuts (pork loin, tenderloin) for regular consumption and reserve pork belly for occasional festive meals. The high saturated fat drives LDL elevation which independently increases cardiovascular risk."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "No carbohydrate — does not directly raise blood glucose. However, the very high saturated fat intake is associated with increased insulin resistance with regular consumption. The high energy density (518 kcal/100g raw) contributes to caloric overconsumption and obesity, a major type 2 diabetes risk factor.",
+      "guidance": "Patients with type 2 diabetes should limit pork belly to occasional consumption. The fat-to-protein ratio is unfavourable for body composition maintenance. Replace with leaner proteins for regular meals. When consumed, small portions (50g cooked) as part of a balanced meal with plenty of vegetables are acceptable."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High in arachidonic acid (precursor to pro-inflammatory eicosanoids). Very high saturated fat. Good thiamine (0.47mg/100g) and selenium (21.3mcg). Red and processed meat consumption is associated with increased inflammatory markers in rheumatoid arthritis patients.",
+      "guidance": "Patients with rheumatoid arthritis should minimise pork belly consumption. Regular consumption of high-fat red meat is associated with disease activity worsening. Limit to festive occasions. Replace with oily fish (salmon, mackerel, tuna) for anti-inflammatory omega-3 fatty acids."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Raw pork belly (wu hua rou — 'five-layer pork' in Mandarin) is the fatty cut from the underside of the pig, consisting of alternating layers of skin, fat, and lean muscle. It is the highest-fat whole-cut pork available in Singapore wet markets. Extremely energy dense at 518 kcal/100g raw (predominantly from 53g total fat, of which 19.3g is saturated). Used in classic Singaporean Chinese dishes: char siu (BBQ pork), dong po rou (braised pork belly), bak kut teh (pork rib soup — often includes belly), sio bak (roast pork with crackling), and sambal cincaluk preparations. The skin becomes gelatinous when slow-braised and produces collagen-rich broth. Not halal or kosher.",
+    "common_user_queries": [
+      "pork belly calories raw",
+      "how much fat in pork belly",
+      "pork belly nutrition per 100g",
+      "is pork belly healthy",
+      "pork belly saturated fat",
+      "pork belly vs chicken nutrition",
+      "how often can I eat pork belly"
+    ],
+    "meal_context": [
+      "char siu",
+      "dong po rou",
+      "roast pork",
+      "bak kut teh",
+      "braised pork",
+      "lor bak"
+    ],
+    "ingredient_synonyms": {
+      "pork belly": [
+        "wu hua rou",
+        "five-flower pork",
+        "streaky pork",
+        "side pork"
+      ],
+      "sio bak": [
+        "roast pork belly",
+        "Chinese roast pork"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F06090023).",
+  "notes": "Values per 100g raw skin-on pork belly. Very high caloric density due to fat content. Not halal or kosher. Cooking reduces fat content as fat renders out (roasting, char siu preparation). Cooked pork belly has lower fat per 100g than raw due to fat loss during cooking, but the absolute fat intake per serving remains very high."
+}

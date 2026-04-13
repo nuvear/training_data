@@ -1,0 +1,152 @@
+{
+  "food_name": "Tempeh (fresh, plain, uncooked)",
+  "local_names": {
+    "malay": "Tempe (segar, mentah)",
+    "indonesian": "Tempe (segar)",
+    "chinese_simplified": "天贝（新鲜，生）",
+    "tamil": "டெம்பே (புதிய, பச்சை)"
+  },
+  "aliases": [
+    "tempeh",
+    "tempe",
+    "fermented soybean cake",
+    "Indonesian fermented soy",
+    "soy tempeh"
+  ],
+  "cuisine": "Indonesian / Malaysian",
+  "region_of_origin": "Indonesia (Java)",
+  "food_group": "Plant proteins",
+  "food_subgroup": "Tempeh (whole soybeans, Rhizopus-fermented), fresh, uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302114",
+    "foodon_label": "Tempeh",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A09AB",
+    "foodex2_description": "Tempeh, fresh, plain, uncooked (whole soybean, Rhizopus mould fermented)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "uncooked",
+      "fermented"
+    ],
+    "processing_level": "fermented (soybeans inoculated with Rhizopus oligosporus, incubated 24–48h into bound cake)",
+    "main_ingredients": [
+      "soybeans (Glycine max)",
+      "Rhizopus oligosporus mould culture"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "100g raw",
+    "size_g": 100,
+    "natural_language_portion": "A standard slab of tempeh sold in Singapore weighs 200–250g. A single serving is approximately 100g raw (before cooking) — typically sliced and fried or baked."
+  },
+  "nutrient_source": {
+    "title": "Tempeh (fresh, plain) — IMR Malaysia MyFCD; cross-referenced with USDA SR Legacy",
+    "organization": "Institute for Medical Research (IMR) Malaysia — MyFCD (Malaysian Food Composition Database); USDA Agricultural Research Service",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "IMR Malaysia MyFCD is the primary source for tempeh as it is a Malaysian/Indonesian ingredient. Cross-referenced with USDA SR Legacy tempeh raw (FDC ID 174272). Values per 100g fresh uncooked tempeh."
+  },
+  "per_100g": {
+    "energy_kcal": 193.0,
+    "protein_g": 19.0,
+    "fat_g": 10.8,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 5.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 9.4,
+    "sugar_g": 3.1,
+    "dietary_fibre_g": 1.4,
+    "sodium_mg": 9.0,
+    "potassium_mg": 412.0,
+    "calcium_mg": 111.0,
+    "iron_mg": 2.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.36,
+    "vitamin_b3_niacin_mg": 2.6,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 24.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.2,
+    "phosphorus_mg": 266.0,
+    "magnesium_mg": 81.0,
+    "zinc_mg": 1.1,
+    "selenium_mcg": 16.0,
+    "water_g": 59.7
+  },
+  "glycemic_index": 15,
+  "glycemic_load_per_serving": 1.4,
+  "gi_source": "University of Sydney GI Database — GI of tempeh (~15). Very low carbohydrate content and the intact soybean cell matrix result in extremely low glycaemic impact.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (9mg/100g raw). The fermentation process increases bioavailability of all nutrients. Soy isoflavones in tempeh have demonstrated modest antihypertensive effects in clinical studies.",
+      "guidance": "Plain tempeh is excellent for patients with hypertension. The sodium concern arises from preparation — tempeh goreng (fried with sambal/soy sauce) adds significant sodium. Prefer steamed, baked, or lightly stir-fried preparations with minimal added salt to retain its low-sodium benefit."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low GI (~15). High protein (19g/100g). Fermentation partially breaks down the oligosaccharides and phytates, improving mineral absorption and digestibility. The low carbohydrate content (9.4g/100g) and high fat and protein make it an excellent diabetic-friendly protein food.",
+      "guidance": "Tempeh is highly recommended for patients with type 2 diabetes. It provides more protein than tofu (19g vs 8g per 100g), very low GI, and good dietary fat profile. Daily tempeh consumption as a protein source is one of the most effective Indonesian/Malaysian dietary strategies for blood glucose management."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Fermentation increases riboflavin (0.36mg/100g) and niacin (2.6mg/100g). High magnesium (81mg/100g) and calcium (111mg/100g). Soy isoflavones have weak anti-inflammatory properties. Higher vitamin E than raw soybeans (2.2mg/100g).",
+      "guidance": "Tempeh is recommended for patients with rheumatoid arthritis as a fermented, high-protein plant food. The fermentation process may enhance the anti-inflammatory profile compared to unfermented soy products. Good magnesium content supports muscle and nerve function relevant to RA management."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Tempeh is a traditional fermented soybean product originating from Java, Indonesia. Whole soybeans are cooked, dehulled, inoculated with Rhizopus oligosporus mould spores, and incubated for 24–48 hours. The mould binds the soybeans into a compact, firm white-grey cake with a distinctly nutty, earthy, slightly mushroom-like aroma. The fermentation process substantially improves nutritional quality compared to raw soybeans: reduces phytate content (improving mineral absorption), increases riboflavin, niacin, and B6, and enhances protein digestibility. With 19g protein and 10.8g fat per 100g, it is the highest-protein plant food commonly available in Singapore markets after raw soybeans. Sold fresh (refrigerated) in Singapore at wet markets and Cold Storage, usually in 200–250g slabs. The standard preparation in Singapore and Malaysia is tempeh goreng (deep-fried slices, often with sambal or sweet sauce).",
+    "common_user_queries": [
+      "tempeh calories per 100g",
+      "tempeh protein content",
+      "tempeh vs tofu nutrition",
+      "is tempeh healthy",
+      "tempeh benefits for gut",
+      "tempeh GI",
+      "how to eat tempeh"
+    ],
+    "meal_context": [
+      "tempeh goreng",
+      "sambal tempeh",
+      "tempeh stir-fry",
+      "tempeh curry",
+      "vegan protein source"
+    ],
+    "ingredient_synonyms": {
+      "tempeh": [
+        "tempe",
+        "fermented soybean cake",
+        "Indonesian soy cake"
+      ],
+      "tempeh goreng": [
+        "fried tempeh",
+        "crispy tempeh"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "IMR Malaysia MyFCD primary source for tempeh, cross-referenced with USDA SR Legacy.",
+  "notes": "Values per 100g fresh uncooked tempeh. The fermentation significantly changes the nutritional profile compared to raw soybeans — particularly reducing phytates and increasing B vitamin content. Deep-frying (tempeh goreng) increases fat content substantially. Some tempeh is made with mixed grains (rice + soy) — this record is for pure soybean tempeh."
+}

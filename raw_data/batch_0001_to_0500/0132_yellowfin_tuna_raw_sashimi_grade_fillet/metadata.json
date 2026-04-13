@@ -1,0 +1,150 @@
+{
+  "food_name": "Yellowfin Tuna (raw, sashimi grade fillet)",
+  "local_names": {
+    "japanese": "キハダマグロ (生)",
+    "chinese_simplified": "黄鳍金枪鱼（生，刺身）",
+    "chinese_traditional": "黃鰭鮪魚（生，刺身）",
+    "malay": "Ikan Tuna Sirip Kuning (mentah, fillet)"
+  },
+  "aliases": [
+    "yellowfin tuna raw",
+    "tuna sashimi",
+    "Thunnus albacares",
+    "ahi tuna",
+    "yellow fin tuna",
+    "tuna fillet"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Tropical and subtropical oceans worldwide",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Yellowfin tuna (Thunnus albacares), raw sashimi-grade fillet, skinless",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302746",
+    "foodon_label": "Yellowfin tuna",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A05AB",
+    "foodex2_description": "Tuna, yellowfin (Thunnus albacares), raw sashimi-grade fillet",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh fish fillet, sashimi grade)",
+    "main_ingredients": [
+      "yellowfin tuna (Thunnus albacares), raw sashimi fillet"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "5 sashimi slices = approximately 80g",
+    "size_g": 80,
+    "natural_language_portion": "5 slices of tuna sashimi weigh approximately 80g. A poke bowl with tuna contains approximately 100–120g raw tuna."
+  },
+  "nutrient_source": {
+    "title": "Yellowfin Tuna (raw) — HPB Singapore Foodo Database, Food Code F03010040; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03010040 — Yellowfin Tuna, raw fillet."
+  },
+  "per_100g": {
+    "energy_kcal": 109.0,
+    "protein_g": 23.4,
+    "fat_g": 1.0,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.3,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 45.0,
+    "potassium_mg": 444.0,
+    "calcium_mg": 4.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.24,
+    "vitamin_b2_riboflavin_mg": 0.25,
+    "vitamin_b3_niacin_mg": 18.5,
+    "vitamin_b6_mg": 0.9,
+    "vitamin_b12_mcg": 2.1,
+    "folate_mcg_dfe": 2.0,
+    "vitamin_d_mcg": 5.0,
+    "vitamin_e_mg": 1.0,
+    "phosphorus_mg": 254.0,
+    "magnesium_mg": 64.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 108.2,
+    "water_g": 74.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — tuna contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very lean white-fish-like protein (1.0g fat/100g) with high potassium (444mg/100g) and very low sodium (45mg/100g). Omega-3 EPA+DHA content at levels relevant to cardiovascular benefit. Exceptionally high niacin (18.5mg/100g) supports vascular health.",
+      "guidance": "Yellowfin tuna is excellent for patients with hypertension. The omega-3 content supports cardiovascular benefit. However, tuna should be limited to 2 servings per week for some groups (pregnant women, young children) due to moderate mercury content — mercury exposure is a consideration for large predatory fish like tuna."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Zero carbohydrate. Extraordinary selenium content (108.2mcg/100g) — among the highest of any commonly consumed food. High niacin (18.5mg/100g) and vitamin B6 (0.90mg/100g). Selenium and niacin support insulin signalling pathways.",
+      "guidance": "Tuna is highly recommended as a lean protein for patients with type 2 diabetes. Canned tuna in water (drained) is a convenient, affordable alternative to fresh sashimi with nearly equivalent nutritional value. Limit to 2 servings per week due to mercury."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Extraordinary selenium content (108.2mcg/100g) — one of the highest selenium foods available. A single 80g sashimi serving provides 87mcg selenium against a 55–70mcg daily target. Selenium is a critical co-factor for anti-inflammatory antioxidant enzymes. Omega-3 EPA+DHA provide anti-inflammatory benefit.",
+      "guidance": "Tuna is particularly valuable for patients with rheumatoid arthritis due to its exceptional selenium content supporting glutathione peroxidase activity. Omega-3 fatty acids provide direct anti-inflammatory joint benefit. Limit to 2 servings per week due to mercury — supplement with salmon, mackerel, and sardines for additional weekly seafood."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Yellowfin tuna (Thunnus albacares, ahi tuna) is a large predatory fish with deep red, lean flesh. Sashimi-grade yellowfin tuna is one of the most nutrient-dense proteins available: 23.4g protein, 1.0g fat, 0 carbohydrate per 100g raw. The selenium content (108.2mcg/100g) is extraordinary — among the highest of any food in the standard diet. Very high niacin (18.5mg/100g — exceeds the entire adult daily niacin requirement in a single 100g serving). Very high vitamin B6 (0.90mg) and magnesium (64mg/100g). Consumed in Singapore as sashimi, poke bowls, tuna nigiri, and canned tuna (in water or oil). The mercury content of large yellowfin tuna is moderate — limiting consumption to 2 servings per week is the standard public health recommendation.",
+    "common_user_queries": [
+      "tuna calories raw",
+      "yellowfin tuna protein",
+      "tuna sashimi nutrition",
+      "tuna selenium content",
+      "how often can I eat tuna",
+      "tuna niacin content",
+      "tuna omega-3 per 100g"
+    ],
+    "meal_context": [
+      "sashimi",
+      "poke bowl",
+      "tuna nigiri",
+      "tuna steak",
+      "canned tuna"
+    ],
+    "ingredient_synonyms": {
+      "yellowfin tuna": [
+        "ahi tuna",
+        "Thunnus albacares",
+        "yellow fin tuna"
+      ],
+      "tuna sashimi": [
+        "raw tuna",
+        "tuna loin"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03010040).",
+  "notes": "Values per 100g raw sashimi-grade yellowfin tuna fillet. The extraordinarily high selenium (108.2mcg/100g) reflects the bio-concentration of dietary selenium by tuna throughout the food chain. A 100g serving provides almost 2x the adult daily selenium requirement (55mcg). Mercury note: large yellowfin tuna are at the top of the food chain — mercury bio-concentrates. HPB Singapore recommends limiting large predatory fish (tuna, shark, swordfish) to 2 servings per week for most adults, and limiting further for pregnant women and young children."
+}

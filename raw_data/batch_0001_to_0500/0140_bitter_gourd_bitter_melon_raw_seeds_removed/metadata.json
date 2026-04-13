@@ -1,0 +1,151 @@
+{
+  "food_name": "Bitter Gourd / Bitter Melon (raw, seeds removed)",
+  "local_names": {
+    "malay": "Peria Katak / Peria Pahit (mentah, biji dibuang)",
+    "chinese_simplified": "苦瓜（生，去籽）",
+    "chinese_traditional": "苦瓜（生，去籽）",
+    "tamil": "பாகல் காய் (பச்சை, விதை நீக்கியது)",
+    "hindi": "करेला (कच्चा)"
+  },
+  "aliases": [
+    "bitter gourd raw",
+    "bitter melon",
+    "karela",
+    "peria katak",
+    "ku gua",
+    "Momordica charantia"
+  ],
+  "cuisine": "Chinese / Indian / SEA",
+  "region_of_origin": "Tropical Asia / Africa",
+  "food_group": "Vegetables",
+  "food_subgroup": "Cucurbit (gourd) vegetables, non-starchy, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310780",
+    "foodon_label": "Bitter melon",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14ED",
+    "foodex2_description": "Bitter gourd / bitter melon (Momordica charantia), raw, seeds removed",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, halved, white pith and seeds removed)",
+    "main_ingredients": [
+      "bitter gourd (Momordica charantia), raw flesh"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ bitter gourd = approximately 75g raw",
+    "size_g": 75,
+    "natural_language_portion": "Half a medium bitter gourd, pith and seeds removed, weighs approximately 70–80g — a typical portion for a stir-fry dish."
+  },
+  "nutrient_source": {
+    "title": "Bitter Gourd (raw, seeds removed) — HPB Singapore Foodo Database, Food Code F14040021; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14040021 — Bitter Gourd, raw, seeds removed."
+  },
+  "per_100g": {
+    "energy_kcal": 17.0,
+    "protein_g": 1.0,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.7,
+    "sugar_g": 1.7,
+    "dietary_fibre_g": 2.8,
+    "sodium_mg": 5.0,
+    "potassium_mg": 296.0,
+    "calcium_mg": 19.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 84.0,
+    "vitamin_a_mcg_rae": 6.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 72.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 31.0,
+    "magnesium_mg": 17.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 0.2,
+    "water_g": 93.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — bitter gourd has negligible digestible starch (3.7g carbohydrate/100g, mostly fibre). The key bioactive compounds in bitter gourd (charantin, momordicin, polypeptide-p) act through insulin-mimetic mechanisms rather than glycaemic index pathways.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (5mg/100g) and good potassium (296mg/100g). Very low calorie. Bitter gourd extracts have been studied for modest antihypertensive properties. Extremely high vitamin C (84mg/100g) for endothelial function support.",
+      "guidance": "Bitter gourd is an excellent vegetable for patients with hypertension. Very low in sodium, very low in calories. Include in weekly rotation as part of a plant-rich dietary pattern."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Bitter gourd contains several bioactive compounds with clinically studied hypoglycaemic properties: charantin (steroidal saponin), polypeptide-p (insulin-mimetic peptide), and vicine. These compounds are believed to activate AMPK, improve glucose uptake into muscle cells, and reduce hepatic gluconeogenesis. Research outcomes are variable but consistently suggest a modest blood glucose-lowering effect.",
+      "guidance": "Bitter gourd is clinically recommended as an adjunct dietary food for patients with type 2 diabetes. Bitter gourd stir-fry (ku gua chao dan — with egg) or bitter gourd juice (150–200ml fresh juice daily) is traditionally used in Chinese, Indian, and SEA folk medicine for blood glucose management. Clinical evidence supports modest benefit. Should not replace medications but can be included as part of a diabetes-friendly diet."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high vitamin C (84mg/100g) and good folate (72mcg DFE/100g). The bitter compounds (momordicins, charantin) have demonstrated anti-inflammatory properties in laboratory studies.",
+      "guidance": "Bitter gourd is recommended for patients with rheumatoid arthritis. The very high vitamin C content supports collagen synthesis and acts as a free radical scavenger in inflamed joint tissue. The traditional use in Ayurvedic and Chinese medicine for inflammatory conditions is supported by bioactive compound research."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bitter gourd (Momordica charantia, ku gua, karela) is a warty green cucumber-like vegetable with an intensely bitter taste. Used across Chinese, Indian, Malay, and Southeast Asian cuisines as both a vegetable and a traditional medicinal food. One of the most studied vegetables for blood glucose management — its bioactive compounds (charantin, polypeptide-p) mimic insulin and activate glucose uptake pathways. Nutritionally, it is very low in calories (17 kcal/100g) with exceptional vitamin C content (84mg/100g). Two varieties are common in Singapore: Chinese bitter gourd (lighter green, ridged, larger, less bitter) and Indian bitter gourd (darker green, spikier, smaller, more bitter). The bitter flavour comes from momordicin alkaloids and can be reduced by soaking in salt water, blanching, or using the milder Chinese variety.",
+    "common_user_queries": [
+      "bitter gourd calories",
+      "bitter gourd for diabetes",
+      "karela health benefits",
+      "ku gua nutrition",
+      "bitter gourd vitamin C",
+      "bitter gourd blood sugar",
+      "how to reduce bitterness of bitter gourd"
+    ],
+    "meal_context": [
+      "ku gua chao dan",
+      "bitter gourd stir-fry",
+      "karela sabzi",
+      "bitter gourd juice",
+      "stuffed bitter gourd"
+    ],
+    "ingredient_synonyms": {
+      "bitter gourd": [
+        "bitter melon",
+        "ku gua",
+        "karela",
+        "peria katak",
+        "Momordica charantia"
+      ],
+      "bitter melon juice": [
+        "karela juice",
+        "ku gua juice"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14040021).",
+  "notes": "Values per 100g raw bitter gourd flesh (pith and seeds removed). The clinical evidence for bitter gourd's hypoglycaemic effect is real but modest and variable across study populations — effect size is generally 10–20% reduction in postprandial blood glucose, not equivalent to medication. The vitamin C content is remarkably high for a vegetable (84mg/100g, exceeding bell pepper and approaching citrus fruits)."
+}

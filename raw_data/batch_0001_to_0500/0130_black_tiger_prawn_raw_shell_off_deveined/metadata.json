@@ -1,0 +1,152 @@
+{
+  "food_name": "Black Tiger Prawn (raw, shell-off, deveined)",
+  "local_names": {
+    "malay": "Udang Harimau Hitam (mentah, kupas)",
+    "chinese_simplified": "草虾 / 黑虎虾（生，去壳）",
+    "chinese_traditional": "草蝦 / 黑虎蝦（生，去殼）",
+    "tamil": "இறால் (கறுப்பு புலி, பச்சை, சிறகு நீக்கியது)"
+  },
+  "aliases": [
+    "black tiger prawn",
+    "tiger prawn",
+    "udang harimau",
+    "Penaeus monodon",
+    "jumbo prawn raw",
+    "giant tiger prawn"
+  ],
+  "cuisine": "Singapore / SEA",
+  "region_of_origin": "Indo-Pacific region / Singapore aquaculture",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Black tiger prawn (Penaeus monodon), raw, shell-off, deveined",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03309365",
+    "foodon_label": "Shrimp",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general shrimp concept. No specific Penaeus monodon entry. Closest parent used.",
+    "foodex2_code": "A05KA",
+    "foodex2_description": "Prawns (Penaeus monodon — black tiger), raw, shell-off",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (shell removed, deveined, head removed)",
+    "main_ingredients": [
+      "black tiger prawn (Penaeus monodon) flesh, raw"
+    ],
+    "allergens": [
+      "crustaceans / shellfish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "6–8 medium prawns = approximately 100g raw peeled",
+    "size_g": 100,
+    "natural_language_portion": "6–8 medium black tiger prawns, shell-off and deveined, weigh approximately 100g — a standard serving for prawn noodles or stir-fried prawns."
+  },
+  "nutrient_source": {
+    "title": "Black Tiger Prawn (raw, shell-off) — HPB Singapore Foodo Database, Food Code F03050005; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03050005 — Black Tiger Prawn, raw, shell-off, deveined."
+  },
+  "per_100g": {
+    "energy_kcal": 82.0,
+    "protein_g": 17.8,
+    "fat_g": 0.9,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.9,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 119.0,
+    "potassium_mg": 259.0,
+    "calcium_mg": 60.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 152.0,
+    "vitamin_c_mg": 2.7,
+    "vitamin_a_mcg_rae": 54.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.03,
+    "vitamin_b3_niacin_mg": 2.8,
+    "vitamin_b6_mg": 0.2,
+    "vitamin_b12_mcg": 1.2,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 2.0,
+    "phosphorus_mg": 205.0,
+    "magnesium_mg": 37.0,
+    "zinc_mg": 1.1,
+    "selenium_mcg": 38.0,
+    "water_g": 78.6
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — prawns contain negligible carbohydrate (0.9g/100g).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Raw prawns are relatively low in sodium (119mg/100g shell-off). The cholesterol content (152mg/100g) was historically a concern but dietary cholesterol from shellfish has minimal effect on blood cholesterol for most people. The main hypertension concern is the preparation — sambal prawns, har cheong gai (prawn paste chicken), and prawn paste preparations add very high sodium.",
+      "guidance": "Plain raw prawns are acceptable for patients with hypertension. Avoid prawn paste (hae ko), sambal, and heavily salted preparations. Steamed or poached prawns with minimal sauce are the best preparation for hypertensive patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low calorie (82 kcal/100g), very lean protein (17.8g/100g), minimal carbohydrate (0.9g/100g). Excellent for body weight management critical in type 2 diabetes. High selenium (38.0mcg/100g).",
+      "guidance": "Prawns are an excellent low-calorie, low-carbohydrate protein for patients with type 2 diabetes. Very high protein-to-calorie ratio promotes satiety. Avoid deep-fried prawn preparations (har gao, prawn fritters) which add significant refined carbohydrate and fat."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "High selenium (38.0mcg/100g) and vitamin E (2.0mg/100g) support antioxidant defences. Contains omega-3 fatty acids (predominantly as phospholipids). High vitamin A (54mcg RAE/100g).",
+      "guidance": "Prawns are acceptable for patients with rheumatoid arthritis at moderate intake levels. They contribute to a varied seafood rotation alongside oily fish. The antioxidant selenium content is particularly valuable."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Black tiger prawns (udang harimau, Penaeus monodon) are the largest and most commonly sold prawn variety in Singapore wet markets. Identifiable by their dark striped body (brown-black banding). Shell-off, deveined prawns are available fresh or frozen at Singapore supermarkets. Very lean protein (17.8g/100g) with minimal fat (0.9g/100g). Higher cholesterol than fin fish (152mg/100g) but dietary cholesterol from seafood has limited effect on blood cholesterol. High selenium (38mcg/100g) and moderate vitamin A (54mcg RAE/100g). Used in Singapore prawn noodles (Hokkien hae mee), sambal prawns, Singapore chilli prawns, pad thai, and various stir-fries. The shells and heads (when sautéed) make intensely flavourful prawn stock.",
+    "common_user_queries": [
+      "prawn calories raw",
+      "tiger prawn protein",
+      "prawn cholesterol content",
+      "are prawns healthy",
+      "prawn vs chicken protein",
+      "udang harimau nutrition",
+      "prawn selenium"
+    ],
+    "meal_context": [
+      "prawn noodles",
+      "sambal prawns",
+      "chilli prawns",
+      "pad thai",
+      "stir-fried prawns",
+      "prawn laksa"
+    ],
+    "ingredient_synonyms": {
+      "black tiger prawn": [
+        "tiger prawn",
+        "udang harimau",
+        "Penaeus monodon",
+        "jumbo prawn"
+      ],
+      "prawn": [
+        "shrimp (smaller size)",
+        "udang"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03050005).",
+  "notes": "Values per 100g raw shell-off deveined black tiger prawn flesh. Crustaceans are a major allergen in Singapore. Not kosher (shellfish are not kosher). The high cholesterol (152mg/100g) is now considered less clinically significant than once thought — dietary cholesterol from seafood has minimal impact on blood LDL for most individuals. Deveining removes the digestive tract (black line) — this does not significantly affect nutritional values."
+}

@@ -1,0 +1,151 @@
+{
+  "food_name": "Coconut Oil (virgin, unrefined, cold-pressed)",
+  "local_names": {
+    "malay": "Minyak Kelapa Dara (tidak ditapis)",
+    "tamil": "தேங்காய் எண்ணெய் (கன்னி, பதப்படுத்தப்படாத)",
+    "sinhala": "pol tel",
+    "chinese_simplified": "椰子油（初榨，未精制）"
+  },
+  "aliases": [
+    "coconut oil",
+    "virgin coconut oil",
+    "VCO",
+    "cold-pressed coconut oil",
+    "unrefined coconut oil",
+    "minyak kelapa"
+  ],
+  "cuisine": "SEA / South Indian / Sri Lankan",
+  "region_of_origin": "Southeast Asia / Indian Ocean islands",
+  "food_group": "Fats and dairy",
+  "food_subgroup": "Plant-based cooking oil — tropical saturated fat",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302791",
+    "foodon_label": "Coconut oil",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "EC000024",
+    "foodex2_description": "Coconut oil, virgin, unrefined (cold-pressed)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "processed"
+    ],
+    "processing_level": "minimally processed (cold-pressed from fresh coconut flesh without chemical refining)",
+    "main_ingredients": [
+      "fresh coconut flesh (Cocos nucifera), cold-pressed"
+    ],
+    "allergens": [
+      "tree nuts (coconut is classified as a tree nut allergen in some jurisdictions)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 tablespoon = 14g",
+    "size_g": 14,
+    "natural_language_portion": "The typical cooking use is 1 tablespoon (14g) for sautéing, seasoning appam, or as a South Indian cooking fat. A typical curry using coconut oil uses 2–3 tablespoons (28–42g)."
+  },
+  "nutrient_source": {
+    "title": "Coconut Oil (virgin, unrefined) — USDA SR Legacy; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "USDA Agricultural Research Service — FoodData Central SR Legacy; Institute for Medical Research (IMR) Malaysia — MyFCD",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "USDA SR Legacy coconut oil (FDC ID 171412). Cross-referenced with IMR Malaysia MyFCD. HPB Foodo does not have a specific virgin coconut oil entry. The nutritional difference between virgin and refined coconut oil is primarily the polyphenol content — the macronutrient (fat) profile is essentially identical."
+  },
+  "per_100g": {
+    "energy_kcal": 892.0,
+    "protein_g": 0.0,
+    "fat_g": 100.0,
+    "saturated_fat_g": 82.5,
+    "monounsaturated_fat_g": 6.3,
+    "polyunsaturated_fat_g": 1.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 0.0,
+    "potassium_mg": 0.0,
+    "calcium_mg": 0.0,
+    "iron_mg": 0.0,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.0,
+    "vitamin_b2_riboflavin_mg": 0.0,
+    "vitamin_b3_niacin_mg": 0.0,
+    "vitamin_b6_mg": 0.0,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 0.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 0.0,
+    "magnesium_mg": 0.0,
+    "zinc_mg": 0.0,
+    "selenium_mcg": 0.0,
+    "water_g": 0.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — coconut oil is pure fat with zero carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Coconut oil has the highest saturated fat content of any cooking oil at 82.5g/100g — predominantly medium-chain triglycerides (MCT) especially lauric acid (C12:0, ~47% of fatty acids). While lauric acid raises both LDL and HDL cholesterol (unlike long-chain saturated fats which mainly raise LDL), the overall effect on cardiovascular risk remains adverse according to all major clinical nutrition guidelines (WHO, AHA, HPB Singapore). The 'coconut oil is heart-healthy' claim is not supported by large clinical outcome studies.",
+      "guidance": "Patients with hypertension and dyslipidaemia should significantly limit coconut oil. Maximum use is occasional small amounts (1 teaspoon) in traditional preparations where coconut flavour is essential (appam, some South Indian dishes). Replace with olive oil, canola, or mustard oil for everyday cooking. The HPB Singapore, American Heart Association, and WHO all advise limiting coconut oil due to its high saturated fat content."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "The MCT (medium-chain triglycerides) in coconut oil are metabolised differently from long-chain fats — absorbed directly into portal circulation without chylomicron packaging, used rapidly for energy. This property has been proposed as a weight management and brain fuel benefit. However, MCT supplementation has not consistently improved insulin sensitivity, and the high caloric density (892 kcal/100g) contributes to weight gain.",
+      "guidance": "Patients with type 2 diabetes should use coconut oil very sparingly. Replace with heart-healthy oils for regular cooking. The MCT benefit for diabetes management does not outweigh the cardiovascular concerns from high saturated fat intake at culinary doses."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Very high saturated fat promotes pro-inflammatory signalling. Virgin coconut oil (vs refined) contains polyphenols (ferlic acid, p-coumaric acid) with antioxidant properties. The anti-inflammatory effect of these polyphenols at culinary doses is small compared to the pro-inflammatory effect of the very high saturated fat.",
+      "guidance": "Patients with rheumatoid arthritis should limit coconut oil. Prefer omega-3-rich oils (flaxseed, walnut) or balanced oils (canola, olive) for anti-inflammatory dietary patterns. Virgin coconut oil polyphenols provide minimal clinical benefit at standard cooking doses."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Virgin coconut oil (VCO) is cold-pressed oil from fresh coconut flesh without chemical refining, bleaching, or deodorising. With 82.5g saturated fat per 100g, it has the highest saturated fat content of any cooking oil — substantially higher than butter (51g) or palm oil (49g). The saturated fat is predominantly medium-chain triglycerides: lauric acid (C12:0, ~47%), myristic acid (C14:0, ~18%), and caprylic/capric acids (C8:0-C10:0, ~10%). MCTs are absorbed directly into portal blood without lymphatic transport — the basis of claims about weight management and ketogenic diet compatibility. However, all major cardiovascular guidelines recommend limiting coconut oil. Widely used in South Indian cuisine (Kerala), Sri Lankan cooking, and traditional SEA cooking. Has a mild coconut flavour and solid/semi-solid texture at room temperature (<25°C).",
+    "common_user_queries": [
+      "coconut oil calories per tablespoon",
+      "is coconut oil healthy",
+      "coconut oil saturated fat",
+      "virgin coconut oil vs butter",
+      "coconut oil for cooking",
+      "MCT oil vs coconut oil",
+      "coconut oil heart disease risk"
+    ],
+    "meal_context": [
+      "appam",
+      "South Indian cooking",
+      "Sri Lankan curries",
+      "traditional SEA preparations",
+      "ketogenic diet"
+    ],
+    "ingredient_synonyms": {
+      "coconut oil": [
+        "VCO",
+        "virgin coconut oil",
+        "minyak kelapa",
+        "coconut fat"
+      ],
+      "refined coconut oil": [
+        "RBD coconut oil",
+        "deodorised coconut oil — less polyphenols, same fat profile"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "USDA SR Legacy exact match for coconut oil, cross-referenced with IMR Malaysia MyFCD.",
+  "notes": "Values per 100g virgin coconut oil. Solid at room temperature below ~25°C (melting point of lauric acid). Zero cholesterol (plant-based). The MCT content makes it uniquely metabolised compared to long-chain saturated fat oils, but this does not alter the consensus clinical recommendation to limit use. Distinct from coconut milk — coconut oil is the anhydrous fat only; coconut milk also contains water and trace protein."
+}

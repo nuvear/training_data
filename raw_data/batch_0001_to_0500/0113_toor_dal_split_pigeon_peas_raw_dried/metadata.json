@@ -1,0 +1,152 @@
+{
+  "food_name": "Toor Dal / Split Pigeon Peas (raw, dried)",
+  "local_names": {
+    "hindi": "तूर दाल / अरहर दाल (कच्ची, सूखी)",
+    "tamil": "துவரம் பருப்பு (பச்சை, உலர்)",
+    "kannada": "ತೊಗರಿ ಬೇಳೆ",
+    "malay": "Dal Kacang Dal (kering)"
+  },
+  "aliases": [
+    "toor dal",
+    "arhar dal",
+    "split pigeon peas",
+    "yellow pigeon peas",
+    "tuvar dal",
+    "thuvaram paruppu",
+    "togari bele"
+  ],
+  "cuisine": "Indian (South and West)",
+  "region_of_origin": "India",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Split pigeon peas (Cajanus cajan), dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316089",
+    "foodon_label": "Pigeon pea",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general pigeon pea concept but no specific entry for split toor dal. Closest parent used.",
+    "foodex2_code": "A037M",
+    "foodex2_description": "Pigeon peas (Cajanus cajan), split (toor/arhar dal), dried raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "minimally processed (dried, split)",
+    "main_ingredients": [
+      "pigeon peas (Cajanus cajan), split, partially dehusked"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry toor dal (approximately ¼ cup) yields approximately 120g cooked dal — a standard component of a South Indian thali (sambar base) or dal curry serving."
+  },
+  "nutrient_source": {
+    "title": "Toor Dal / Split Pigeon Peas — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with USDA SR Legacy",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); USDA Agricultural Research Service",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Arhar/Toor Dal, split. Cross-referenced with USDA SR Legacy pigeon peas raw (FDC ID 175200)."
+  },
+  "per_100g": {
+    "energy_kcal": 335.0,
+    "protein_g": 22.3,
+    "fat_g": 1.7,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 57.6,
+    "sugar_g": 5.8,
+    "dietary_fibre_g": 15.0,
+    "sodium_mg": 17.0,
+    "potassium_mg": 1392.0,
+    "calcium_mg": 73.0,
+    "iron_mg": 5.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.64,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 2.9,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 456.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 367.0,
+    "magnesium_mg": 183.0,
+    "zinc_mg": 2.8,
+    "selenium_mcg": 8.2,
+    "water_g": 10.6
+  },
+  "glycemic_index": 32,
+  "glycemic_load_per_serving": 9.2,
+  "gi_source": "University of Sydney GI Database — GI of boiled toor/pigeon peas (approximately 32). Dry toor dal GI not applicable. Very low GI characteristic of legumes, due to resistant starch, high protein, and dietary fibre content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Extremely high in potassium (1392mg/100g dry) — the highest of the common South Indian dals. Very high magnesium (183mg) and very low sodium (17mg). This exceptional mineral profile directly supports blood pressure regulation.",
+      "guidance": "Toor dal (sambar base) is a clinically excellent food for patients with hypertension. Sambar made with toor dal, tomato, and vegetables provides a high-potassium, low-sodium meal component. Limit added salt during preparation."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low GI (~32) when boiled. High dietary fibre (15g/100g dry) and protein (22.3g). South Indian sambar, the primary preparation of toor dal, is a clinically beneficial dish for diabetic patients when served with brown rice or ragi idli.",
+      "guidance": "Toor dal is strongly recommended as a daily protein source for patients with type 2 diabetes. The combination of toor dal sambar with par-boiled rice is a significantly better glycaemic combination than white rice alone. Tamarind in sambar may also have modest glycaemic benefits."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "High folate (456mcg DFE/100g dry), potassium, and magnesium. Anti-inflammatory plant proteins. Toor dal is a traditional South Indian health food.",
+      "guidance": "Toor dal is recommended for patients with rheumatoid arthritis as a daily vegetarian protein. The traditional South Indian use of anti-inflammatory spices in sambar (turmeric, cumin, coriander, asafoetida) enhances the anti-inflammatory value of toor dal dishes."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Toor dal (arhar dal) is split pigeon peas (Cajanus cajan) — the most widely consumed dal in South and Western India and the foundational ingredient for sambar. Pale yellow, slightly larger than moong dal. Requires longer cooking than moong dal — pressure cooking for 15–20 minutes is standard. Has a slightly earthy, robust flavour that holds up to the tamarind, tomato, and spice-heavy sambar preparation. Extremely high in potassium (1392mg/100g dry), making it exceptional for blood pressure management. Very high in folate (456mcg DFE) and magnesium (183mg). GI is very low (~32) when cooked. Nutritionally comparable to masoor and moong dal but with a distinct flavour profile preferred in Karnataka, Tamil Nadu, Maharashtra, and Gujarat cuisines.",
+    "common_user_queries": [
+      "toor dal calories raw",
+      "arhar dal protein content",
+      "toor dal GI",
+      "sambar dal nutrition",
+      "toor dal potassium",
+      "toor dal vs masoor dal",
+      "split pigeon peas nutrition"
+    ],
+    "meal_context": [
+      "sambar",
+      "dal curry",
+      "Gujarati dal",
+      "dal fry",
+      "khichdi"
+    ],
+    "ingredient_synonyms": {
+      "toor dal": [
+        "arhar dal",
+        "split pigeon peas",
+        "tuvar dal",
+        "thuvaram paruppu",
+        "togari bele"
+      ],
+      "whole pigeon peas": [
+        "gandules",
+        "whole toor"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Arhar/Toor Dal, split.",
+  "notes": "Values per 100g dry split toor dal. Soak for 30–60 minutes before cooking or pressure cook without soaking. The oily variety of toor dal (tel wali arhar) is coated with castor oil for preservation and should be washed thoroughly before use — nutritional values are for unwashed dry grain without coating."
+}

@@ -1,0 +1,149 @@
+{
+  "food_name": "Broccoli (raw)",
+  "local_names": {
+    "malay": "Brokoli (mentah)",
+    "chinese_simplified": "西兰花（生）",
+    "chinese_traditional": "西蘭花（生）",
+    "tamil": "ப்ரோக்கோலி (பச்சை)",
+    "japanese": "ブロッコリー (生)"
+  },
+  "aliases": [
+    "broccoli raw",
+    "brokoli",
+    "Brassica oleracea var. italica",
+    "xi lan hua",
+    "calabrese"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Mediterranean Italy (widely cultivated globally)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Brassica (cruciferous) vegetables, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310039",
+    "foodon_label": "Broccoli",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14DB",
+    "foodex2_description": "Broccoli (Brassica oleracea var. italica), raw, florets and stem",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226729009",
+    "snomed_ct_description": "Broccoli (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw florets and tender stem)",
+    "main_ingredients": [
+      "broccoli (Brassica oleracea var. italica), raw florets and tender stems"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup florets = approximately 90g",
+    "size_g": 90,
+    "natural_language_portion": "1 cup of raw broccoli florets weighs approximately 90g. A typical stir-fry portion uses approximately 150–200g raw broccoli."
+  },
+  "nutrient_source": {
+    "title": "Broccoli (raw) — HPB Singapore Foodo Database, Food Code F14040036; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14040036 — Broccoli, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 34.0,
+    "protein_g": 2.8,
+    "fat_g": 0.4,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 6.6,
+    "sugar_g": 1.7,
+    "dietary_fibre_g": 2.6,
+    "sodium_mg": 33.0,
+    "potassium_mg": 316.0,
+    "calcium_mg": 47.0,
+    "iron_mg": 0.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 89.2,
+    "vitamin_a_mcg_rae": 31.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 63.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 66.0,
+    "magnesium_mg": 21.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 2.5,
+    "water_g": 89.3
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — broccoli has very low digestible starch and minimal glycaemic impact.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "High vitamin C (89.2mg/100g — exceeds adult daily requirement in a 100g serving), potassium (316mg/100g), and folate (63mcg DFE/100g). Very low sodium (33mg/100g). Broccoli's sulforaphane has demonstrated blood pressure-lowering effects in clinical studies through reducing endothelin-1.",
+      "guidance": "Broccoli is strongly recommended for patients with hypertension. Regular consumption of cruciferous vegetables is associated with reduced cardiovascular risk. Lightly steam rather than boil to preserve vitamin C and glucosinolates."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Low calorie (34 kcal/100g), high fibre (2.6g/100g), negligible digestible starch. Sulforaphane has been shown in research to improve insulin sensitivity through Nrf2 pathway activation. Chromium in broccoli supports insulin signalling.",
+      "guidance": "Broccoli is an excellent vegetable for patients with type 2 diabetes. Daily consumption of broccoli is one of the most evidence-backed dietary recommendations for metabolic health. Prefer steaming over boiling which preserves more of the bioactive glucosinolates."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "The sulforaphane in broccoli is a potent inhibitor of NF-κB and MAPK inflammatory signalling pathways in chondrocytes and synoviocytes. Clinical research specifically on sulforaphane and rheumatoid arthritis is promising. Very high vitamin C (89.2mg/100g) for collagen synthesis and antioxidant activity.",
+      "guidance": "Broccoli is one of the most specifically recommended vegetables for patients with rheumatoid arthritis. Sulforaphane's direct anti-inflammatory mechanism in joint tissue is clinically relevant. Aim for 100–200g broccoli 3–4 times per week. Lightly steamed is the optimal preparation for sulforaphane availability."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Broccoli (Brassica oleracea var. italica) is a cruciferous vegetable with dark green flowering heads (florets) and thick edible stems. Nutritionally outstanding: 89.2mg vitamin C per 100g raw (more than an orange), 63mcg DFE folate, 316mg potassium, 2.8g protein, and 2.6g dietary fibre. The bioactive compound sulforaphane (formed from glucoraphanin + myrosinase enzyme activation when cell walls are broken) is one of the most studied dietary anti-inflammatory and anti-cancer compounds. Sulforaphane is optimally produced by chewing raw broccoli or lightly steaming (not boiling or microwaving for extended periods). Used in Singapore in oyster sauce broccoli stir-fry, broccoli soup, salads, and as a side vegetable in Western-style plates.",
+    "common_user_queries": [
+      "broccoli calories raw",
+      "broccoli vitamin C per 100g",
+      "broccoli sulforaphane",
+      "is broccoli anti-inflammatory",
+      "broccoli for diabetes",
+      "broccoli folate content",
+      "raw vs steamed broccoli nutrition"
+    ],
+    "meal_context": [
+      "stir-fry with oyster sauce",
+      "broccoli soup",
+      "salads",
+      "roasted broccoli",
+      "steamed vegetable plate"
+    ],
+    "ingredient_synonyms": {
+      "broccoli": [
+        "brokoli",
+        "xi lan hua",
+        "Brassica italica",
+        "calabrese"
+      ],
+      "cruciferous vegetables": [
+        "brassica",
+        "cabbage family"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14040036).",
+  "notes": "Values per 100g raw broccoli florets and tender stem. Sulforaphane content is maximised by chewing raw broccoli or steaming lightly (3–5 minutes) — myrosinase enzyme is destroyed by boiling and extended microwaving, reducing sulforaphane production. Vitamin C is highly heat-sensitive — raw broccoli has 89.2mg/100g vs approximately 50–65mg/100g lightly steamed."
+}

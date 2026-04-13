@@ -1,0 +1,151 @@
+{
+  "food_name": "Salmon Fillet (raw, Atlantic, farmed)",
+  "local_names": {
+    "chinese_simplified": "三文鱼片（生，大西洋，养殖）",
+    "chinese_traditional": "三文魚片（生，大西洋，養殖）",
+    "malay": "Ikan Salmon (mentah, fillet)",
+    "japanese": "サーモン (生)"
+  },
+  "aliases": [
+    "salmon raw",
+    "Atlantic salmon",
+    "Norwegian salmon",
+    "sashimi salmon",
+    "salmon fillet",
+    "sammon"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Atlantic Ocean / Norway / Chile (farmed)",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Salmon fillet, Atlantic, farmed, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302745",
+    "foodon_label": "Atlantic salmon",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A05AA",
+    "foodex2_description": "Salmon, Atlantic (Salmo salar), farmed, raw fillet",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh fish fillet)",
+    "main_ingredients": [
+      "Atlantic salmon (Salmo salar), farmed, skinless fillet"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 fillet portion = approximately 150g raw",
+    "size_g": 150,
+    "natural_language_portion": "A standard salmon fillet portion in Singapore restaurants and supermarkets is approximately 150g raw, yielding approximately 110–120g cooked."
+  },
+  "nutrient_source": {
+    "title": "Salmon Fillet (raw, Atlantic farmed) — HPB Singapore Foodo Database, Food Code F03010002; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03010002 — Salmon, Atlantic, farmed, raw fillet."
+  },
+  "per_100g": {
+    "energy_kcal": 206.0,
+    "protein_g": 20.4,
+    "fat_g": 13.4,
+    "saturated_fat_g": 3.1,
+    "monounsaturated_fat_g": 4.9,
+    "polyunsaturated_fat_g": 4.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 59.0,
+    "potassium_mg": 490.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.3,
+    "cholesterol_mg": 63.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.23,
+    "vitamin_b2_riboflavin_mg": 0.47,
+    "vitamin_b3_niacin_mg": 7.9,
+    "vitamin_b6_mg": 0.8,
+    "vitamin_b12_mcg": 4.0,
+    "folate_mcg_dfe": 26.0,
+    "vitamin_d_mcg": 11.1,
+    "vitamin_e_mg": 3.6,
+    "phosphorus_mg": 252.0,
+    "magnesium_mg": 29.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 41.4,
+    "water_g": 64.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — salmon contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Salmon is the richest food source of long-chain omega-3 fatty acids EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid). These fatty acids reduce triglycerides, modestly lower blood pressure, and reduce platelet aggregation — all cardiovascular benefits. Very high in potassium (490mg/100g).",
+      "guidance": "Salmon is strongly recommended for patients with hypertension as part of a heart-healthy diet. Two 150g servings per week of oily fish (salmon, mackerel, tuna) is the clinically endorsed target from HPB Singapore and all major cardiovascular guidelines. Low sodium (59mg/100g raw) — avoid high-sodium salmon preparations (smoked salmon, salt-cured salmon) which can reverse the cardiovascular benefit."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Zero carbohydrate. Omega-3 fatty acids (EPA + DHA) may improve insulin sensitivity. Very high protein (20.4g/100g) and healthy fats promote satiety. Excellent selenium (41.4mcg/100g) which supports antioxidant defences.",
+      "guidance": "Salmon is highly recommended for patients with type 2 diabetes. Replacing one weekly red meat meal with salmon provides substantial omega-3 benefit. The vitamin B12 (4.0mcg/100g) and vitamin D (11.1mcg/100g) content addresses common micronutrient deficiencies in type 2 diabetes."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Atlantic farmed salmon has approximately 2.2–2.5g EPA+DHA per 150g serving — the highest omega-3 dose of any commonly consumed fish. EPA and DHA are clinically validated anti-inflammatory fatty acids that reduce joint inflammation and morning stiffness in rheumatoid arthritis patients. High vitamin D (11.1mcg/100g) and selenium (41.4mcg/100g).",
+      "guidance": "Salmon is the highest-priority fish for patients with rheumatoid arthritis. At least 2 servings per week (150g each) is the clinical minimum for anti-inflammatory omega-3 benefit. Patients who cannot consume sufficient oily fish should consider omega-3 fish oil supplementation (EPA+DHA 1–3g/day). Prefer grilled, steamed, or poached salmon over smoked preparations."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Atlantic farmed salmon (Salmo salar) is the most widely consumed oily fish in Singapore, sold fresh at supermarkets and wet markets, as sashimi at Japanese restaurants, and as poke bowl protein. The pink-orange flesh colour comes from carotenoid pigments (astaxanthin). Farmed salmon has a higher fat content (13.4g/100g) than wild Atlantic salmon (~8g/100g), providing more absolute omega-3 fatty acids per serving despite a slightly lower omega-3 percentage. Exceptional nutrient profile: 20.4g protein, 11.1mcg vitamin D (one of the richest food sources), 4.0mcg vitamin B12, 41.4mcg selenium, and 3.6mg vitamin E per 100g raw. The omega-3 EPA+DHA content (~2.2g per 150g serving) meets the therapeutic anti-inflammatory dose recommended by major health organisations.",
+    "common_user_queries": [
+      "salmon calories raw",
+      "salmon omega-3 content",
+      "salmon protein per 100g",
+      "salmon vitamin D",
+      "wild vs farmed salmon nutrition",
+      "how often to eat salmon",
+      "salmon for arthritis"
+    ],
+    "meal_context": [
+      "grilled salmon",
+      "salmon sashimi",
+      "poke bowl",
+      "salmon rice",
+      "miso salmon",
+      "salmon sushi"
+    ],
+    "ingredient_synonyms": {
+      "Atlantic salmon": [
+        "Norwegian salmon",
+        "farmed salmon",
+        "Salmo salar"
+      ],
+      "salmon fillet": [
+        "salmon steak",
+        "salmon portion"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03010002).",
+  "notes": "Values per 100g raw Atlantic farmed salmon fillet (skinless). Farmed salmon has slightly higher fat and omega-3 content than wild-caught due to controlled diet. The total polyunsaturated fat (4.2g/100g) includes approximately 1.5g EPA and 1.0g DHA per 100g — approximately 2.2–2.5g EPA+DHA per 150g serving. The vitamin D content (11.1mcg/100g) makes salmon one of the best dietary vitamin D sources available."
+}

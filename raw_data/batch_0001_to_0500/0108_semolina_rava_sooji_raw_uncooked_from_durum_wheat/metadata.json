@@ -1,0 +1,156 @@
+{
+  "food_name": "Semolina / Rava / Sooji (raw, uncooked, from durum wheat)",
+  "local_names": {
+    "hindi": "सूजी / रवा",
+    "urdu": "سوجی",
+    "tamil": "ரவை / சோஜி",
+    "malay": "Semolina / Rava"
+  },
+  "aliases": [
+    "semolina",
+    "rava",
+    "sooji",
+    "suji",
+    "durum wheat semolina",
+    "cream of wheat",
+    "farina",
+    "coarse wheat flour"
+  ],
+  "cuisine": "Indian / Mediterranean",
+  "region_of_origin": "India (South and North Indian cooking) / Mediterranean",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Coarsely milled durum wheat endosperm (semolina), dry raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03307184",
+    "foodon_label": "Wheat semolina",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00BC",
+    "foodex2_description": "Semolina (durum wheat, coarsely milled endosperm, raw)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "processed (durum wheat milled to coarse endosperm particles, bran and germ largely removed)",
+    "main_ingredients": [
+      "durum wheat (Triticum durum), coarsely milled endosperm"
+    ],
+    "allergens": [
+      "gluten (wheat)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry semolina is approximately 1 standard serving portion — enough for one serving of upma (absorbs 2–3x weight in water when cooked) or for rava dosa batter for one to two dosas."
+  },
+  "nutrient_source": {
+    "title": "Semolina / Rava — HPB Singapore Foodo Database, Food Code F05080017; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05080017 — Semolina / Rava, raw dry. Cross-referenced with ICMR-NIN semolina values."
+  },
+  "per_100g": {
+    "energy_kcal": 360.0,
+    "protein_g": 12.7,
+    "fat_g": 1.1,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 72.8,
+    "sugar_g": 0.4,
+    "dietary_fibre_g": 3.9,
+    "sodium_mg": 1.0,
+    "potassium_mg": 186.0,
+    "calcium_mg": 17.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.28,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 3.3,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 72.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 136.0,
+    "magnesium_mg": 47.0,
+    "zinc_mg": 1.1,
+    "selenium_mcg": 47.3,
+    "water_g": 12.7
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 23.6,
+  "gi_source": "University of Sydney GI Database — GI of cooked semolina porridge and upma (approximately 65). Dry semolina GI is not applicable. Semolina has a moderate GI (~65) because durum wheat starch gelatinises at a slower rate than soft wheat starch due to larger particle size and protein matrix.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Semolina is virtually sodium-free (1mg/100g) and does not contribute to blood pressure. It provides potassium (186mg/100g) and magnesium (47mg/100g) which are mildly beneficial for vascular function.",
+      "guidance": "Plain semolina preparations (upma, rava dosa) have low sodium. The clinical concern is with added salt during cooking — standard upma recipes add 1–2g sodium per serving from salt, mustard seeds in oil, and added vegetables."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Cooked semolina-based dishes (upma, rava dosa) have a moderate GI (~65). Higher than wholegrain alternatives but lower than refined white rice or white bread. The protein matrix of durum wheat moderates the glycaemic response compared to maida.",
+      "guidance": "Semolina upma is an acceptable breakfast option for patients with type 2 diabetes at moderate portions (100–150g cooked). Adding vegetables and using minimal oil further reduces the effective glycaemic impact. Rava dosa is less favourable than vegetable upma due to higher oil content."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Semolina provides selenium (47.3mcg/100g) and modest magnesium. Contains gluten.",
+      "guidance": "Acceptable for most patients with rheumatoid arthritis. Contains gluten — avoid if concurrent coeliac disease or non-coeliac gluten sensitivity is present. Wholegrain atta is a superior anti-inflammatory grain choice."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Semolina (rava/sooji) is the coarsely milled endosperm of durum wheat. Pale cream-yellow in colour with a slightly coarse, sandy texture. In Indian cooking, it is the primary ingredient for upma (savoury semolina porridge), rava dosa (thin crispy crepes), rava idli, and kesari/halwa (sweet semolina pudding). In Mediterranean cooking, it is the base for pasta, couscous, and Arabic sweets. Dry-roasting rava in a pan before adding water is standard in South Indian cooking — it deepens the flavour and prevents clumping. Nutritionally, semolina has 12.7g protein, 3.9g fibre, and a moderate GI (~65) when cooked, making it a better white starch choice than plain white rice but inferior to whole grains.",
+    "common_user_queries": [
+      "semolina calories per 100g raw",
+      "rava nutrition",
+      "sooji vs rice",
+      "semolina GI for diabetes",
+      "rava dosa healthy",
+      "semolina protein content",
+      "is semolina gluten free"
+    ],
+    "meal_context": [
+      "upma",
+      "rava dosa",
+      "rava idli",
+      "kesari",
+      "halwa",
+      "pasta",
+      "couscous"
+    ],
+    "ingredient_synonyms": {
+      "semolina": [
+        "rava",
+        "sooji",
+        "suji",
+        "durum wheat semolina"
+      ],
+      "cream of wheat": [
+        "farina",
+        "fine semolina"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Foodo (F05080017), cross-referenced with ICMR-NIN semolina data.",
+  "notes": "Values per 100g dry semolina. Contains gluten — not safe for coeliac disease. Distinct from fine semolina (pasta semolina) and from coarse semolina used in some Mediterranean recipes. Indian rava/sooji is typically medium-coarse to coarse. Fine rava and coarse rava have slightly different textures but nearly identical nutritional profiles."
+}

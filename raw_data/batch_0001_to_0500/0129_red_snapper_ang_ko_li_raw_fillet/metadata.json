@@ -1,0 +1,150 @@
+{
+  "food_name": "Red Snapper / Ang Ko Li (raw fillet)",
+  "local_names": {
+    "hokkien": "Ang Ko Li",
+    "malay": "Ikan Merah (mentah, fillet)",
+    "chinese_simplified": "红鱼片（生）",
+    "tamil": "சிவப்பு கணவாய் / செம்மீன் (பச்சை)"
+  },
+  "aliases": [
+    "red snapper",
+    "ang ko li",
+    "red fish",
+    "ikan merah",
+    "snapper fillet",
+    "Lutjanus campechanus"
+  ],
+  "cuisine": "Singapore / SEA",
+  "region_of_origin": "Indo-Pacific / Singapore waters",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Red snapper (Lutjanus spp.), raw fillet, skinless, boneless",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific entry for red snapper (Lutjanus spp.) as an SEA market species. A new FoodOn concept is recommended.",
+    "foodex2_code": "A05CB",
+    "foodex2_description": "Red snapper (Lutjanus spp.), raw fillet",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh fish fillet)",
+    "main_ingredients": [
+      "red snapper (Lutjanus campechanus or Lutjanus argentimaculatus), raw fillet"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 fillet = approximately 150–180g raw",
+    "size_g": 165,
+    "natural_language_portion": "A typical whole red snapper fillet in Singapore restaurants (steamed fish, fish head curry) weighs approximately 150–180g raw per serving."
+  },
+  "nutrient_source": {
+    "title": "Red Snapper — HPB Singapore Foodo Database, Food Code F03010013",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03010013 — Red Snapper, raw fillet."
+  },
+  "per_100g": {
+    "energy_kcal": 100.0,
+    "protein_g": 20.5,
+    "fat_g": 1.3,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 64.0,
+    "potassium_mg": 444.0,
+    "calcium_mg": 32.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 37.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 30.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.01,
+    "vitamin_b3_niacin_mg": 3.0,
+    "vitamin_b6_mg": 0.4,
+    "vitamin_b12_mcg": 3.8,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.7,
+    "phosphorus_mg": 171.0,
+    "magnesium_mg": 31.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 38.2,
+    "water_g": 76.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — red snapper contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very lean white fish (1.3g fat/100g). Very low sodium (64mg/100g raw) and very high potassium (444mg/100g). Excellent lean protein for cardiovascular health.",
+      "guidance": "Red snapper is an excellent protein choice for patients with hypertension. Steamed red snapper with ginger and spring onion (Cantonese style) adds minimal sodium from the light soy drizzle. Fish head curry preparations add significant sodium — request reduced sauce."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Zero carbohydrate. High lean protein (20.5g/100g). Very low fat. Selenium (38.2mcg/100g) and vitamin B12 (3.8mcg/100g) are valuable for metabolic health.",
+      "guidance": "Red snapper is an excellent lean protein for patients with type 2 diabetes. Steamed fish preparations are preferable to deep-fried versions which add significant fat and carbohydrate from batter."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "While red snapper is not an oily fish (lower omega-3 than salmon or mackerel), it provides useful selenium (38.2mcg/100g) and vitamin E (1.7mg/100g). These antioxidants support anti-inflammatory defences.",
+      "guidance": "Red snapper is a good lean white fish option for patients with rheumatoid arthritis. It complements oily fish in the weekly protein rotation — use oily fish (salmon, mackerel) as the primary omega-3 source and white fish (snapper, sea bass) as additional lean protein."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Red snapper (ang ko li in Hokkien, ikan merah in Malay) is a popular mild-flavoured white fish sold whole or as fillets at Singapore wet markets and supermarkets. The firm white flesh is low in fat (1.3g/100g), very high in protein (20.5g/100g), and has a clean, delicate flavour that makes it ideal for steaming, poaching, and gentle preparations. Used in Cantonese steamed whole fish, fish head curry, Teochew steamed fish, and fish soup (sliced fillet). Very high in selenium (38.2mcg/100g) and vitamin B12 (3.8mcg/100g), and a good source of potassium (444mg/100g). Red snapper from Singapore waters is typically smaller than the Gulf snapper (Lutjanus campechanus) used in Western cuisines.",
+    "common_user_queries": [
+      "red snapper calories",
+      "ikan merah nutrition",
+      "ang ko li fish nutrition",
+      "white fish protein",
+      "is red snapper healthy",
+      "red snapper vs salmon",
+      "steamed fish calories"
+    ],
+    "meal_context": [
+      "steamed fish",
+      "fish head curry",
+      "fish soup",
+      "grilled fish",
+      "fish and chips"
+    ],
+    "ingredient_synonyms": {
+      "red snapper": [
+        "ang ko li",
+        "ikan merah",
+        "Lutjanus spp.",
+        "snapper"
+      ],
+      "fish head curry": [
+        "uses red snapper head typically"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03010013).",
+  "notes": "Values per 100g raw fillet, skinless. Red snapper is a catch-all name in Singapore — multiple Lutjanus species are sold as 'ang ko li' or 'ikan merah'. Nutritional values are broadly consistent across species. Low in omega-3 compared to oily fish like salmon or mackerel. Very low in mercury — safe for consumption multiple times per week including during pregnancy."
+}

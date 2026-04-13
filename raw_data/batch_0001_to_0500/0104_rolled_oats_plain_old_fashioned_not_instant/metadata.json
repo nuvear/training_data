@@ -1,0 +1,153 @@
+{
+  "food_name": "Rolled Oats (plain, old-fashioned, not instant)",
+  "local_names": {
+    "malay": "Oat Gulung",
+    "chinese_simplified": "传统燕麦片（生）",
+    "chinese_traditional": "傳統燕麥片（生）",
+    "tamil": "ஓட்ஸ் (ரோல்ட்)"
+  },
+  "aliases": [
+    "rolled oats",
+    "old-fashioned oats",
+    "oat flakes",
+    "porridge oats",
+    "whole oats",
+    "quaker oats",
+    "oatmeal"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Europe / North America (widely consumed globally)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Whole rolled oat flakes, dry uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03306880",
+    "foodon_label": "Rolled oats",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00AQ",
+    "foodex2_description": "Oat flakes / rolled oats (Avena sativa), whole-grain, dry",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "229954001",
+    "snomed_ct_description": "Oat (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "minimally processed (steamed and mechanically flattened, bran and germ intact)",
+    "main_ingredients": [
+      "whole oat groats (Avena sativa), steamed and rolled"
+    ],
+    "allergens": [
+      "gluten (oats contain avenin; may cause reaction in some celiacs; also risk of cross-contamination with wheat during processing)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ cup dry",
+    "size_g": 40,
+    "natural_language_portion": "A standard single serving of rolled oats is ½ cup dry (approximately 40g), yielding one bowl of cooked oatmeal porridge when prepared with water or milk. This is the typical breakfast portion."
+  },
+  "nutrient_source": {
+    "title": "Rolled Oats (plain, old-fashioned) — HPB Singapore Foodo Database, Food Code F05080001; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05080001 — Rolled Oats, plain. Values per 100g dry oats."
+  },
+  "per_100g": {
+    "energy_kcal": 379.0,
+    "protein_g": 13.2,
+    "fat_g": 6.9,
+    "saturated_fat_g": 1.2,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 67.7,
+    "sugar_g": 1.1,
+    "dietary_fibre_g": 10.1,
+    "sodium_mg": 5.0,
+    "potassium_mg": 362.0,
+    "calcium_mg": 52.0,
+    "iron_mg": 4.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.46,
+    "vitamin_b2_riboflavin_mg": 0.14,
+    "vitamin_b3_niacin_mg": 1.1,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 56.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 410.0,
+    "magnesium_mg": 138.0,
+    "zinc_mg": 4.0,
+    "selenium_mcg": 28.9,
+    "water_g": 8.2
+  },
+  "glycemic_index": 57,
+  "glycemic_load_per_serving": 15.4,
+  "gi_source": "University of Sydney GI Database — GI of cooked rolled oats porridge (made with water). Dry oats GI is not applicable. Old-fashioned rolled oats have a medium GI (~57) significantly lower than quick-cook or instant oats (~66–83) due to larger particle size requiring slower enzymatic digestion. Beta-glucan soluble fibre significantly reduces the glycaemic response.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Rolled oats are clinically recognised as a heart-healthy grain. The beta-glucan soluble fibre (3–4g per 40g serving) reduces LDL cholesterol by 5–10% with regular consumption, supporting overall cardiovascular health and indirectly benefiting blood pressure management.",
+      "guidance": "Oats are actively recommended for patients with hypertension and dyslipidaemia. One bowl of plain oat porridge per day is a clinically backed dietary intervention. The critical caveat is preparation — instant flavoured oats can contain 200–500mg sodium per sachet; always choose plain rolled oats."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Old-fashioned rolled oats have a medium GI (~57) and are one of the most clinically validated breakfast foods for blood glucose control. The beta-glucan fibre forms a viscous gel in the gut that slows gastric emptying and carbohydrate absorption, substantially blunting postprandial glucose spikes.",
+      "guidance": "Rolled oats (not instant) are strongly recommended for patients with type 2 diabetes as a breakfast grain. Avoid instant oats (higher GI) and flavoured oat products (high sugar). Steel-cut oats have an even lower GI (~42). Optimal preparation: plain oats cooked with unsweetened plant milk or water."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Oats are a good source of magnesium (138mg/100g dry) and selenium (28.9mcg/100g), both of which support immune function and antioxidant defences. The anti-inflammatory properties of beta-glucan and the modest omega-6 content are favourable.",
+      "guidance": "Rolled oats are a highly recommended breakfast grain for patients with rheumatoid arthritis. Prepare with anti-inflammatory additions such as ground flaxseed and turmeric. Avoid flavoured instant oat packets."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rolled oats (old-fashioned oats) are whole oat groats (Avena sativa) that have been steamed and mechanically flattened into flat flakes. Unlike instant oats which are more finely cut and pre-cooked, old-fashioned rolled oats retain most of the grain's intact structure and beta-glucan content, giving them a medium GI of ~57 when cooked. Raw (dry) rolled oats contain 13.2g protein, 10.1g dietary fibre, 6.9g fat, and 67.7g carbohydrate per 100g — making them one of the most nutrient-dense breakfast grains. The soluble fibre (beta-glucan) is the key bioactive: it forms a thick gel in the gut that slows digestion, lowers LDL cholesterol by 5–10%, and blunts blood glucose spikes. Widely consumed in Singapore as a breakfast cereal, often prepared with milk or fresh fruit.",
+    "common_user_queries": [
+      "rolled oats calories per 100g raw",
+      "oats nutrition dry",
+      "rolled oats vs instant oats healthier",
+      "oats for diabetes",
+      "oats for cholesterol",
+      "oats protein content",
+      "beta glucan in oats"
+    ],
+    "meal_context": [
+      "breakfast porridge",
+      "overnight oats",
+      "granola base",
+      "oat pancakes",
+      "smoothies"
+    ],
+    "ingredient_synonyms": {
+      "rolled oats": [
+        "old-fashioned oats",
+        "oat flakes",
+        "porridge oats",
+        "whole oats"
+      ],
+      "instant oats": [
+        "quick oats",
+        "1-minute oats"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F05080001) cross-referenced with USDA SR Legacy.",
+  "notes": "Values are per 100g dry uncooked rolled oats. Oats contain avenin (a prolamin similar to gluten) and are not safe for all celiacs, particularly those with severe gluten sensitivity. Also at risk of cross-contamination with wheat. Beta-glucan content of old-fashioned oats (~4g/100g) is clinically validated for cholesterol reduction at ≥3g/day dose. Instant oats have a significantly higher GI than old-fashioned rolled oats."
+}

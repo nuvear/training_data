@@ -1,0 +1,156 @@
+{
+  "food_name": "Fresh Yellow Noodle / Hokkien Mee Noodle (raw, uncooked)",
+  "local_names": {
+    "malay": "Mee Kuning (segar, mentah)",
+    "chinese_simplified": "福建面 / 生面（新鲜，未煮）",
+    "chinese_traditional": "福建麵 / 生麵（新鮮，未煮）",
+    "tamil": "மஞ்சள் நூடுல்ஸ் (புதிய)"
+  },
+  "aliases": [
+    "fresh yellow noodle",
+    "Hokkien mee noodle",
+    "egg noodle",
+    "alkaline noodle",
+    "lye water noodle",
+    "mee kuning",
+    "char kway teow noodle"
+  ],
+  "cuisine": "Chinese / Singaporean",
+  "region_of_origin": "China (Fujian province) / Singapore",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Fresh wheat alkaline noodle, raw uncooked",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for fresh Singaporean yellow wheat noodles (Hokkien mee). Closest parent would be wheat-based fresh egg noodle. A new FoodOn concept is recommended for SEA fresh alkaline noodles.",
+    "foodex2_code": "A00NB",
+    "foodex2_description": "Wheat noodles, fresh, alkaline (yellow), uncooked",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "fresh"
+    ],
+    "processing_level": "processed (wheat flour mixed with lye water/egg, extruded into noodles, not dried — sold fresh refrigerated)",
+    "main_ingredients": [
+      "wheat flour",
+      "water",
+      "lye water (sodium carbonate / potassium carbonate)",
+      "egg (sometimes)"
+    ],
+    "allergens": [
+      "gluten (wheat)",
+      "egg (if used)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "150g raw",
+    "size_g": 150,
+    "natural_language_portion": "A standard single hawker portion of fresh yellow noodle is approximately 150g raw (the amount plated in one bowl of hokkien mee or char kway teow). This noodle does not change significantly in weight when cooked as it is already hydrated."
+  },
+  "nutrient_source": {
+    "title": "Fresh Yellow Noodle / Hokkien Mee — HPB Singapore Foodo composition data; cross-referenced with USDA SR Legacy wheat-based noodles",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "HPB Foodo does not have a standalone raw fresh yellow noodle entry (entries are typically for cooked dishes). Values derived from HPB Foodo fresh yellow noodle composition data cross-referenced with USDA SR Legacy fresh egg noodle (FDC ID 169731). Values per 100g raw fresh noodle."
+  },
+  "per_100g": {
+    "energy_kcal": 138.0,
+    "protein_g": 4.7,
+    "fat_g": 0.6,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.8,
+    "sugar_g": 0.4,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 212.0,
+    "potassium_mg": 56.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 14.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.11,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 17.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 54.0,
+    "magnesium_mg": 11.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 13.9,
+    "water_g": 63.0
+  },
+  "glycemic_index": 57,
+  "glycemic_load_per_serving": 24.8,
+  "gi_source": "University of Sydney GI Database — GI of fresh cooked wheat noodles (approximately 57). Fresh yellow noodles have a lower GI than white bread due to the dense gluten matrix slowing starch gelatinisation. Alkaline treatment (lye water) may slightly modify starch digestion rate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Fresh yellow noodles contain significant sodium from lye water processing (approximately 212mg/100g raw). A 150g hawker serving contains ~318mg sodium from the noodle alone — before any sauces, oyster sauce, soy sauce, or other seasonings are added which typically add 600–1200mg sodium more.",
+      "guidance": "For patients with hypertension, fresh yellow noodle dishes at hawker stalls are high-sodium meals. Request reduced sauce, or choose soup-based noodle dishes where sauce can be adjusted. A typical hokkien mee or char kway teow dish can contain 1500–2000mg sodium total."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Cooked fresh wheat noodles have a moderate GI (~57). The glycaemic load per standard 150g hawker serving is substantial (~24.8). Lower GI than white rice but the stir-frying with oil and sugary sauces in hawker preparations increases overall energy density.",
+      "guidance": "Patients with type 2 diabetes can consume hawker noodle dishes in moderation. Request extra vegetables and reduced sauce. Avoid sweet preparations (mee goreng with sweet soy, laksa with additional sugar). Soup noodles (mee soup, fish ball noodles) are lower in fat and sodium than dry/stir-fried preparations."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fresh yellow noodles contain gluten and are nutritionally modest in anti-inflammatory factors. Neutral for rheumatoid arthritis at standard portions.",
+      "guidance": "Acceptable at normal hawker portions. Contains gluten — contraindicated if concurrent coeliac disease or non-coeliac gluten sensitivity. For patients with rheumatoid arthritis, focus on increasing the vegetable and lean protein components of noodle dishes."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Fresh yellow noodles (Hokkien mee noodles) are a refrigerated fresh wheat noodle made from wheat flour mixed with lye water (an alkaline solution of sodium and potassium carbonates) and sometimes egg. The alkaline treatment gives the noodles their characteristic yellow colour, springy texture, and slightly alkaline smell. Sold in vacuum-sealed portions at Singapore supermarkets and wet markets. Medium thickness, round cross-section. The primary noodle in Singapore hokkien hae mee (prawn noodles), Hokkien char mee, char kway teow (sometimes mixed), and mee goreng. Higher in sodium than dried bee hoon due to lye water content. Lower in calories per 100g than dried bee hoon because it contains ~63% water.",
+    "common_user_queries": [
+      "fresh yellow noodle calories",
+      "hokkien mee noodle nutrition",
+      "is yellow noodle healthy",
+      "yellow noodle sodium content",
+      "mee kuning carbs",
+      "fresh egg noodle nutrition"
+    ],
+    "meal_context": [
+      "hokkien mee",
+      "char kway teow",
+      "mee goreng",
+      "prawn noodles",
+      "hawker noodle dishes"
+    ],
+    "ingredient_synonyms": {
+      "fresh yellow noodle": [
+        "Hokkien mee noodle",
+        "mee kuning",
+        "egg noodle",
+        "alkaline noodle",
+        "lye noodle"
+      ],
+      "char kway teow noodle": [
+        "flat white rice noodle mixed with yellow noodle"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone HPB Foodo raw fresh yellow noodle entry. Values derived from HPB Foodo composition data and cross-referenced with USDA SR Legacy fresh egg noodles. May vary slightly by manufacturer (lye water concentration, egg content).",
+  "notes": "Values per 100g raw fresh uncooked noodle. Fresh yellow noodles are typically not halal due to possible use of non-halal egg or production processes; many hawker stalls use halal-certified versions. The characteristic yellow colour and alkaline pH come from lye water (sodium/potassium carbonate solution). Shelf life is short (2–3 days refrigerated). Distinct from flat white kway teow (rice flour noodles) which are coarser and gluten-free."
+}

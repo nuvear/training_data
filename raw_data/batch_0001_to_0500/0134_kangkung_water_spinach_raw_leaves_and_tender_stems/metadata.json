@@ -1,0 +1,152 @@
+{
+  "food_name": "Kangkung / Water Spinach (raw, leaves and tender stems)",
+  "local_names": {
+    "malay": "Kangkung (mentah)",
+    "chinese_simplified": "蕹菜 / 空心菜（生）",
+    "chinese_traditional": "蕹菜 / 空心菜（生）",
+    "tamil": "கங்கொங் / வளர்கீரை (பச்சை)",
+    "thai": "ผักบุ้ง (Phak Bung)"
+  },
+  "aliases": [
+    "kangkung",
+    "water spinach",
+    "morning glory",
+    "swamp cabbage",
+    "rau muong",
+    "Ipomoea aquatica",
+    "ong choy",
+    "hollow vegetable"
+  ],
+  "cuisine": "Singapore / SEA / South Indian",
+  "region_of_origin": "Southeast Asia / South China",
+  "food_group": "Vegetables",
+  "food_subgroup": "Leafy green vegetables, raw — aquatic/semi-aquatic",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific entry for Ipomoea aquatica (water spinach / kangkung). The nearest parent is a leafy green vegetable. A new FoodOn concept is recommended for this major Southeast Asian vegetable.",
+    "foodex2_code": "A14AB",
+    "foodex2_description": "Water spinach / kangkung (Ipomoea aquatica), raw leaves and tender stems",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw leaves and tender stem tips)",
+    "main_ingredients": [
+      "water spinach (Ipomoea aquatica), fresh raw leaves and tender stems"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving = approximately 150g raw",
+    "size_g": 150,
+    "natural_language_portion": "A standard portion of kangkung is approximately 150g raw (before cooking). Kangkung wilts significantly when stir-fried — 150g raw yields approximately 100g cooked."
+  },
+  "nutrient_source": {
+    "title": "Kangkung / Water Spinach (raw) — FAO/INFOODS Southeast Asia Food Composition Table; cross-referenced with HPB Singapore composition data",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table; Health Promotion Board (HPB), Singapore",
+    "url": "http://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "HPB Foodo does not have a standalone raw kangkung entry (has cooked preparations). Values from FAO/INFOODS SEA Food Composition Table for water spinach (Ipomoea aquatica), raw, edible portion. Cross-referenced with available HPB data."
+  },
+  "per_100g": {
+    "energy_kcal": 19.0,
+    "protein_g": 2.6,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.1,
+    "sugar_g": 1.4,
+    "dietary_fibre_g": 2.1,
+    "sodium_mg": 113.0,
+    "potassium_mg": 312.0,
+    "calcium_mg": 77.0,
+    "iron_mg": 1.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 55.0,
+    "vitamin_a_mcg_rae": 315.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 0.9,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 57.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.1,
+    "phosphorus_mg": 39.0,
+    "magnesium_mg": 71.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 0.9,
+    "water_g": 92.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — kangkung has negligible digestible carbohydrate (3.1g/100g including fibre). GI testing is not meaningful for low-carbohydrate leafy vegetables.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "High potassium (312mg/100g) and very low calorie density. Good magnesium (71mg/100g). The sodium content (113mg/100g) is slightly elevated for a raw vegetable — this is natural sodium from the water in which it grows. The vitamin C (55mg/100g) supports vascular function.",
+      "guidance": "Kangkung is an excellent affordable leafy green for patients with hypertension in Singapore. Prepare kangkung belacan with minimal belacan (which adds sodium) — request reduced belacan/sauce versions at hawker stalls. Plain stir-fried kangkung with garlic is a better preparation for hypertensive patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low calorie (19 kcal/100g), negligible digestible carbohydrate. An affordable, widely available vegetable for increasing daily vegetable intake — critical for blood glucose management.",
+      "guidance": "Kangkung is an ideal vegetable for patients with type 2 diabetes in Singapore — cheap, widely available at hawker centres and wet markets, very low in carbohydrates. Encourage daily consumption of 150–200g of kangkung or other leafy greens as a key dietary modification."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "High vitamin C (55mg/100g) supports collagen synthesis and acts as an antioxidant. Good vitamin A (315mcg RAE/100g). Magnesium (71mg/100g) supports muscle and nerve function.",
+      "guidance": "Kangkung is a nutritionally valuable, affordable leafy green for patients with rheumatoid arthritis. Its high vitamin C content supports joint collagen integrity. The iron content (1.7mg/100g) is useful, though non-haem and needs to be consumed with vitamin C to maximise absorption — which kangkung naturally provides."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Kangkung (Ipomoea aquatica, water spinach or morning glory) is the most commonly consumed leafy green vegetable in Singapore hawker cooking. It is a semi-aquatic plant native to Southeast Asia with hollow, arrow-shaped leaves and tender hollow stems. Extremely cheap and widely available at Singapore wet markets year-round. Very low in calories (19 kcal/100g) with high water content (92%). Rich in vitamin C (55mg/100g), vitamin A (315mcg RAE/100g from beta-carotene), and calcium (77mg/100g). The most iconic preparation is kangkung belacan (stir-fried with sambal, shrimp paste, and chilli) — a Singapore and Malaysian hawker staple. Also used in Assam laksa, char kway teow (sometimes), and Vietnamese soups.",
+    "common_user_queries": [
+      "kangkung calories",
+      "water spinach nutrition",
+      "kangkung iron content",
+      "kangkung vs spinach nutrition",
+      "kangkung vitamin C",
+      "is kangkung belacan healthy"
+    ],
+    "meal_context": [
+      "kangkung belacan",
+      "stir-fried kangkung",
+      "char kway teow",
+      "Vietnamese soup",
+      "Assam laksa"
+    ],
+    "ingredient_synonyms": {
+      "kangkung": [
+        "water spinach",
+        "morning glory",
+        "ong choy",
+        "rau muong",
+        "phak bung"
+      ],
+      "Ipomoea aquatica": [
+        "water convolvulus",
+        "hollow vegetable"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone HPB Foodo raw kangkung entry. Values from FAO/INFOODS SEA Table for water spinach (Ipomoea aquatica) raw, cross-referenced with available HPB data for cooked kangkung dishes.",
+  "notes": "Values per 100g raw kangkung leaves and tender stem tips. The sodium (113mg/100g) is naturally occurring from the aquatic growing environment — higher than most terrestrial vegetables. The vitamin C content (55mg/100g) is particularly notable and clinically useful for enhancing iron absorption from this and other non-haem iron sources consumed in the same meal."
+}

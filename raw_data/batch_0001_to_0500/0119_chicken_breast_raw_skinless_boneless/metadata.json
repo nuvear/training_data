@@ -1,0 +1,149 @@
+{
+  "food_name": "Chicken Breast (raw, skinless, boneless)",
+  "local_names": {
+    "malay": "Dada Ayam (mentah, tanpa kulit, tanpa tulang)",
+    "chinese_simplified": "鸡胸肉（生，去皮，去骨）",
+    "chinese_traditional": "雞胸肉（生，去皮，去骨）",
+    "tamil": "கோழி நெஞ்சு (பச்சை, தோல் நீக்கியது)"
+  },
+  "aliases": [
+    "chicken breast raw",
+    "skinless chicken breast",
+    "boneless chicken breast",
+    "chicken fillet",
+    "chicken supreme",
+    "ayam dada"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Global — universal protein ingredient",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Chicken breast, raw, skinless, boneless",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301629",
+    "foodon_label": "Chicken breast",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A04RD",
+    "foodex2_description": "Chicken breast, raw, skinless, boneless",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh meat)",
+    "main_ingredients": [
+      "chicken (Gallus gallus domesticus) breast muscle, skinless, boneless"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 breast half (approximately 150g raw)",
+    "size_g": 150,
+    "natural_language_portion": "A single chicken breast half from a typical broiler chicken weighs approximately 150g raw (boneless, skinless). After cooking, it yields approximately 105–120g cooked meat (30% cooking loss)."
+  },
+  "nutrient_source": {
+    "title": "Chicken Breast (raw, skinless) — HPB Singapore Foodo Database, Food Code F11010023; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F11010023 — Chicken Breast, raw, skinless."
+  },
+  "per_100g": {
+    "energy_kcal": 110.0,
+    "protein_g": 23.1,
+    "fat_g": 1.2,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.3,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 74.0,
+    "potassium_mg": 370.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 73.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 9.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 12.3,
+    "vitamin_b6_mg": 0.87,
+    "vitamin_b12_mcg": 0.3,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 211.0,
+    "magnesium_mg": 26.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 26.9,
+    "water_g": 74.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — chicken breast contains no carbohydrate. GI is a measure of carbohydrate quality and is not meaningful for protein/fat-dominant foods.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Raw chicken breast is low in sodium (74mg/100g) and saturated fat. It is a lean white meat protein that does not contribute to blood pressure. The main sodium risk comes from marinades, sauces, and cooking preparations.",
+      "guidance": "Chicken breast is an excellent protein choice for patients with hypertension. Prepare by steaming, boiling, grilling, or baking without high-sodium marinades. Hainanese chicken rice (poached) is a good hawker preparation for hypertensive patients when consumed with minimal sauce."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Contains zero carbohydrate and has no effect on blood glucose. Very high in protein (23.1g/100g raw), which promotes satiety and supports muscle mass maintenance — crucial for preventing insulin resistance.",
+      "guidance": "Chicken breast is an ideal protein for patients with type 2 diabetes. Regular intake of lean poultry protein supports metabolic health, prevents muscle wasting, and promotes satiety. Avoid fried chicken preparations which add significant carbohydrates (batter) and inflammatory oils."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Good source of selenium (26.9mcg/100g), vitamin B6 (0.87mg), and vitamin B12 (0.3mcg). Selenium is an antioxidant co-factor. Low in pro-inflammatory arachidonic acid (very low total fat 1.2g).",
+      "guidance": "Lean chicken breast is recommended for patients with rheumatoid arthritis as a primary protein source. Lower in pro-inflammatory saturated fat than red meat. Selenium content supports glutathione peroxidase antioxidant activity. Prefer steamed or poached chicken preparations over deep-fried."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Raw skinless boneless chicken breast is the leanest animal protein commonly available in Singapore. With 23.1g protein and only 1.2g fat per 100g, it has one of the best protein-to-calorie ratios of any meat. Zero carbohydrate content. The white pectoralis major and minor muscles from the breast of a broiler chicken. Extremely versatile — used in virtually every cuisine style available in Singapore. Key nutritional features: high niacin (12.3mg/100g — essential for NAD+ metabolism), high vitamin B6 (0.87mg), and useful selenium (26.9mcg). The primary reference lean protein for clinical dietetic calculations in Singapore, used as the basis for protein intake targets in hospital meal planning.",
+    "common_user_queries": [
+      "chicken breast calories raw",
+      "skinless chicken breast protein",
+      "chicken breast sodium content",
+      "is chicken breast healthy",
+      "chicken breast vs thigh nutrition",
+      "raw chicken breast nutrition per 100g",
+      "chicken breast for weight loss"
+    ],
+    "meal_context": [
+      "hainanese chicken rice",
+      "chicken soup",
+      "grilled chicken",
+      "stir-fry",
+      "curries",
+      "salads"
+    ],
+    "ingredient_synonyms": {
+      "chicken breast": [
+        "breast fillet",
+        "chicken supreme",
+        "ayam dada",
+        "pectorals"
+      ],
+      "skinless boneless chicken": [
+        "chicken fillet"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F11010023).",
+  "notes": "Values per 100g raw skinless boneless chicken breast. Cooking causes approximately 25–30% weight loss (moisture loss). Cooked chicken breast has approximately 165 kcal/100g. Cholesterol content (73mg/100g) is within acceptable limits for most patients. Halal-certified chicken is widely available in Singapore and is the standard for most hawker preparations."
+}

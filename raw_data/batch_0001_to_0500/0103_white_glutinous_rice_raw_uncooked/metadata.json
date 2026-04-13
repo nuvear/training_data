@@ -1,0 +1,154 @@
+{
+  "food_name": "White Glutinous Rice (raw, uncooked)",
+  "local_names": {
+    "malay": "Beras Pulut (mentah)",
+    "chinese_simplified": "糯米（生）",
+    "chinese_traditional": "糯米（生）",
+    "thai": "ข้าวเหนียว (Khao Niao)",
+    "tamil": "ஒட்டும் அரிசி (பச்சை)"
+  },
+  "aliases": [
+    "glutinous rice raw",
+    "sticky rice",
+    "waxy rice",
+    "sweet rice",
+    "pulut",
+    "khao niao",
+    "mochi rice"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "Southeast Asia / East Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Short-grain glutinous (waxy) white rice, raw uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301891",
+    "foodon_label": "Glutinous rice",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00GK",
+    "foodex2_description": "Rice grain, milled white, short-grain glutinous (waxy/sticky)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (milled, bran and germ removed)",
+    "main_ingredients": [
+      "glutinous rice (Oryza sativa var. glutinosa)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ cup dry",
+    "size_g": 90,
+    "natural_language_portion": "A standard dry measure is ½ cup (approximately 90g raw glutinous rice), which yields approximately 200g of cooked sticky rice — typically eaten as a dessert or festive portion rather than a main meal grain."
+  },
+  "nutrient_source": {
+    "title": "White Glutinous Rice (raw) — HPB Singapore Foodo Database, Food Code F05090004",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05090004 — Glutinous Rice, white, raw uncooked."
+  },
+  "per_100g": {
+    "energy_kcal": 356.0,
+    "protein_g": 6.8,
+    "fat_g": 0.6,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 79.0,
+    "sugar_g": 0.1,
+    "dietary_fibre_g": 0.9,
+    "sodium_mg": 5.0,
+    "potassium_mg": 86.0,
+    "calcium_mg": 9.0,
+    "iron_mg": 0.6,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 96.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.0,
+    "selenium_mcg": 13.0,
+    "water_g": 12.0
+  },
+  "glycemic_index": 98,
+  "glycemic_load_per_serving": 69.3,
+  "gi_source": "University of Sydney GI Database — GI of cooked white glutinous (sticky) rice. Raw glutinous rice GI is not applicable. Cooked glutinous rice has one of the highest GI values of all rice types (GI ~98) because it is composed almost entirely of amylopectin starch (>99% amylopectin, <1% amylose), which is digested extremely rapidly.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Glutinous rice is virtually sodium-free and poses no direct cardiovascular risk through blood pressure pathways. Its use is generally in small quantities in desserts rather than as a meal staple.",
+      "guidance": "Glutinous rice itself does not contribute to hypertension. However, preparations involving glutinous rice (such as nasi lemak using glutinous rice, or glutinous rice balls in sweet broth) may have added coconut milk and sugar that should be factored into dietary planning."
+    },
+    "type2_diabetes": {
+      "concern_level": "very high",
+      "key_factor": "Cooked white glutinous rice has an extremely high glycaemic index (~98) — higher than even jasmine rice. It is composed almost entirely of amylopectin starch, which gelatinises fully on cooking and is digested almost instantaneously. Regular consumption in patients with type 2 diabetes will cause severe postprandial blood glucose spikes.",
+      "guidance": "Patients with type 2 diabetes should minimise consumption of glutinous rice-based dishes (tang yuan, ondeh ondeh, ang ku kueh, pulut hitam with added sugar). If consumed, limit to a small festive portion (40–50g cooked) and pair with high-fibre foods to blunt the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Glutinous rice is not a significant inflammatory driver at the small quantities typically consumed in Singapore dessert contexts.",
+      "guidance": "Acceptable in small festive portions. No specific rheumatoid arthritis concerns beyond its high glycaemic load contributing to general systemic inflammation with very frequent, large-portion consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "White glutinous rice (also called sticky rice or waxy rice) is a short-grain variety of Oryza sativa that is almost entirely composed of amylopectin starch — the branched starch polymer that makes cooked rice sticky and clingy. Unlike regular rice which contains 18–28% amylose (the straight-chain starch), glutinous rice contains less than 1% amylose. This gives it an extremely high glycaemic index (GI ~98) when cooked. Raw glutinous rice is opaque and chalky white, distinct from translucent regular white rice. Used extensively in Southeast Asian cuisines for festive dishes: ang ku kueh, ondeh ondeh, tang yuan, pulut hitam (black glutinous rice porridge), bak chang (rice dumplings), and nasi pulut. The term 'glutinous' refers to its sticky glue-like texture, not to gluten — it is completely gluten-free.",
+    "common_user_queries": [
+      "glutinous rice calories raw",
+      "sticky rice nutrition",
+      "is glutinous rice gluten free",
+      "glutinous rice GI",
+      "sticky rice vs regular rice",
+      "pulut rice nutrition"
+    ],
+    "meal_context": [
+      "SEA desserts",
+      "festive foods",
+      "ang ku kueh",
+      "tang yuan",
+      "ondeh ondeh",
+      "nasi pulut",
+      "bak chang"
+    ],
+    "ingredient_synonyms": {
+      "glutinous rice": [
+        "sticky rice",
+        "waxy rice",
+        "sweet rice",
+        "pulut",
+        "khao niao",
+        "mochi rice"
+      ],
+      "raw glutinous rice": [
+        "dry sticky rice",
+        "uncooked waxy rice"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05090004.",
+  "notes": "Values are per 100g raw dry glutinous rice. Completely gluten-free despite the word 'glutinous'. Contains essentially no amylose starch — GI is among the highest of any commonly consumed grain. Black glutinous rice (pulut hitam) is a different variety with a different nutrient profile — not this record."
+}

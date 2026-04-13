@@ -1,0 +1,153 @@
+{
+  "food_name": "Urad Dal / Black Gram Dal (split, husked, raw, dried)",
+  "local_names": {
+    "hindi": "उड़द दाल (धुली, कच्ची)",
+    "tamil": "உளுத்தம் பருப்பு (பீலிட்ட, பச்சை)",
+    "telugu": "మినప పప్పు (చీల్చిన)",
+    "malay": "Dal Urad (belah, kering)"
+  },
+  "aliases": [
+    "urad dal",
+    "urid dal",
+    "black gram dal",
+    "white urad dal",
+    "split black gram",
+    "ulundu paruppu",
+    "dhuli urad"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (South India primary use)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Black gram (Vigna mungo), split, dehusked, dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316088",
+    "foodon_label": "Black gram",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general black gram concept but no specific split/husked urad dal entry. Closest parent used.",
+    "foodex2_code": "A037F",
+    "foodex2_description": "Black gram (Vigna mungo), split, dehusked (urad dal), dried raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "minimally processed (dried, split, dehusked)",
+    "main_ingredients": [
+      "black gram / urad (Vigna mungo), split, dehusked"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry urad dal is typical for a small side dish; in idli/dosa batter preparation, approximately 250g urad dal is used for every 750g rice to produce a day's batch for a family."
+  },
+  "nutrient_source": {
+    "title": "Urad Dal — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with USDA SR Legacy",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); USDA Agricultural Research Service",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Urad Dal (split, husked). Cross-referenced with USDA SR Legacy black gram mature seeds raw (FDC ID 175197)."
+  },
+  "per_100g": {
+    "energy_kcal": 341.0,
+    "protein_g": 26.1,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.5,
+    "monounsaturated_fat_g": 0.4,
+    "polyunsaturated_fat_g": 0.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 57.6,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 18.3,
+    "sodium_mg": 38.0,
+    "potassium_mg": 983.0,
+    "calcium_mg": 138.0,
+    "iron_mg": 7.6,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 2.0,
+    "vitamin_b1_thiamine_mg": 0.42,
+    "vitamin_b2_riboflavin_mg": 0.28,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 216.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 379.0,
+    "magnesium_mg": 267.0,
+    "zinc_mg": 3.4,
+    "selenium_mcg": 1.5,
+    "water_g": 10.8
+  },
+  "glycemic_index": 43,
+  "glycemic_load_per_serving": 12.4,
+  "gi_source": "University of Sydney GI Database — GI of boiled black gram / urad dal (approximately 43). Dry urad dal GI not applicable. The higher GI compared to red lentils and moong dal reflects the different starch-protein matrix and fermentation effects in idli/dosa preparations.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high in magnesium (267mg/100g dry) — the highest magnesium content of the common dals. Very high in potassium (983mg) and calcium (138mg). Magnesium is directly associated with arterial relaxation and blood pressure reduction.",
+      "guidance": "Urad dal is recommended for patients with hypertension. Its magnesium content is clinically significant — 50g dry urad dal provides 134mg magnesium, a substantial fraction of the 350–400mg/day adult recommended intake. Idli made with urad dal batter is a low-sodium, high-magnesium breakfast option."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Moderate GI (~43) when boiled. Very high in dietary fibre (18.3g/100g dry) and protein (26.1g). In idli/dosa form (after fermentation), the GI of idli (~77) is driven more by the rice component than the urad dal.",
+      "guidance": "Urad dal as a dal side dish has a moderate GI (~43) — acceptable for patients with type 2 diabetes. The fermentation process in idli/dosa batter increases B vitamin bioavailability. Ragi (finger millet) idli using urad dal batter is recommended as a lower-GI variation for diabetic patients."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Exceptional magnesium content (267mg/100g) — highest of common dals. Very high iron (7.6mg/100g), zinc (3.4mg), calcium (138mg), and phosphorus (379mg). These minerals support bone health and immune function relevant to RA management.",
+      "guidance": "Urad dal is highly recommended for patients with rheumatoid arthritis. The very high magnesium, iron, and zinc content makes it one of the most micronutrient-dense plant proteins. Anti-inflammatory properties of fermented preparations (idli, dosa) are additionally beneficial."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Urad dal is split, dehusked black gram (Vigna mungo). The outer black hull is removed during processing to reveal the cream-white interior. Unlike other dals which cook into a smooth porridge, urad dal has a distinctive mucilaginous (slimy) quality when soaked and ground — this property is essential for the sticky, fermentable batter used to make idli and dosa. The fermentation of urad dal batter with soaked rice (overnight at room temperature) is one of the most important food processes in South Indian cuisine. Nutritionally outstanding: highest dietary fibre (18.3g/100g), highest magnesium (267mg/100g), and high protein (26.1g/100g) of the common dals. Also used for medu vada (fried lentil doughnuts), papadum, and tadka in dal preparations.",
+    "common_user_queries": [
+      "urad dal calories raw",
+      "urad dal magnesium",
+      "urad dal protein",
+      "urad dal for idli batter",
+      "ulundu paruppu nutrition",
+      "black gram dal GI",
+      "urad dal vs moong dal"
+    ],
+    "meal_context": [
+      "idli batter",
+      "dosa batter",
+      "medu vada",
+      "dal makhani",
+      "papadum",
+      "tadka"
+    ],
+    "ingredient_synonyms": {
+      "urad dal": [
+        "split black gram",
+        "dhuli urad",
+        "ulundu paruppu",
+        "white urad dal"
+      ],
+      "whole urad": [
+        "sabut urad",
+        "black urad",
+        "whole black gram"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Urad Dal (split, husked).",
+  "notes": "Values per 100g dry split husked urad dal. The mucilaginous properties of soaked urad dal are caused by a specific mucilage polysaccharide that aids in fermentation. Soaking urad dal for idli batter: typically 4–6 hours. Fermentation time 8–12 hours at room temperature. Distinct from whole urad (whole black gram) which retains the black outer hull."
+}

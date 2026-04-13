@@ -1,0 +1,151 @@
+{
+  "food_name": "Squid (raw, cleaned, tube and tentacles)",
+  "local_names": {
+    "malay": "Sotong (mentah, bersih)",
+    "chinese_simplified": "鱿鱼（生，清洁）",
+    "chinese_traditional": "魷魚（生，清洁）",
+    "tamil": "இறால் (கணவாய், பச்சை)"
+  },
+  "aliases": [
+    "squid raw",
+    "sotong",
+    "calamari raw",
+    "Loligo spp.",
+    "cleaned squid",
+    "squid tube"
+  ],
+  "cuisine": "Singapore / SEA / Chinese",
+  "region_of_origin": "Indo-Pacific waters",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Squid (Loligo spp.), raw, cleaned (tube and tentacles)",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03309340",
+    "foodon_label": "Squid",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A05PA",
+    "foodex2_description": "Squid (Loligo spp.), raw, cleaned",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (head retained or removed, ink sac and transparent pen/quill removed, skin often retained)",
+    "main_ingredients": [
+      "squid (Loligo spp.) tube (mantle) and tentacles, raw"
+    ],
+    "allergens": [
+      "molluscs / cephalopods"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 medium squid = approximately 100–150g cleaned raw",
+    "size_g": 125,
+    "natural_language_portion": "A medium squid (sotong) cleaned, yields approximately 100–150g of edible tube and tentacles. A standard hawker portion of sambal sotong uses approximately 150g raw squid."
+  },
+  "nutrient_source": {
+    "title": "Squid (raw, cleaned) — HPB Singapore Foodo Database, Food Code F03050021; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03050021 — Squid, raw, cleaned."
+  },
+  "per_100g": {
+    "energy_kcal": 92.0,
+    "protein_g": 15.6,
+    "fat_g": 1.4,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.1,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 44.0,
+    "potassium_mg": 246.0,
+    "calcium_mg": 32.0,
+    "iron_mg": 0.7,
+    "cholesterol_mg": 233.0,
+    "vitamin_c_mg": 4.7,
+    "vitamin_a_mcg_rae": 10.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.41,
+    "vitamin_b3_niacin_mg": 2.2,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 1.3,
+    "folate_mcg_dfe": 5.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 221.0,
+    "magnesium_mg": 33.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 44.8,
+    "water_g": 78.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — squid contains negligible carbohydrate (3.1g/100g including glycogen).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Raw squid is low in sodium (44mg/100g) and fat. The high dietary cholesterol (233mg/100g) has limited clinical significance for blood pressure. The primary sodium concern comes from sambal, soy sauce, and other preparations used with squid.",
+      "guidance": "Plain squid is appropriate for patients with hypertension. Prefer steamed, grilled, or lightly stir-fried preparations over sambal or black pepper squid dishes which add 500–1000mg sodium per serving from sauces."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Low calorie (92 kcal/100g), lean protein (15.6g/100g). Negligible carbohydrate. Excellent selenium content (44.8mcg/100g). Squid is one of the leanest seafood proteins available.",
+      "guidance": "Squid is an excellent low-calorie, low-carbohydrate protein for patients with type 2 diabetes. Avoid deep-fried calamari (battered and fried) which adds significant refined carbohydrate and saturated fat. Sambal sotong is acceptable in moderate amounts but check sodium from sambal."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Exceptionally high selenium (44.8mcg/100g) — among the highest selenium content of commonly consumed seafood. Selenium is a co-factor for glutathione peroxidase which neutralises free radicals involved in joint inflammation.",
+      "guidance": "Squid is a useful protein in the seafood rotation for patients with rheumatoid arthritis primarily for its very high selenium content. Include in the weekly seafood rotation alongside oily fish (salmon, mackerel) which provide the primary omega-3 anti-inflammatory benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Squid (sotong in Malay) is a cephalopod mollusc widely consumed in Singapore. The cleaned form consists of the cylindrical tube (mantle) and curled tentacles — ink sac, transparent pen (gladius), and beak removed. The flesh is firm, white, and slightly chewy when cooked quickly over high heat. Very lean protein (15.6g/100g) with minimal fat (1.4g/100g) but noticeably high cholesterol (233mg/100g). However, the dietary cholesterol in squid has limited effect on blood LDL for most individuals. Exceptional selenium content (44.8mcg/100g — highest of the common SEA seafood). Used in Singapore sambal sotong (the most famous preparation), stir-fried squid with black bean sauce, squid ink noodles, hot pot, and salt-and-pepper squid.",
+    "common_user_queries": [
+      "squid calories raw",
+      "sotong nutrition",
+      "squid cholesterol",
+      "is squid healthy",
+      "squid vs prawn nutrition",
+      "sambal sotong calories",
+      "squid selenium content"
+    ],
+    "meal_context": [
+      "sambal sotong",
+      "stir-fried squid",
+      "calamari",
+      "hot pot",
+      "squid soup"
+    ],
+    "ingredient_synonyms": {
+      "squid": [
+        "sotong",
+        "calamari",
+        "Loligo spp.",
+        "cuttlefish (different species)"
+      ],
+      "sambal sotong": [
+        "sambal squid",
+        "spicy squid"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03050021).",
+  "notes": "Values per 100g raw cleaned squid (tube and tentacles). Squid is a mollusc, not a crustacean — different allergen category. The 3.1g carbohydrate is primarily glycogen (animal starch) stored in the tissue. High cholesterol (233mg/100g) is from the mantle muscle — not clinically concerning at standard serving sizes for most individuals."
+}

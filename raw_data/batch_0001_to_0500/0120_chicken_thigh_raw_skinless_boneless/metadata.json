@@ -1,0 +1,147 @@
+{
+  "food_name": "Chicken Thigh (raw, skinless, boneless)",
+  "local_names": {
+    "malay": "Peha Ayam (mentah, tanpa kulit, tanpa tulang)",
+    "chinese_simplified": "鸡腿肉（生，去皮，去骨）",
+    "chinese_traditional": "雞腿肉（生，去皮，去骨）",
+    "tamil": "கோழி தொடை (பச்சை, தோல் நீக்கியது)"
+  },
+  "aliases": [
+    "chicken thigh raw",
+    "skinless chicken thigh",
+    "boneless chicken thigh",
+    "dark meat chicken",
+    "peha ayam"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Global — preferred cut in many SEA and Asian dishes",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Chicken thigh, raw, skinless, boneless",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301630",
+    "foodon_label": "Chicken thigh",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A04RE",
+    "foodex2_description": "Chicken thigh, raw, skinless, boneless",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh meat)",
+    "main_ingredients": [
+      "chicken (Gallus gallus domesticus) thigh muscle, skinless, boneless"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 thigh (approximately 115g raw)",
+    "size_g": 115,
+    "natural_language_portion": "A single boneless skinless chicken thigh weighs approximately 100–130g raw. After cooking, yields approximately 75–95g cooked meat."
+  },
+  "nutrient_source": {
+    "title": "Chicken Thigh (raw, skinless) — HPB Singapore Foodo Database, Food Code F11010031; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F11010031 — Chicken Thigh, raw, skinless."
+  },
+  "per_100g": {
+    "energy_kcal": 130.0,
+    "protein_g": 18.8,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 1.9,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 93.0,
+    "potassium_mg": 272.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 95.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 9.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.2,
+    "vitamin_b3_niacin_mg": 6.3,
+    "vitamin_b6_mg": 0.54,
+    "vitamin_b12_mcg": 0.4,
+    "folate_mcg_dfe": 6.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 179.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.9,
+    "selenium_mcg": 22.4,
+    "water_g": 74.7
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — chicken thigh contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Chicken thigh is low to moderate in sodium (93mg/100g raw) and saturated fat (1.5g/100g). Higher in fat than breast but still a lean protein choice overall. The fat profile includes beneficial monounsaturated fat (1.9g) comparable to olive oil.",
+      "guidance": "Chicken thigh is an acceptable protein for patients with hypertension. Slightly higher in saturated fat than breast (1.5g vs 0.3g per 100g) but within reasonable limits. Skin-on preparations significantly increase saturated fat and calories and should be limited."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Contains zero carbohydrate. Higher fat content than breast slightly reduces the insulin response to the meal, promoting longer satiety. Good protein source for muscle maintenance.",
+      "guidance": "Chicken thigh is a good choice for patients with type 2 diabetes who find breast meat too dry — the higher fat content (5.5g/100g) improves palatability and satiety without adding carbohydrates. Remove skin before eating to reduce saturated fat."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Slightly higher in zinc (1.9mg vs 0.8mg breast) and riboflavin (0.20mg vs 0.10mg). Dark meat (thigh) contains more haem iron (0.8mg vs 0.5mg breast) and myoglobin. The polyunsaturated fat (1.2g/100g) includes some omega-6 arachidonic acid, which is pro-inflammatory in excess.",
+      "guidance": "Chicken thigh is acceptable for patients with rheumatoid arthritis in moderate amounts. The slightly higher arachidonic acid content compared to breast is not significant at normal serving sizes. Higher flavour intensity makes it more palatable and supports dietary adherence."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Raw skinless boneless chicken thigh is dark poultry meat from the upper leg of the chicken. It contains approximately 4.5x more fat than chicken breast (5.5g vs 1.2g per 100g), resulting in a richer flavour, juicier texture, and greater moisture retention during cooking. Preferred over breast in many Southeast Asian preparations — nasi lemak ayam, chicken biryani, satay, sambal ayam, and rendang — because it does not dry out during long cooking. Higher in zinc, riboflavin, and iron than breast. Still contains zero carbohydrates. The fat is a mix of saturated (1.5g), monounsaturated (1.9g), and polyunsaturated (1.2g), making it a balanced fat profile at reasonable serving sizes.",
+    "common_user_queries": [
+      "chicken thigh calories raw",
+      "chicken thigh vs breast nutrition",
+      "chicken thigh fat content",
+      "skinless chicken thigh protein",
+      "is chicken thigh healthier than breast",
+      "chicken thigh for biryani"
+    ],
+    "meal_context": [
+      "biryani",
+      "chicken curry",
+      "satay",
+      "nasi lemak",
+      "stir-fry",
+      "grilled chicken"
+    ],
+    "ingredient_synonyms": {
+      "chicken thigh": [
+        "dark meat chicken",
+        "peha ayam",
+        "boneless thigh",
+        "thigh fillet"
+      ],
+      "chicken drumstick": [
+        "leg quarter (different cut — includes drumstick)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F11010031).",
+  "notes": "Values per 100g raw skinless boneless chicken thigh. Adding skin approximately doubles the fat content (to ~10–12g/100g) and increases saturated fat substantially. Chicken thigh is slightly more economical than breast in Singapore. Cooking loss is approximately 25–30%."
+}

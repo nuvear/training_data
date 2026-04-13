@@ -1,0 +1,153 @@
+{
+  "food_name": "Soya Beans / Soybeans (raw, dried, whole, yellow)",
+  "local_names": {
+    "chinese_simplified": "黄豆（生，干）",
+    "chinese_traditional": "黃豆（生，乾）",
+    "malay": "Kacang Soya (kering, mentah)",
+    "tamil": "சோயா பீன்ஸ் (உலர், பச்சை)"
+  },
+  "aliases": [
+    "soybeans",
+    "soya beans",
+    "yellow soybeans",
+    "dried soybeans",
+    "kacang soya",
+    "huang dou"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China (East Asia origin)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Soybeans (Glycine max), dried whole, yellow variety, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03315996",
+    "foodon_label": "Soybean",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A037N",
+    "foodex2_description": "Soybean (Glycine max), dried whole, raw",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "256346009",
+    "snomed_ct_description": "Soybean (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "unprocessed (dried whole seeds)",
+    "main_ingredients": [
+      "soybeans (Glycine max, yellow variety), dried whole"
+    ],
+    "allergens": [
+      "soy (a major food allergen in Singapore and globally)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry soybeans is a reference serving. Soybeans are rarely consumed as whole cooked beans — they are usually processed into tofu, soy milk, tempeh, miso, or edamame. 50g dry soybeans yields approximately 115–120g cooked."
+  },
+  "nutrient_source": {
+    "title": "Soya Beans — USDA SR Legacy, FoodData Central; soybeans, mature seeds, raw",
+    "organization": "USDA Agricultural Research Service — FoodData Central SR Legacy",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "USDA SR Legacy entry for soybeans, mature seeds, raw (FDC ID 174270). HPB Foodo does not list raw dried soybeans separately. Values per 100g dry raw soybeans."
+  },
+  "per_100g": {
+    "energy_kcal": 446.0,
+    "protein_g": 36.5,
+    "fat_g": 19.9,
+    "saturated_fat_g": 2.9,
+    "monounsaturated_fat_g": 4.4,
+    "polyunsaturated_fat_g": 11.3,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 30.2,
+    "sugar_g": 7.3,
+    "dietary_fibre_g": 9.3,
+    "sodium_mg": 2.0,
+    "potassium_mg": 1797.0,
+    "calcium_mg": 277.0,
+    "iron_mg": 15.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 6.0,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.87,
+    "vitamin_b2_riboflavin_mg": 0.87,
+    "vitamin_b3_niacin_mg": 1.6,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 375.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.9,
+    "phosphorus_mg": 704.0,
+    "magnesium_mg": 280.0,
+    "zinc_mg": 4.9,
+    "selenium_mcg": 17.8,
+    "water_g": 8.5
+  },
+  "glycemic_index": 15,
+  "glycemic_load_per_serving": 2.3,
+  "gi_source": "University of Sydney GI Database — GI of boiled soybeans (approximately 15). Dry soybean GI not applicable. Soybeans have one of the lowest GI values of all legumes due to very high protein content (~37%) and high fat content (~20%), which substantially slow gastric emptying and carbohydrate digestion. The carbohydrate content is also relatively low for a legume.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Highest potassium content of any common legume (1797mg/100g dry). Very high magnesium (280mg) and calcium (277mg). Very low sodium (2mg/100g). Soy isoflavones (genistein, daidzein) may also have modest blood pressure-reducing effects through endothelial function.",
+      "guidance": "Regular consumption of soy products (tofu, soy milk, tempeh) is associated with cardiovascular benefit including modest blood pressure reduction. For hypertensive patients, soy-based proteins are an excellent choice compared to salt-heavy processed foods."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Extremely low GI (~15) when boiled — among the lowest of any food. Very high protein (36.5g/100g dry) and healthy fat (19.9g), which together dramatically slow carbohydrate absorption. Soy isoflavones may also improve insulin sensitivity.",
+      "guidance": "Soybeans and soy products are recommended for patients with type 2 diabetes. Plain firm tofu, unsweetened soy milk, and tempeh are excellent daily protein sources. Fermented soy products (tempeh, miso in small amounts) provide additional health benefits."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Exceptional mineral content: highest magnesium (280mg), calcium (277mg), iron (15.7mg), phosphorus (704mg), zinc (4.9mg) of any common legume. Soy isoflavones have weak anti-inflammatory properties.",
+      "guidance": "Soy products are recommended for patients with rheumatoid arthritis as a complete plant protein source. Tofu and tempeh are the most accessible forms in Singapore. Note: some patients with thyroid conditions should moderate soy intake due to possible interference with thyroid hormone absorption when consumed in very large amounts."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Soybeans (Glycine max) are the foundational legume of East and Southeast Asian cuisines. Raw dried yellow soybeans are rarely consumed directly — they are almost universally processed: pressed for soy milk (and coagulated into tofu), fermented into tempeh, miso, natto, and soy sauce, or extruded into textured soy protein. Nutritionally extraordinary: 36.5g protein per 100g dry (the highest protein content of any common legume), 19.9g fat (predominantly polyunsaturated — linoleic and alpha-linolenic acids), and extremely low GI (~15). Very high in calcium (277mg), iron (15.7mg), potassium (1797mg), and magnesium (280mg). Contains isoflavones (genistein, daidzein) — plant oestrogens with modest cardiovascular and cancer-protective properties. The reference nutritional record for tofu, soy milk, tempeh, and all soy-based products.",
+    "common_user_queries": [
+      "soybean calories raw",
+      "soya beans protein content",
+      "soybeans vs chickpeas nutrition",
+      "soybean GI",
+      "is soy healthy",
+      "soy isoflavones health benefits",
+      "soybeans calcium content"
+    ],
+    "meal_context": [
+      "tofu (processed from soy)",
+      "soy milk",
+      "tempeh",
+      "miso",
+      "natto",
+      "edamame (fresh soy)"
+    ],
+    "ingredient_synonyms": {
+      "soybeans": [
+        "soya beans",
+        "kacang soya",
+        "huang dou",
+        "yellow soybeans"
+      ],
+      "edamame": [
+        "fresh green soybeans",
+        "young soybeans in pod"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "USDA SR Legacy exact match for soybeans, mature seeds, raw (FDC ID 174270).",
+  "notes": "Values per 100g dry raw soybeans. CRITICAL: Raw soybeans contain trypsin inhibitors and haemagglutinins that must be deactivated by thorough cooking (boiling 3–4 hours or pressure cooking 45–60 minutes). Soybeans are one of the 14 major allergens regulated in Singapore. Contains complete protein (all essential amino acids) — the only plant food to do so at comparable quality to animal proteins."
+}

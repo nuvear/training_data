@@ -1,0 +1,152 @@
+{
+  "food_name": "Chickpeas / Kabuli Chana (raw, dried, whole)",
+  "local_names": {
+    "hindi": "काबुली चना (कच्चा, सूखा)",
+    "urdu": "کابلی چنے (خشک)",
+    "tamil": "வெள்ளை கொண்டைக்கடலை (பச்சை, உலர்)",
+    "malay": "Kacang Chickpea / Kacang Arab (kering)"
+  },
+  "aliases": [
+    "chickpeas",
+    "kabuli chana",
+    "garbanzo beans",
+    "white chickpeas",
+    "chole",
+    "chick peas",
+    "Egyptian peas"
+  ],
+  "cuisine": "Indian / Middle Eastern",
+  "region_of_origin": "Middle East / Indian subcontinent",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Chickpeas (Cicer arietinum, kabuli type), whole, dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03315875",
+    "foodon_label": "Chickpea",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A037A",
+    "foodex2_description": "Chickpeas (Cicer arietinum), kabuli type, dried raw, whole",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "260188006",
+    "snomed_ct_description": "Chickpea (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "unprocessed (dried whole seeds)",
+    "main_ingredients": [
+      "chickpeas (Cicer arietinum, kabuli variety), dried whole"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry chickpeas (approximately ¼ cup) requires overnight soaking before cooking, yielding approximately 110g cooked chickpeas — a standard curry portion."
+  },
+  "nutrient_source": {
+    "title": "Chickpeas / Kabuli Chana — HPB Singapore Foodo Database, Food Code F09020014; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09020014 — Chickpeas, dried raw."
+  },
+  "per_100g": {
+    "energy_kcal": 378.0,
+    "protein_g": 20.5,
+    "fat_g": 6.0,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 1.3,
+    "polyunsaturated_fat_g": 2.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 62.9,
+    "sugar_g": 10.7,
+    "dietary_fibre_g": 17.4,
+    "sodium_mg": 24.0,
+    "potassium_mg": 875.0,
+    "calcium_mg": 105.0,
+    "iron_mg": 6.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 4.0,
+    "vitamin_a_mcg_rae": 3.0,
+    "vitamin_b1_thiamine_mg": 0.48,
+    "vitamin_b2_riboflavin_mg": 0.21,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.54,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 557.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 366.0,
+    "magnesium_mg": 115.0,
+    "zinc_mg": 3.4,
+    "selenium_mcg": 8.2,
+    "water_g": 11.5
+  },
+  "glycemic_index": 28,
+  "glycemic_load_per_serving": 8.8,
+  "gi_source": "University of Sydney GI Database — GI of boiled chickpeas (approximately 28). Dry chickpea GI not applicable. Very low GI characteristic of legumes with thick seed coat.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high in potassium (875mg/100g dry) and magnesium (115mg/100g). Very low sodium. Among the highest calcium content of common legumes (105mg/100g).",
+      "guidance": "Chickpeas are an excellent food for patients with hypertension. Regular consumption as part of a legume-rich diet is associated with reduced systolic and diastolic blood pressure."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low GI (~28) when boiled. Very high dietary fibre (17.4g/100g dry). Evidence-backed food for blood glucose control. The combination of resistant starch, protein, and soluble fibre creates a strong second-meal effect — moderating blood glucose at the next meal as well.",
+      "guidance": "Chickpeas are strongly recommended for patients with type 2 diabetes. Chana masala, hummus, roasted chickpeas as a snack, and chickpea salads are all excellent choices. Canned chickpeas (drained and rinsed) are a convenient alternative with similar GI."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high folate (557mcg DFE/100g dry) and zinc (3.4mg/100g). Anti-inflammatory properties. Good source of manganese which is important for cartilage formation.",
+      "guidance": "Chickpeas are highly recommended for patients with rheumatoid arthritis as a protein-rich legume. The folate content is especially important for patients on methotrexate. Regular legume consumption is associated with reduced inflammatory markers."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chickpeas (kabuli chana) are large, cream-coloured whole legumes (Cicer arietinum, kabuli variety). They require overnight soaking (8–12 hours) followed by 45–60 minutes of boiling or 20 minutes of pressure cooking. One of the world's most widely consumed legumes. In Indian cooking: chana masala, chole bhature, sundal, and hummus. Very high in dietary fibre (17.4g/100g dry), protein (20.5g), folate (557mcg DFE), and iron (6.2mg). Exceptionally low GI (~28). Distinct from smaller desi chickpeas (chana dal) which are used to make besan flour. The aquafaba (cooking liquid) from chickpeas is a vegan egg substitute.",
+    "common_user_queries": [
+      "chickpeas raw calories",
+      "kabuli chana protein",
+      "chickpeas GI",
+      "is chickpea good for diabetes",
+      "chana masala nutrition",
+      "canned vs dried chickpeas",
+      "chickpeas folate content"
+    ],
+    "meal_context": [
+      "chana masala",
+      "chole bhature",
+      "hummus",
+      "sundal",
+      "chickpea curry",
+      "salads"
+    ],
+    "ingredient_synonyms": {
+      "chickpeas": [
+        "kabuli chana",
+        "garbanzo beans",
+        "white chickpeas",
+        "chole"
+      ],
+      "desi chickpeas": [
+        "chana dal",
+        "Bengal gram"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F09020014).",
+  "notes": "Values per 100g dry whole chickpeas. Must be soaked 8–12 hours before cooking. Raw dried chickpeas must never be consumed uncooked — they contain lectins and other anti-nutritional factors that cause digestive distress. Canned chickpeas (drained) have approximately 40% lower sodium than canned with brine and are nutritionally comparable to home-cooked."
+}

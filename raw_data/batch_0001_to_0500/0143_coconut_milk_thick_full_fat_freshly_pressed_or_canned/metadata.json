@@ -1,0 +1,156 @@
+{
+  "food_name": "Coconut Milk, Thick (full-fat, freshly pressed or canned)",
+  "local_names": {
+    "malay": "Santan Pekat (segar atau dalam tin)",
+    "chinese_simplified": "椰浆 / 厚椰奶（全脂）",
+    "chinese_traditional": "椰漿 / 厚椰奶（全脂）",
+    "tamil": "தேங்காய் பால் (கெட்டி, முழு கொழுப்பு)"
+  },
+  "aliases": [
+    "coconut milk",
+    "thick coconut milk",
+    "full-fat coconut milk",
+    "santan",
+    "gata",
+    "pati santan"
+  ],
+  "cuisine": "SEA / South Indian",
+  "region_of_origin": "Southeast Asia / South India",
+  "food_group": "Fats and dairy",
+  "food_subgroup": "Coconut milk (plant-based fat/liquid), full-fat",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302695",
+    "foodon_label": "Coconut milk",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A10CA",
+    "foodex2_description": "Coconut milk, full-fat (first pressing / thick), freshly pressed or canned",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (first pressing of grated coconut flesh with water)",
+    "main_ingredients": [
+      "fresh coconut flesh (Cocos nucifera)",
+      "water"
+    ],
+    "allergens": [
+      "tree nuts (coconut is technically a tree nut — allergen in some jurisdictions)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "100ml (approximately 100g)",
+    "size_g": 100,
+    "natural_language_portion": "100ml of thick coconut milk is the typical amount used per serving of curry, laksa, or nasi lemak coconut rice. A standard 400ml can of coconut milk provides approximately 4 such servings."
+  },
+  "nutrient_source": {
+    "title": "Coconut Milk, Thick — HPB Singapore Foodo Database, Food Code F10060002; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F10060002 — Coconut Milk, thick (full-fat, first pressing)."
+  },
+  "per_100g": {
+    "energy_kcal": 197.0,
+    "protein_g": 2.3,
+    "fat_g": 21.3,
+    "saturated_fat_g": 18.9,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 2.8,
+    "sugar_g": 1.9,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 15.0,
+    "potassium_mg": 263.0,
+    "calcium_mg": 16.0,
+    "iron_mg": 3.3,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 2.8,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.03,
+    "vitamin_b2_riboflavin_mg": 0.0,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.03,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 16.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 100.0,
+    "magnesium_mg": 46.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 6.2,
+    "water_g": 68.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — thick coconut milk is primarily a fat source (21.3g fat/100g). The minimal carbohydrate content (2.8g/100g) produces negligible glycaemic response.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Thick coconut milk contains 18.9g saturated fat per 100g — one of the highest saturated fat concentrations of any cooking ingredient. Predominantly lauric acid (C12:0), which raises both LDL and HDL cholesterol. Regular consumption of coconut milk-heavy dishes (nasi lemak with coconut rice, rich laksa, rendang) significantly increases saturated fat intake above recommended limits (≤10% total energy).",
+      "guidance": "Patients with hypertension and dyslipidaemia should significantly limit coconut milk consumption. Use reduced-fat or light coconut milk (10% fat) as a substitute. Limit nasi lemak to once per week maximum. In curry cooking, consider using low-fat evaporated milk + coconut essence as a partial substitute. The lauric acid in coconut milk does raise HDL ('good') cholesterol alongside LDL, but the net cardiovascular effect of high coconut fat diets in non-traditional populations is unfavourable."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Very low in carbohydrate (2.8g/100g), so it does not directly raise blood glucose. However, the very high saturated fat (18.9g/100g) is associated with increased insulin resistance with regular consumption. High caloric density (197 kcal/100g) contributes to obesity risk.",
+      "guidance": "Patients with type 2 diabetes should use coconut milk sparingly. While it does not raise blood glucose, the saturated fat promotes insulin resistance and the caloric density contributes to weight gain — both major diabetes management concerns. Use light coconut milk (50% fat reduction) in cooking where possible."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Very high saturated fat (18.9g/100g). High saturated fat diets are associated with increased pro-inflammatory cytokines. However, lauric acid from coconut milk has shown some anti-inflammatory properties in laboratory studies. Good magnesium (46mg/100g) and iron (3.3mg/100g).",
+      "guidance": "Patients with rheumatoid arthritis should moderate coconut milk intake. Limit to 1–2 servings per week maximum. The anti-inflammatory dietary pattern for RA favours polyunsaturated fats (omega-3) over saturated fats. Replace coconut milk with low-fat coconut milk or almond milk in cooking where flavour allows."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Thick coconut milk is the first pressing of grated fresh coconut flesh (Cocos nucifera) mixed with a small amount of water, producing a rich, opaque, white liquid very high in saturated fat (predominantly lauric acid, C12:0). It is the essential base liquid for Singapore and Southeast Asian iconic dishes: nasi lemak coconut rice, laksa broth, rendang, opor ayam, and most Peranakan curries. Also used in South Indian fish and vegetable curries (meen kuzhambu, avial). Commercially, Kara brand canned coconut milk is the standard reference in Singapore. The extraordinarily high saturated fat content (18.9g/100g, predominantly lauric acid) is the primary nutritional concern — a single 100ml serving contains 18.9g saturated fat, nearly exceeding the entire daily saturated fat limit (20g) for a 2000 kcal diet.",
+    "common_user_queries": [
+      "coconut milk calories per 100ml",
+      "coconut milk saturated fat",
+      "is coconut milk healthy",
+      "coconut milk vs regular milk",
+      "santan nutrition",
+      "coconut milk and heart disease",
+      "coconut milk for diabetes"
+    ],
+    "meal_context": [
+      "nasi lemak",
+      "laksa",
+      "rendang",
+      "curry",
+      "Peranakan dishes",
+      "desserts (payasam, kolak)"
+    ],
+    "ingredient_synonyms": {
+      "coconut milk": [
+        "santan",
+        "thick coconut milk",
+        "pati santan",
+        "gata"
+      ],
+      "coconut cream": [
+        "very thick first pressing, higher fat than standard coconut milk"
+      ],
+      "light coconut milk": [
+        "reduced fat coconut milk",
+        "second pressing"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F10060002).",
+  "notes": "Values per 100g thick full-fat coconut milk. The saturated fat in coconut milk is predominantly lauric acid (C12:0), which behaves differently from long-chain saturated fats (palmitic, stearic) — it raises both LDL and HDL cholesterol. The net cardiovascular impact of lauric acid is debated but the consensus in major guidelines is to limit all saturated fat regardless of source. Light coconut milk (10% fat) is a practical substitution reducing saturated fat by ~50%."
+}

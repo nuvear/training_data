@@ -1,0 +1,153 @@
+{
+  "food_name": "Dried Rice Vermicelli / Bee Hoon (raw, uncooked)",
+  "local_names": {
+    "malay": "Bee Hoon / Bihun (kering, mentah)",
+    "chinese_simplified": "米粉（干，生）",
+    "chinese_traditional": "米粉（乾，生）",
+    "tamil": "அரிசி நூடுல்ஸ் (உலர்)"
+  },
+  "aliases": [
+    "bee hoon",
+    "bihun",
+    "dried rice noodles",
+    "rice vermicelli",
+    "thin rice noodles",
+    "sen mee",
+    "mifen"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China / Southeast Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Dried rice flour noodles, thin (vermicelli), raw uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301850",
+    "foodon_label": "Rice noodles, dried",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general 'rice noodles, dried' concept but no specific entry for thin bee hoon vermicelli. Closest parent used.",
+    "foodex2_code": "A00GR",
+    "foodex2_description": "Rice noodles, dried (bee hoon/rice vermicelli), thin, raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "processed (rice flour and water extruded into thin noodles and dried)",
+    "main_ingredients": [
+      "rice flour (from long-grain white rice)",
+      "water"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "75g dry",
+    "size_g": 75,
+    "natural_language_portion": "A standard dried rice vermicelli serving is 75g dry, which absorbs water to yield approximately 180–200g of cooked bee hoon — the typical hawker portion."
+  },
+  "nutrient_source": {
+    "title": "Dried Rice Vermicelli / Bee Hoon — USDA SR Legacy, rice noodles dry; cross-referenced with HPB Singapore Foodo",
+    "organization": "USDA Agricultural Research Service — FoodData Central SR Legacy; Health Promotion Board (HPB), Singapore",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "HPB Foodo does not have a specific dried rice vermicelli entry separate from cooked bee hoon. Values derived from USDA SR Legacy rice noodles, dry (FDC ID 168923) which matches the composition of dried bee hoon closely. Values per 100g dry uncooked noodle."
+  },
+  "per_100g": {
+    "energy_kcal": 364.0,
+    "protein_g": 6.0,
+    "fat_g": 0.6,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 80.1,
+    "sugar_g": 0.2,
+    "dietary_fibre_g": 1.9,
+    "sodium_mg": 34.0,
+    "potassium_mg": 65.0,
+    "calcium_mg": 9.0,
+    "iron_mg": 0.3,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.5,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 62.0,
+    "magnesium_mg": 24.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 14.2,
+    "water_g": 12.0
+  },
+  "glycemic_index": 61,
+  "glycemic_load_per_serving": 44.1,
+  "gi_source": "University of Sydney GI Database — GI of cooked rice vermicelli (~61). Dry rice vermicelli GI is not applicable. Cooked rice vermicelli has a moderate GI (~61), somewhat lower than jasmine rice due to the processing involved in noodle extrusion which partially modifies starch gelatinisation behaviour.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Dried bee hoon contains modest sodium (34mg/100g dry) and is not a major contributor to blood pressure. The sodium load in bee hoon dishes comes from cooking sauces (fish sauce, soy sauce, oyster sauce).",
+      "guidance": "Plain rice vermicelli is low-sodium. Patients with hypertension should limit the added sauces in bee hoon dishes and request reduced-sauce preparations at hawker stalls."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Cooked rice vermicelli has a moderate GI (~61). At a typical 75g dry / 180g cooked serving, the glycaemic load is substantial. Lower GI than jasmine rice but higher than most wholegrain options.",
+      "guidance": "Rice vermicelli dishes at hawker stalls are acceptable for patients with type 2 diabetes in moderate portions. Request to increase the vegetable and protein components (beansprouts, egg, tofu, prawns) relative to the noodle portion. Avoid sweet sauces added to mee siam."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Gluten-free. Nutritionally modest — low in anti-inflammatory micronutrients. Neutral for rheumatoid arthritis.",
+      "guidance": "Acceptable for patients with rheumatoid arthritis. Safe for those with concurrent gluten sensitivity. Does not provide significant anti-inflammatory benefit on its own; focus on the protein and vegetable components of the dish."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dried rice vermicelli (bee hoon/bihun) is a thin, dried noodle made from rice flour and water, extruded through small-diameter dies. In dried form, the noodles are brittle, opaque white strands. Before cooking they must be soaked in water for 15–30 minutes until softened, then drained and stir-fried or added to soups. Made from pure rice flour — completely gluten-free. A fundamental noodle in Singapore and SEA hawker cooking: mee siam, bee hoon goreng, Teochew fish soup bee hoon, laksa, and thin rice noodle salads. Nutritionally similar to white rice — high in starch with modest protein and minimal fibre. The GI when cooked (~61) is slightly lower than jasmine rice.",
+    "common_user_queries": [
+      "bee hoon calories dry",
+      "rice vermicelli nutrition",
+      "is bee hoon gluten free",
+      "rice noodles vs wheat noodles",
+      "bee hoon GI",
+      "dried bee hoon carbs per 100g"
+    ],
+    "meal_context": [
+      "mee siam",
+      "bee hoon goreng",
+      "fish soup",
+      "laksa",
+      "pad thai",
+      "spring rolls"
+    ],
+    "ingredient_synonyms": {
+      "bee hoon": [
+        "bihun",
+        "rice vermicelli",
+        "thin rice noodles",
+        "sen mee",
+        "mifen"
+      ],
+      "dried rice noodles": [
+        "dried bee hoon",
+        "dry rice vermicelli"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact HPB Foodo entry for dried bee hoon raw. Values from USDA SR Legacy (rice noodles, dry) which closely matches the ingredient. Cross-referenced with general rice flour composition.",
+  "notes": "Values per 100g dry uncooked bee hoon. Gluten-free but may be manufactured in facilities with wheat products. Cooked bee hoon weighs approximately 2.4x the dry weight after soaking and cooking. Distinct from glass noodles (cellophane noodles made from mung bean starch), which have a different texture and slightly different nutritional profile."
+}

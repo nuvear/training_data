@@ -1,0 +1,149 @@
+{
+  "food_name": "Mutton / Lamb (raw, bone-in, average mixed cut)",
+  "local_names": {
+    "malay": "Daging Kambing (mentah, bertulang)",
+    "hindi": "मटन (कच्चा, हड्डी सहित)",
+    "tamil": "ஆட்டு இறைச்சி (பச்சை, எலும்பு உடன்)",
+    "urdu": "گوشت (کچا)"
+  },
+  "aliases": [
+    "mutton raw",
+    "lamb raw",
+    "goat meat raw",
+    "daging kambing",
+    "bone-in mutton"
+  ],
+  "cuisine": "Indian / Malay",
+  "region_of_origin": "Middle East / Indian subcontinent / Global",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Mutton/lamb, raw, bone-in, average mixed cut",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302349",
+    "foodon_label": "Lamb meat",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has lamb as a general concept but not specific bone-in mutton mixed cut. Closest parent used.",
+    "foodex2_code": "A04LA",
+    "foodex2_description": "Sheep/lamb meat, bone-in, mixed cut, raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh meat with bone)",
+    "main_ingredients": [
+      "mutton/lamb (Ovis aries) bone-in, mixed cuts (leg, shoulder, rib average)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "150g raw with bone",
+    "size_g": 150,
+    "natural_language_portion": "150g raw bone-in mutton yields approximately 100g edible cooked meat after bone removal and cooking shrinkage — a standard Indian curry or biryani portion."
+  },
+  "nutrient_source": {
+    "title": "Mutton (raw, bone-in) — HPB Singapore Foodo Database, Food Code F06050022; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F06050022 — Mutton, raw, bone-in, average cut."
+  },
+  "per_100g": {
+    "energy_kcal": 145.0,
+    "protein_g": 17.9,
+    "fat_g": 8.1,
+    "saturated_fat_g": 3.7,
+    "monounsaturated_fat_g": 3.3,
+    "polyunsaturated_fat_g": 0.7,
+    "trans_fat_g": 0.3,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 72.0,
+    "potassium_mg": 284.0,
+    "calcium_mg": 17.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 76.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.11,
+    "vitamin_b2_riboflavin_mg": 0.25,
+    "vitamin_b3_niacin_mg": 5.7,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 2.2,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 180.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 4.2,
+    "selenium_mcg": 12.7,
+    "water_g": 72.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — mutton contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Mutton has moderate saturated fat (3.7g/100g bone-in raw — higher on boneless basis). Regular heavy consumption of red meat including mutton is associated with adverse cardiovascular outcomes. Preparations such as mutton biryani and mutton curry typically add significant sodium from spice blends and salt.",
+      "guidance": "Patients with hypertension should limit mutton to 1–2 servings per week and select lean pieces over fatty cuts. Avoid heavy coconut milk-based mutton preparations which add significant saturated fat. Prefer dry-spiced preparations or watery curry bases over rich korma-style dishes."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Zero carbohydrate. Good source of protein (17.9g/100g bone-in raw) and zinc (4.2mg). Red meat consumption (including mutton) at moderate levels (2–3 servings/week) is acceptable for patients with type 2 diabetes.",
+      "guidance": "Mutton is acceptable for patients with type 2 diabetes in moderate amounts. The protein content supports muscle maintenance and glycaemic control. Select lean cuts and trim visible fat. Avoid processed mutton products (sausages, preserved mutton) which add sodium."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Very high in zinc (4.2mg/100g) and vitamin B12 (2.2mcg/100g). Contains arachidonic acid (omega-6 precursor) which may contribute to inflammation at very high intakes. Red meat consumption is associated with modestly increased inflammatory markers.",
+      "guidance": "Mutton is acceptable 1–2 times per week for patients with rheumatoid arthritis. Its zinc and B12 content are beneficial. For patients with active joint inflammation, reducing red meat to once per week and replacing with oily fish (salmon, mackerel) provides anti-inflammatory omega-3 benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mutton refers to meat from adult sheep (over 1 year) in Singapore and South Asian contexts, though the term is sometimes applied loosely to goat meat. Distinguished from lamb (meat from animals under 1 year). Bone-in mixed cut values represent an average across leg, shoulder, and rib/rack cuts — the most commonly sold configuration at Singapore halal butchers and Indian wet market stalls. Higher in saturated fat than chicken but lower than pork belly. Notable zinc (4.2mg/100g) and vitamin B12 (2.2mcg/100g) content. Used in mutton biryani, mutton curry, sambal kambing, and the festive Eid al-Adha preparations. Halal-certified. The trans fat content (0.3g/100g) is from naturally occurring vaccenic acid in ruminant fat — considered less harmful than industrial trans fats.",
+    "common_user_queries": [
+      "mutton calories raw",
+      "mutton protein per 100g",
+      "mutton vs chicken nutrition",
+      "is mutton healthy",
+      "mutton zinc content",
+      "how often to eat mutton",
+      "mutton biryani healthy"
+    ],
+    "meal_context": [
+      "mutton biryani",
+      "mutton curry",
+      "mutton soup",
+      "sambal kambing",
+      "mutton rendang"
+    ],
+    "ingredient_synonyms": {
+      "mutton": [
+        "lamb (younger animal)",
+        "goat meat (in some contexts)",
+        "daging kambing"
+      ],
+      "bone-in mutton": [
+        "chops",
+        "ribs",
+        "shoulder pieces",
+        "leg pieces"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F06050022).",
+  "notes": "Values per 100g raw bone-in mutton. Bone content in bone-in cuts is typically 20–35% by weight, meaning the edible meat per 100g bone-in is approximately 65–80g. Trans fat (0.3g/100g) is naturally occurring vaccenic acid from ruminant fat — not industrially produced — and is considered less harmful. Halal-certified. Not kosher (pork products are kosher-prohibited but beef and lamb require specific slaughter method)."
+}

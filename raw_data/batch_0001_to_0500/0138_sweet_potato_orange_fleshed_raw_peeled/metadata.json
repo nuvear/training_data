@@ -1,0 +1,149 @@
+{
+  "food_name": "Sweet Potato, Orange-fleshed (raw, peeled)",
+  "local_names": {
+    "malay": "Keledek Oren / Ubi Keledek (mentah, kupas)",
+    "chinese_simplified": "红薯 / 番薯（橙肉，生，去皮）",
+    "chinese_traditional": "紅薯 / 番薯（橙肉，生，去皮）",
+    "tamil": "சர்க்கரை வள்ளிக்கிழங்கு (ஆரஞ்சு, பச்சை)"
+  },
+  "aliases": [
+    "sweet potato raw",
+    "orange sweet potato",
+    "kumara",
+    "keledek",
+    "Ipomoea batatas",
+    "tan sweet potato"
+  ],
+  "cuisine": "Global / Asian",
+  "region_of_origin": "Americas (widely cultivated across Asia)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Root and tuber vegetables (starchy), raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310801",
+    "foodon_label": "Sweet potato",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14GA",
+    "foodex2_description": "Sweet potato (Ipomoea batatas), orange-fleshed, raw, peeled",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "229994003",
+    "snomed_ct_description": "Sweet potato (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, peeled)",
+    "main_ingredients": [
+      "sweet potato (Ipomoea batatas), orange-fleshed variety, raw, peeled"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 medium sweet potato = approximately 130g raw peeled",
+    "size_g": 130,
+    "natural_language_portion": "A medium orange sweet potato weighs approximately 130g raw peeled. Boiled/baked sweet potato makes a standard carbohydrate side dish portion."
+  },
+  "nutrient_source": {
+    "title": "Sweet Potato, Orange-fleshed (raw) — HPB Singapore Foodo Database, Food Code F14070005; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14070005 — Sweet Potato, orange-fleshed, raw, peeled."
+  },
+  "per_100g": {
+    "energy_kcal": 86.0,
+    "protein_g": 1.6,
+    "fat_g": 0.1,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 20.1,
+    "sugar_g": 4.2,
+    "dietary_fibre_g": 3.0,
+    "sodium_mg": 55.0,
+    "potassium_mg": 337.0,
+    "calcium_mg": 30.0,
+    "iron_mg": 0.6,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 2.4,
+    "vitamin_a_mcg_rae": 961.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.29,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 11.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 47.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 0.3,
+    "selenium_mcg": 0.6,
+    "water_g": 77.3
+  },
+  "glycemic_index": 61,
+  "glycemic_load_per_serving": 15.9,
+  "gi_source": "University of Sydney GI Database — GI of boiled orange sweet potato (approximately 61). Raw sweet potato GI not applicable. The GI varies considerably by cooking method: boiled ~61, baked ~94, fried higher. Boiling preserves more fibre integrity and produces a lower GI than baking or frying.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Good potassium (337mg/100g) relative to sodium (55mg/100g). Extraordinary vitamin A (961mcg RAE/100g) from beta-carotene. Dietary fibre (3.0g/100g) supports cardiovascular health.",
+      "guidance": "Sweet potato is an excellent carbohydrate alternative for patients with hypertension. Lower GI than white rice when boiled and provides substantial beta-carotene and potassium. Avoid sweet potato preparations with added coconut milk or sugar (goreng keledek, sweet potato tong sui with sugar) which add calories and may add sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Moderate GI (~61) when boiled — significantly lower than white rice (~73) and particularly much lower than baked sweet potato (~94). The GI is highly cooking-method-dependent. The fibre (3.0g/100g) and high water content contribute to lower glycaemic impact than white rice at equivalent portions.",
+      "guidance": "Boiled sweet potato is a preferred carbohydrate substitute for white rice in diabetic meal planning. Eating with the skin on (where possible) increases fibre. Limit portion to 130–150g cooked. Avoid baked, fried, or candied sweet potato preparations which have much higher GI and calorie content."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Extraordinary beta-carotene content (961mcg RAE/100g) — higher than carrot. Beta-carotene is a major antioxidant carotenoid reducing oxidative stress in inflamed joint tissue. Orange sweet potato also contains anthocyanins and other anti-inflammatory polyphenols.",
+      "guidance": "Sweet potato is highly recommended for patients with rheumatoid arthritis as a carbohydrate source with high antioxidant content. The exceptional beta-carotene content makes it superior to white potato as a carbohydrate staple for anti-inflammatory dietary patterns."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Orange-fleshed sweet potato (Ipomoea batatas) is a starchy root vegetable with a naturally sweet flavour and intense orange flesh from beta-carotene. At 961mcg RAE vitamin A per 100g, it is one of the richest dietary sources of beta-carotene — substantially higher than carrot. With 20.1g carbohydrate/100g raw, it is a moderate-carbohydrate food with a useful GI of ~61 when boiled (lower than white rice). The fibre content (3.0g/100g) contributes to satiety. Commonly consumed in Singapore as goreng keledek (fried sweet potato fritters), steamed whole, in tong sui (sweet dessert soup), and as a roasted carbohydrate alternative to rice or potatoes in health-conscious meal preparations.",
+    "common_user_queries": [
+      "sweet potato calories raw",
+      "sweet potato GI",
+      "sweet potato vs white potato",
+      "is sweet potato good for diabetes",
+      "sweet potato vitamin A",
+      "boiled vs baked sweet potato GI",
+      "sweet potato fibre content"
+    ],
+    "meal_context": [
+      "goreng keledek",
+      "sweet potato tong sui",
+      "boiled sweet potato",
+      "roasted sweet potato",
+      "sweet potato porridge"
+    ],
+    "ingredient_synonyms": {
+      "sweet potato": [
+        "keledek",
+        "kumara",
+        "Ipomoea batatas",
+        "yam (colloquial in Singapore — not true yam)"
+      ],
+      "orange sweet potato": [
+        "tan sweet potato",
+        "Beauregard sweet potato"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14070005).",
+  "notes": "Values per 100g raw peeled orange sweet potato. The GI is highly cooking-method-dependent — boiled in skin (~61) vs baked (~94) vs fried (~>90). The high starch gelatinisation at high dry-heat temperatures (baking) dramatically increases GI. Sweet potato in Singapore is often loosely called 'yam' but is botanically distinct from true yam (Dioscorea spp.)."
+}

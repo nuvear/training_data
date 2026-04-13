@@ -1,0 +1,153 @@
+{
+  "food_name": "Wholegrain Wheat Flour / Atta (stone-ground)",
+  "local_names": {
+    "hindi": "आटा (चक्की आटा)",
+    "urdu": "آٹا",
+    "malay": "Tepung Gandum Penuh",
+    "tamil": "கோதுமை மாவு (முழு தானியம்)"
+  },
+  "aliases": [
+    "whole wheat flour",
+    "atta",
+    "chakki atta",
+    "chapati flour",
+    "Indian whole wheat flour",
+    "wholemeal flour",
+    "stone-ground wheat flour"
+  ],
+  "cuisine": "Indian / Global",
+  "region_of_origin": "Indian subcontinent (primary use for flatbreads)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Wholegrain wheat flour, dry raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03307568",
+    "foodon_label": "Whole wheat flour",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00BB",
+    "foodex2_description": "Wheat flour, whole grain (wholemeal), stone-ground or roller-milled",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226529005",
+    "snomed_ct_description": "Wholewheat flour (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "minimally processed (stone-ground or roller-milled, bran and germ retained)",
+    "main_ingredients": [
+      "whole wheat grain (Triticum aestivum), stone-ground into flour"
+    ],
+    "allergens": [
+      "gluten (wheat)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "30g (enough for 1 chapati)",
+    "size_g": 30,
+    "natural_language_portion": "Approximately 30g of wholegrain atta is the amount needed to make one standard chapati. For roti making, typically 2–3 chapatis (60–90g flour) is a meal portion."
+  },
+  "nutrient_source": {
+    "title": "Wholegrain Wheat Flour / Atta — HPB Singapore Foodo Database, Food Code F05040018; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05040018 — Wholegrain Wheat Flour. Cross-referenced with ICMR-NIN whole wheat flour data for micronutrient validation."
+  },
+  "per_100g": {
+    "energy_kcal": 339.0,
+    "protein_g": 13.3,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 1.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 64.8,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 11.2,
+    "sodium_mg": 2.0,
+    "potassium_mg": 405.0,
+    "calcium_mg": 34.0,
+    "iron_mg": 3.9,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.45,
+    "vitamin_b2_riboflavin_mg": 0.22,
+    "vitamin_b3_niacin_mg": 5.5,
+    "vitamin_b6_mg": 0.41,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 44.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.6,
+    "phosphorus_mg": 357.0,
+    "magnesium_mg": 138.0,
+    "zinc_mg": 2.9,
+    "selenium_mcg": 70.7,
+    "water_g": 13.2
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 12.5,
+  "gi_source": "University of Sydney GI Database — GI of chapati made from wholegrain atta flour (cooked). Dry flour GI is not applicable. Wholegrain chapati has a moderate GI (~62) lower than white bread (GI ~70) due to intact fibre and bran components slowing starch digestion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Wholegrain atta is high in dietary fibre (11.2g/100g) and magnesium (138mg/100g) — both associated with blood pressure reduction through arterial relaxation mechanisms. Low sodium content (2mg/100g).",
+      "guidance": "Whole wheat chapati is recommended over white bread or refined flour preparations for patients with hypertension. The fibre, potassium, and magnesium content contribute to a heart-healthy dietary pattern. Avoid adding excessive salt or ghee when making chapati."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Cooked wholegrain chapati has a moderate GI (~62) significantly lower than white bread (~70) or maida-based preparations. High fibre (11.2g/100g) slows digestion and blunts postprandial blood glucose spikes. A reliable everyday grain for South Asian diabetic patients who eat rotis.",
+      "guidance": "Wholegrain atta chapati is one of the most recommended staple foods for Indian patients with type 2 diabetes. 2–3 small chapatis (60–90g flour) per meal is a reasonable portion. Stone-ground (chakki atta) retains more bran than roller-milled flour and has a lower GI."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Wholegrain atta is a good source of magnesium (138mg/100g) and selenium (70.7mcg/100g) — both important for immune function and antioxidant defences. Not inflammatory at regular portions.",
+      "guidance": "Wholegrain chapati is recommended for patients with rheumatoid arthritis as a low-GI grain with useful micronutrients. Note that wheat contains gluten; if the patient has concurrent coeliac disease or non-coeliac gluten sensitivity, wheat must be avoided entirely."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Wholegrain wheat flour (atta) is flour milled from the entire wheat grain — bran, endosperm, and germ intact. Stone-ground atta (chakki atta) preserves more of the phytonutrients and bran structure than roller-milled wholemeal flour. Atta is finely milled to a soft, slightly coarse texture ideal for rolling out unleavened flatbreads (chapati, roti, paratha). With 13.3g protein per 100g, 11.2g dietary fibre, and a range of B vitamins, it is nutritionally superior to refined white flour (maida). The protein includes gluten, which provides the elasticity needed for dough. Widely sold in Singapore at Indian provision shops and major supermarkets as '5kg atta flour' (Aashirvaad, Pillsbury, Pride brands).",
+    "common_user_queries": [
+      "atta flour calories per 100g",
+      "whole wheat flour nutrition",
+      "atta vs maida",
+      "chapati flour GI",
+      "wholegrain flour protein content",
+      "is atta better than maida for diabetes"
+    ],
+    "meal_context": [
+      "chapati",
+      "roti",
+      "paratha",
+      "Indian breads",
+      "South Asian cooking"
+    ],
+    "ingredient_synonyms": {
+      "atta": [
+        "whole wheat flour",
+        "chakki atta",
+        "chapati flour",
+        "wholemeal flour",
+        "stone-ground wheat"
+      ],
+      "maida": [
+        "all-purpose flour",
+        "refined wheat flour"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Foodo (F05040018), cross-referenced with ICMR-NIN whole wheat flour data.",
+  "notes": "Values are per 100g dry flour. Contains gluten — not safe for coeliac disease. Stone-ground atta (chakki atta) is nutritionally preferable to roller-milled wholemeal flour as it better preserves the bran and germ structure. Different from maida (refined white wheat flour) which has had the bran and germ removed."
+}

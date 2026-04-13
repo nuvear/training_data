@@ -1,0 +1,152 @@
+{
+  "food_name": "Red Lentils / Masoor Dal (raw, dried)",
+  "local_names": {
+    "hindi": "मसूर दाल (कच्ची)",
+    "urdu": "مسور دال (خشک)",
+    "tamil": "மசூர் பருப்பு (பச்சை, உலர்)",
+    "malay": "Kacang Merah Kecil (kering, mentah)"
+  },
+  "aliases": [
+    "masoor dal",
+    "red lentils",
+    "split red lentils",
+    "orange lentils",
+    "pink lentils",
+    "Egyptian lentils",
+    "masur dal"
+  ],
+  "cuisine": "Indian / Global",
+  "region_of_origin": "Middle East / Indian subcontinent",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Red lentils (Lens culinaris), split, dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316097",
+    "foodon_label": "Red lentil",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A037U",
+    "foodex2_description": "Lentils, split red/orange (masoor dal), raw dried",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "minimally processed (dried, hulled, split)",
+    "main_ingredients": [
+      "red lentils (Lens culinaris subsp. culinaris), split, dehusked"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry masoor dal (approximately ¼ cup) yields approximately 100–120g cooked lentils — a standard side dish portion or component of a dal curry serving."
+  },
+  "nutrient_source": {
+    "title": "Red Lentils / Masoor Dal — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with USDA SR Legacy",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); USDA Agricultural Research Service",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Masoor Dal (dried, split). Cross-referenced with USDA SR Legacy lentils raw (FDC ID 172420). Values per 100g dry raw lentils."
+  },
+  "per_100g": {
+    "energy_kcal": 353.0,
+    "protein_g": 25.1,
+    "fat_g": 1.1,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 59.1,
+    "sugar_g": 2.0,
+    "dietary_fibre_g": 10.7,
+    "sodium_mg": 6.0,
+    "potassium_mg": 677.0,
+    "calcium_mg": 19.0,
+    "iron_mg": 7.6,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 3.4,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.47,
+    "vitamin_b2_riboflavin_mg": 0.24,
+    "vitamin_b3_niacin_mg": 2.6,
+    "vitamin_b6_mg": 0.54,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 479.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 451.0,
+    "magnesium_mg": 47.0,
+    "zinc_mg": 3.3,
+    "selenium_mcg": 8.3,
+    "water_g": 11.5
+  },
+  "glycemic_index": 26,
+  "glycemic_load_per_serving": 7.7,
+  "gi_source": "University of Sydney GI Database — GI of boiled red lentils (approximately 26). Dry lentil GI is not applicable. Red lentils have one of the lowest GI values of all foods due to their high protein and fibre content creating a viscous gel that dramatically slows carbohydrate digestion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high in potassium (677mg/100g dry) and magnesium (47mg/100g) — both clinically associated with blood pressure reduction. Extremely low in sodium (6mg/100g). Rich in folate which supports vascular endothelial function.",
+      "guidance": "Masoor dal is one of the most cardiovascular-friendly foods available. Daily inclusion of lentil-based dishes (dal) is recommended for patients with hypertension. The potassium-to-sodium ratio is exceptionally favourable. Cook without adding excessive salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Red lentils have an exceptionally low GI (~26) when boiled. Very high in dietary fibre (10.7g/100g dry) and protein (25.1g). One of the most evidence-backed foods for postprandial blood glucose control.",
+      "guidance": "Masoor dal is strongly recommended for patients with type 2 diabetes as a daily protein and fibre source. Replacing part of the rice or roti portion with dal reduces the overall meal glycaemic load substantially. Paired with vegetables, dal provides a complete meal with minimal glycaemic impact."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Extraordinarily high in folate (479mcg DFE/100g dry) — essential for one-carbon metabolism and immune regulation. Substantial iron (7.6mg) and zinc (3.3mg). Lentils provide plant-based anti-inflammatory compounds.",
+      "guidance": "Red lentils are highly recommended for patients with rheumatoid arthritis as a daily protein source. Folate supplementation is often recommended alongside methotrexate treatment for RA — dietary folate from lentils and other pulses complements this. Anti-inflammatory spicing with turmeric and ginger further enhances the therapeutic value of dal dishes."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Red lentils (masoor dal) are small, orange-red, split and dehusked lentils (Lens culinaris). They cook quickly without soaking — unlike whole pulses — because their outer hull has been removed. When boiled, they collapse and form a thick, creamy orange porridge-like texture ideal for dal curries and soups. Among the most protein-dense plant foods (25.1g/100g dry) with an exceptionally low GI (~26). Extraordinarily high in folate (479mcg DFE/100g) — making them one of the richest folate sources in the food supply. Used throughout India, Bangladesh, the Middle East, and increasingly worldwide. Common in Singapore Indian and Pakistani restaurants as dal soup or masoor dal curry.",
+    "common_user_queries": [
+      "masoor dal calories raw",
+      "red lentils protein per 100g",
+      "masoor dal GI for diabetes",
+      "lentils iron content",
+      "red lentils folate",
+      "how long to cook masoor dal",
+      "is masoor dal good for weight loss"
+    ],
+    "meal_context": [
+      "dal curry",
+      "lentil soup",
+      "khichdi",
+      "masoor dal recipe",
+      "Indian vegetarian protein"
+    ],
+    "ingredient_synonyms": {
+      "masoor dal": [
+        "red lentils",
+        "split red lentils",
+        "orange lentils",
+        "pink lentils",
+        "Egyptian lentils"
+      ],
+      "whole masoor": [
+        "brown lentils",
+        "masur (whole)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Masoor Dal (dried), cross-referenced with USDA SR Legacy.",
+  "notes": "Values per 100g dry raw split masoor dal. Cook quickly without soaking (15–20 minutes boiling). The iron in lentils is non-haem iron with lower bioavailability than haem iron — consuming with vitamin C-rich foods (tomato, lime) enhances absorption. Boiling reduces anti-nutritional factors (phytates, trypsin inhibitors) and increases iron/zinc bioavailability."
+}

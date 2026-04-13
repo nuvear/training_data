@@ -1,0 +1,151 @@
+{
+  "food_name": "Long Bean / Yard-long Bean (raw)",
+  "local_names": {
+    "malay": "Kacang Panjang (mentah)",
+    "chinese_simplified": "豆角 / 长豆角（生）",
+    "chinese_traditional": "豆角 / 長豆角（生）",
+    "tamil": "நீள் பீன்ஸ் / தட்ட பயறு (பச்சை)"
+  },
+  "aliases": [
+    "long bean raw",
+    "yard-long bean",
+    "snake bean",
+    "kacang panjang",
+    "asparagus bean",
+    "Vigna unguiculata subsp. sesquipedalis",
+    "dou jiao"
+  ],
+  "cuisine": "Chinese / SEA / Indian",
+  "region_of_origin": "Southeast Asia / South China",
+  "food_group": "Vegetables",
+  "food_subgroup": "Legume vegetables (pod with seeds), raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03309334",
+    "foodon_label": "Long bean",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14BA",
+    "foodex2_description": "Long bean / yard-long bean (Vigna unguiculata subsp. sesquipedalis), raw",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, ends trimmed)",
+    "main_ingredients": [
+      "long bean (Vigna unguiculata subsp. sesquipedalis), fresh raw pods"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup chopped = approximately 100g",
+    "size_g": 100,
+    "natural_language_portion": "A standard portion of long beans for stir-fry or sambal is approximately 100g raw (ends trimmed, cut into 5cm pieces)."
+  },
+  "nutrient_source": {
+    "title": "Long Bean / Yard-long Bean (raw) — HPB Singapore Foodo Database, Food Code F09020020; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09020020 — Long Bean, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 47.0,
+    "protein_g": 2.8,
+    "fat_g": 0.3,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 8.3,
+    "sugar_g": 4.1,
+    "dietary_fibre_g": 3.6,
+    "sodium_mg": 4.0,
+    "potassium_mg": 240.0,
+    "calcium_mg": 50.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 18.8,
+    "vitamin_a_mcg_rae": 26.0,
+    "vitamin_b1_thiamine_mg": 0.11,
+    "vitamin_b2_riboflavin_mg": 0.11,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.02,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 62.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 59.0,
+    "magnesium_mg": 44.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 1.2,
+    "water_g": 87.8
+  },
+  "glycemic_index": 46,
+  "glycemic_load_per_serving": 3.8,
+  "gi_source": "University of Sydney GI Database — GI of long beans / yard-long beans (approximately 46). Long beans have a moderate GI but a very low glycaemic load per serving due to their modest carbohydrate content and high fibre.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (4mg/100g) — among the lowest of vegetables. Good potassium (240mg/100g), calcium (50mg/100g), and magnesium (44mg/100g). An affordable, widely available vegetable for Singapore patients.",
+      "guidance": "Long beans are excellent for patients with hypertension. Very low in sodium, moderate in potassium. Include in regular stir-fry rotation. Sambal long bean preparations add sodium from sambal sauce; request reduced sauce versions."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Moderate GI (~46) with very low glycaemic load (GL ~3.8 per 100g). High dietary fibre (3.6g/100g) slows digestion. A good carbohydrate-containing vegetable that can replace some of the rice/noodle component in a meal.",
+      "guidance": "Long beans are an excellent vegetable choice for patients with type 2 diabetes. The moderate GI and low glycaemic load make them superior to rice as a carbohydrate component. Include in daily vegetable intake with generous portions."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Good folate (62mcg DFE/100g) and vitamin C (18.8mg/100g). Magnesium (44mg/100g) is notably higher than most vegetables. Legume family — contains similar anti-inflammatory compounds to dried pulses.",
+      "guidance": "Long beans are a nutritionally valuable vegetable for patients with rheumatoid arthritis. The folate content complements the dietary folate requirement for patients on methotrexate. Include in the weekly vegetable rotation alongside leafy greens."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Long beans (kacang panjang, yard-long bean, Vigna unguiculata subsp. sesquipedalis) are slender, elongated green pod vegetables commonly sold in bundles at Singapore wet markets. They are the most commonly used green bean in Chinese and Malay Singapore hawker cooking. Distinct from French beans (shorter, thinner, from Phaseolus vulgaris) and from edamame. Moderate carbohydrate content (8.3g/100g) but high dietary fibre (3.6g/100g) and moderate GI (~46) with a very low glycaemic load per serving (~3.8). Good source of folate (62mcg DFE/100g), calcium (50mg/100g), and magnesium (44mg/100g). Used in sambal kacang panjang (the most iconic preparation), stir-fried with garlic, curries, and as a side vegetable in economy rice.",
+    "common_user_queries": [
+      "long bean calories",
+      "kacang panjang nutrition",
+      "long bean vs green bean",
+      "long bean fibre content",
+      "long bean GI",
+      "long bean folate",
+      "yard-long bean nutrition"
+    ],
+    "meal_context": [
+      "sambal long bean",
+      "stir-fried long bean",
+      "curry",
+      "economy rice",
+      "lontong"
+    ],
+    "ingredient_synonyms": {
+      "long bean": [
+        "yard-long bean",
+        "snake bean",
+        "kacang panjang",
+        "asparagus bean",
+        "dou jiao"
+      ],
+      "French bean": [
+        "haricot vert",
+        "string bean — shorter, different species"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F09020020).",
+  "notes": "Values per 100g raw long beans, ends trimmed. The GI of long beans (~46) is moderate — lower than starchy tubers, reflecting the legume family characteristics. Higher fibre (3.6g/100g) and lower starch than most vegetables. Can be eaten raw in salads (rujak) or cooked — typical Singapore use is stir-fried or braised."
+}

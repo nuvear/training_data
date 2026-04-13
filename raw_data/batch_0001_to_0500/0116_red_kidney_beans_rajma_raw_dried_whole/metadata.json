@@ -1,0 +1,148 @@
+{
+  "food_name": "Red Kidney Beans / Rajma (raw, dried, whole)",
+  "local_names": {
+    "hindi": "राजमा (कच्चा, सूखा)",
+    "punjabi": "ਰਾਜਮਾ (ਕੱਚਾ)",
+    "tamil": "சிவப்பு அவரை (உலர்)",
+    "malay": "Kacang Merah (besar, kering)"
+  },
+  "aliases": [
+    "rajma",
+    "red kidney beans",
+    "red beans",
+    "kidney beans",
+    "large red beans",
+    "haricot rouge"
+  ],
+  "cuisine": "Indian (North) / Global",
+  "region_of_origin": "Americas (Mesoamerica); widely adopted in North India and globally",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Kidney beans (Phaseolus vulgaris), dried raw, whole",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316085",
+    "foodon_label": "Kidney bean",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A037P",
+    "foodex2_description": "Kidney beans (Phaseolus vulgaris), red, dried raw, whole",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "260196007",
+    "snomed_ct_description": "Kidney bean (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "unprocessed (dried whole seeds)",
+    "main_ingredients": [
+      "red kidney beans (Phaseolus vulgaris), dried whole"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry kidney beans requires overnight soaking and must be vigorously boiled before consumption. Yields approximately 110g cooked — a standard serving in rajma curry."
+  },
+  "nutrient_source": {
+    "title": "Red Kidney Beans / Rajma — HPB Singapore Foodo Database, Food Code F09020019; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09020019 — Red Kidney Beans, dried raw."
+  },
+  "per_100g": {
+    "energy_kcal": 337.0,
+    "protein_g": 22.5,
+    "fat_g": 1.1,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 61.3,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 24.9,
+    "sodium_mg": 12.0,
+    "potassium_mg": 1406.0,
+    "calcium_mg": 143.0,
+    "iron_mg": 8.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.53,
+    "vitamin_b2_riboflavin_mg": 0.22,
+    "vitamin_b3_niacin_mg": 2.1,
+    "vitamin_b6_mg": 0.4,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 394.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 406.0,
+    "magnesium_mg": 138.0,
+    "zinc_mg": 2.8,
+    "selenium_mcg": 3.2,
+    "water_g": 11.8
+  },
+  "glycemic_index": 24,
+  "glycemic_load_per_serving": 7.4,
+  "gi_source": "University of Sydney GI Database — GI of boiled red kidney beans (approximately 24). Dry kidney bean GI not applicable. Extremely low GI — one of the lowest of all legumes due to very thick seed coat and high resistant starch content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Highest potassium content of common legumes (1406mg/100g dry). Very high magnesium (138mg) and calcium (143mg). Exceptional cardiovascular mineral profile with minimal sodium (12mg/100g).",
+      "guidance": "Red kidney beans are an outstanding food choice for patients with hypertension. One standard serving of rajma curry (50g dry beans cooked) provides ~703mg potassium and ~69mg magnesium. Include rajma as a weekly protein source in the dietary plan for hypertensive patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Extremely low GI (~24) — among the lowest of all foods. The highest dietary fibre content of common legumes (24.9g/100g dry). The resistant starch in kidney beans is exceptionally slowly digested and has a substantial second-meal effect.",
+      "guidance": "Kidney beans are one of the most evidence-backed foods for type 2 diabetes management. Rajma chawal (kidney beans with rice) is a superior meal combination compared to plain rice — the kidney beans dramatically lower the overall meal glycaemic index. Patients should aim to include legumes including kidney beans at least 4 times per week."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high in iron (8.2mg/100g dry) — highest of common legumes. High folate (394mcg DFE), potassium, and magnesium. Anti-inflammatory plant proteins.",
+      "guidance": "Red kidney beans are recommended for patients with rheumatoid arthritis. Their high iron content is especially valuable for female patients with RA who are at risk of iron deficiency anaemia. The folate content complements methotrexate therapy by replenishing folate stores."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Red kidney beans (rajma) are large, deep red-coloured dried legumes (Phaseolus vulgaris). Require overnight soaking (8–12 hours) and must be boiled vigorously for at least 10 minutes to destroy naturally occurring phytohaemagglutinin (PHA) lectins — slow cooking in a slow cooker at low temperatures is not sufficient for lectin destruction and can cause serious food poisoning. After safe preparation, they have one of the lowest GI values of any food (~24) and the highest dietary fibre content of common legumes (24.9g/100g dry). Used in North Indian rajma curry, Mexican chilli con carne, red bean soup, and rice and peas (Caribbean). The Kashmiri red kidney bean (small variety) is particularly prized in North Indian cuisine.",
+    "common_user_queries": [
+      "kidney beans raw calories",
+      "rajma protein per 100g",
+      "kidney beans GI",
+      "are kidney beans healthy",
+      "rajma fibre content",
+      "kidney bean lectin safety",
+      "kidney beans potassium"
+    ],
+    "meal_context": [
+      "rajma curry",
+      "rajma chawal",
+      "chilli",
+      "bean soup",
+      "legume-rich diet"
+    ],
+    "ingredient_synonyms": {
+      "rajma": [
+        "red kidney beans",
+        "kidney beans"
+      ],
+      "red beans": [
+        "adzuki beans (different)",
+        "small red beans (different variety)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F09020019).",
+  "notes": "CRITICAL FOOD SAFETY NOTE: Raw red kidney beans contain high levels of phytohaemagglutinin (PHA) lectin. Must be soaked overnight and boiled vigorously (rolling boil) for at least 10 minutes before consumption. Undercooking (e.g., in a slow cooker) can actually increase PHA toxicity. Symptoms of PHA poisoning: severe nausea, vomiting, diarrhoea within 1–3 hours. Values are per 100g dry raw beans before cooking."
+}

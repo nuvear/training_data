@@ -1,0 +1,156 @@
+{
+  "food_name": "Chicken Egg (whole, raw, size 60g)",
+  "local_names": {
+    "malay": "Telur Ayam (mentah, keseluruhan)",
+    "chinese_simplified": "鸡蛋（生，整只）",
+    "chinese_traditional": "雞蛋（生，整只）",
+    "tamil": "கோழி முட்டை (பச்சை, முழுமையான)"
+  },
+  "aliases": [
+    "chicken egg raw",
+    "whole egg",
+    "raw egg",
+    "hen egg",
+    "telur ayam"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Global — universal cooking ingredient",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Chicken egg, whole raw (white + yolk, no shell), per 100g edible portion",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03306792",
+    "foodon_label": "Chicken egg",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A10AA",
+    "foodex2_description": "Hen egg, whole, raw, edible portion (shell excluded)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "102263004",
+    "snomed_ct_description": "Egg, chicken (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (fresh whole egg, edible portion)",
+    "main_ingredients": [
+      "chicken egg white (albumen)",
+      "chicken egg yolk"
+    ],
+    "allergens": [
+      "egg (a major food allergen)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 eggs (approximately 100g edible portion)",
+    "size_g": 100,
+    "natural_language_portion": "A typical Singapore serving of eggs is 2 eggs. Size 2 eggs (60g total with shell) contain approximately 50g of edible portion (egg white + yolk). Two eggs (~100g edible) is the standard breakfast portion."
+  },
+  "nutrient_source": {
+    "title": "Chicken Egg (whole, raw) — HPB Singapore Foodo Database, Food Code F01060008; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F01060008 — Chicken Egg, whole, raw. Values are per 100g edible portion (white + yolk, shell excluded)."
+  },
+  "per_100g": {
+    "energy_kcal": 143.0,
+    "protein_g": 12.6,
+    "fat_g": 9.5,
+    "saturated_fat_g": 3.1,
+    "monounsaturated_fat_g": 3.7,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.7,
+    "sugar_g": 0.4,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 142.0,
+    "potassium_mg": 138.0,
+    "calcium_mg": 56.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 372.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 149.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.46,
+    "vitamin_b3_niacin_mg": 0.1,
+    "vitamin_b6_mg": 0.17,
+    "vitamin_b12_mcg": 1.1,
+    "folate_mcg_dfe": 47.0,
+    "vitamin_d_mcg": 2.0,
+    "vitamin_e_mg": 1.0,
+    "phosphorus_mg": 191.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 1.3,
+    "selenium_mcg": 31.7,
+    "water_g": 76.1
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — whole egg contains negligible carbohydrate (0.7g/100g) and is not classified as a carbohydrate-containing food. GI is not a meaningful measure for eggs.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "The high cholesterol content of eggs (372mg/100g — an egg has ~186mg cholesterol) was previously a major concern. Current clinical guidelines (2020+) have substantially revised the egg-cholesterol-cardiovascular relationship, noting that dietary cholesterol has a smaller effect on blood cholesterol than saturated fat. Eggs are relatively low in saturated fat (3.1g/100g). The sodium content is moderate (142mg/100g edible).",
+      "guidance": "Current Singapore HPB guidelines suggest up to 1 egg daily is acceptable for most healthy adults including those with hypertension, with minimal cardiovascular risk. Patients with established dyslipidaemia or diabetes may benefit from monitoring egg intake (1 egg/day or 5–7 eggs/week maximum). The overall diet pattern (saturated fat, sodium, fibre) is more important than egg quantity alone."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Essentially no carbohydrate (0.7g/100g). High protein (12.6g/100g) and moderate fat that promote satiety. Current clinical evidence does not support limiting eggs for patients with type 2 diabetes at up to 1 egg per day. Eggs are among the most nutrient-dense low-carbohydrate foods.",
+      "guidance": "Eggs are an excellent breakfast protein for patients with type 2 diabetes. Replacing high-carbohydrate breakfasts (kaya toast + white bread, nasi lemak) with 2 eggs + vegetables dramatically improves morning blood glucose management. Prepare by boiling, poaching, or scrambling — avoid frying in excessive oil."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Eggs are the richest food source of biotin and the most bioavailable source of choline. High selenium (31.7mcg/100g), riboflavin (0.46mg), vitamin D (2.0mcg), and vitamin B12 (1.1mcg). Vitamin D is particularly relevant for RA patients who are commonly deficient.",
+      "guidance": "Eggs are strongly recommended for patients with rheumatoid arthritis as a nutrient-dense whole food. The vitamin D content (2.0mcg/100g), while modest, contributes to the 15–20mcg/day target important for RA patients. Choline in egg yolk supports cell membrane integrity. The pro-inflammatory concern of egg arachidonic acid is not clinically significant at normal intake levels."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "The whole chicken egg (Gallus gallus domesticus) is arguably the most complete single food available — providing all essential amino acids in nearly perfect proportions (biological value ~100), along with 13 essential vitamins and minerals. The edible portion (white + yolk, no shell) of a 60g size-2 egg weighs approximately 50g. Raw egg white contains avidin, which blocks biotin absorption — cooking destroys avidin and makes all egg nutrients fully available. Very high in selenium (31.7mcg/100g), riboflavin (0.46mg), vitamin D (2.0mcg), and vitamin B12 (1.1mcg). High cholesterol (372mg/100g) is in the yolk — but dietary cholesterol has a much smaller effect on blood cholesterol than once believed. Used in virtually every Singapore dish category.",
+    "common_user_queries": [
+      "chicken egg calories",
+      "raw egg nutrition per 100g",
+      "egg cholesterol health risk",
+      "how many eggs per day is healthy",
+      "egg protein content",
+      "egg vitamin D",
+      "is it safe to eat raw eggs"
+    ],
+    "meal_context": [
+      "breakfast",
+      "kaya toast",
+      "half-boiled eggs",
+      "omelette",
+      "scrambled eggs",
+      "baking",
+      "noodle soups"
+    ],
+    "ingredient_synonyms": {
+      "chicken egg": [
+        "hen egg",
+        "whole egg",
+        "telur ayam"
+      ],
+      "egg white": [
+        "albumen",
+        "egg white"
+      ],
+      "egg yolk": [
+        "yolk",
+        "vitellus"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F01060008).",
+  "notes": "Values per 100g edible portion (white + yolk, shell excluded). A standard size-2 egg (60g total with shell) has approximately 50g edible portion. Raw egg white contains avidin which blocks biotin absorption — cooking is recommended. Salmonella risk from raw eggs is low in Singapore (pasteurised eggs available) but cooking is advised for high-risk individuals (elderly, immunocompromised, pregnant). Egg is a major food allergen."
+}

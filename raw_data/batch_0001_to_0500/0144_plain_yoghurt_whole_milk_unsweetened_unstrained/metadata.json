@@ -1,0 +1,155 @@
+{
+  "food_name": "Plain Yoghurt (whole milk, unsweetened, unstrained)",
+  "local_names": {
+    "malay": "Yogurt Biasa (susu penuh, tanpa gula)",
+    "hindi": "दही (सादा, मीठा नहीं)",
+    "tamil": "தயிர் (தனிய, சர்க்கரை இல்லாமல்)",
+    "arabic": "لبن / زبادي طبيعي"
+  },
+  "aliases": [
+    "plain yoghurt",
+    "natural yoghurt",
+    "whole milk yoghurt",
+    "dahi",
+    "curd",
+    "set yoghurt"
+  ],
+  "cuisine": "Indian / Global",
+  "region_of_origin": "Middle East / Indian subcontinent (traditional fermentation origin)",
+  "food_group": "Fats and dairy",
+  "food_subgroup": "Fermented dairy — plain yoghurt (whole milk, unstrained)",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03309365",
+    "foodon_label": "Yogurt",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general yogurt concept. No specific whole-milk unsweetened unstrained entry. Closest parent used.",
+    "foodex2_code": "A01KA",
+    "foodex2_description": "Yogurt, whole milk, natural, plain, unsweetened",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226887002",
+    "snomed_ct_description": "Natural yogurt (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented"
+    ],
+    "processing_level": "processed (whole milk fermented with Lactobacillus bulgaricus and Streptococcus thermophilus)",
+    "main_ingredients": [
+      "whole milk (pasteurised)",
+      "live yoghurt cultures (Lactobacillus bulgaricus, Streptococcus thermophilus)"
+    ],
+    "allergens": [
+      "milk (dairy)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 small bowl = 100g",
+    "size_g": 100,
+    "natural_language_portion": "A standard small bowl of plain yoghurt as a raita side dish or breakfast is approximately 100g. Yoghurt in lassi uses approximately 100–150g per glass."
+  },
+  "nutrient_source": {
+    "title": "Plain Yoghurt (whole milk) — HPB Singapore Foodo Database, Food Code F01080003; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F01080003 — Plain Yoghurt, whole milk, unsweetened."
+  },
+  "per_100g": {
+    "energy_kcal": 61.0,
+    "protein_g": 3.5,
+    "fat_g": 3.3,
+    "saturated_fat_g": 2.1,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 4.7,
+    "sugar_g": 4.7,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 46.0,
+    "potassium_mg": 155.0,
+    "calcium_mg": 121.0,
+    "iron_mg": 0.1,
+    "cholesterol_mg": 13.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 27.0,
+    "vitamin_b1_thiamine_mg": 0.03,
+    "vitamin_b2_riboflavin_mg": 0.14,
+    "vitamin_b3_niacin_mg": 0.1,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.4,
+    "folate_mcg_dfe": 7.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 11.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 3.3,
+    "water_g": 87.5
+  },
+  "glycemic_index": 36,
+  "glycemic_load_per_serving": 1.7,
+  "gi_source": "University of Sydney GI Database — GI of plain whole milk yoghurt (approximately 36). The low GI is due to the lactose (4.7g/100g) being a disaccharide that is digested more slowly than glucose or sucrose, and the fat and protein content slowing gastric emptying further. The live cultures may also contribute to a lower glycaemic response.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Good source of calcium (121mg/100g) and potassium (155mg/100g). The DASH diet — the most evidence-backed dietary pattern for blood pressure reduction — recommends 2–3 low-fat dairy servings per day including yoghurt. Low sodium (46mg/100g).",
+      "guidance": "Plain yoghurt is recommended for patients with hypertension as part of a dairy-inclusive dietary pattern. Choose unsweetened plain yoghurt; avoid flavoured yoghurt products which contain 10–20g added sugar and may have higher sodium. Plain yoghurt can be used as a lower-fat substitute for sour cream, cream cheese, and heavy cream in cooking."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Low GI (~36). Moderate protein (3.5g/100g) and fat (3.3g/100g) slow gastric emptying. Regular yoghurt consumption (unsweetened) is associated with reduced type 2 diabetes risk in large cohort studies. The live probiotic cultures may improve insulin sensitivity through gut microbiome modulation.",
+      "guidance": "Plain unsweetened yoghurt is one of the most evidence-backed dairy foods for patients with type 2 diabetes. Daily consumption of 150–200g of plain yoghurt is clinically recommended. Critical: must be unsweetened — flavoured and fruit yoghurts have high added sugar and inappropriate GI for diabetic patients."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "The probiotic cultures (Lactobacillus bulgaricus, Streptococcus thermophilus) in yoghurt modulate gut microbiome composition and are associated with reduced systemic inflammatory markers. Good calcium (121mg/100g) is relevant for bone health in RA patients at osteoporosis risk.",
+      "guidance": "Plain yoghurt is recommended for patients with rheumatoid arthritis for its probiotic benefit and calcium content. Evidence supports gut microbiome-inflammation axis modulation from regular yoghurt consumption. Using plain yoghurt as a sauce base instead of cream in cooking is a practical way to increase intake while reducing saturated fat."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Plain whole-milk yoghurt is fermented dairy milk produced by inoculating pasteurised whole milk with Lactobacillus bulgaricus and Streptococcus thermophilus cultures, then incubating until the milk protein coagulates into a gel. The fermentation converts lactose to lactic acid (giving the characteristic tangy flavour) while retaining most of the milk's nutritional value. Contains live probiotic cultures in the final product. With 121mg calcium, 3.5g protein, and 3.3g fat per 100g, it is a nutritionally dense dairy food with a low GI (~36). Used in Indian cooking as dahi (curd) — as a cooling accompaniment to spicy dishes, in lassi, in biriyani marinating, and as the base for raita. Also used in Malay and Middle Eastern marinades.",
+    "common_user_queries": [
+      "plain yoghurt calories",
+      "yoghurt calcium content",
+      "yoghurt for diabetes",
+      "yoghurt GI",
+      "dahi nutrition per 100g",
+      "yoghurt probiotic benefits",
+      "plain vs Greek yoghurt nutrition"
+    ],
+    "meal_context": [
+      "raita",
+      "lassi",
+      "biryani marinade",
+      "breakfast",
+      "cooling accompaniment",
+      "curry base"
+    ],
+    "ingredient_synonyms": {
+      "plain yoghurt": [
+        "natural yoghurt",
+        "dahi",
+        "curd",
+        "set yoghurt"
+      ],
+      "Greek yoghurt": [
+        "strained yoghurt — higher protein, lower lactose, lower GI"
+      ],
+      "low-fat yoghurt": [
+        "reduced fat yoghurt — lower saturated fat"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F01080003).",
+  "notes": "Values per 100g plain whole-milk yoghurt. Contains milk allergen — not suitable for dairy allergy or severe lactose intolerance. Most people with lactose intolerance can tolerate yoghurt better than milk as the fermentation reduces lactose content. The trans fat (0.1g/100g) is naturally occurring vaccenic acid from ruminant milk fat — considered less harmful than industrial trans fat."
+}

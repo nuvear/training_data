@@ -1,0 +1,152 @@
+{
+  "food_name": "Yellow Moong Dal / Split Mung Bean (raw, dried)",
+  "local_names": {
+    "hindi": "मूंग दाल (पीली, कच्ची)",
+    "urdu": "مونگ دال (پیلی، خشک)",
+    "tamil": "பாசிப்பருப்பு (பீலிட்ட, பச்சை)",
+    "malay": "Dal Hijau (Belah, kering)"
+  },
+  "aliases": [
+    "moong dal",
+    "mung dal",
+    "yellow moong",
+    "split mung bean",
+    "husked moong",
+    "peeli moong",
+    "pasi paruppu"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Mung beans (Vigna radiata), split, dehusked, dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316096",
+    "foodon_label": "Mung bean",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general mung bean concept but no specific entry for split, dehusked yellow moong dal. Closest parent used.",
+    "foodex2_code": "A037H",
+    "foodex2_description": "Mung bean (Vigna radiata), split, dehusked (yellow moong dal), dried raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "minimally processed (dried, split, dehusked)",
+    "main_ingredients": [
+      "mung beans (Vigna radiata), split and dehusked — yellow moong dal"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry moong dal (approximately ¼ cup) yields approximately 100g cooked dal — a standard side dish portion."
+  },
+  "nutrient_source": {
+    "title": "Yellow Moong Dal — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with USDA SR Legacy",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); USDA Agricultural Research Service",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Moong Dal, husked and split. Cross-referenced with USDA SR Legacy mung beans raw (FDC ID 175186)."
+  },
+  "per_100g": {
+    "energy_kcal": 348.0,
+    "protein_g": 24.5,
+    "fat_g": 1.2,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 58.6,
+    "sugar_g": 6.6,
+    "dietary_fibre_g": 16.3,
+    "sodium_mg": 15.0,
+    "potassium_mg": 1246.0,
+    "calcium_mg": 132.0,
+    "iron_mg": 6.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 4.8,
+    "vitamin_a_mcg_rae": 6.0,
+    "vitamin_b1_thiamine_mg": 0.62,
+    "vitamin_b2_riboflavin_mg": 0.23,
+    "vitamin_b3_niacin_mg": 1.9,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 625.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 367.0,
+    "magnesium_mg": 189.0,
+    "zinc_mg": 2.7,
+    "selenium_mcg": 8.2,
+    "water_g": 9.0
+  },
+  "glycemic_index": 31,
+  "glycemic_load_per_serving": 9.1,
+  "gi_source": "University of Sydney GI Database — GI of boiled split moong dal (approximately 31). Dry moong dal GI not applicable. Very low GI due to very high fibre content and intact legume cell matrix slowing starch digestion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Extraordinarily high in potassium (1246mg/100g dry) and magnesium (189mg/100g) — among the highest of any commonly consumed food. Very low sodium (15mg/100g). Exceptional potassium-to-sodium ratio for blood pressure management.",
+      "guidance": "Yellow moong dal is one of the most cardiovascular-protective legumes. Daily consumption is recommended for patients with hypertension. Moong dal soup or khichdi (moong dal + rice) prepared without excess salt is clinically ideal for blood pressure management."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low GI (~31) when boiled. Extremely high in dietary fibre (16.3g/100g dry) and protein (24.5g). The highest fibre content of the common dals, making it exceptionally effective at blunting postprandial blood glucose spikes.",
+      "guidance": "Yellow moong dal is particularly recommended for patients with type 2 diabetes because it is highly digestible (husked and split) while maintaining a very low GI. Moong dal khichdi is a classic Indian therapeutic food for diabetic patients — combining moong dal with parboiled or brown rice further improves the glycaemic profile."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Exceptional folate content (625mcg DFE/100g dry) — the highest of commonly consumed Indian dals. High in calcium (132mg/100g), magnesium (189mg/100g), and iron (6.7mg). Moong dal is traditionally described as the most easily digestible dal in Ayurvedic medicine.",
+      "guidance": "Yellow moong dal is highly recommended for patients with rheumatoid arthritis. It is digestible, anti-inflammatory through its folate and magnesium content, and provides plant-based protein to support muscle maintenance. Ideal for flare periods when gut function is compromised."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Yellow moong dal (split mung bean) is the husked, split form of whole green mung beans (Vigna radiata). The splitting and dehusking exposes the pale yellow interior, resulting in a soft, quick-cooking dal that requires no soaking. The highest fibre content of the common Indian dals (16.3g/100g dry). Nutritionally exceptional — very high in potassium (1246mg), folate (625mcg DFE), and magnesium (189mg) per 100g. Considered the most easily digestible pulse in South Asian culinary tradition. Used for simple dal dishes, khichdi, pongal (with rice), payasam (sweet dessert), and as the base for cheela (lentil pancakes). A recommended food for infants, elderly, and patients with gastrointestinal conditions.",
+    "common_user_queries": [
+      "moong dal calories dry",
+      "yellow moong dal protein",
+      "moong dal GI",
+      "moong dal vs masoor dal",
+      "split mung bean nutrition",
+      "is moong dal good for diabetes",
+      "moong dal folate content"
+    ],
+    "meal_context": [
+      "dal curry",
+      "khichdi",
+      "pongal",
+      "moong dal cheela",
+      "moong soup",
+      "baby food"
+    ],
+    "ingredient_synonyms": {
+      "moong dal": [
+        "yellow moong dal",
+        "split mung bean",
+        "husked moong",
+        "pasi paruppu"
+      ],
+      "whole moong": [
+        "green mung bean",
+        "sabut moong"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Moong Dal, split and husked.",
+  "notes": "Values per 100g dry split husked moong dal. Does not require soaking — cooks in 20–30 minutes. The extremely high folate content (625mcg DFE) is especially notable — 50g serving provides over 300mcg DFE, exceeding the daily recommended intake for most adults. Distinct from whole green mung beans (which have a different nutritional profile with intact skin)."
+}

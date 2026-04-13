@@ -1,0 +1,152 @@
+{
+  "food_name": "Chickpea Flour / Besan / Gram Flour (raw)",
+  "local_names": {
+    "hindi": "बेसन",
+    "urdu": "بیسن",
+    "tamil": "கடலை மாவு",
+    "malay": "Tepung Kacang Dhal / Besan"
+  },
+  "aliases": [
+    "besan",
+    "gram flour",
+    "chickpea flour",
+    "Bengal gram flour",
+    "chana dal flour",
+    "garbanzo bean flour",
+    "senaga pindi"
+  ],
+  "cuisine": "Indian / Middle Eastern",
+  "region_of_origin": "India",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Chickpea (chana dal) flour, dry raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03307188",
+    "foodon_label": "Chickpea flour",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00SM",
+    "foodex2_description": "Chickpea / Bengal gram flour (besan), dry, milled from split chana dal",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "minimally processed (dried chana dal milled into flour)",
+    "main_ingredients": [
+      "split Bengal gram / chana dal (Cicer arietinum var. desi), stone-milled"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "30g (typical batter portion)",
+    "size_g": 30,
+    "natural_language_portion": "A typical recipe use of besan is 30g (approximately 3 tablespoons) — enough for a single serving of pakora batter or a portion of dhokla batter. A full batch of pakoras typically uses 100–150g flour."
+  },
+  "nutrient_source": {
+    "title": "Chickpea Flour / Besan — HPB Singapore Foodo Database, Food Code F05040004; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05040004 — Chickpea Flour / Besan, raw. Cross-referenced with ICMR-NIN besan data for micronutrient validation."
+  },
+  "per_100g": {
+    "energy_kcal": 387.0,
+    "protein_g": 22.4,
+    "fat_g": 6.7,
+    "saturated_fat_g": 0.7,
+    "monounsaturated_fat_g": 1.3,
+    "polyunsaturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 57.8,
+    "sugar_g": 10.9,
+    "dietary_fibre_g": 10.8,
+    "sodium_mg": 64.0,
+    "potassium_mg": 846.0,
+    "calcium_mg": 45.0,
+    "iron_mg": 6.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.49,
+    "vitamin_b2_riboflavin_mg": 0.21,
+    "vitamin_b3_niacin_mg": 1.6,
+    "vitamin_b6_mg": 0.57,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 437.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 318.0,
+    "magnesium_mg": 166.0,
+    "zinc_mg": 2.8,
+    "selenium_mcg": 8.8,
+    "water_g": 9.8
+  },
+  "glycemic_index": 39,
+  "glycemic_load_per_serving": 6.8,
+  "gi_source": "University of Sydney GI Database — GI of cooked besan-based dishes. Dry besan GI is not applicable. Chickpea flour has a low GI (~39) due to its resistant starch and high protein and fibre content, which substantially slow carbohydrate digestion. This makes it one of the lowest-GI flours available.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Chickpea flour is rich in potassium (846mg/100g) and magnesium (166mg/100g) — minerals clinically associated with blood pressure reduction. Sodium content is modest (64mg/100g).",
+      "guidance": "Besan is a heart-healthy flour choice for patients with hypertension. Replacing refined wheat flour with chickpea flour in Indian preparations (pakora batter, flatbreads) reduces glycaemic load and increases potassium and magnesium intake. Note that deep-frying with besan (pakoras) adds significant fat."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Chickpea flour has one of the lowest GI values of any flour (~39). High in protein (22.4g/100g) and dietary fibre (10.8g/100g). It is an exceptional flour choice for patients with type 2 diabetes as it substantially reduces postprandial glucose spikes compared to wheat or rice flours.",
+      "guidance": "Strongly recommended for patients with type 2 diabetes — substitute besan for maida in pancakes, batter, flatbreads. Besan cheela (chickpea flour pancakes) are a clinically recommended high-protein, low-GI breakfast option for diabetic patients. Extremely high folate content (437mcg DFE) is a nutritional bonus."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high in folate (437mcg DFE/100g), iron (6.2mg), and magnesium (166mg/100g). Folate supports immune cell regulation. Low in anti-nutritional factors when cooked. Gluten-free.",
+      "guidance": "Chickpea flour is an excellent high-nutrient, gluten-free alternative to wheat flour for patients with rheumatoid arthritis. Its anti-inflammatory legume proteins and high folate make it a recommended flour. Some RA patients have concurrent gluten sensitivity; besan is safe for them."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chickpea flour (besan/gram flour) is a fine, pale yellow flour milled from split Bengal gram (chana dal, a variety of chickpea with smaller, darker seeds). It has a slightly earthy, nutty flavour and is completely gluten-free. With 22.4g protein and 10.8g dietary fibre per 100g, it is far more nutritious than rice or refined wheat flour. The GI when cooked is very low (~39), making it the preferred flour for diabetic-friendly Indian cooking. Extraordinarily high in folate (437mcg DFE/100g) — essential for pregnant women and those with folate deficiency. Used extensively in Indian cooking: pakora batter, dhokla, besan halwa, chana dal flour flatbreads, murukku, and as a natural gluten-free thickener for gravies.",
+    "common_user_queries": [
+      "besan calories per 100g",
+      "chickpea flour protein",
+      "is besan gluten free",
+      "besan GI for diabetes",
+      "chickpea flour vs wheat flour",
+      "besan nutritional benefits",
+      "gram flour iron content"
+    ],
+    "meal_context": [
+      "pakora batter",
+      "dhokla",
+      "besan cheela",
+      "murukku",
+      "Indian sweets",
+      "gluten-free baking"
+    ],
+    "ingredient_synonyms": {
+      "besan": [
+        "gram flour",
+        "chickpea flour",
+        "Bengal gram flour",
+        "chana flour"
+      ],
+      "chana dal flour": [
+        "split Bengal gram flour",
+        "desi chickpea flour"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Foodo (F05040004), cross-referenced with ICMR-NIN besan data.",
+  "notes": "Values per 100g dry flour. Besan is made from desi chickpeas (Cicer arietinum var. desi) which are smaller and darker than kabuli chickpeas. Distinct from standard chickpea flour made from kabuli chickpeas in Western markets — desi besan has slightly higher protein and fibre. Raw besan has a raw legume flavour; dry-roasting improves taste significantly."
+}

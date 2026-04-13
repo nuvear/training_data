@@ -1,0 +1,159 @@
+{
+  "food_name": "Light Soy Sauce (Chinese, standard, not low-sodium)",
+  "local_names": {
+    "chinese_simplified": "生抽酱油（中式，普通）",
+    "chinese_traditional": "生抽醬油（中式，普通）",
+    "malay": "Kicap Cair / Kicap Masin (Cina, biasa)",
+    "japanese": "醤油 (light soy — different from Japanese shoyu)"
+  },
+  "aliases": [
+    "light soy sauce",
+    "thin soy sauce",
+    "sheng chou",
+    "Chinese soy sauce",
+    "kicap cair",
+    "clear soy sauce"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China",
+  "food_group": "Seasonings and condiments",
+  "food_subgroup": "Fermented soy condiment — high sodium",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302683",
+    "foodon_label": "Soy sauce",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general soy sauce concept but not specifically Chinese light soy sauce (sheng chou) as distinct from Japanese shoyu or dark soy sauce. Closest parent used.",
+    "foodex2_code": "A11BA",
+    "foodex2_description": "Soy sauce, light (sheng chou), Chinese-style, standard sodium",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented"
+    ],
+    "processing_level": "heavily processed (soybeans + wheat fermented with Aspergillus mould, aged, refined)",
+    "main_ingredients": [
+      "soybeans",
+      "wheat",
+      "water",
+      "salt (sodium chloride)",
+      "Aspergillus oryzae / sojae fermentation cultures"
+    ],
+    "allergens": [
+      "soy",
+      "wheat (gluten)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 tablespoon = 15ml (approximately 15g)",
+    "size_g": 15,
+    "natural_language_portion": "The standard culinary use is 1 tablespoon (15ml) of light soy sauce per dish. A typical Chinese stir-fry recipe uses 1–2 tablespoons; a dipping sauce may use 1–3 tablespoons."
+  },
+  "nutrient_source": {
+    "title": "Light Soy Sauce — HPB Singapore Foodo composition data; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "HPB Foodo does not have a standalone light soy sauce raw entry (references are embedded in dish analyses). USDA SR Legacy soy sauce (FDC ID 172234) used as primary reference. Typical Chinese light soy sauce in Singapore contains 950–1050mg sodium per 15ml tablespoon."
+  },
+  "per_100g": {
+    "energy_kcal": 53.0,
+    "protein_g": 8.1,
+    "fat_g": 0.1,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.9,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 6747.0,
+    "potassium_mg": 435.0,
+    "calcium_mg": 30.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.17,
+    "vitamin_b3_niacin_mg": 4.1,
+    "vitamin_b6_mg": 0.23,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 26.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 169.0,
+    "magnesium_mg": 34.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 1.0,
+    "water_g": 71.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — light soy sauce is a condiment used in tiny quantities with negligible carbohydrate impact.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "very high",
+      "key_factor": "Light soy sauce contains 6747mg sodium per 100g. A single tablespoon (15ml) delivers approximately 1012mg sodium — over 42% of the 2400mg/day limit. Light soy sauce is the single most common sodium source in Singapore Chinese home cooking and hawker food, appearing in virtually every stir-fry, marinate, soup, dipping sauce, and noodle dish.",
+      "guidance": "Light soy sauce is the primary target for sodium reduction in Singapore Chinese and Malay cooking. Key strategies for hypertensive patients: (1) use low-sodium soy sauce (Kikkoman Less Sodium, Healthy Boy low-sodium) which contain 30–40% less sodium, (2) use ½ tablespoon instead of 1 tablespoon in recipes, (3) taste before adding — much soy sauce use is habitual, (4) replace a portion with sesame oil + black pepper for flavour without sodium, (5) request 'reduced soy sauce' at hawker stalls. A 50% sodium reduction in soy sauce use is the highest-impact single change for hypertension management in Singapore."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Negligible carbohydrate in culinary portions. The primary concern is the sodium-driven cardiovascular and renal complication risk for diabetic patients.",
+      "guidance": "Patients with type 2 diabetes should reduce soy sauce primarily for its sodium content — which accelerates both diabetic nephropathy and cardiovascular complications. Use low-sodium soy sauce and minimise soy-sauce-heavy dipping habits (e.g., soaking dumplings in soy sauce, excessive soy in noodle soups)."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "The sodium concern is relevant for patients with concurrent hypertension or renal involvement. Soy sauce provides trace iron (2.5mg/100g) and niacin (4.1mg/100g) which are marginally relevant at serving quantities.",
+      "guidance": "Patients with rheumatoid arthritis should reduce soy sauce for sodium management. The fermented soy base provides trace beneficial compounds but at condiment doses these are not clinically significant."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chinese light soy sauce (sheng chou) is a thin, light-coloured, salty sauce produced by fermenting soybeans and wheat with Aspergillus mould cultures in brine, then ageing and filtering. 'Light' refers to the colour and consistency (as opposed to dark soy sauce which is thicker and sweeter) — it is not low in sodium. With 6747mg sodium/100g, it is one of the most sodium-concentrated condiments in common use. Found in virtually every Singapore Chinese and Malay dish: stir-fries, fried rice, noodle soups, dipping sauces, marinades. The single largest contributor to dietary sodium in Singapore's Chinese food culture. Major brands in Singapore: Kikkoman (Japanese shoyu), Yeo's, Amoy, ABC, Blue Dragon. Soy sauce contains both soy and wheat (unless labelled tamari/gluten-free).",
+    "common_user_queries": [
+      "soy sauce sodium per tablespoon",
+      "light soy sauce vs dark soy sauce",
+      "is soy sauce healthy",
+      "low sodium soy sauce alternatives",
+      "soy sauce for hypertension",
+      "kicap cair nutrition",
+      "how much sodium in soy sauce"
+    ],
+    "meal_context": [
+      "stir-fry",
+      "fried rice",
+      "noodle dishes",
+      "dipping sauce",
+      "marinades",
+      "wonton soup"
+    ],
+    "ingredient_synonyms": {
+      "light soy sauce": [
+        "sheng chou",
+        "thin soy sauce",
+        "kicap cair",
+        "Chinese soy sauce"
+      ],
+      "dark soy sauce": [
+        "chou you — thicker, darker, sweeter, used for colour"
+      ],
+      "tamari": [
+        "Japanese wheat-free soy sauce"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone HPB Foodo light soy sauce entry. Values from USDA SR Legacy soy sauce, consistent with published Singapore sodium analyses of Chinese light soy sauce. Sodium variability between brands is the main uncertainty (range 900–1100mg per 15ml tablespoon).",
+  "notes": "Values per 100ml (approximately 100g) Chinese light soy sauce. ALLERGEN: contains both soy AND wheat (gluten) — not safe for coeliac disease. Use tamari (wheat-free soy sauce) for gluten-free substitute. The per-tablespoon sodium (~1012mg) is the critical clinical communication. Low-sodium soy sauce (Kikkoman Less Sodium, 600mg/tablespoon) is a practical substitution reducing sodium by ~40%."
+}

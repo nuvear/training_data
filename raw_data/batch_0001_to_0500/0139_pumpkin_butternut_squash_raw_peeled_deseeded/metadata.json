@@ -1,0 +1,150 @@
+{
+  "food_name": "Pumpkin / Butternut Squash (raw, peeled, deseeded)",
+  "local_names": {
+    "malay": "Labu Kuning / Labu Manis (mentah, kupas)",
+    "chinese_simplified": "南瓜（生，去皮，去籽）",
+    "chinese_traditional": "南瓜（生，去皮，去籽）",
+    "tamil": "பூசணி (பச்சை, தோல் நீக்கியது)"
+  },
+  "aliases": [
+    "pumpkin raw",
+    "butternut squash",
+    "labu",
+    "nan gua",
+    "Cucurbita moschata",
+    "Cucurbita maxima"
+  ],
+  "cuisine": "Global / Chinese / SEA",
+  "region_of_origin": "Americas (widely cultivated in Asia)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Cucurbit (gourd) vegetables, starchy, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310792",
+    "foodon_label": "Pumpkin",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14EA",
+    "foodex2_description": "Pumpkin / butternut squash (Cucurbita spp.), raw, peeled and deseeded",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226764003",
+    "snomed_ct_description": "Pumpkin (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, peeled and deseeded)",
+    "main_ingredients": [
+      "pumpkin / butternut squash (Cucurbita moschata or Cucurbita maxima), raw peeled flesh"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup cubed = approximately 120g",
+    "size_g": 120,
+    "natural_language_portion": "A standard cooking portion of pumpkin is approximately 120g cubed raw — 1 cup or 1 thick wedge purchased from a Singapore wet market."
+  },
+  "nutrient_source": {
+    "title": "Pumpkin (raw, peeled) — HPB Singapore Foodo Database, Food Code F14040053; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14040053 — Pumpkin, raw, peeled and deseeded."
+  },
+  "per_100g": {
+    "energy_kcal": 26.0,
+    "protein_g": 1.0,
+    "fat_g": 0.1,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 6.5,
+    "sugar_g": 2.8,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 1.0,
+    "potassium_mg": 340.0,
+    "calcium_mg": 21.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 9.0,
+    "vitamin_a_mcg_rae": 426.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.11,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 16.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.1,
+    "phosphorus_mg": 44.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.3,
+    "selenium_mcg": 0.3,
+    "water_g": 91.6
+  },
+  "glycemic_index": 75,
+  "glycemic_load_per_serving": 5.9,
+  "gi_source": "University of Sydney GI Database — GI of boiled pumpkin (approximately 75). Raw pumpkin GI not applicable. Despite the high GI, the very low carbohydrate content (6.5g/100g) results in a low glycaemic load per serving (~5.9 for 120g). Pumpkin is a 'high GI, low glycaemic load' food.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Extremely low sodium (1mg/100g) — one of the lowest of any vegetable. High potassium (340mg/100g). Very low calorie. Pumpkin soup is one of the most naturally low-sodium comfort foods.",
+      "guidance": "Pumpkin is highly recommended for patients with hypertension. Plain pumpkin soup (blended pumpkin with minimal salt) is an ideal meal component — naturally sweet and creamy without added salt. Avoid canned pumpkin soups which are high in sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "While cooked pumpkin has a high GI (~75), the actual glycaemic load per serving (120g) is only ~5.9 due to very low digestible carbohydrate content. Pumpkin is a 'high GI, low GL' food — a commonly misunderstood example for diabetes education.",
+      "guidance": "Patients with type 2 diabetes should not avoid pumpkin based on its GI alone. The low glycaemic load per serving means it causes minimal blood glucose elevation at realistic portions. Pumpkin is far preferable to white rice as a carbohydrate component. Include as a free vegetable in meal planning."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Good beta-carotene/vitamin A (426mcg RAE/100g) and vitamin E (1.1mg/100g) — both antioxidant carotenoids. Very low calorie dense, allowing generous consumption.",
+      "guidance": "Pumpkin is a beneficial vegetable for patients with rheumatoid arthritis. Its antioxidant carotenoids (beta-carotene, lutein, zeaxanthin) support anti-inflammatory activity. Include generously in soups and stir-fries."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Pumpkin (Cucurbita moschata or Cucurbita maxima) is a yellow-orange cucurbit vegetable widely consumed in Singapore wet markets (sold pre-cut in wedges). Despite having a high GI (~75) when cooked, the actual glycaemic load per normal serving is very low because pumpkin has very little digestible starch (6.5g carbohydrate/100g, mostly from water). An important teaching example for separating GI from GL. Very high in beta-carotene (426mcg RAE/100g), naturally sweet, extremely low in sodium (1mg/100g), and low calorie (26 kcal/100g). Used in Singapore in pumpkin soup, stir-fried pumpkin, pumpkin congee, curry, and as a side vegetable in Chinese family cooking.",
+    "common_user_queries": [
+      "pumpkin calories raw",
+      "pumpkin GI for diabetes",
+      "is pumpkin high in sugar",
+      "pumpkin vs sweet potato",
+      "pumpkin vitamin A",
+      "pumpkin good for weight loss",
+      "pumpkin glycaemic load"
+    ],
+    "meal_context": [
+      "pumpkin soup",
+      "stir-fried pumpkin",
+      "pumpkin curry",
+      "congee",
+      "pumpkin dessert"
+    ],
+    "ingredient_synonyms": {
+      "pumpkin": [
+        "butternut squash",
+        "labu",
+        "nan gua",
+        "Cucurbita spp."
+      ],
+      "winter squash": [
+        "butternut squash",
+        "acorn squash",
+        "kabocha"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14040053).",
+  "notes": "Values per 100g raw peeled deseeded pumpkin flesh. The important clinical teaching point: pumpkin has a high GI (~75) but a very LOW glycaemic load (~5.9 per 120g serving) because it has very little carbohydrate per 100g. Patients with diabetes should be reassured about pumpkin. The seeds (pepitas) have entirely different nutritional values — this record is for flesh only."
+}

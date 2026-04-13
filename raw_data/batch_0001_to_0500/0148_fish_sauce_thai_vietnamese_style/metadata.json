@@ -1,0 +1,154 @@
+{
+  "food_name": "Fish Sauce (Thai / Vietnamese style)",
+  "local_names": {
+    "thai": "น้ำปลา (Nam Pla)",
+    "vietnamese": "Nước mắm",
+    "malay": "Sos Ikan (Thai / Vietnam)",
+    "chinese_simplified": "鱼露（泰式 / 越式）"
+  },
+  "aliases": [
+    "fish sauce",
+    "nam pla",
+    "nuoc mam",
+    "patis",
+    "tiparos",
+    "thai fish sauce"
+  ],
+  "cuisine": "Thai / Vietnamese / SEA",
+  "region_of_origin": "Thailand / Vietnam / Southeast Asia",
+  "food_group": "Seasonings and condiments",
+  "food_subgroup": "Fermented fish condiment — extremely high sodium",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302684",
+    "foodon_label": "Fish sauce",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A11CA",
+    "foodex2_description": "Fish sauce (fermented fish liquid condiment, Thai/Vietnamese style)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented"
+    ],
+    "processing_level": "heavily processed (anchovies fermented in salt 12–18 months, liquid extracted)",
+    "main_ingredients": [
+      "anchovies or small fish",
+      "salt (sodium chloride)",
+      "water"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 tablespoon = 15ml (approximately 15g)",
+    "size_g": 15,
+    "natural_language_portion": "A standard culinary use of fish sauce is 1 tablespoon (15ml/15g) per dish. A typical Thai pad thai or Vietnamese pho preparation uses 1–2 tablespoons per dish serving."
+  },
+  "nutrient_source": {
+    "title": "Fish Sauce (Thai/Vietnamese style) — FAO/INFOODS SEA Food Composition Table; cross-referenced with USDA SR Legacy",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table; USDA Agricultural Research Service",
+    "url": "http://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "HPB Foodo does not have a specific Thai/Vietnamese fish sauce entry. Values from FAO/INFOODS SEA Table for fish sauce (nam pla / nuoc mam), cross-referenced with USDA SR Legacy fish sauce (FDC ID 168256)."
+  },
+  "per_100g": {
+    "energy_kcal": 35.0,
+    "protein_g": 5.1,
+    "fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.6,
+    "sugar_g": 3.6,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 5730.0,
+    "potassium_mg": 221.0,
+    "calcium_mg": 39.0,
+    "iron_mg": 0.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 2.4,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 1.1,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 85.0,
+    "magnesium_mg": 27.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 41.4,
+    "water_g": 76.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — fish sauce contains minimal carbohydrate (3.6g/100g as residual sugars from fermentation) and is used in gram-level quantities per meal. Glycaemic impact is negligible.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "very high",
+      "key_factor": "Fish sauce contains 5730mg sodium per 100g — making it one of the highest-sodium condiments available. A single tablespoon (15ml) delivers approximately 860mg sodium — 36% of the 2400mg/day sodium limit in one condiment measure. Regular use of fish sauce in cooking is a major hidden sodium source in Thai, Vietnamese, and some Singaporean Chinese/Malay households.",
+      "guidance": "Fish sauce is the primary sodium driver in Thai and Vietnamese home cooking in Singapore. Patients with hypertension should: (1) significantly reduce fish sauce in all recipes, (2) use low-sodium fish sauce alternatives (available at Cold Storage and specialty stores), (3) request 'reduced fish sauce' at Thai and Vietnamese restaurants, (4) replace with a small amount of tamarind juice + salt for some dishes. The cumulative sodium across multiple dishes is the critical concern — a full Thai or Vietnamese meal with fish sauce in multiple dishes can easily deliver 3000–4000mg sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Fish sauce has negligible carbohydrate and does not raise blood glucose. The primary concern is cardiovascular — not glycaemic — as very high sodium intake is a complication driver for diabetic nephropathy (kidney disease) and hypertension.",
+      "guidance": "Patients with type 2 diabetes should limit fish sauce for its sodium content, which accelerates diabetic nephropathy progression. Replace with reduced-sodium fish sauce. Reducing overall dish saltiness is recommended as part of a kidney-protective diet for diabetic patients."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fish sauce is nutritionally negligible in typical serving sizes except for sodium. Contains trace amounts of vitamin B12 (1.1mcg/100g) and selenium (41.4mcg/100g) from the fermented fish base.",
+      "guidance": "Fish sauce is used in such small quantities that its nutritional contribution to the RA diet (beyond sodium) is minimal. The sodium concern is relevant for patients with concurrent hypertension or renal involvement."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Fish sauce (nam pla in Thai, nước mắm in Vietnamese) is a liquid condiment produced by layering small fish (usually anchovies) with salt in large vessels and fermenting for 12–18 months. The result is a clear, amber-to-dark brown liquid with an intensely savoury, pungent umami flavour. The defining seasoning of Thai and Vietnamese cuisine. Extremely high sodium — 5730mg/100g. A single tablespoon (15ml) delivers ~860mg sodium. The primary umami-salt flavour amplifier in pad thai, tom yum, pho, larb, and many Singapore Malay, Peranakan, and Chinese-Thai dishes. Used in extremely small quantities but at very high frequency — likely the single largest sodium contributor in Thai-style cooking. Low-sodium variants (typically 30–40% less sodium) are commercially available.",
+    "common_user_queries": [
+      "fish sauce sodium content",
+      "fish sauce vs soy sauce sodium",
+      "is fish sauce healthy",
+      "fish sauce calories",
+      "how much sodium in fish sauce tablespoon",
+      "fish sauce substitute low sodium",
+      "fish sauce for hypertension"
+    ],
+    "meal_context": [
+      "pad thai",
+      "tom yum",
+      "pho",
+      "larb",
+      "papaya salad",
+      "Vietnamese dipping sauce",
+      "Singapore nasi lemak sambal"
+    ],
+    "ingredient_synonyms": {
+      "fish sauce": [
+        "nam pla",
+        "nuoc mam",
+        "patis (Filipino)",
+        "tiparos (brand)"
+      ],
+      "oyster sauce": [
+        "different condiment — also high sodium but thicker, sweeter"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No HPB Foodo standalone fish sauce entry. Values from FAO/INFOODS SEA Table and USDA SR Legacy for fish sauce. Sodium content (5730mg/100g) is consistent with published values from multiple sources — the main variability is between brands (range 3500–6500mg/100g sodium).",
+  "notes": "Values per 100ml (approximately 100g) fish sauce. Sodium content varies significantly by brand (Tiparos ~5700mg, Megachef ~3500mg, Maekrua ~5300mg per 100ml). The per-tablespoon sodium (860mg at 5730mg/100g) is the key clinical communication point. Fish is the allergen. Not vegetarian. Not kosher (fish needs to have fins and scales for kosher certification; many fish sauce species qualify, but processing certification varies)."
+}

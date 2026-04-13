@@ -1,0 +1,147 @@
+{
+  "food_name": "Beef Topside (raw, lean, trimmed of visible fat)",
+  "local_names": {
+    "malay": "Daging Lembu Topside (mentah, tanpa lemak)",
+    "chinese_simplified": "牛肉上腿肉（生，精瘦）",
+    "chinese_traditional": "牛肉上腿肉（生，精瘦）",
+    "tamil": "மாட்டிறைச்சி (மெல்லிய, பச்சை)"
+  },
+  "aliases": [
+    "beef topside raw",
+    "lean beef raw",
+    "round steak",
+    "beef round",
+    "lean beef",
+    "daging lembu"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Global — standard lean beef cut",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Beef topside (inner thigh), raw, lean, trimmed",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302349",
+    "foodon_label": "Beef, topside",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A04JD",
+    "foodex2_description": "Beef, topside (inner round), raw, lean",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh meat, visible fat trimmed)",
+    "main_ingredients": [
+      "beef (Bos taurus) inner thigh (topside) muscle, lean, trimmed"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "100g raw",
+    "size_g": 100,
+    "natural_language_portion": "A standard 100g raw beef serving is the pre-cooking reference weight. Cooked lean beef yields approximately 70–75g after typical cooking loss."
+  },
+  "nutrient_source": {
+    "title": "Beef Topside (raw, lean) — HPB Singapore Foodo Database, Food Code F06030020; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F06030020 — Beef Topside, raw, lean."
+  },
+  "per_100g": {
+    "energy_kcal": 127.0,
+    "protein_g": 20.7,
+    "fat_g": 4.0,
+    "saturated_fat_g": 1.6,
+    "monounsaturated_fat_g": 1.7,
+    "polyunsaturated_fat_g": 0.3,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 56.0,
+    "potassium_mg": 318.0,
+    "calcium_mg": 5.0,
+    "iron_mg": 2.1,
+    "cholesterol_mg": 62.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.17,
+    "vitamin_b3_niacin_mg": 4.4,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 2.4,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 192.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 4.5,
+    "selenium_mcg": 18.6,
+    "water_g": 73.7
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — beef contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Lean beef topside is relatively low in sodium (56mg/100g raw) and saturated fat (1.6g/100g). The haem iron content (2.1mg/100g) and zinc (4.5mg/100g) are nutritionally valuable. The main cardiovascular concern is the saturated fat content which is higher than chicken breast but lower than pork belly.",
+      "guidance": "Lean beef can be included in the diets of hypertensive patients in moderate quantities (2–3 servings per week). Prepare by grilling, steaming, or stir-frying without added salt or salty sauces. Avoid red meat daily — alternate with poultry and fish for cardiovascular benefit."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Zero carbohydrate. Lean beef is an important source of haem iron, zinc, and vitamin B12 for patients with type 2 diabetes who may have concurrent micronutrient deficiencies. Regular red meat consumption (>3 servings/week) is weakly associated with increased type 2 diabetes risk in large epidemiological studies.",
+      "guidance": "Lean beef is acceptable for patients with type 2 diabetes in moderate quantities (2–3 servings/week). Unprocessed lean beef is significantly preferable to processed beef products (sausages, burgers, canned beef) which have higher sodium and saturated fat."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Very high in zinc (4.5mg/100g) — zinc supports immune function and wound healing, important for RA patients. Very high in vitamin B12 (2.4mcg/100g). However, lean red meat consumption is associated with modest increases in inflammatory markers.",
+      "guidance": "Lean beef can be consumed 2–3 times per week by patients with rheumatoid arthritis for its zinc and vitamin B12 content. More than 3 servings per week of red meat has been associated with increased disease activity. For anti-inflammatory benefit, replace at least 2 weekly servings of red meat with oily fish."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Beef topside is a lean cut from the inner thigh (round) of cattle, trimmed of visible fat. A standard reference lean beef cut used by both HPB Singapore and USDA for nutritional comparison purposes. With 20.7g protein and only 4.0g fat per 100g raw, it is one of the leaner beef cuts available. Exceptional zinc content (4.5mg/100g) — the best non-shellfish zinc source commonly available. The primary haem iron source in beef at 2.1mg/100g, which is much more bioavailable (15–35% absorption) than plant-based non-haem iron. Key source of vitamin B12 (2.4mcg/100g) — essential for patients on plant-based diets to supplement. Used in Singapore in beef pho, beef rendang (which traditionally uses chuck), beef steak, and stir-fried beef with vegetables.",
+    "common_user_queries": [
+      "lean beef calories raw",
+      "beef topside nutrition",
+      "beef zinc content",
+      "beef vs chicken protein",
+      "lean beef iron per 100g",
+      "how much beef is healthy per week",
+      "beef vitamin B12"
+    ],
+    "meal_context": [
+      "beef stir-fry",
+      "beef pho",
+      "beef steak",
+      "beef rendang",
+      "beef curry"
+    ],
+    "ingredient_synonyms": {
+      "beef topside": [
+        "inner round",
+        "top round",
+        "lean beef"
+      ],
+      "beef rendang": [
+        "uses chuck/brisket traditionally, not topside"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F06030020).",
+  "notes": "Values per 100g raw lean beef topside. Halal beef is widely available in Singapore. The haem iron in beef has 3–5x higher bioavailability than non-haem iron from plants. Zinc is also highly bioavailable from beef. Very high vitamin B12 (2.4mcg/100g) — an important consideration for patients transitioning to semi-vegetarian diets."
+}

@@ -1,0 +1,150 @@
+{
+  "food_name": "Rice Flour (plain, raw, from long-grain white rice)",
+  "local_names": {
+    "malay": "Tepung Beras",
+    "chinese_simplified": "粘米粉（生）",
+    "chinese_traditional": "粘米粉（生）",
+    "tamil": "அரிசி மாவு (பச்சை)"
+  },
+  "aliases": [
+    "rice flour",
+    "tepung beras",
+    "white rice flour",
+    "gluten-free flour",
+    "kueh flour",
+    "idiyappam flour"
+  ],
+  "cuisine": "SEA / South Indian",
+  "region_of_origin": "Southeast Asia / South India",
+  "food_group": "Grains and staples",
+  "food_subgroup": "White rice flour, dry raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03307180",
+    "foodon_label": "Rice flour",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00GN",
+    "foodex2_description": "Rice flour, white, milled from long-grain white rice",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dry"
+    ],
+    "processing_level": "processed (white rice milled into fine flour)",
+    "main_ingredients": [
+      "white rice (Oryza sativa), finely milled"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "30g (typical recipe portion)",
+    "size_g": 30,
+    "natural_language_portion": "A typical recipe portion of rice flour is 30g (approximately 3 tablespoons). In idiyappam making, about 100–150g flour is used to make a full plate serving."
+  },
+  "nutrient_source": {
+    "title": "Rice Flour — HPB Singapore Foodo Database, Food Code F05040011; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05040011 — Rice Flour, plain white, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 366.0,
+    "protein_g": 5.9,
+    "fat_g": 1.4,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 0.4,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 80.1,
+    "sugar_g": 0.2,
+    "dietary_fibre_g": 2.4,
+    "sodium_mg": 0.0,
+    "potassium_mg": 76.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.14,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 2.6,
+    "vitamin_b6_mg": 0.44,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 98.0,
+    "magnesium_mg": 35.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 15.1,
+    "water_g": 11.9
+  },
+  "glycemic_index": 78,
+  "glycemic_load_per_serving": 18.7,
+  "gi_source": "University of Sydney GI Database — GI of rice flour-based preparations (rice porridge, congee ~78). Dry rice flour GI not applicable. Rice flour has a high GI when cooked (products range 70–95 depending on preparation).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Rice flour contains negligible sodium (0mg/100g) and has no direct effect on blood pressure. Its nutritional profile is similar to white rice with slightly higher starch content.",
+      "guidance": "Rice flour-based preparations (kueh, idiyappam) are suitable for hypertensive patients. Blood pressure concerns arise from added ingredients (coconut milk, salt, sauces) rather than the flour itself."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Rice flour has a very high GI when cooked (~78+). Products made from rice flour (idiyappam, kueh, rice noodles) can cause significant postprandial blood glucose elevation. Lower fibre than wholegrain alternatives.",
+      "guidance": "Patients with type 2 diabetes should moderate consumption of rice flour-based foods. When used in cooking, combining with protein and fat helps blunt the glycaemic response. For baking and kueh-making, partial substitution with almond flour or chickpea flour reduces the GI."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Rice flour is gluten-free, making it a safe grain alternative for the subset of rheumatoid arthritis patients who are also gluten-sensitive. It provides only modest anti-inflammatory benefit.",
+      "guidance": "Rice flour is an acceptable gluten-free flour choice. For patients with rheumatoid arthritis seeking more anti-inflammatory grain options, almond or chickpea flour provides additional micronutrients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rice flour is a fine white powder milled from long-grain white rice. Completely gluten-free. It is the primary flour used in many Southeast Asian and South Indian preparations: idiyappam (string hoppers), murukku, kueh (Singaporean Chinese cakes), rice paper, and bee hoon (rice vermicelli). Nutritionally similar to white rice — high in starch, low in protein and fibre compared to wheat flour. The GI when cooked is high (~78+). Distinct from glutinous rice flour (made from waxy rice) — the two are not interchangeable in recipes as they produce different textures.",
+    "common_user_queries": [
+      "rice flour calories per 100g",
+      "is rice flour gluten free",
+      "rice flour nutrition",
+      "rice flour vs wheat flour",
+      "tepung beras nutrition",
+      "rice flour for idiyappam"
+    ],
+    "meal_context": [
+      "idiyappam",
+      "murukku",
+      "kueh",
+      "rice paper",
+      "bee hoon",
+      "rice noodles"
+    ],
+    "ingredient_synonyms": {
+      "rice flour": [
+        "tepung beras",
+        "white rice flour",
+        "idiyappam flour",
+        "rice powder"
+      ],
+      "glutinous rice flour": [
+        "tepung pulut",
+        "sweet rice flour"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Foodo (F05040011).",
+  "notes": "Values are per 100g dry rice flour. Distinct from glutinous (waxy) rice flour — these are not interchangeable. Rice flour has no gluten and produces non-elastic doughs. High starch content gives baked/steamed products a chewy or crumbly texture depending on the water ratio."
+}

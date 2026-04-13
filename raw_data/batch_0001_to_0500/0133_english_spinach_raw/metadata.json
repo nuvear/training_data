@@ -1,0 +1,155 @@
+{
+  "food_name": "English Spinach (raw)",
+  "local_names": {
+    "malay": "Bayam Inggris / Bayam Spinach (mentah)",
+    "chinese_simplified": "菠菜（生）",
+    "chinese_traditional": "菠菜（生）",
+    "tamil": "பசலைக்கீரை (பச்சை)",
+    "hindi": "पालक (कच्चा)"
+  },
+  "aliases": [
+    "spinach raw",
+    "English spinach",
+    "baby spinach",
+    "palak",
+    "Spinacia oleracea",
+    "true spinach"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Persia / Middle East (widely cultivated globally)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Leafy green vegetables, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301710",
+    "foodon_label": "Spinach",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14AA",
+    "foodex2_description": "Spinach (Spinacia oleracea), raw",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "256292009",
+    "snomed_ct_description": "Spinach (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw leaves)",
+    "main_ingredients": [
+      "spinach (Spinacia oleracea), fresh raw leaves"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup raw = approximately 30g",
+    "size_g": 30,
+    "natural_language_portion": "1 cup of raw spinach leaves weighs approximately 30g. Raw spinach wilts significantly when cooked — 1 cup raw yields approximately 90g cooked (as it absorbs water and compresses)."
+  },
+  "nutrient_source": {
+    "title": "English Spinach (raw) — HPB Singapore Foodo Database, Food Code F14010022; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14010022 — English Spinach, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 23.0,
+    "protein_g": 2.9,
+    "fat_g": 0.4,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.6,
+    "sugar_g": 0.4,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 79.0,
+    "potassium_mg": 558.0,
+    "calcium_mg": 99.0,
+    "iron_mg": 2.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 28.1,
+    "vitamin_a_mcg_rae": 469.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.19,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.2,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 194.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.0,
+    "phosphorus_mg": 49.0,
+    "magnesium_mg": 79.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 1.0,
+    "water_g": 91.4
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — spinach has negligible digestible carbohydrate (3.6g/100g including fibre) and very low starch. GI testing is not meaningful for leafy vegetables with such low carbohydrate density.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Among the highest potassium-to-sodium ratio of any commonly consumed vegetable (558mg potassium vs 79mg sodium per 100g). Very high in nitrates — dietary nitrates from leafy greens are converted to nitric oxide in vivo, causing arterial vasodilation and blood pressure reduction. High folate (194mcg DFE/100g) supports vascular endothelial function.",
+      "guidance": "Spinach is one of the most evidence-backed vegetables for blood pressure reduction. Regular inclusion of leafy green vegetables (spinach, kale, lettuce, kangkung) is associated with a 5–8 mmHg reduction in systolic blood pressure. Include raw or lightly cooked spinach daily in the diet of hypertensive patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low calorie (23 kcal/100g). Negligible digestible carbohydrate. High magnesium (79mg/100g) is inversely associated with type 2 diabetes risk. Alpha-lipoic acid in spinach has mild insulin-sensitising properties.",
+      "guidance": "Spinach is an ideal vegetable for patients with type 2 diabetes — it adds volume and nutrients to meals without contributing carbohydrates. Including spinach in omelettes, soups, stir-fries, and smoothies daily is a high-impact, low-risk dietary modification."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Very high vitamin A (469mcg RAE/100g from beta-carotene), vitamin E (2.0mg), and folate (194mcg DFE/100g). Spinach contains several anti-inflammatory flavonoids (quercetin, kaempferol). However, spinach is high in oxalates which may limit calcium and iron absorption.",
+      "guidance": "Spinach is recommended for patients with rheumatoid arthritis as a micronutrient-dense leafy green. Note the high oxalate content — consuming with vitamin C-rich foods or a small amount of fat improves carotenoid absorption. Patients with kidney stones (calcium oxalate) should moderate spinach intake to avoid excessive oxalate loading."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "English spinach (Spinacia oleracea) is the standard leafy green reference vegetable in clinical nutrition — the dietitian's benchmark for iron, folate, and vitamin A content. Very low calorie (23 kcal/100g), negligible carbohydrate, very high water content (91.4%). Outstanding micronutrient density: 469mcg RAE vitamin A, 194mcg DFE folate, 2.7mg iron, 558mg potassium, 79mg magnesium per 100g. Distinct from kangkung (water spinach, Ipomoea aquatica) and Chinese spinach (bayam, Amaranthus). The iron in spinach is non-haem iron with lower bioavailability — consuming with vitamin C (lemon juice, tomato) significantly improves absorption. High in oxalates which bind calcium and reduce its bioavailability.",
+    "common_user_queries": [
+      "spinach calories raw",
+      "spinach iron content",
+      "spinach folate per 100g",
+      "is spinach high in iron",
+      "spinach vs kangkung nutrition",
+      "best way to eat spinach for iron",
+      "spinach potassium content"
+    ],
+    "meal_context": [
+      "palak paneer",
+      "spinach omelette",
+      "salads",
+      "smoothies",
+      "soups",
+      "stir-fry"
+    ],
+    "ingredient_synonyms": {
+      "English spinach": [
+        "baby spinach",
+        "palak",
+        "Spinacia oleracea",
+        "true spinach"
+      ],
+      "kangkung": [
+        "water spinach",
+        "morning glory (different species)"
+      ],
+      "bayam": [
+        "Chinese spinach",
+        "Amaranthus (different species)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14010022).",
+  "notes": "Values per 100g raw fresh spinach leaves. High oxalate content significantly reduces calcium and iron bioavailability — lightly cooking (blanching) reduces oxalates modestly. Not a reliable calcium source due to oxalate binding despite 99mg calcium/100g. The iron (2.7mg/100g) is non-haem iron with 5–12% absorption — combining with vitamin C foods is essential for clinical relevance."
+}

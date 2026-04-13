@@ -1,0 +1,159 @@
+{
+  "food_name": "Firm Tofu (fresh, plain, regular, pressed)",
+  "local_names": {
+    "chinese_simplified": "老豆腐 / 硬豆腐（新鲜，原味）",
+    "chinese_traditional": "老豆腐 / 硬豆腐（新鮮，原味）",
+    "malay": "Tauhu / Tofu (keras, segar)",
+    "tamil": "டோஃபு (திடமான, புதிய)"
+  },
+  "aliases": [
+    "firm tofu",
+    "tau kwa",
+    "hard tofu",
+    "regular tofu",
+    "dao fu",
+    "soybean curd",
+    "bean curd"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China",
+  "food_group": "Plant proteins",
+  "food_subgroup": "Firm tofu (coagulated soy milk, pressed), fresh, plain",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301674",
+    "foodon_label": "Tofu",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a general tofu concept but no specific firm/regular tofu entry. Closest parent used.",
+    "foodex2_code": "A09AA",
+    "foodex2_description": "Tofu, firm (regular), fresh, plain, uncooked",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "uncooked"
+    ],
+    "processing_level": "processed (soybeans coagulated with calcium or magnesium salt into pressed curd)",
+    "main_ingredients": [
+      "soybeans (Glycine max)",
+      "water",
+      "coagulant (calcium sulfate or magnesium chloride / nigari)"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ block = approximately 150g",
+    "size_g": 150,
+    "natural_language_portion": "A standard block of firm tofu in Singapore weighs 300–500g. A typical portion is ½ block (~150g) — used in tofu soup, stir-fry, or mapo tofu."
+  },
+  "nutrient_source": {
+    "title": "Firm Tofu — HPB Singapore Foodo Database, Food Code F09040003; cross-referenced with USDA Foundation Foods",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service — Foundation Foods",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09040003 — Firm Tofu, fresh, plain."
+  },
+  "per_100g": {
+    "energy_kcal": 76.0,
+    "protein_g": 8.1,
+    "fat_g": 4.2,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 2.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 1.9,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 0.3,
+    "sodium_mg": 7.0,
+    "potassium_mg": 121.0,
+    "calcium_mg": 350.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.1,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 117.0,
+    "magnesium_mg": 30.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 10.5,
+    "water_g": 83.2
+  },
+  "glycemic_index": 15,
+  "glycemic_load_per_serving": 0.4,
+  "gi_source": "University of Sydney GI Database — GI of firm tofu (~15). The negligible carbohydrate content (1.9g/100g) means the glycaemic load per serving is essentially zero regardless of GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (7mg/100g). Excellent calcium source (350mg/100g — comparable to milk). Soy proteins and isoflavones may have modest blood pressure-lowering effects through endothelial function improvement.",
+      "guidance": "Firm tofu is an excellent food for patients with hypertension. Very low in sodium, high in calcium, and a complete protein source. When prepared as agedashi tofu (fried) or in salty sauces, the sodium from cooking preparations overrides the tofu's inherent low sodium. Prefer steamed, boiled, or braised tofu preparations with minimal added salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Essentially no carbohydrate (1.9g/100g), very low GI (~15). High protein (8.1g/100g) for a plant food. Soy isoflavones may improve insulin sensitivity. An excellent protein substitute for high-carbohydrate dishes.",
+      "guidance": "Firm tofu is highly recommended for patients with type 2 diabetes as a daily protein source. It can be used as a protein replacement for rice in mixed dishes (tofu with vegetables + 50% less rice dramatically reduces meal glycaemic load). Silken tofu is suitable for smoothies and desserts as a protein addition."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Excellent calcium source (350mg/100g) — important for bone health in RA patients at risk of osteoporosis. Soy isoflavones have weak anti-inflammatory properties. Polyunsaturated fat profile is favourable (2.4g/100g, predominantly omega-6 linoleic acid and some omega-3).",
+      "guidance": "Firm tofu is recommended for patients with rheumatoid arthritis as a calcium-rich, anti-inflammatory plant protein. RA patients on long-term corticosteroids are at elevated osteoporosis risk — calcium from tofu (especially calcium-set tofu made with calcium sulfate) contributes to bone density maintenance."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Firm tofu (tau kwa in Hokkien) is fresh tofu made by coagulating hot soy milk with a coagulant (calcium sulfate or nigari/magnesium chloride), then pressing the resulting curds into a firm, dense block. Higher in calcium when coagulated with calcium sulfate (the most common commercial method) — values in this record assume calcium-set tofu. With 8.1g protein and 4.2g fat per 100g, it is a nutritionally excellent plant protein with essentially zero carbohydrate. Exceptional calcium content (350mg/100g) — comparable to cow's milk. Extremely versatile: used raw in Japanese cold tofu (hiyayakko), deep-fried in tofu pok (fried tofu puffs), grilled, stir-fried, braised, in soups, and as a meat substitute in curries and stews.",
+    "common_user_queries": [
+      "firm tofu calories per 100g",
+      "tofu protein content",
+      "tofu calcium content",
+      "is tofu a good protein source",
+      "tofu vs chicken nutrition",
+      "tau kwa calories",
+      "firm tofu GI for diabetes"
+    ],
+    "meal_context": [
+      "stir-fry",
+      "tofu soup",
+      "mapo tofu",
+      "agedashi tofu",
+      "braised tofu",
+      "tofu salad"
+    ],
+    "ingredient_synonyms": {
+      "firm tofu": [
+        "tau kwa",
+        "hard tofu",
+        "regular tofu",
+        "dao fu"
+      ],
+      "silken tofu": [
+        "soft tofu",
+        "doufu (softer)"
+      ],
+      "tofu pok": [
+        "fried tofu puffs"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F09040003).",
+  "notes": "Values per 100g fresh firm tofu. Calcium content varies significantly by coagulant: calcium-sulfate-set tofu has ~350mg calcium/100g; nigari (magnesium chloride) set tofu has lower calcium (~120mg/100g). Most commercial Singapore tofu is calcium-sulfate set. Does not contain vitamin B12 — pure vegan diet requires B12 supplementation even with daily tofu consumption."
+}

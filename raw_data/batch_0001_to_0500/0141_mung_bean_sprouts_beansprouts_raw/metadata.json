@@ -1,0 +1,150 @@
+{
+  "food_name": "Mung Bean Sprouts / Beansprouts (raw)",
+  "local_names": {
+    "malay": "Taugeh (mentah)",
+    "chinese_simplified": "绿豆芽 / 豆芽（生）",
+    "chinese_traditional": "綠豆芽 / 豆芽（生）",
+    "tamil": "முளைக்கட்டிய பயறு (பச்சை)"
+  },
+  "aliases": [
+    "beansprouts raw",
+    "bean sprouts",
+    "taugeh",
+    "mung bean sprouts",
+    "tauge",
+    "dou ya"
+  ],
+  "cuisine": "Chinese / SEA",
+  "region_of_origin": "China / Southeast Asia",
+  "food_group": "Vegetables",
+  "food_subgroup": "Sprouted legumes, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316096",
+    "foodon_label": "Mung bean",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a mung bean concept but no specific entry for sprouted mung bean (beansprouts). Closest parent used.",
+    "foodex2_code": "A14AC",
+    "foodex2_description": "Mung bean sprouts / beansprouts (Vigna radiata, sprouted), raw",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (sprouted — mung beans germinated 2–3 days)",
+    "main_ingredients": [
+      "mung beans (Vigna radiata), sprouted, raw"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup = approximately 100g",
+    "size_g": 100,
+    "natural_language_portion": "A standard 1 cup of raw beansprouts weighs approximately 100g. A typical hawker preparation (char kway teow, pad thai, laksa) uses 50–100g of beansprouts per portion."
+  },
+  "nutrient_source": {
+    "title": "Mung Bean Sprouts / Beansprouts (raw) — HPB Singapore Foodo Database, Food Code F14040017; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14040017 — Mung Bean Sprouts, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 30.0,
+    "protein_g": 3.0,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 5.9,
+    "sugar_g": 4.1,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 6.0,
+    "potassium_mg": 149.0,
+    "calcium_mg": 13.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 13.2,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.09,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 61.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 54.0,
+    "magnesium_mg": 21.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 0.6,
+    "water_g": 90.4
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — beansprouts have very low digestible starch. The carbohydrate (5.9g/100g) is predominantly from sugars released during germination and dietary fibre from the sprout cell wall.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (6mg/100g) and low calorie. The germination process increases vitamin C content substantially compared to dry mung beans. A highly affordable vegetable for daily consumption.",
+      "guidance": "Beansprouts are excellent for patients with hypertension. Very low in sodium and calories. Available year-round at very low cost in Singapore — an accessible daily vegetable for all income levels. Avoid highly salted preparations."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low calorie (30 kcal/100g), low digestible carbohydrate, and useful protein (3.0g/100g). Adding a generous portion of beansprouts to noodle and rice dishes increases meal volume and nutritional value while diluting the carbohydrate density.",
+      "guidance": "Beansprouts are ideal for patients with type 2 diabetes as a cheap, widely available, low-calorie vegetable to add to every hawker noodle and rice dish. Requesting extra beansprouts at hawker stalls is one of the simplest diabetes dietary strategies."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Good folate content (61mcg DFE/100g) for a low-calorie vegetable. Vitamin C (13.2mg/100g) supports collagen synthesis. The sprouting process increases bioavailability of all micronutrients by reducing phytate content.",
+      "guidance": "Beansprouts are a useful, cheap, widely available addition to the diet of patients with rheumatoid arthritis. Include daily in hawker meals as a free vegetable addition."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mung bean sprouts (taugeh in Malay) are the sprouted form of whole green mung beans (Vigna radiata), germinated for 2–3 days. The germination process dramatically increases vitamin C (from ~5mg to 13.2mg/100g), folate, and riboflavin while reducing phytates. The resulting sprouts are crisp, white, and mildly flavoured. One of the most affordable, widely available, and popular vegetables in Singapore — found in virtually every hawker noodle dish. Very low in calories (30 kcal/100g) with negligible digestible starch. Used raw or lightly blanched in pad thai, char kway teow, laksa, mee rebus, wonton noodles, popiah, and as a fresh garnish. Distinct from soybean sprouts (larger, yellowish, from germinated soybeans) which have a different nutritional profile.",
+    "common_user_queries": [
+      "beansprouts calories",
+      "taugeh nutrition",
+      "mung bean sprouts vs soybean sprouts",
+      "beansprouts carbs",
+      "beansprouts for diet",
+      "beansprouts protein per 100g",
+      "raw vs cooked beansprouts"
+    ],
+    "meal_context": [
+      "char kway teow",
+      "pad thai",
+      "laksa",
+      "popiah",
+      "mee rebus",
+      "wonton noodles"
+    ],
+    "ingredient_synonyms": {
+      "beansprouts": [
+        "taugeh",
+        "mung bean sprouts",
+        "dou ya",
+        "tauge"
+      ],
+      "soybean sprouts": [
+        "kongnamul (Korean)",
+        "larger yellow-topped sprouts (different)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14040017).",
+  "notes": "Values per 100g raw mung bean sprouts. Sprouting significantly increases vitamin C compared to dry mung beans and improves overall nutritional bioavailability through phytate reduction. Food safety note: raw sprouts (commercially grown) have occasionally been associated with E. coli and Salmonella contamination — lightly blanching for vulnerable groups (elderly, immunocompromised, pregnant) is recommended."
+}

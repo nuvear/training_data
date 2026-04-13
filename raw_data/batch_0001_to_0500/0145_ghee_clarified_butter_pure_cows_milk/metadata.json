@@ -1,0 +1,151 @@
+{
+  "food_name": "Ghee (clarified butter, pure, cow's milk)",
+  "local_names": {
+    "hindi": "घी (गाय का मक्खन)",
+    "urdu": "گھی",
+    "tamil": "நெய் (தெளிவு வெண்ணெய்)",
+    "malay": "Minyak Sapi / Ghee"
+  },
+  "aliases": [
+    "ghee",
+    "clarified butter",
+    "drawn butter",
+    "pure ghee",
+    "desi ghee",
+    "gawa ghee"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "Indian subcontinent",
+  "food_group": "Fats and dairy",
+  "food_subgroup": "Clarified butter fat — pure animal fat",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302726",
+    "foodon_label": "Ghee",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "EI000022",
+    "foodex2_description": "Ghee (clarified butter from cow milk, anhydrous milk fat)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "71239000",
+    "snomed_ct_description": "Ghee (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "processed"
+    ],
+    "processing_level": "processed (butter slowly cooked to remove water and milk solids, resulting in pure fat)",
+    "main_ingredients": [
+      "cow's milk butter, clarified to remove milk protein and water"
+    ],
+    "allergens": [
+      "milk (trace milk proteins may remain)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 teaspoon = 5g",
+    "size_g": 5,
+    "natural_language_portion": "The standard drizzle of ghee on chapati, dal, or rice in Indian cooking is 1 teaspoon (approximately 5g). A typical Indian meal may use 5–10g of ghee in total across all cooking applications."
+  },
+  "nutrient_source": {
+    "title": "Ghee — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with USDA SR Legacy and HPB Foodo (EI000022)",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); USDA Agricultural Research Service",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN Nutritive Value of Indian Foods — Ghee (pure clarified butter). Also found in HPB Foodo under EI000022. Cross-referenced with USDA SR Legacy butter oil (clarified butter)."
+  },
+  "per_100g": {
+    "energy_kcal": 883.0,
+    "protein_g": 0.3,
+    "fat_g": 99.5,
+    "saturated_fat_g": 61.9,
+    "monounsaturated_fat_g": 28.7,
+    "polyunsaturated_fat_g": 3.7,
+    "trans_fat_g": 2.2,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 2.0,
+    "potassium_mg": 5.0,
+    "calcium_mg": 1.0,
+    "iron_mg": 0.0,
+    "cholesterol_mg": 256.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 840.0,
+    "vitamin_b1_thiamine_mg": 0.0,
+    "vitamin_b2_riboflavin_mg": 0.0,
+    "vitamin_b3_niacin_mg": 0.0,
+    "vitamin_b6_mg": 0.0,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 0.0,
+    "vitamin_d_mcg": 1.7,
+    "vitamin_e_mg": 2.8,
+    "phosphorus_mg": 3.0,
+    "magnesium_mg": 0.0,
+    "zinc_mg": 0.1,
+    "selenium_mcg": 0.3,
+    "water_g": 0.2
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — ghee contains no carbohydrate (pure fat). It has zero glycaemic impact.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Ghee is 61.9g saturated fat per 100g — the highest saturated fat concentration of any commonly used cooking fat or ingredient in Indian cooking. Saturated fat raises LDL ('bad') cholesterol, a major modifiable cardiovascular risk factor. The 2.2g naturally occurring trans fat (conjugated linoleic acid from ruminant fat) has less harmful effects than industrial trans fat but still warrants caution at high doses.",
+      "guidance": "Patients with hypertension and dyslipidaemia should significantly limit ghee. The classic practice of adding 1 teaspoon (5g) ghee to dal, rice, or roti is traditional and clinically manageable at this dose (providing ~3g saturated fat). However, using ghee liberally in biryani preparation, halwa, and as a cooking fat adds substantially to saturated fat intake. Limit to 1 teaspoon maximum per meal. Replace with heart-healthy oils (mustard oil, olive oil, canola) for cooking."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Ghee contains zero carbohydrate and does not raise blood glucose. However, very high saturated fat intake is associated with increased insulin resistance. The very high caloric density (883 kcal/100g) makes it easy to exceed caloric targets with modest use — weight management is the primary concern for type 2 diabetes.",
+      "guidance": "Patients with type 2 diabetes should use ghee very sparingly — 5g (1 teaspoon) per day maximum as a flavour component. The traditional belief that ghee improves insulin sensitivity (based on Ayurvedic medicine) is not supported by robust clinical evidence at doses relevant to therapeutic benefit."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Very high saturated fat promotes pro-inflammatory cytokine production. High cholesterol content (256mg/100g). The conjugated linoleic acid (CLA) in ghee has shown some anti-inflammatory properties in laboratory studies, but the overall saturated fat profile is pro-inflammatory.",
+      "guidance": "Patients with rheumatoid arthritis should minimise ghee use. The 1 teaspoon finishing dose on dal or chapati is culturally and practically manageable, but ghee should not be used as a primary cooking fat. Replace with mustard oil or olive oil which provide anti-inflammatory fatty acids."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ghee (clarified butter) is pure cow's milk fat produced by slowly simmering butter until all water evaporates and milk solids (protein and lactose) separate out and are removed, leaving a clear golden fat. Shelf-stable at room temperature. Extraordinarily energy-dense at 883 kcal/100g — the highest caloric density of any cooking fat. Almost entirely fat (99.5g/100g) with 61.9g saturated fat. Notable for its very high vitamin A content (840mcg RAE/100g from retinol) and useful vitamin D (1.7mcg/100g) and vitamin E (2.8mg/100g). The standard finishing fat in Indian cuisine: 1 teaspoon over hot dal, biryani, or chapati. Used as the cooking fat for halwa, pongal, and various Indian sweets. The Ayurvedic tradition reveres ghee as a superfood — modern evidence does not fully support this characterisation.",
+    "common_user_queries": [
+      "ghee calories per teaspoon",
+      "ghee nutrition per 100g",
+      "is ghee healthier than butter",
+      "ghee saturated fat content",
+      "ghee for cooking",
+      "ghee vs coconut oil",
+      "how much ghee per day is safe"
+    ],
+    "meal_context": [
+      "dal finishing",
+      "chapati finish",
+      "biryani",
+      "halwa",
+      "pongal",
+      "Indian sweets"
+    ],
+    "ingredient_synonyms": {
+      "ghee": [
+        "clarified butter",
+        "drawn butter",
+        "desi ghee",
+        "vanaspati (different — vegetable ghee)"
+      ],
+      "buffalo ghee": [
+        "made from buffalo butter — higher fat content than cow ghee"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "ICMR-NIN exact match for Ghee (clarified butter), cross-referenced with USDA SR Legacy and HPB Foodo (EI000022).",
+  "notes": "Values per 100g pure cow's milk ghee. The trans fat (2.2g/100g) is naturally occurring CLA (conjugated linoleic acid) from ruminant fat — different from and less harmful than industrial trans fat (partially hydrogenated vegetable oil). The serving size (5g teaspoon) provides only 3.1g saturated fat — manageable within daily limits if ghee use is genuinely restricted to the finishing drizzle. The key clinical concern is overconsumption in South Asian cooking where ghee is used generously."
+}

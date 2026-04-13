@@ -1,0 +1,147 @@
+{
+  "food_name": "Carrot (raw, orange, peeled)",
+  "local_names": {
+    "malay": "Lobak Merah / Karot (mentah, kupas)",
+    "chinese_simplified": "胡萝卜（生，去皮）",
+    "chinese_traditional": "胡蘿蔔（生，去皮）",
+    "tamil": "கேரட் (பச்சை, தோல் நீக்கியது)"
+  },
+  "aliases": [
+    "carrot raw",
+    "karot",
+    "lobak merah",
+    "orange carrot",
+    "Daucus carota"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Middle East / Central Asia (orange variety from Netherlands)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Root vegetables, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310702",
+    "foodon_label": "Carrot",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14FA",
+    "foodex2_description": "Carrot (Daucus carota), raw, orange, peeled",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226746009",
+    "snomed_ct_description": "Carrot (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, peeled)",
+    "main_ingredients": [
+      "carrot (Daucus carota), raw, peeled"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 medium carrot = approximately 85g",
+    "size_g": 85,
+    "natural_language_portion": "1 medium raw carrot weighs approximately 80–90g peeled. Used as a snack (1 carrot ~85g), in stir-fries (1–2 carrots per dish), and in soups (2–3 carrots)."
+  },
+  "nutrient_source": {
+    "title": "Carrot (raw, peeled) — HPB Singapore Foodo Database, Food Code F14040008; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14040008 — Carrot, raw, peeled."
+  },
+  "per_100g": {
+    "energy_kcal": 41.0,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 9.6,
+    "sugar_g": 4.7,
+    "dietary_fibre_g": 2.8,
+    "sodium_mg": 69.0,
+    "potassium_mg": 320.0,
+    "calcium_mg": 33.0,
+    "iron_mg": 0.3,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 5.9,
+    "vitamin_a_mcg_rae": 835.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.0,
+    "vitamin_b6_mg": 0.14,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 19.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.7,
+    "phosphorus_mg": 35.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 0.1,
+    "water_g": 88.3
+  },
+  "glycemic_index": 47,
+  "glycemic_load_per_serving": 3.4,
+  "gi_source": "University of Sydney GI Database — GI of raw carrots (approximately 47). Despite containing 9.6g carbohydrate/100g, most of this is dietary fibre and naturally occurring sugars — the digestible starch content is low, resulting in a moderate GI that produces minimal glycaemic impact at typical serving sizes.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Good potassium content (320mg/100g) and low sodium (69mg/100g). The extraordinary vitamin A (835mcg RAE/100g from beta-carotene) and potassium support cardiovascular health.",
+      "guidance": "Carrots are an excellent snack and cooking vegetable for patients with hypertension. Very low in sodium, moderate in potassium. Daily carrot consumption contributes to overall dietary pattern improvements. No clinical concerns."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Moderate GI (~47) with a low glycaemic load (GL ~3.4 per 85g serving). Despite common perception, carrots do not raise blood glucose significantly at realistic serving sizes. The fibre (2.8g/100g) slows carbohydrate digestion.",
+      "guidance": "Carrots are acceptable and beneficial for patients with type 2 diabetes at normal serving sizes. The 'carrots have high GI' misconception should be addressed — the glycaemic load per serving is very low due to low digestible starch content. Include daily as a snack or cooking vegetable."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Extraordinary beta-carotene (vitamin A precursor at 835mcg RAE/100g) — the richest common vegetable source. Beta-carotene is an antioxidant carotenoid that reduces oxidative stress in joint tissue. Absorption is significantly enhanced by eating with a small amount of fat (e.g., in stir-fry with oil).",
+      "guidance": "Carrots are highly recommended for patients with rheumatoid arthritis as a daily source of beta-carotene/vitamin A. The antioxidant properties of beta-carotene are relevant to reducing inflammatory joint tissue damage. Include in daily cooking — a single carrot provides >100% of the adult vitamin A daily requirement."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "The common orange carrot (Daucus carota) is one of the most micronutrient-dense root vegetables available. The orange colour is from beta-carotene — 835mcg RAE vitamin A equivalent per 100g, making it one of the richest dietary vitamin A sources. Despite its naturally sweet flavour and relatively high carbohydrate content (9.6g/100g), raw carrots have a moderate GI (~47) and very low glycaemic load per serving. High in dietary fibre (2.8g/100g) from pectin and cellulose. Beta-carotene absorption is enhanced by concurrent fat consumption — cooking carrots in oil or eating them with avocado significantly improves beta-carotene bioavailability. A versatile cooking vegetable used across all Singapore cuisine styles.",
+    "common_user_queries": [
+      "carrot calories raw",
+      "carrot vitamin A content",
+      "carrot GI for diabetes",
+      "are carrots high in sugar",
+      "carrot beta carotene",
+      "carrot potassium",
+      "raw vs cooked carrot nutrition"
+    ],
+    "meal_context": [
+      "stir-fry",
+      "soup",
+      "raw snack",
+      "salads",
+      "curry",
+      "popiah"
+    ],
+    "ingredient_synonyms": {
+      "carrot": [
+        "karot",
+        "lobak merah",
+        "Daucus carota"
+      ],
+      "baby carrots": [
+        "small carrots (same species, different size)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14040008).",
+  "notes": "Values per 100g raw peeled carrot. The vitamin A content (835mcg RAE) is from beta-carotene (provitamin A carotenoid). Beta-carotene absorption from raw carrots is approximately 3–8% compared to 20–50% from cooked carrots in fat — cooking and fat addition dramatically improves beta-carotene bioavailability."
+}

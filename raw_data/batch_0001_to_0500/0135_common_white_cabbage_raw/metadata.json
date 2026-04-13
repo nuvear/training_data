@@ -1,0 +1,148 @@
+{
+  "food_name": "Common White Cabbage (raw)",
+  "local_names": {
+    "malay": "Kubis Bulat / Kobis (mentah)",
+    "chinese_simplified": "椰菜 / 圆白菜（生）",
+    "chinese_traditional": "椰菜 / 圓白菜（生）",
+    "tamil": "முட்டைக்கோஸ் (பச்சை)"
+  },
+  "aliases": [
+    "cabbage raw",
+    "white cabbage",
+    "round cabbage",
+    "kobis",
+    "ye cai",
+    "Brassica oleracea var. capitata"
+  ],
+  "cuisine": "Global",
+  "region_of_origin": "Mediterranean Europe (widely cultivated globally)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Brassica (cruciferous) vegetables, raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03310791",
+    "foodon_label": "Cabbage",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A14DA",
+    "foodex2_description": "Cabbage (Brassica oleracea var. capitata), raw, white/green",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": "226754003",
+    "snomed_ct_description": "Cabbage (substance)"
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw, outer leaves removed)",
+    "main_ingredients": [
+      "white cabbage (Brassica oleracea var. capitata), raw"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 cup shredded = approximately 90g",
+    "size_g": 90,
+    "natural_language_portion": "1 cup of shredded raw cabbage weighs approximately 90g. A standard stir-fry portion uses approximately 150–200g raw cabbage."
+  },
+  "nutrient_source": {
+    "title": "White Cabbage (raw) — HPB Singapore Foodo Database, Food Code F14010019; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F14010019 — White Cabbage, raw."
+  },
+  "per_100g": {
+    "energy_kcal": 25.0,
+    "protein_g": 1.3,
+    "fat_g": 0.1,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.0,
+    "polyunsaturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 5.8,
+    "sugar_g": 3.2,
+    "dietary_fibre_g": 2.5,
+    "sodium_mg": 18.0,
+    "potassium_mg": 170.0,
+    "calcium_mg": 40.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 36.6,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 43.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 26.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 0.3,
+    "water_g": 92.2
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — cabbage has minimal digestible starch. Despite having 5.8g/100g carbohydrate, most of this is dietary fibre and sugars with a very low glycaemic impact.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low sodium (18mg/100g) and low calorie. Cabbage is a cruciferous vegetable containing glucosinolates which convert to isothiocyanates and may have mild cardioprotective properties. Very good vitamin C content (36.6mg/100g) supporting vascular endothelial function.",
+      "guidance": "Cabbage is an excellent affordable vegetable for patients with hypertension. No sodium concerns from the raw vegetable itself. Recommended in soups, stir-fries, and salads. Avoid high-sodium preparations (kimchi-style heavily salted cabbage, cabbage with oyster sauce) that reverse the sodium benefit."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Low calorie (25 kcal/100g) with useful dietary fibre (2.5g/100g). The fibre slows digestion and improves overall meal glycaemic response. Folate (43mcg DFE/100g) supports cell metabolism.",
+      "guidance": "Cabbage is an excellent high-volume, low-calorie vegetable for patients with type 2 diabetes. Including 200–300g of cabbage and other low-starch vegetables per meal displaces rice/noodles and dramatically reduces the meal's glycaemic load. Raw cabbage in coleslaw (with minimal dressing) is a useful salad base."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Cruciferous vegetables (cabbage, broccoli, cauliflower) contain sulforaphane (from glucosinolate metabolism) which inhibits NF-κB — a key inflammatory signalling pathway. Vitamin C (36.6mg/100g) supports collagen synthesis.",
+      "guidance": "Cabbage and other cruciferous vegetables are recommended for patients with rheumatoid arthritis for their anti-inflammatory sulforaphane content. Raw or lightly cooked cabbage provides more glucosinolates than overcooked preparations. Include daily in the diet."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "White round cabbage (Brassica oleracea var. capitata) is the most commonly purchased cabbage variety in Singapore households and hawker stalls. Very low calorie (25 kcal/100g), very high water content (92.2%), and a good source of vitamin C (36.6mg/100g) and folate (43mcg DFE/100g). A cruciferous vegetable — member of the same family as broccoli, cauliflower, and bok choy. Contains glucosinolates which are metabolised to bioactive isothiocyanates (including sulforaphane) with anti-inflammatory and potential cancer-protective properties. Used in Singapore char kway teow, economy rice (cheap vegetable option), coleslaw, soups, dumplings, and okonomiyaki.",
+    "common_user_queries": [
+      "cabbage calories raw",
+      "is cabbage healthy",
+      "cabbage vitamin C",
+      "cabbage vs spinach nutrition",
+      "raw cabbage nutrition per 100g",
+      "cabbage for weight loss"
+    ],
+    "meal_context": [
+      "stir-fry",
+      "coleslaw",
+      "soup",
+      "dumplings",
+      "popiah",
+      "economy rice"
+    ],
+    "ingredient_synonyms": {
+      "white cabbage": [
+        "round cabbage",
+        "kobis",
+        "ye cai"
+      ],
+      "Brassica oleracea": [
+        "cruciferous vegetable",
+        "brassica"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F14010019).",
+  "notes": "Values per 100g raw white cabbage, outer leaves removed. Cooking reduces vitamin C content significantly (50–60% loss with prolonged boiling). Raw or lightly stir-fried cabbage preserves more glucosinolates and vitamin C than overcooked preparations."
+}

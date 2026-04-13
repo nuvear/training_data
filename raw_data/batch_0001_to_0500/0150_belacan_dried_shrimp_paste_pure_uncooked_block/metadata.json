@@ -1,0 +1,156 @@
+{
+  "food_name": "Belacan / Dried Shrimp Paste (pure, uncooked block)",
+  "local_names": {
+    "malay": "Belacan (blok mentah, kering)",
+    "chinese_hokkien": "Hay Koh / Terasi",
+    "chinese_mandarin": "虾酱 (Xia Jiang)",
+    "tamil": "கருவாடு விழுது (காய்ந்த)"
+  },
+  "aliases": [
+    "belacan",
+    "belachan",
+    "terasi",
+    "bagoong",
+    "dried shrimp paste",
+    "shrimp paste block",
+    "fermented shrimp paste"
+  ],
+  "cuisine": "Malaysian / Singaporean",
+  "region_of_origin": "Malaysia / Singapore / Indonesia",
+  "food_group": "Seasonings and condiments",
+  "food_subgroup": "Fermented shrimp/krill paste — extremely high sodium",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for belacan (Malay/Singapore dried shrimp paste block). The closest parent is fermented crustacean condiment. A new FoodOn concept for belacan is recommended.",
+    "foodex2_code": "A11EA",
+    "foodex2_description": "Shrimp/krill paste (fermented, dried block — belacan/terasi style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "dried"
+    ],
+    "processing_level": "heavily processed (krill/small shrimp mixed with salt, pounded, fermented, sun-dried into firm blocks)",
+    "main_ingredients": [
+      "geragau krill (Acetes spp.) or small shrimp",
+      "salt (sodium chloride)"
+    ],
+    "allergens": [
+      "crustaceans / shellfish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "5–10g per dish",
+    "size_g": 7,
+    "natural_language_portion": "Belacan is used in very small quantities — approximately 5–10g (a small walnut-sized piece or ½ teaspoon crumbled) per dish for a 4-person serving. A single personal serving absorbs approximately 1–2.5g of belacan from a shared dish. Always toasted or dry-fried before use."
+  },
+  "nutrient_source": {
+    "title": "Belacan / Dried Shrimp Paste — IMR Malaysia MyFCD; cross-referenced with FAO/INFOODS SEA Table",
+    "organization": "Institute for Medical Research (IMR) Malaysia — MyFCD (Malaysian Food Composition Database); FAO/INFOODS Southeast Asia Regional Food Composition Table",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Primary source is IMR Malaysia MyFCD for belacan (dried shrimp paste block). Cross-referenced with FAO/INFOODS SEA Table for shrimp paste fermented (Malaysia/Indonesia style). Values per 100g raw untoasted belacan block."
+  },
+  "per_100g": {
+    "energy_kcal": 211.0,
+    "protein_g": 35.9,
+    "fat_g": 4.5,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 1.0,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.8,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 14200.0,
+    "potassium_mg": 310.0,
+    "calcium_mg": 1770.0,
+    "iron_mg": 11.7,
+    "cholesterol_mg": 120.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 50.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.2,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 3.0,
+    "folate_mcg_dfe": 11.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 665.0,
+    "magnesium_mg": 143.0,
+    "zinc_mg": 2.5,
+    "selenium_mcg": 52.0,
+    "water_g": 39.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — belacan is a condiment with negligible carbohydrate used in gram-level quantities per meal.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "very high",
+      "key_factor": "Belacan contains 14,200mg sodium per 100g — the highest sodium concentration of any commonly used food in Singapore. While a 7g serving contains ~994mg sodium, the key clinical point is cumulative exposure: belacan is used across multiple dishes per week in many Malay and Peranakan households. A household that uses belacan in 5 dishes per week (7g per dish shared by 4 people) contributes ~1.75g sodium per person per week from belacan alone — before soy sauce, fish sauce, and other condiments.",
+      "guidance": "Patients with hypertension should minimise belacan use. Key guidance: (1) reduce belacan by 50% in sambal recipes, (2) use a smaller block — many cooks use more than necessary, (3) consider cincaluk (fermented small shrimp in brine — also high sodium but milder) as a partial substitute, (4) provide the per-serving sodium reality: a typical sambal belacan portion absorbed per individual is 1–2g belacan = 142–284mg sodium — not catastrophic if overall diet sodium is managed. The problem is cumulative across meals and condiments."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Belacan is used in such small quantities that carbohydrate contribution is negligible. Primary concern is the sodium-driven renal and cardiovascular complication risk in diabetic patients.",
+      "guidance": "Patients with type 2 diabetes should reduce belacan use as part of overall sodium reduction targeting nephropathy prevention. The condiment itself has negligible glycaemic impact. The per-serving protein (35.9g/100g) provides useful umami flavour depth at very low caloric cost."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "At typical serving sizes (1–2.5g per person), the nutritional contribution of belacan is negligible except sodium. The crustacean base provides trace omega-3, zinc, and selenium.",
+      "guidance": "Patients with rheumatoid arthritis should limit belacan for sodium management if concurrent hypertension or renal involvement is present. At typical serving quantities, the impact on joint inflammation is minimal."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Belacan (also spelled belachan or blachan) is the dark brown, intensely pungent dried shrimp paste fundamental to Malaysian and Singaporean Malay, Peranakan, and Nyonya cooking. Made from geragau krill (Acetes spp.) or small shrimp mixed with salt, pounded into a paste, sun-dried, and compressed into firm rectangular blocks. Must always be toasted or dry-fried over direct heat before use — this develops its characteristic deep umami flavour and reduces the raw odour. Used as the flavour base for sambal belacan (raw chilli-belacan dipping sauce), kangkung belacan, nasi lemak sambal, laksa paste, and many Malay and Peranakan curry pastes. At 14,200mg sodium/100g, it is one of the most concentrated sodium foods in the entire food supply. However, the actual per-serving sodium exposure is manageable (994mg per 7g serving shared among 4 people = ~249mg per person) — clinical concern is cumulative frequency.",
+    "common_user_queries": [
+      "belacan sodium content",
+      "belacan calories",
+      "belacan health risks",
+      "belacan calcium content",
+      "how much sodium in sambal belacan",
+      "belacan per serving size",
+      "belacan vs fish sauce sodium"
+    ],
+    "meal_context": [
+      "sambal belacan",
+      "kangkung belacan",
+      "nasi lemak sambal",
+      "laksa paste",
+      "Peranakan curry"
+    ],
+    "ingredient_synonyms": {
+      "belacan": [
+        "belachan",
+        "terasi (Indonesian)",
+        "hay koh",
+        "shrimp paste"
+      ],
+      "cincaluk": [
+        "fermented small shrimp in brine — different preparation"
+      ],
+      "hae ko": [
+        "Hokkien fermented prawn paste — different texture, used as a sauce"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "IMR Malaysia MyFCD primary source for belacan, cross-referenced with FAO/INFOODS SEA Table.",
+  "notes": "Values per 100g raw untoasted belacan block. The per-100g sodium (14,200mg) is extremely alarming but the clinical communication must emphasise the per-serving reality: a typical 7g serving (used across a dish for 4 people) delivers ~249mg sodium per individual — still significant but not the catastrophic number that 14,200mg/100g implies. The calcium content (1770mg/100g) is extraordinary — reflecting the calcium from crustacean shells in the krill paste. A 7g serving provides 124mg calcium — a meaningful contribution. Crustacean allergen."
+}

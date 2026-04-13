@@ -1,0 +1,152 @@
+{
+  "food_name": "Whole Green Mung Beans (raw, dried, whole, with skin)",
+  "local_names": {
+    "malay": "Kacang Hijau (kering, mentah)",
+    "chinese_simplified": "绿豆（整粒，生）",
+    "chinese_traditional": "綠豆（整粒，生）",
+    "hindi": "साबुत मूंग (कच्चा)",
+    "tamil": "பச்சைப் பயறு (முழு, பச்சை)"
+  },
+  "aliases": [
+    "mung beans",
+    "green mung beans",
+    "whole moong",
+    "sabut moong",
+    "mung",
+    "kacang hijau",
+    "pasi payaru"
+  ],
+  "cuisine": "Chinese / Indian / SEA",
+  "region_of_origin": "India / Southeast Asia",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Mung beans (Vigna radiata), whole, dried raw",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03316096",
+    "foodon_label": "Mung bean",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A037H",
+    "foodex2_description": "Mung bean (Vigna radiata), whole, dried raw",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "dried"
+    ],
+    "processing_level": "unprocessed (dried whole seeds with skin intact)",
+    "main_ingredients": [
+      "mung beans (Vigna radiata), whole, skin-on, dried"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "50g dry",
+    "size_g": 50,
+    "natural_language_portion": "50g dry whole mung beans yields approximately 110g cooked — a standard portion for mung bean dessert soup or a curry side dish. For sprouting, 50g dry mung beans yields approximately 200–250g of bean sprouts."
+  },
+  "nutrient_source": {
+    "title": "Whole Green Mung Beans — HPB Singapore Foodo Database, Food Code F09020021; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09020021 — Whole Mung Beans, dried raw."
+  },
+  "per_100g": {
+    "energy_kcal": 347.0,
+    "protein_g": 23.9,
+    "fat_g": 1.2,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 62.6,
+    "sugar_g": 6.6,
+    "dietary_fibre_g": 16.3,
+    "sodium_mg": 15.0,
+    "potassium_mg": 1246.0,
+    "calcium_mg": 132.0,
+    "iron_mg": 6.7,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 4.8,
+    "vitamin_a_mcg_rae": 6.0,
+    "vitamin_b1_thiamine_mg": 0.62,
+    "vitamin_b2_riboflavin_mg": 0.23,
+    "vitamin_b3_niacin_mg": 1.9,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 625.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 367.0,
+    "magnesium_mg": 189.0,
+    "zinc_mg": 2.7,
+    "selenium_mcg": 8.2,
+    "water_g": 9.0
+  },
+  "glycemic_index": 31,
+  "glycemic_load_per_serving": 9.7,
+  "gi_source": "University of Sydney GI Database — GI of boiled whole mung beans (approximately 31). Dry mung bean GI not applicable.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Extremely high in potassium (1246mg/100g dry) and magnesium (189mg/100g). Very low in sodium (15mg/100g). Mung beans are one of the most potassium-dense whole foods.",
+      "guidance": "Whole mung beans are recommended for patients with hypertension. Chinese green bean soup (kacang hijau dessert) — even with modest sugar — provides substantial potassium. Plain cooked mung bean congee or savoury mung bean curry are excellent no-sodium options."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Very low GI (~31) when boiled. Very high in fibre (16.3g/100g dry) and protein. The intact seed coat of whole mung beans provides additional dietary fibre compared to split moong dal.",
+      "guidance": "Whole mung beans are highly recommended for diabetic patients. Savoury moong bean preparations are preferred over sweet Chinese green bean soup (which adds sugar). Sprouted mung beans (bean sprouts) have a lower calorie density and can be consumed in larger portions."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Exceptionally high in folate (625mcg DFE/100g), magnesium (189mg), and iron (6.7mg). Mung beans are a foundational protein in traditional South and Southeast Asian medicine for joint health.",
+      "guidance": "Whole mung beans are highly recommended for patients with rheumatoid arthritis. In Chinese dietary therapy, mung bean soup is considered cooling and anti-inflammatory — a recommendation that aligns with the high mineral and folate content."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Whole green mung beans are small, oval, olive-green dried legumes (Vigna radiata) with the skin intact. Distinct from split yellow moong dal (which has the hull removed). Can be prepared in several ways: boiled whole for sweet Chinese green bean soup (tang shui/tong sui), cooked savoury as dal or curry, or sprouted to make bean sprouts. Can be soaked and cooked without prolonged soaking (1–2 hours soaking sufficient). Nutritionally essentially equivalent to split moong dal with the addition of more dietary fibre from the intact skin. Extremely high in potassium (1246mg), magnesium (189mg), and folate (625mcg DFE) per 100g dry. GI when cooked ~31 — very low.",
+    "common_user_queries": [
+      "green mung beans calories raw",
+      "kacang hijau nutrition",
+      "whole mung bean protein",
+      "mung bean soup nutritional value",
+      "mung beans for sprouting",
+      "whole moong vs moong dal",
+      "green bean tong sui calories"
+    ],
+    "meal_context": [
+      "green bean soup",
+      "mung bean tong sui",
+      "dal curry",
+      "sprouting",
+      "congee"
+    ],
+    "ingredient_synonyms": {
+      "mung beans": [
+        "green mung beans",
+        "kacang hijau",
+        "sabut moong",
+        "whole moong"
+      ],
+      "moong dal": [
+        "split mung bean",
+        "yellow moong dal"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F09020021).",
+  "notes": "Values per 100g dry whole mung beans. Whole mung beans have essentially the same nutritional profile as split yellow moong dal with the added benefit of more dietary fibre from the intact seed coat. Sprouting dramatically increases vitamin C content and reduces phytate content, improving mineral bioavailability."
+}

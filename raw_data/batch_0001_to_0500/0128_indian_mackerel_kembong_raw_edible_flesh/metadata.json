@@ -1,0 +1,149 @@
+{
+  "food_name": "Indian Mackerel / Kembong (raw, edible flesh)",
+  "local_names": {
+    "malay": "Ikan Kembong (mentah)",
+    "chinese_hokkien": "Kembong Hu",
+    "tamil": "கும்பலா / கொம்பன் மீன் (பச்சை)"
+  },
+  "aliases": [
+    "Indian mackerel",
+    "kembong",
+    "kembung",
+    "Rastrelliger kanagurta",
+    "short mackerel",
+    "Indian ocean mackerel"
+  ],
+  "cuisine": "Singapore / Malaysia / South India",
+  "region_of_origin": "Indian Ocean / Western Pacific — common in Singapore waters",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Indian mackerel (Rastrelliger kanagurta), raw edible flesh",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has mackerel as a general concept (Atlantic mackerel) but no specific entry for Indian mackerel (Rastrelliger kanagurta). A new species-specific FoodOn concept is recommended.",
+    "foodex2_code": "A05AC",
+    "foodex2_description": "Mackerel, Indian (Rastrelliger kanagurta), raw edible flesh",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "unprocessed (raw fresh fish, edible flesh only — bone, scale, head removed)",
+    "main_ingredients": [
+      "Indian mackerel (Rastrelliger kanagurta), raw edible flesh"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 medium fish = approximately 80–100g edible flesh",
+    "size_g": 90,
+    "natural_language_portion": "A medium Indian mackerel (kembong) weighs approximately 80–120g whole. Edible flesh after removing head, backbone, and bones is approximately 80–100g per fish."
+  },
+  "nutrient_source": {
+    "title": "Indian Mackerel / Kembong — HPB Singapore Foodo Database, Food Code F03010023",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03010023 — Indian Mackerel (Kembong), raw edible flesh."
+  },
+  "per_100g": {
+    "energy_kcal": 115.0,
+    "protein_g": 20.0,
+    "fat_g": 3.5,
+    "saturated_fat_g": 1.1,
+    "monounsaturated_fat_g": 1.0,
+    "polyunsaturated_fat_g": 1.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 72.0,
+    "potassium_mg": 350.0,
+    "calcium_mg": 11.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 65.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 10.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 8.5,
+    "vitamin_b6_mg": 0.44,
+    "vitamin_b12_mcg": 7.6,
+    "folate_mcg_dfe": 2.0,
+    "vitamin_d_mcg": 4.5,
+    "vitamin_e_mg": 0.9,
+    "phosphorus_mg": 204.0,
+    "magnesium_mg": 31.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 36.5,
+    "water_g": 74.9
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — fish contains no carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Indian mackerel is a small oily fish rich in omega-3 EPA and DHA which reduce cardiovascular risk. Low in sodium (72mg/100g raw). Affordable and widely available in Singapore wet markets — making it a practical omega-3 source for lower-income populations.",
+      "guidance": "Kembong is strongly recommended for patients with hypertension. Two servings per week provides meaningful cardiovascular benefit. The salt added during frying or curry preparation should be minimised. Kembong sambal and asam fish preparations can have high sodium — request reduced salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "beneficial",
+      "key_factor": "Zero carbohydrate. Omega-3 fatty acids support insulin sensitivity. Very high vitamin B12 (7.6mcg/100g) and selenium (36.5mcg/100g) address common micronutrient deficiencies in type 2 diabetes.",
+      "guidance": "Indian mackerel is highly recommended for patients with type 2 diabetes as a weekly protein source. More affordable than salmon while providing meaningful omega-3 benefit. Preferred preparation is steaming or grilling with minimal salt."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "Good omega-3 EPA+DHA content for a small fish. Exceptionally high vitamin B12 (7.6mcg/100g) and selenium (36.5mcg/100g). Vitamin D (4.5mcg/100g) supports immune regulation and bone health.",
+      "guidance": "Indian mackerel is an affordable anti-inflammatory protein source for patients with rheumatoid arthritis. While lower in absolute omega-3 than salmon per serving, regular consumption (2–3 times per week) contributes meaningfully to the anti-inflammatory diet pattern. The high vitamin D and B12 content provides additional benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Indian mackerel (kembong/kembung, Rastrelliger kanagurta) is a small, torpedo-shaped oily fish endemic to the tropical waters of the Indian Ocean and Western Pacific. Widely caught in Singapore waters and sold fresh daily at wet markets — one of the most affordable oily fish available in Singapore. The flesh is dark and flavourful with a moderate fish oil content. High in vitamin B12 (7.6mcg/100g — among the highest of commonly consumed fish) and selenium (36.5mcg/100g). Omega-3 content lower than salmon per 100g but significantly higher than white fish. Commonly prepared in Singapore as fried kembong (goreng), kembong in sambal, fish curry, and in traditional Malay preparations. Commonly consumed whole with the soft bones when pressure-cooked, providing calcium.",
+    "common_user_queries": [
+      "kembong fish calories",
+      "Indian mackerel nutrition",
+      "kembong omega-3 content",
+      "Indian mackerel vitamin B12",
+      "kembong vs salmon nutrition",
+      "affordable oily fish Singapore"
+    ],
+    "meal_context": [
+      "fried kembong",
+      "kembong sambal",
+      "fish curry",
+      "grilled mackerel",
+      "asam fish"
+    ],
+    "ingredient_synonyms": {
+      "kembong": [
+        "kembung",
+        "Indian mackerel",
+        "Rastrelliger kanagurta",
+        "short mackerel"
+      ],
+      "mackerel": [
+        "Spanish mackerel (different species)",
+        "Atlantic mackerel (different species)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (F03010023).",
+  "notes": "Values per 100g raw edible flesh (head, spine, larger bones removed). Small pin bones in mackerel are often consumed when pressure-cooked or when fried crispy, adding calcium. Very high vitamin B12 (7.6mcg/100g) — a 90g serving provides 68mcg B12, far exceeding the 2.4mcg adult daily requirement."
+}

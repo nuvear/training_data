@@ -1,0 +1,148 @@
+{
+  "food_name": "Basmati Rice (raw, uncooked)",
+  "local_names": {
+    "hindi": "बासमती चावल (कच्चा)",
+    "urdu": "باسمتی چاول (کچا)",
+    "malay": "Beras Basmati (mentah)",
+    "tamil": "பாஸ்மதி அரிசி (பச்சை)"
+  },
+  "aliases": [
+    "basmati rice raw",
+    "long grain aromatic rice",
+    "Indian rice",
+    "aged basmati",
+    "biryani rice",
+    "pilaf rice"
+  ],
+  "cuisine": "Indian / Middle Eastern",
+  "region_of_origin": "India (Punjab / Haryana) / Pakistan",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Long-grain aromatic white rice, raw uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301726",
+    "foodon_label": "Basmati rice",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00GH",
+    "foodex2_description": "Rice grain, milled white, long-grain aromatic (basmati)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (milled, bran and germ removed, typically aged 1–2 years)",
+    "main_ingredients": [
+      "basmati rice (Oryza sativa, long-grain aromatic variety)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ cup dry",
+    "size_g": 90,
+    "natural_language_portion": "A standard dry measure of basmati rice is ½ cup (approximately 90g raw), which yields approximately 175–185g cooked rice — one standard Indian meal serving."
+  },
+  "nutrient_source": {
+    "title": "Basmati Rice (raw) — USDA SR Legacy, FoodData Central; rice grain, white, long-grain, regular, raw",
+    "organization": "USDA Agricultural Research Service — FoodData Central SR Legacy",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "No exact 'basmati' entry in HPB Foodo. USDA SR Legacy entry for long-grain white rice raw (FDC ID 169756) used as the closest match. Basmati values slightly differ from generic long-grain due to amylose ratio; values adjusted based on published basmati-specific composition data from ICMR-NIN and published studies. Basmati is notably higher in amylose (28–30%) vs jasmine rice (~18–22%), giving it a lower GI."
+  },
+  "per_100g": {
+    "energy_kcal": 356.0,
+    "protein_g": 8.4,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 77.6,
+    "sugar_g": 0.1,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 4.0,
+    "potassium_mg": 115.0,
+    "calcium_mg": 14.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.16,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 2.1,
+    "vitamin_b6_mg": 0.16,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 122.0,
+    "magnesium_mg": 23.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 15.1,
+    "water_g": 12.0
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 40.6,
+  "gi_source": "University of Sydney GI Database — GI of cooked basmati rice (boiled/absorption method). Raw basmati GI is not applicable. Basmati has a significantly lower GI (~58) than jasmine rice (~73) due to its higher amylose content (28–30%), which forms a stiffer, slower-digesting gel.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Basmati rice is very low in sodium (4mg/100g raw) and does not contribute to hypertension. It is a safe staple for patients managing blood pressure.",
+      "guidance": "Basmati rice can be freely consumed by hypertensive patients. Attention should be directed toward sauces, gravies, and curries consumed alongside the rice, which often contain the sodium load."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Cooked basmati rice has a GI of approximately 58 — meaningfully lower than jasmine rice (GI ~73) due to its higher amylose content. This makes it a preferred rice choice for glycaemic management in South Asian patients with type 2 diabetes who eat rice daily.",
+      "guidance": "Basmati rice is recommended over jasmine or other high-GI white rice varieties for patients with type 2 diabetes. Portion control remains essential — limit to 100–150g cooked per meal. Parboiled or brown basmati further reduces GI to ~47–50."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Basmati rice is nutritionally neutral for rheumatoid arthritis at standard serving levels. No significant pro-inflammatory or anti-inflammatory properties.",
+      "guidance": "Acceptable at normal portions. Moderate substitution with red rice or black rice provides additional antioxidants and magnesium that may mildly support anti-inflammatory dietary patterns."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Basmati rice is a long-grain aromatic white rice originating from the Punjab and Haryana regions of India and Pakistan. The name means 'fragrant' in Hindi/Sanskrit. Raw basmati grains are elongated, slender, and characteristically become even longer (not wider) upon cooking. Basmati has a distinctly lower glycaemic index (~58) compared to jasmine or ordinary white rice (~73–89) due to its higher amylose-to-amylopectin ratio. Traditionally aged for 1–2 years after harvest to develop flavour and aroma. The primary grain for biryani, pulao, and Indian rice dishes. Nutrient values per 100g raw are comparable to other milled white rice, with modest protein and negligible fat and sodium.",
+    "common_user_queries": [
+      "basmati rice raw calories",
+      "basmati rice GI",
+      "basmati vs jasmine rice healthier",
+      "basmati rice for diabetics",
+      "basmati rice protein per 100g",
+      "is basmati rice low GI"
+    ],
+    "meal_context": [
+      "biryani",
+      "pulao",
+      "Indian meals",
+      "Middle Eastern meals",
+      "diabetic-friendly substitute"
+    ],
+    "ingredient_synonyms": {
+      "basmati rice": [
+        "long-grain aromatic rice",
+        "Indian rice",
+        "biryani rice",
+        "Pakistani basmati"
+      ],
+      "raw basmati": [
+        "dry basmati",
+        "uncooked basmati"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Values from USDA SR Legacy (FDC long-grain white rice) adjusted with published basmati-specific composition data. GI from University of Sydney GI Database.",
+  "notes": "Values are per 100g raw dry grain. Cooked basmati rice yields approximately 130–140 kcal/100g cooked. Basmati's high amylose content (28–30%) is its key distinguishing nutritional feature and the reason for its lower glycaemic index compared to jasmine or other sticky rice varieties."
+}

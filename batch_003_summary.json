@@ -1,0 +1,852 @@
+[
+  {
+    "record_num": 101,
+    "food_name": "Jasmine Rice (raw, uncooked)",
+    "food_id": "0101_jasmine_rice_raw_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 102,
+    "food_name": "Basmati Rice (raw, uncooked)",
+    "food_id": "0102_basmati_rice_raw_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 103,
+    "food_name": "White Glutinous Rice (raw, uncooked)",
+    "food_id": "0103_white_glutinous_rice_raw_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 104,
+    "food_name": "Rolled Oats (plain, old-fashioned, not instant)",
+    "food_id": "0104_rolled_oats_plain_old_fashioned_not_instant",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 105,
+    "food_name": "Wholegrain Wheat Flour / Atta (stone-ground)",
+    "food_id": "0105_wholegrain_wheat_flour_atta_stone_ground",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 106,
+    "food_name": "Rice Flour (plain, raw, from long-grain white rice)",
+    "food_id": "0106_rice_flour_plain_raw_from_long_grain_white_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 107,
+    "food_name": "Chickpea Flour / Besan / Gram Flour (raw)",
+    "food_id": "0107_chickpea_flour_besan_gram_flour_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 108,
+    "food_name": "Semolina / Rava / Sooji (raw, uncooked, from durum wheat)",
+    "food_id": "0108_semolina_rava_sooji_raw_uncooked_from_durum_wheat",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 109,
+    "food_name": "Dried Rice Vermicelli / Bee Hoon (raw, uncooked)",
+    "food_id": "0109_dried_rice_vermicelli_bee_hoon_raw_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 110,
+    "food_name": "Fresh Yellow Noodle / Hokkien Mee Noodle (raw, uncooked)",
+    "food_id": "0110_fresh_yellow_noodle_hokkien_mee_noodle_raw_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 111,
+    "food_name": "Red Lentils / Masoor Dal (raw, dried)",
+    "food_id": "0111_red_lentils_masoor_dal_raw_dried",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 112,
+    "food_name": "Yellow Moong Dal / Split Mung Bean (raw, dried)",
+    "food_id": "0112_yellow_moong_dal_split_mung_bean_raw_dried",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 113,
+    "food_name": "Toor Dal / Split Pigeon Peas (raw, dried)",
+    "food_id": "0113_toor_dal_split_pigeon_peas_raw_dried",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 114,
+    "food_name": "Urad Dal / Black Gram Dal (split, husked, raw, dried)",
+    "food_id": "0114_urad_dal_black_gram_dal_split_husked_raw_dried",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 115,
+    "food_name": "Chickpeas / Kabuli Chana (raw, dried, whole)",
+    "food_id": "0115_chickpeas_kabuli_chana_raw_dried_whole",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 116,
+    "food_name": "Red Kidney Beans / Rajma (raw, dried, whole)",
+    "food_id": "0116_red_kidney_beans_rajma_raw_dried_whole",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 117,
+    "food_name": "Whole Green Mung Beans (raw, dried, whole, with skin)",
+    "food_id": "0117_whole_green_mung_beans_raw_dried_whole_with_skin",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 118,
+    "food_name": "Soya Beans / Soybeans (raw, dried, whole, yellow)",
+    "food_id": "0118_soya_beans_soybeans_raw_dried_whole_yellow",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 119,
+    "food_name": "Chicken Breast (raw, skinless, boneless)",
+    "food_id": "0119_chicken_breast_raw_skinless_boneless",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 120,
+    "food_name": "Chicken Thigh (raw, skinless, boneless)",
+    "food_id": "0120_chicken_thigh_raw_skinless_boneless",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 121,
+    "food_name": "Pork Belly (raw, skin-on, with fat layers)",
+    "food_id": "0121_pork_belly_raw_skin_on_with_fat_layers",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 122,
+    "food_name": "Beef Topside (raw, lean, trimmed of visible fat)",
+    "food_id": "0122_beef_topside_raw_lean_trimmed_of_visible_fat",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 123,
+    "food_name": "Mutton / Lamb (raw, bone-in, average mixed cut)",
+    "food_id": "0123_mutton_lamb_raw_bone_in_average_mixed_cut",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 124,
+    "food_name": "Chicken Egg (whole, raw, size 60g)",
+    "food_id": "0124_chicken_egg_whole_raw_size_60g",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 125,
+    "food_name": "Firm Tofu (fresh, plain, regular, pressed)",
+    "food_id": "0125_firm_tofu_fresh_plain_regular_pressed",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 126,
+    "food_name": "Tempeh (fresh, plain, uncooked)",
+    "food_id": "0126_tempeh_fresh_plain_uncooked",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 127,
+    "food_name": "Salmon Fillet (raw, Atlantic, farmed)",
+    "food_id": "0127_salmon_fillet_raw_atlantic_farmed",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 128,
+    "food_name": "Indian Mackerel / Kembong (raw, edible flesh)",
+    "food_id": "0128_indian_mackerel_kembong_raw_edible_flesh",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 129,
+    "food_name": "Red Snapper / Ang Ko Li (raw fillet)",
+    "food_id": "0129_red_snapper_ang_ko_li_raw_fillet",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 130,
+    "food_name": "Black Tiger Prawn (raw, shell-off, deveined)",
+    "food_id": "0130_black_tiger_prawn_raw_shell_off_deveined",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 131,
+    "food_name": "Squid (raw, cleaned, tube and tentacles)",
+    "food_id": "0131_squid_raw_cleaned_tube_and_tentacles",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 132,
+    "food_name": "Yellowfin Tuna (raw, sashimi grade fillet)",
+    "food_id": "0132_yellowfin_tuna_raw_sashimi_grade_fillet",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 133,
+    "food_name": "English Spinach (raw)",
+    "food_id": "0133_english_spinach_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 134,
+    "food_name": "Kangkung / Water Spinach (raw, leaves and tender stems)",
+    "food_id": "0134_kangkung_water_spinach_raw_leaves_and_tender_stems",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 135,
+    "food_name": "Common White Cabbage (raw)",
+    "food_id": "0135_common_white_cabbage_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 136,
+    "food_name": "Broccoli (raw)",
+    "food_id": "0136_broccoli_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 137,
+    "food_name": "Carrot (raw, orange, peeled)",
+    "food_id": "0137_carrot_raw_orange_peeled",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 138,
+    "food_name": "Sweet Potato, Orange-fleshed (raw, peeled)",
+    "food_id": "0138_sweet_potato_orange_fleshed_raw_peeled",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 139,
+    "food_name": "Pumpkin / Butternut Squash (raw, peeled, deseeded)",
+    "food_id": "0139_pumpkin_butternut_squash_raw_peeled_deseeded",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 140,
+    "food_name": "Bitter Gourd / Bitter Melon (raw, seeds removed)",
+    "food_id": "0140_bitter_gourd_bitter_melon_raw_seeds_removed",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 141,
+    "food_name": "Mung Bean Sprouts / Beansprouts (raw)",
+    "food_id": "0141_mung_bean_sprouts_beansprouts_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 142,
+    "food_name": "Long Bean / Yard-long Bean (raw)",
+    "food_id": "0142_long_bean_yard_long_bean_raw",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 143,
+    "food_name": "Coconut Milk, Thick (full-fat, freshly pressed or canned)",
+    "food_id": "0143_coconut_milk_thick_full_fat_freshly_pressed_or_canned",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 144,
+    "food_name": "Plain Yoghurt (whole milk, unsweetened, unstrained)",
+    "food_id": "0144_plain_yoghurt_whole_milk_unsweetened_unstrained",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 145,
+    "food_name": "Ghee (clarified butter, pure, cow's milk)",
+    "food_id": "0145_ghee_clarified_butter_pure_cows_milk",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 146,
+    "food_name": "Sesame Oil (pure, toasted, dark — Chinese style)",
+    "food_id": "0146_sesame_oil_pure_toasted_dark_chinese_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 147,
+    "food_name": "Coconut Oil (virgin, unrefined, cold-pressed)",
+    "food_id": "0147_coconut_oil_virgin_unrefined_cold_pressed",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 148,
+    "food_name": "Fish Sauce (Thai / Vietnamese style)",
+    "food_id": "0148_fish_sauce_thai_vietnamese_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 149,
+    "food_name": "Light Soy Sauce (Chinese, standard, not low-sodium)",
+    "food_id": "0149_light_soy_sauce_chinese_standard_not_low_sodium",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 150,
+    "food_name": "Belacan / Dried Shrimp Paste (pure, uncooked block)",
+    "food_id": "0150_belacan_dried_shrimp_paste_pure_uncooked_block",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  }
+]

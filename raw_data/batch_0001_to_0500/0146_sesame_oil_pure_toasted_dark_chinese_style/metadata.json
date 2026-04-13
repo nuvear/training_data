@@ -1,0 +1,152 @@
+{
+  "food_name": "Sesame Oil (pure, toasted, dark — Chinese style)",
+  "local_names": {
+    "chinese_simplified": "芝麻油（深色，烘烤，中式）",
+    "chinese_traditional": "芝麻油（深色，烘烤，中式）",
+    "malay": "Minyak Bijan (pekat, bakar)",
+    "japanese": "ごま油 (胡麻油)"
+  },
+  "aliases": [
+    "sesame oil",
+    "toasted sesame oil",
+    "dark sesame oil",
+    "Asian sesame oil",
+    "minyak bijan",
+    "zhima you"
+  ],
+  "cuisine": "Chinese / Korean / Japanese",
+  "region_of_origin": "China / East Asia",
+  "food_group": "Fats and dairy",
+  "food_subgroup": "Vegetable oil — plant-based fat, finishing/flavouring oil",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03302767",
+    "foodon_label": "Sesame oil",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "EC000104",
+    "foodex2_description": "Sesame oil, toasted (dark, Chinese style)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "processed"
+    ],
+    "processing_level": "processed (sesame seeds roasted, then cold-pressed to extract oil)",
+    "main_ingredients": [
+      "toasted sesame seeds (Sesamum indicum)"
+    ],
+    "allergens": [
+      "sesame (a major food allergen)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 teaspoon = 4.5g",
+    "size_g": 4.5,
+    "natural_language_portion": "Sesame oil is used as a finishing/flavouring oil in tiny amounts — typically 1 teaspoon (4.5g) per dish. It is never used as a primary cooking oil due to its low smoke point and intense flavour."
+  },
+  "nutrient_source": {
+    "title": "Sesame Oil (toasted, dark) — HPB Singapore Foodo Database, Food Code EC000104; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code EC000104 — Sesame Oil, toasted."
+  },
+  "per_100g": {
+    "energy_kcal": 884.0,
+    "protein_g": 0.0,
+    "fat_g": 100.0,
+    "saturated_fat_g": 14.2,
+    "monounsaturated_fat_g": 39.7,
+    "polyunsaturated_fat_g": 41.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 0.0,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 0.0,
+    "potassium_mg": 0.0,
+    "calcium_mg": 0.0,
+    "iron_mg": 0.0,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.0,
+    "vitamin_b2_riboflavin_mg": 0.0,
+    "vitamin_b3_niacin_mg": 0.0,
+    "vitamin_b6_mg": 0.0,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 0.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.4,
+    "phosphorus_mg": 0.0,
+    "magnesium_mg": 0.0,
+    "zinc_mg": 0.0,
+    "selenium_mcg": 0.0,
+    "water_g": 0.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — sesame oil is pure fat with zero carbohydrate.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "beneficial",
+      "key_factor": "Sesame oil has a favourable fat profile: 41.7g polyunsaturated fat (predominantly omega-6 linoleic acid) and 39.7g monounsaturated fat (oleic acid) per 100g. Relatively low in saturated fat (14.2g). Zero sodium. Sesame oil contains sesamin and sesamolin — lignans with demonstrated antihypertensive properties in clinical studies.",
+      "guidance": "Sesame oil is a heart-healthy finishing oil for patients with hypertension. The sesamin lignan content specifically has shown blood pressure-lowering effects in clinical trials (8–12 mmHg systolic reduction with regular 40ml/day consumption in one study). At the 1 teaspoon (4.5g) finishing dose typical in Singapore cooking, the absolute benefit is modest but the oil profile is favourable."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Zero carbohydrate. Favourable polyunsaturated and monounsaturated fat profile. Sesamin may have modest insulin-sensitising properties through peroxisome proliferator-activated receptor (PPAR) activation.",
+      "guidance": "Sesame oil is an acceptable and potentially beneficial oil for patients with type 2 diabetes at typical finishing doses. Its rich flavour means very little is needed, so caloric contribution is minimal (1 teaspoon = ~40 kcal). No glycaemic concerns."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "beneficial",
+      "key_factor": "The sesamol, sesamin, and sesamolin compounds in toasted sesame oil have demonstrated anti-inflammatory properties in laboratory models through NF-κB inhibition. High linoleic acid (omega-6) at very small doses does not meaningfully increase the omega-6:omega-3 imbalance typical of inflammatory diets.",
+      "guidance": "Sesame oil is an acceptable finishing oil for patients with rheumatoid arthritis. Its anti-inflammatory lignans provide modest benefit. At the small doses used in Chinese cooking (1 teaspoon per dish), there are no significant omega-6 concerns. Prefer sesame oil over palm oil or partially hydrogenated fats as a finishing agent."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dark toasted sesame oil (Chinese-style zhima you) is the intensely flavoured, amber-brown oil pressed from roasted sesame seeds (Sesamum indicum). It has a rich, deep, nutty aroma that is the defining flavour note of many Chinese, Korean, and Japanese dishes. Due to its low smoke point and overwhelming flavour, it is used exclusively as a finishing/flavouring oil — drizzled over cooked dishes, added to marinades, dipping sauces, and dressings — never as a primary cooking oil. The fat profile is excellent: 41.7g polyunsaturated + 39.7g monounsaturated fat per 100g, only 14.2g saturated fat, zero trans fat. Contains bioactive lignans (sesamin, sesamolin) with antioxidant and antihypertensive properties. Sesame is a major allergen. Widely available in Singapore supermarkets (Yeo's, Kim Guan brand).",
+    "common_user_queries": [
+      "sesame oil calories",
+      "sesame oil nutrition per teaspoon",
+      "toasted vs raw sesame oil",
+      "sesame oil fat profile",
+      "is sesame oil healthy",
+      "sesame oil for cooking",
+      "sesame oil allergen"
+    ],
+    "meal_context": [
+      "Chinese stir-fry finishing",
+      "sesame oil chicken",
+      "dipping sauce",
+      "noodle dressing",
+      "fried rice finishing",
+      "Korean bibimbap"
+    ],
+    "ingredient_synonyms": {
+      "sesame oil": [
+        "toasted sesame oil",
+        "dark sesame oil",
+        "minyak bijan",
+        "zhima you"
+      ],
+      "untoasted sesame oil": [
+        "light sesame oil",
+        "cold-pressed sesame oil — different flavour profile"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match in HPB Singapore Foodo Database (EC000104).",
+  "notes": "Values per 100g dark toasted sesame oil. Sesame is a major allergen — check with patient before recommendation. The 1 teaspoon (4.5g) finishing dose provides approximately 40 kcal and contributes minimally to daily fat intake while providing significant flavour. Distinct from light/raw sesame oil (pressed from unroasted seeds) which has a lighter colour, milder flavour, and slightly different bioactive profile."
+}

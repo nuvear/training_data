@@ -1,0 +1,151 @@
+{
+  "food_name": "Jasmine Rice (raw, uncooked)",
+  "local_names": {
+    "malay": "Beras Putih / Beras Wangi",
+    "chinese_simplified": "茉莉香米（生）",
+    "chinese_traditional": "茉莉香米（生）",
+    "tamil": "மல்லிகை அரிசி (பச்சை)",
+    "romanized_local": "Beras Wangi / Khao Hom Mali"
+  },
+  "aliases": [
+    "jasmine rice raw",
+    "Thai jasmine rice",
+    "long grain white rice",
+    "fragrant rice",
+    "beras wangi",
+    "khao hom mali"
+  ],
+  "cuisine": "Singapore / Thailand / SEA",
+  "region_of_origin": "Thailand / Southeast Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Long-grain fragrant white rice, raw uncooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301890",
+    "foodon_label": "Jasmine rice",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A00GJ",
+    "foodex2_description": "Rice grain, milled white, long-grain, fragrant (jasmine)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw"
+    ],
+    "processing_level": "minimally processed (milled, bran and germ removed)",
+    "main_ingredients": [
+      "jasmine rice (Oryza sativa, long-grain fragrant variety)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "½ cup dry",
+    "size_g": 90,
+    "natural_language_portion": "A standard dry measure of jasmine rice is ½ cup (approximately 90g raw), which yields approximately 180g of cooked rice — one standard hawker or meal serving."
+  },
+  "nutrient_source": {
+    "title": "Jasmine Rice (raw) — HPB Singapore Foodo Database, Food Code F05090015; cross-referenced with USDA SR Legacy",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05090015 — Jasmine Rice, raw uncooked grain. Values are per 100g dry raw rice."
+  },
+  "per_100g": {
+    "energy_kcal": 362.0,
+    "protein_g": 7.1,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 80.0,
+    "sugar_g": 0.2,
+    "dietary_fibre_g": 0.4,
+    "sodium_mg": 5.0,
+    "potassium_mg": 115.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 1.6,
+    "vitamin_b6_mg": 0.14,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 9.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 115.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 1.1,
+    "selenium_mcg": 15.1,
+    "water_g": 11.6
+  },
+  "glycemic_index": 73,
+  "glycemic_load_per_serving": 52.6,
+  "gi_source": "University of Sydney GI Database — GI of cooked jasmine rice (steamed); raw rice GI is not applicable. Cooked jasmine rice has one of the highest GI values among white rice varieties due to its high amylopectin content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Jasmine rice is essentially sodium-free (5mg/100g raw) and does not directly contribute to hypertension. Its primary cardiovascular impact is through its high glycaemic index driving insulin-related metabolic effects with very frequent large-portion consumption.",
+      "guidance": "Jasmine rice poses minimal sodium risk for hypertensive patients. The primary dietary guidance for hypertension focuses on the dishes and sauces consumed with the rice rather than the rice itself."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Cooked jasmine rice has a GI of approximately 73 — one of the highest among staple grains. Regular 2–3 serving/day consumption is strongly associated with elevated risk of type 2 diabetes and poorer glycaemic control in diagnosed diabetic patients.",
+      "guidance": "Patients with type 2 diabetes should limit jasmine rice to 100–150g cooked per meal and substitute with basmati rice (GI ~58), parboiled rice (GI ~47), or brown rice (GI ~55) for at least one daily meal. Cooling cooked rice and reheating converts some starch to resistant starch, lowering the effective GI."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Refined white rice is nutritionally neutral for rheumatoid arthritis at standard serving levels — it is not a significant source of pro- or anti-inflammatory compounds. High glycaemic load diets are weakly associated with systemic inflammation.",
+      "guidance": "Jasmine rice is acceptable for patients with rheumatoid arthritis at moderate portions. Replacing some white rice with brown or red rice provides additional magnesium and selenium which support immune function."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Jasmine rice is the long-grain fragrant white rice that is the primary dietary staple of Singapore, Thailand, and most of Southeast Asia. Raw jasmine rice is a hard, dry, semi-translucent grain with a natural floral aroma from 2-acetyl-1-pyrroline. When cooked by the absorption method, it becomes soft, moist, and slightly sticky. Milling removes the bran and germ, leaving primarily starch with modest protein content. Very low in sodium, fat, and fibre. The high amylopectin content gives cooked jasmine rice a high glycaemic index (~73). Nutritionally, raw jasmine rice is a dense source of energy (362 kcal/100g) with minimal micronutrient content compared to whole grain alternatives.",
+    "common_user_queries": [
+      "jasmine rice raw calories",
+      "how many calories in raw white rice",
+      "jasmine rice GI",
+      "jasmine rice vs basmati rice",
+      "is white rice healthy",
+      "raw vs cooked rice calories",
+      "jasmine rice nutrition per 100g"
+    ],
+    "meal_context": [
+      "daily staple",
+      "hawker centre",
+      "home cooking",
+      "all Singapore cuisines"
+    ],
+    "ingredient_synonyms": {
+      "jasmine rice": [
+        "Thai jasmine rice",
+        "long-grain white rice",
+        "beras wangi",
+        "fragrant rice",
+        "khao hom mali"
+      ],
+      "raw rice": [
+        "dry rice",
+        "uncooked rice",
+        "raw grain"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05090015 — Jasmine Rice, raw uncooked.",
+  "notes": "Values are for the raw, dry, uncooked grain. Cooked jasmine rice values differ significantly — approximately 130 kcal/100g cooked (at ~180g water absorption per 100g raw). Milled white rice has had bran and germ removed; brown jasmine rice has higher fibre, magnesium, and B vitamin content."
+}
