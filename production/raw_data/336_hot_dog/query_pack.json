@@ -1,0 +1,66 @@
+{
+  "source_json": "hot_dog_singapore.json",
+  "filename_prefix": "hot_dog_singapore",
+  "save_pattern": "hot_dog_singapore_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify and contextualize the Singapore-style beef hot dog with bun, ketchup, and mustard, including its product form, texture, ingredients, preparation, and typical local serving contexts.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic Singapore beef hot dog in soft white bun with ketchup and yellow mustard",
+      "close-up of beef frankfurter hot dog with ketchup and mustard on white bun Singapore food court style",
+      "cinema style hot dog with beef sausage in bun topped with ketchup and mustard Singapore"
+    ],
+    "macro_texture": [
+      "texture of steamed or grilled beef frankfurter sausage surface close-up",
+      "soft white hot dog bun crumb and crust texture close-up Singapore style",
+      "glossy tomato ketchup and smooth yellow mustard on beef hot dog bun close-up"
+    ],
+    "raw_ingredients_and_process": [
+      "pre-cooked beef frankfurter sausage with visible spices and casing",
+      "soft white enriched wheat flour hot dog bun for Singapore style hot dog",
+      "ketchup and yellow mustard condiments squeezed on hot dog bun",
+      "grilled beef frankfurter sausage with slight charring typical of Singapore food court"
+    ],
+    "in_the_wild_context": [
+      "Singapore food court stall serving beef hot dogs with ketchup and mustard",
+      "cinema snack kiosk in Singapore selling beef frankfurter hot dogs in buns",
+      "shopping mall food stall in Singapore with hot dog beef frankfurter snacks",
+      "Singapore street food vendor offering beef hot dogs with condiments"
+    ],
+    "culinary_application": [
+      "Singapore style snack portion of one beef frankfurter hot dog with bun and condiments",
+      "hot dog served as quick protein snack in Singapore food courts and cinemas",
+      "hot dog with ketchup and mustard served as casual fast food in Singapore"
+    ],
+    "label_truth": [
+      "hot dog ingredient label showing beef frankfurter with nitrites and spices",
+      "nutrition label highlighting very high sodium content in beef frankfurter hot dog",
+      "processed meat product label with allergen info: gluten and possible pork in frankfurter casing"
+    ],
+    "optional_local_language_queries": [
+      "热狗 Singapore style beef frankfurter hot dog with bun and condiments",
+      "Sosej Daging dalam Roti hot dog with beef sausage ketchup mustard Singapore",
+      "ஹாட் டாக் Singapore cinema beef hot dog with bun ketchup mustard"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

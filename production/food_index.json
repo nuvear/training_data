@@ -90,5 +90,9 @@
   {
     "food_id": "333_french_fries",
     "idx": 22
+  },
+  {
+    "food_id": "336_hot_dog",
+    "idx": 23
   }
 ]
