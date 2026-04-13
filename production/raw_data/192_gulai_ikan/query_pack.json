@@ -1,0 +1,66 @@
+{
+  "source_json": "gulai_ikan.json",
+  "filename_prefix": "gulai_ikan",
+  "save_pattern": "gulai_ikan_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify and understand Gulai Ikan, an Indonesian fish curry in turmeric coconut milk, across its product forms, textures, ingredients, culinary contexts, and label-relevant features.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of Gulai Ikan Indonesian fish curry in turmeric coconut milk",
+      "Gulai Ikan fish curry with mackerel or snapper in rich yellow-orange coconut milk sauce",
+      "Sumatran style Gulai Ikan served in traditional Indonesian ceramic bowl"
+    ],
+    "macro_texture": [
+      "close-up of thick yellow-orange turmeric coconut milk curry gravy with fish chunks",
+      "texture detail of simmered fish in creamy coconut milk curry with visible spices",
+      "surface texture of rich Gulai Ikan curry showing fresh chilli, lemongrass, and kaffir lime leaf"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh mackerel fish and snapper with turmeric root, galangal, lemongrass, shallots, and kaffir lime leaves",
+      "full-fat coconut milk pouring into simmering turmeric and galangal spiced curry base",
+      "Indonesian fish curry preparation simmering fish in coconut milk with fresh chilli and aromatic herbs"
+    ],
+    "in_the_wild_context": [
+      "Gulai Ikan served at Indonesian restaurant with steamed white rice",
+      "Sumatran Malay warung serving traditional Gulai Ikan fish curry in bowl",
+      "home-cooked Gulai Ikan with side dishes in typical Indonesian dining setting"
+    ],
+    "culinary_application": [
+      "Gulai Ikan fish curry plated with steamed rice and fresh vegetable side",
+      "Indonesian meal featuring Gulai Ikan as main protein dish with sambal and rice",
+      "Malay style Gulai Ikan served in traditional meal context with banana leaf and condiments"
+    ],
+    "label_truth": [
+      "close-up of Gulai Ikan dish highlighting fish allergen ingredient",
+      "nutritional label showing high saturated fat and moderate sodium content in Gulai Ikan",
+      "ingredient list emphasizing fish, turmeric, coconut milk, and fresh chilli in Gulai Ikan curry"
+    ],
+    "optional_local_language_queries": [
+      "Gulai Ikan 咖喱鱼椰汁 Indonesian fish curry in turmeric coconut milk",
+      "กุลาอีคาน Gulai Ikan Indonesian fish curry with coconut milk and turmeric",
+      "Gulai Ikan 咖喱魚椰汁 traditional Sumatran fish curry in coconut milk",
+      "Gulai Ikan Malay style fish curry with turmeric and galangal",
+      "gulai ikan Indonesian fish curry coconut full-fat coconut milk turmeric"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

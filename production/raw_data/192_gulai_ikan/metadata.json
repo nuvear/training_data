@@ -1,0 +1,155 @@
+{
+  "food_name": "Gulai Ikan (Indonesian fish in turmeric coconut curry)",
+  "local_names": {
+    "malay": "Gulai Ikan",
+    "chinese_simplified": "咖喱鱼椰汁",
+    "chinese_traditional": "咖喱魚椰汁",
+    "tamil": "குலாய் இக்கான்",
+    "indonesian": "Gulai Ikan"
+  },
+  "aliases": [
+    "gulai ikan",
+    "Indonesian fish curry coconut",
+    "gulai fish",
+    "Sumatran fish curry",
+    "turmeric coconut fish"
+  ],
+  "cuisine": "Indonesian / Malaysian Malay",
+  "region_of_origin": "Sumatra, Indonesia — widely adopted across Malay and Indonesian cuisine",
+  "food_group": "Fish and seafood dishes",
+  "food_subgroup": "Fish in turmeric-coconut milk curry (gulai style)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Gulai Ikan. Closest parent is fish in coconut milk-turmeric curry.",
+    "foodex2_code": "A0FRG",
+    "foodex2_description": "Fish in coconut milk curry with turmeric and galangal (Indonesian gulai ikan style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered"
+    ],
+    "processing_level": "prepared fish curry",
+    "main_ingredients": [
+      "fish (mackerel/snapper/tuna)",
+      "full-fat coconut milk",
+      "turmeric",
+      "galangal",
+      "lemongrass",
+      "fresh chilli",
+      "kaffir lime leaf",
+      "shallots"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 280g (fish + gravy)",
+    "size_g": 280,
+    "natural_language_portion": "A standard Gulai Ikan serving is approximately 280g: 150g fish (mackerel or snapper) plus 130g rich yellow-orange coconut milk curry gravy. Served with steamed rice (not included)."
+  },
+  "nutrient_source": {
+    "title": "Gulai Ikan — FAO/INFOODS SEA Table; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "FAO/INFOODS SEA Table and IMR Malaysia MyFCD have entries for Gulai Ikan. High saturated fat from full-fat coconut milk. Fish provides omega-3 fatty acids. Distinct from South Indian Fish Curry (Batch 2 #091) — no tamarind, richer coconut base. Values per 100g represent fish + coconut gravy composite."
+  },
+  "per_100g": {
+    "energy_kcal": 145.0,
+    "protein_g": 14.2,
+    "fat_g": 9.2,
+    "saturated_fat_g": 5.8,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.2,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 0.6,
+    "sodium_mg": 328.0,
+    "potassium_mg": 310.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 58.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 38.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 4.8,
+    "vitamin_b6_mg": 0.35,
+    "vitamin_b12_mcg": 1.8,
+    "folate_mcg_dfe": 14.0,
+    "vitamin_d_mcg": 2.5,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 22.0,
+    "water_g": 72.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — Gulai Ikan is protein and fat dominant with minimal carbohydrate (3.2g/100g). The coconut milk and fish contribute negligible digestible carbohydrate. No meaningful glycaemic response from the curry component.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from cooking seasonings and shrimp paste if used in the spice base. A 280g serving delivers approximately 919mg sodium — 38% of the daily limit. Lower sodium than belacan-heavy Malay curries.",
+      "guidance": "Patients with hypertension can enjoy gulai ikan as a moderate-sodium protein choice. Limit to 280g per serving. Pair with a low-sodium vegetable side rather than another salted accompaniment."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Gulai Ikan has negligible carbohydrate — excellent for blood glucose management. Fish omega-3 (vitamin D 2.5mcg/100g) supports insulin sensitivity. The coconut milk fat slows any potential glucose response from other meal components.",
+      "guidance": "Patients with type 2 diabetes should view gulai ikan as an excellent protein and omega-3 source with minimal glycaemic impact. Consume 2–3 times per week as the main protein source with controlled rice."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Fish omega-3 (polyunsaturated fat 1.2g/100g including EPA/DHA from marine fish) reduces joint inflammation. Turmeric provides curcumin. Selenium (22mcg/100g) is an antioxidant. High saturated fat (5.8g/100g) from coconut milk partially offsets the fish benefits.",
+      "guidance": "Gulai Ikan is a suitable dish for patients with rheumatoid arthritis — the fish omega-3, vitamin D, and selenium are all beneficial for joint health. Limit frequency due to coconut milk saturated fat. Choose mackerel or oily fish varieties for higher omega-3 content."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Gulai Ikan is a rich fish curry from Sumatra and the wider Malay-Indonesian culinary tradition. Unlike asam pedas (tamarind-sour, clear broth) or South Indian fish curry (tamarind-based), Gulai Ikan is firmly in the coconut milk family — a thick, yellow-orange curry made from full-fat coconut milk with turmeric, galangal, lemongrass, and fresh chilli. The fish (mackerel, snapper, or tuna) simmers gently in the rich broth, absorbing the aromatic spices. It is milder and creamier than asam pedas. The combination of fish omega-3 and vitamin D with coconut milk makes this a nutritionally interesting dish — high in beneficial marine nutrients but also high in saturated fat from coconut.",
+    "common_user_queries": [
+      "gulai ikan calories",
+      "gulai ikan nutrition",
+      "gulai ikan vs asam pedas",
+      "gulai ikan omega 3",
+      "gulai ikan coconut milk fat",
+      "gulai ikan healthy"
+    ],
+    "meal_context": [
+      "Indonesian restaurant",
+      "Sumatran cuisine",
+      "Malay warung",
+      "Padang food stall",
+      "home cooking"
+    ],
+    "ingredient_synonyms": {
+      "gulai ikan": [
+        "Indonesian fish curry coconut",
+        "Sumatran fish curry"
+      ],
+      "gulai": [
+        "coconut milk curry Indonesian",
+        "gulé"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "FAO/INFOODS SEA and IMR Malaysia MyFCD primary sources. Values consistent with known coconut milk fish curry composition. Vitamin D (2.5mcg/100g) and selenium (22mcg/100g) from marine fish are well-supported.",
+  "notes": "Distinct from South Indian Fish Curry (Batch 2 #091): Gulai Ikan uses coconut milk (no tamarind), resulting in a richer, creamier, milder curry. Vitamin D (2.5mcg/100g) from fish is notable — a 280g serving provides 7mcg, which is 47% of the 15mcg/day RDA. Selenium (22mcg/100g) from marine fish — a 280g serving provides 61.6mcg, significantly exceeding the 55mcg/day RDA."
+}

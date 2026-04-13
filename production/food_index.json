@@ -74,5 +74,9 @@
   {
     "food_id": "191_semur_daging",
     "idx": 18
+  },
+  {
+    "food_id": "192_gulai_ikan",
+    "idx": 19
   }
 ]
