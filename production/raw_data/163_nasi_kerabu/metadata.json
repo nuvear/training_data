@@ -1,0 +1,164 @@
+{
+  "food_name": "Nasi Kerabu (Kelantanese blue butterfly-pea rice with herbs)",
+  "local_names": {
+    "malay": "Nasi Kerabu",
+    "chinese_simplified": "蓝花饭",
+    "chinese_traditional": "藍花飯",
+    "tamil": "நாசி கிராபு",
+    "indonesian": "Nasi Kerabu"
+  },
+  "aliases": [
+    "nasi kerabu",
+    "Kelantan blue rice",
+    "butterfly-pea flower rice",
+    "blue rice with herbs",
+    "Kelantanese herb rice"
+  ],
+  "cuisine": "Malaysian Malay (Kelantan specialty)",
+  "region_of_origin": "Kelantan, Malaysia — traditional Kelantanese dish",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Butterfly-pea dyed blue rice with raw herb accompaniments",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Nasi Kerabu. Closest parent is rice dish with herbal accompaniments. The butterfly-pea (Clitoria ternatea) flower dye has no nutritional ontology entry.",
+    "foodex2_code": "A00PB",
+    "foodex2_description": "Blue-dyed rice with raw herb salad accompaniments (Kelantanese nasi kerabu style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed (rice)",
+      "raw (herb salad)",
+      "grilled or fried (protein accompaniment)"
+    ],
+    "processing_level": "composite rice dish with herb accompaniments",
+    "main_ingredients": [
+      "jasmine rice (dyed with butterfly-pea flower)",
+      "torch ginger flower (bunga kantan)",
+      "lemongrass",
+      "kaffir lime leaf",
+      "turmeric leaf",
+      "dried fish or fried chicken",
+      "pickled vegetables",
+      "salted egg",
+      "budu (fermented anchovy sauce)"
+    ],
+    "allergens": [
+      "fish (budu)",
+      "eggs (salted egg)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate = 400g total",
+    "size_g": 400,
+    "natural_language_portion": "A standard Nasi Kerabu plate consists of 200g butterfly-pea blue rice and approximately 200g of accompaniments: fresh herb salad (torch ginger, lemongrass, kaffir lime leaf, turmeric leaf), dried fish or fried chicken, pickled vegetables, salted egg, and black sambal (budu-based)."
+  },
+  "nutrient_source": {
+    "title": "Nasi Kerabu — IMR Malaysia MyFCD",
+    "organization": "Institute for Medical Research (IMR) Malaysia",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "IMR Malaysia MyFCD is the primary source for Nasi Kerabu — a distinctly Kelantanese dish. Values per 100g represent the blended plate composition (rice + herb salad + protein + condiments). The butterfly-pea flower dye has no nutritional impact on the rice values; it is an anthocyanin pigment added in trace amounts."
+  },
+  "per_100g": {
+    "energy_kcal": 148.0,
+    "protein_g": 6.5,
+    "fat_g": 4.2,
+    "saturated_fat_g": 1.0,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 21.0,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 2.5,
+    "sodium_mg": 485.0,
+    "potassium_mg": 245.0,
+    "calcium_mg": 55.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_a_mcg_rae": 85.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.8,
+    "folate_mcg_dfe": 35.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 128.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 12.0,
+    "water_g": 63.0
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 54.6,
+  "gi_source": "University of Sydney GI Database — GI driven by white jasmine rice (~73) which forms the base. The large volume of raw herbs (high fibre, low GI) lowers the composite dish GI. Budu (fermented fish sauce) and protein accompaniments further moderate glycaemic response. Estimated composite plate GI ~62–68. A 400g plate delivers approximately 84g carbohydrate; GL per plate ~54.6.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium is a serious concern in nasi kerabu due to budu (fermented anchovy sauce) — one of the saltiest condiments in Southeast Asian cuisine, with sodium content exceeding 10,000mg/100g. A typical 10–15g serving of budu adds approximately 1,000–1,500mg sodium. Combined with salted egg and dried fish, a full nasi kerabu plate can exceed 1,940mg sodium.",
+      "guidance": "Patients with hypertension must be explicitly warned about budu in nasi kerabu. Request for the budu to be served separately and use it very sparingly (less than 5g). Replace salted egg with hard-boiled egg where possible. The herb accompaniments themselves are nutritious and low-sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Despite the high-GI jasmine rice base, nasi kerabu has one of the highest fibre contents among Malay rice dishes due to the large volume of raw herbs (2.5g dietary fibre/100g). Herbs like lemongrass and kaffir lime leaf slow gastric emptying. The composite GL (~54.6 per plate) is comparable to nasi padang.",
+      "guidance": "Patients with type 2 diabetes benefit from nasi kerabu's high herb and vegetable content compared to nasi lemak or nasi padang. The fibre moderates blood glucose rise. Choose grilled fish or chicken protein over dried fish. Control rice portion to 100g."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Nasi Kerabu is exceptionally rich in anti-inflammatory herbs and spices consumed raw — torch ginger flower, lemongrass, kaffir lime leaf, and turmeric leaf all provide anti-inflammatory phytochemicals. High folate (35mcg/100g) supports joint health. Low saturated fat.",
+      "guidance": "Nasi Kerabu is highly suitable for patients with rheumatoid arthritis — the raw herb component provides a substantial dose of anti-inflammatory compounds. Recommend as a regular dietary choice. Monitor budu intake for sodium."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Kerabu is the iconic rice dish of Kelantan on Malaysia's east coast, instantly recognisable by its vivid blue colour from butterfly-pea flower (bunga telang) dye. Unlike the natural food colouring giving the rice its colour, the real nutritional story of nasi kerabu lies in its extraordinary herb accompaniments: the plate is ringed with fresh raw herbs including shaved torch ginger flower (bunga kantan), thinly sliced lemongrass, kaffir lime leaf, turmeric leaf, and long bean — creating a raw herb salad with intensely aromatic flavours. The protein component is typically fried chicken (ayam percik or ayam goreng) or dried/fried fish. The defining condiment is budu — a pungent fermented anchovy fish sauce from Kelantan — which is extremely high in sodium and adds deep umami. Nasi Kerabu is one of the most herb-rich and nutritionally complex rice dishes in Southeast Asian cuisine.",
+    "common_user_queries": [
+      "nasi kerabu calories",
+      "nasi kerabu blue rice nutrition",
+      "nasi kerabu butterfly pea flower",
+      "nasi kerabu healthy",
+      "nasi kerabu vs nasi lemak",
+      "nasi kerabu sodium budu"
+    ],
+    "meal_context": [
+      "Kelantanese restaurant",
+      "Malaysian food court",
+      "Bazaar Ramadan",
+      "Hari Raya",
+      "East Coast Malaysian food"
+    ],
+    "ingredient_synonyms": {
+      "nasi kerabu": [
+        "blue rice Kelantan",
+        "Kelantanese herb rice",
+        "butterfly-pea rice"
+      ],
+      "budu": [
+        "fermented anchovy sauce",
+        "Kelantanese fish sauce"
+      ],
+      "bunga kantan": [
+        "torch ginger flower",
+        "ginger torch"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "Primary source is IMR Malaysia MyFCD. Nasi Kerabu is a distinctly Kelantanese dish with limited coverage outside Malaysian databases. Nutrient values reflect a composite plate — individual component proportions vary by stall. Confidence: medium.",
+  "notes": "The blue colour from butterfly-pea flower (Clitoria ternatea) contains anthocyanins (natural antioxidant pigments) but in the small quantities used as a rice dye, the nutritional contribution is minimal. The main nutritional advantages are: (1) highest herb/vegetable diversity of any Malay rice dish, (2) anti-inflammatory phytochemicals from raw herbs, (3) high folate from green herbs. Main health risks: sodium from budu and salted egg. Budu is one of the highest-sodium fermented foods in SEA cuisine."
+}

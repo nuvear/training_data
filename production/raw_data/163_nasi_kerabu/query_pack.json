@@ -1,0 +1,67 @@
+{
+  "source_json": "nasi_kerabu_kelantan.json",
+  "filename_prefix": "nasi_kerabu_kelantan",
+  "save_pattern": "nasi_kerabu_kelantan_{x}.jpg",
+  "objective": "Train MedGemma to visually identify Nasi Kerabu, its unique blue butterfly-pea dyed rice, fresh herb accompaniments, protein sides, and typical serving contexts in Kelantanese Malaysian cuisine.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic plate of Nasi Kerabu with vivid blue butterfly-pea rice and fresh herb salad",
+      "Kelantanese Nasi Kerabu blue rice dish with fried chicken and salted egg on white plate",
+      "close-up of Nasi Kerabu showing blue jasmine rice and colorful herb accompaniments"
+    ],
+    "macro_texture": [
+      "texture of steamed butterfly-pea dyed jasmine rice in Nasi Kerabu",
+      "close-up of fresh raw herb salad including torch ginger flower, lemongrass, kaffir lime leaf, turmeric leaf",
+      "crispy fried chicken texture served with Nasi Kerabu"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh butterfly-pea flowers (Clitoria ternatea) used for dyeing rice",
+      "raw herb ingredients for Nasi Kerabu: torch ginger flower (bunga kantan), lemongrass, kaffir lime leaf, turmeric leaf",
+      "grilled or fried protein accompaniments typical in Nasi Kerabu such as dried fish or ayam percik",
+      "small bowl of budu fermented anchovy sauce from Kelantan"
+    ],
+    "in_the_wild_context": [
+      "Nasi Kerabu served in a Kelantanese restaurant setting",
+      "Nasi Kerabu plate at Malaysian food court or Bazaar Ramadan stall",
+      "traditional Kelantanese meal setting with Nasi Kerabu during Hari Raya celebration",
+      "street food vendor serving Nasi Kerabu in East Coast Malaysia"
+    ],
+    "culinary_application": [
+      "Nasi Kerabu served with budu sauce on the side for controlled sodium use",
+      "Nasi Kerabu plate featuring butterfly-pea blue rice, fresh herbs, pickled vegetables, salted egg, and protein",
+      "typical Malaysian Malay Kelantanese herb rice dish with grilled chicken and sambal budu"
+    ],
+    "label_truth": [
+      "close-up of Nasi Kerabu plate highlighting salted egg and dried fish as allergens",
+      "image emphasizing high sodium content from budu fermented anchovy sauce in Nasi Kerabu",
+      "Nasi Kerabu with budu served separately to reduce sodium intake"
+    ],
+    "optional_local_language_queries": [
+      "Nasi Kerabu Malay blue rice with bunga kantan and budu",
+      "蓝花饭 butterfly-pea flower dyed rice with herbs and fish sauce",
+      "Kelantanese herb rice known as நாசி கிராபு in Tamil",
+      "Nasi Kerabu Indonesian style with blue rice and fresh herb salad"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
