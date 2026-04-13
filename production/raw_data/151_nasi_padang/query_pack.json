@@ -1,0 +1,67 @@
+{
+  "source_json": "nasi_padang.json",
+  "filename_prefix": "nasi_padang",
+  "save_pattern": "nasi_padang_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify Nasi Padang, a composite Indonesian-Malay rice dish with multiple side dishes including beef rendang, sayur lodeh, and sambal goreng, in authentic hawker centre contexts and recognize its key ingredients, textures, and preparation styles.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic plate of Nasi Padang with steamed jasmine rice, beef rendang, sayur lodeh, and sambal goreng served in Singapore hawker centre",
+      "close-up of Nasi Padang mixed rice Malay style with multiple side dishes on a white plate",
+      "traditional Indonesian Minangkabau rice dish Nasi Padang with beef rendang and vegetable curry in hawker food court setting"
+    ],
+    "macro_texture": [
+      "texture detail of beef rendang dry-spiced coconut beef curry with thick gravy",
+      "close-up of sayur lodeh coconut vegetable curry showing mixed vegetables in creamy coconut milk",
+      "fried sambal goreng tempeh with crispy texture and spicy red chili sambal coating"
+    ],
+    "raw_ingredients_and_process": [
+      "steamed jasmine rice mound on plate for Nasi Padang",
+      "raw tempeh blocks before frying for sambal goreng",
+      "beef chunks stewing in rendang dry spice and coconut milk sauce",
+      "mixed vegetables simmering in sayur lodeh coconut curry",
+      "traditional Indonesian spice pastes and belacan shrimp paste used in Nasi Padang preparation"
+    ],
+    "in_the_wild_context": [
+      "Nasi Padang stall with trays of pre-cooked dishes in Singapore Malay hawker centre",
+      "diner selecting side dishes at Nasi Padang food stall in West Sumatra Indonesia",
+      "Malay food court serving Nasi Padang plates during lunch hour",
+      "Hari Raya festive meal featuring Nasi Padang dishes on dining table"
+    ],
+    "culinary_application": [
+      "Nasi Padang served as daily lunch meal in Singapore hawker centre",
+      "traditional Indonesian Minangkabau style Nasi Padang with beef rendang and vegetable sides",
+      "mixed rice Malay style meal with steamed rice and assorted spicy side dishes"
+    ],
+    "label_truth": [
+      "close-up of Nasi Padang dish showing visible tempeh pieces indicating soy allergen",
+      "Nasi Padang plate highlighting reddish sambal goreng containing belacan shrimp paste allergen",
+      "photorealistic Nasi Padang plate showing typical high sodium sauces and coconut milk gravy"
+    ],
+    "optional_local_language_queries": [
+      "巴东饭 served with beef rendang and sayur lodeh in Singapore hawker centre",
+      "நாசி படாங் traditional Indonesian rice dish with spicy side dishes",
+      "Nasi Padang (Malay: Nasi Padang) plate with rendang and sambal goreng in food court"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

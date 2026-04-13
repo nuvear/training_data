@@ -1,0 +1,160 @@
+{
+  "food_name": "Nasi Padang (rice with rendang, sayur lodeh, and sambal goreng)",
+  "local_names": {
+    "malay": "Nasi Padang",
+    "chinese_simplified": "巴东饭",
+    "chinese_traditional": "巴東飯",
+    "tamil": "நாசி படாங்",
+    "indonesian": "Nasi Padang"
+  },
+  "aliases": [
+    "nasi padang",
+    "Minangkabau rice",
+    "padang rice",
+    "mixed rice Malay style",
+    "Indonesian mixed rice"
+  ],
+  "cuisine": "Singaporean Malay / Minangkabau (West Sumatran)",
+  "region_of_origin": "West Sumatra, Indonesia — ubiquitous in Singapore hawker centres",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Composite rice dish with multiple side dishes",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific entry for Nasi Padang. Closest parent is a rice-based composite meal with multiple side dishes.",
+    "foodex2_code": "A00PB",
+    "foodex2_description": "Mixed rice dish with multiple side dishes (Malay/Indonesian composite)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "stewed",
+      "fried"
+    ],
+    "processing_level": "prepared dish (multiple components cooked separately)",
+    "main_ingredients": [
+      "steamed jasmine rice",
+      "beef rendang",
+      "sayur lodeh (coconut vegetable curry)",
+      "sambal goreng tempeh",
+      "coconut milk",
+      "beef",
+      "mixed vegetables",
+      "tempeh"
+    ],
+    "allergens": [
+      "crustaceans (belacan in sambal goreng)",
+      "soy (tempeh)",
+      "peanuts (possible)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate = approximately 400g total",
+    "size_g": 400,
+    "natural_language_portion": "A standard Singapore hawker nasi padang plate consists of 200g steamed rice plus approximately 200g of combined side dishes (60g beef rendang, 80g sayur lodeh, 40g sambal goreng, 20g garnish). Total plate weight approximately 380–420g."
+  },
+  "nutrient_source": {
+    "title": "Nasi Padang (composite) — HPB Singapore Foodo; cross-referenced with IMR Malaysia component data",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "HPB Foodo composite Nasi Padang entry used as primary reference. Canonical combination: steamed white rice (200g) + beef rendang (60g) + sayur lodeh (80g) + sambal goreng tempeh (40g) + small garnish. Individual side dish component data from IMR Malaysia MyFCD cross-validated where HPB composite values were inconsistent. Per-100g values represent the blended whole-plate composition."
+  },
+  "per_100g": {
+    "energy_kcal": 175.0,
+    "protein_g": 7.8,
+    "fat_g": 9.2,
+    "saturated_fat_g": 5.4,
+    "monounsaturated_fat_g": 2.5,
+    "polyunsaturated_fat_g": 0.9,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 18.8,
+    "sugar_g": 2.4,
+    "dietary_fibre_g": 1.4,
+    "sodium_mg": 320.0,
+    "potassium_mg": 178.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 38.0,
+    "vitamin_c_mg": 4.2,
+    "vitamin_a_mcg_rae": 55.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.8,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.5,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 112.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.6,
+    "selenium_mcg": 8.2,
+    "water_g": 60.5
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 46.6,
+  "gi_source": "University of Sydney GI Database — GI of jasmine rice (~73) is the dominant driver. The fat-rich rendang and sayur lodeh components slow gastric emptying, reducing the effective composite GI. Estimated composite plate GI 60–65, consistent with rice+curry mixed meal studies. Per-100g GL approximately 11.7; per 400g plate GL approximately 46.6.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "A full nasi padang plate with the canonical combination delivers approximately 1,280mg sodium per 400g serving — over 50% of the 2400mg/day limit. Sodium sources: belacan in sambal goreng (~300mg), soy sauce and fish sauce in cooking bases (~400mg), dried shrimp and spice pastes (~300mg), and natural meat/vegetable sodium (~280mg). The generous rendang portion is particularly high in sodium.",
+      "guidance": "Patients with hypertension should request reduced sauce and sambal when ordering nasi padang. Choose sayur lodeh (vegetable curry) over rendang as the primary side dish where possible. Limit to 1 nasi padang meal per week. Request the seller to use minimal belacan. Avoid adding extra sambal from the condiment tray."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "A 400g nasi padang plate delivers approximately 75g total carbohydrate — predominantly from 200g jasmine rice (GI ~73). The composite GI (~62) is slightly lower due to fat slowing digestion, but the glycaemic load per plate (~46.6) is very high. This is one of the highest-GL meals regularly consumed in Singapore.",
+      "guidance": "Patients with type 2 diabetes should halve the rice portion to 100g (1 scoop instead of 2). Replace the remaining volume with additional vegetables (sayur lodeh vegetable components) and a lean protein. Rendang and sambal goreng are low-carbohydrate sides — the rice is the primary intervention target. Blood glucose monitoring after nasi padang is recommended to understand personal response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "The coconut milk components (rendang gravy, sayur lodeh) contribute high saturated fat. The spice base (turmeric in sayur lodeh, galangal, lemongrass in most components) has modest anti-inflammatory properties. Tempeh in sambal goreng provides isoflavones.",
+      "guidance": "Nasi padang is acceptable 1–2 times per week for patients with rheumatoid arthritis. The anti-inflammatory spice base partially offsets the saturated fat concern. Prioritise sayur lodeh and sambal goreng over extra rendang to moderate saturated fat while retaining the spice benefits."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Padang is a self-service rice meal originating from the Minangkabau culture of West Sumatra, Indonesia, now a cornerstone of Singapore's Malay hawker food culture. The diner selects steamed rice and chooses from an array of pre-cooked dishes displayed in large trays — typically beef rendang (dry-spiced coconut beef), sayur lodeh (coconut vegetable curry), sambal goreng (fried tempeh/tofu in sambal), ayam goreng (fried chicken), and various fish and vegetable preparations. Each nasi padang stall has its own proprietary spice formulations. The canonical Singapore hawker combination (rice + rendang + sayur lodeh + sambal goreng) is energy-dense, high in saturated fat from coconut milk, and moderate-high in sodium from belacan and spice pastes. A full plate delivers approximately 700 kcal.",
+    "common_user_queries": [
+      "nasi padang calories",
+      "nasi padang nutrition",
+      "is nasi padang healthy",
+      "nasi padang sodium content",
+      "nasi padang for diabetes",
+      "nasi padang vs nasi lemak calories"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "Malay food courts",
+      "Hari Raya",
+      "daily lunch",
+      "nasi padang stalls"
+    ],
+    "ingredient_synonyms": {
+      "nasi padang": [
+        "padang rice",
+        "Minangkabau rice",
+        "mixed Malay rice"
+      ],
+      "rendang": [
+        "dry beef curry",
+        "daging rendang"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "HPB Singapore composite Nasi Padang entry used, adapted to the canonical combination (rice + rendang + sayur lodeh + sambal goreng). Per-100g values reflect blended whole-plate composition. Nutrient values vary substantially depending on the combination of side dishes selected.",
+  "notes": "Nutrient values are for the canonical combination: 200g steamed white rice + 60g beef rendang + 80g sayur lodeh + 40g sambal goreng tempeh. Nasi padang nutritional profile can vary dramatically based on side dish selection — rendang-heavy plates have higher fat and protein; vegetable-only sides reduce fat but increase sodium from sauces. Nasi padang is halal at halal-certified stalls (the majority in Singapore)."
+}
