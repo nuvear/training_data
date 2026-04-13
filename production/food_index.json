@@ -10,5 +10,9 @@
   {
     "food_id": "0002_char_kway_teow",
     "idx": 2
+  },
+  {
+    "food_id": "0004_nasi_lemak_basic",
+    "idx": 3
   }
 ]
