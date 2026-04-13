@@ -1,0 +1,64 @@
+{
+  "source_json": "sayur_lodeh.json",
+  "filename_prefix": "sayur_lodeh",
+  "save_pattern": "sayur_lodeh_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify Sayur Lodeh across its product forms, textures, ingredients, culinary contexts, and label-relevant allergen cues.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of Sayur Lodeh mixed vegetable coconut milk curry Javanese Malay cuisine",
+      "Sayur Lodeh vegetable coconut curry with tofu puffs and long beans in light coconut milk broth",
+      "traditional Sayur Lodeh served in bowl with lontong rice cake side Singapore Malay food"
+    ],
+    "macro_texture": [
+      "close-up of simmered mixed vegetables carrot cabbage eggplant tofu puffs in coconut milk broth",
+      "texture of light golden coconut milk curry with turmeric lemongrass galangal spices",
+      "Sayur Lodeh curry showing tender but intact vegetables and smooth coconut milk broth"
+    ],
+    "raw_ingredients_and_process": [
+      "raw long beans cabbage carrot tofu puffs tempeh eggplant candlenuts turmeric shallots lemongrass galangal",
+      "fresh ingredients for Sayur Lodeh Javanese Malay vegetable coconut curry",
+      "preparation process simmering mixed vegetables tofu and spices in coconut milk broth"
+    ],
+    "in_the_wild_context": [
+      "Sayur Lodeh served at Malay hawker centre with lontong rice cake",
+      "home cooked Sayur Lodeh vegetable coconut curry in traditional Indonesian kitchen",
+      "Malay Hari Raya festive meal featuring Sayur Lodeh vegetable curry and lontong"
+    ],
+    "culinary_application": [
+      "Sayur Lodeh as side dish for nasi padang Malay Indonesian meal",
+      "Sayur Lodeh vegetable coconut curry served with steamed rice and sambal",
+      "Malay breakfast dish with Sayur Lodeh and compressed rice cake lontong"
+    ],
+    "label_truth": [
+      "Sayur Lodeh allergen label highlighting soy from tofu and tree nuts from candlenuts",
+      "nutrition label showing low sodium content in Sayur Lodeh Malay vegetable curry",
+      "ingredient list emphasizing coconut milk turmeric lemongrass galangal in Sayur Lodeh"
+    ],
+    "optional_local_language_queries": [
+      "Sayur Lodeh 椰汁蔬菜咖喱 Malay vegetable coconut curry",
+      "சாயூர் லோடே Tamil vegetable coconut milk curry",
+      "Sayur Lodeh sayor lodeh lontong vegetable curry Indonesian Malay dish"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

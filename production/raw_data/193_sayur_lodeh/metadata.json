@@ -1,0 +1,161 @@
+{
+  "food_name": "Sayur Lodeh (mixed vegetable in coconut milk curry)",
+  "local_names": {
+    "malay": "Sayur Lodeh",
+    "chinese_simplified": "椰汁蔬菜咖喱",
+    "chinese_traditional": "椰汁蔬菜咖喱",
+    "tamil": "சாயூர் லோடே",
+    "indonesian": "Sayur Lodeh"
+  },
+  "aliases": [
+    "sayur lodeh",
+    "sayor lodeh",
+    "vegetable coconut curry Malay",
+    "lontong curry vegetable",
+    "Javanese vegetable coconut stew"
+  ],
+  "cuisine": "Javanese-Malay / Singapore Malay",
+  "region_of_origin": "Java, Indonesia — widely adopted in Singapore Malay cuisine",
+  "food_group": "Vegetable dishes",
+  "food_subgroup": "Mixed vegetable and tofu in light coconut milk broth",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Sayur Lodeh. Closest parent is mixed vegetable coconut milk curry.",
+    "foodex2_code": "A0VEG",
+    "foodex2_description": "Mixed vegetables in light coconut milk broth with lemongrass and turmeric (Javanese-Malay sayur lodeh)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered"
+    ],
+    "processing_level": "prepared vegetable curry",
+    "main_ingredients": [
+      "long beans",
+      "cabbage",
+      "carrot",
+      "tofu puffs",
+      "tempeh (optional)",
+      "eggplant",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "candlenuts",
+      "turmeric",
+      "shallots"
+    ],
+    "allergens": [
+      "soy (tofu)",
+      "tree nuts (candlenuts)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 300g",
+    "size_g": 300,
+    "natural_language_portion": "A standard Sayur Lodeh serving is approximately 300g: 150g mixed vegetables and tofu puffs in 150g coconut milk broth. Served alongside lontong rice cake or steamed rice."
+  },
+  "nutrient_source": {
+    "title": "Sayur Lodeh — HPB Singapore Foodo; cross-referenced with FAO/INFOODS SEA Table",
+    "organization": "Health Promotion Board (HPB), Singapore; FAO/INFOODS Southeast Asia Regional Food Composition Table",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has a direct Sayur Lodeh entry. Values per 100g represent the mixed vegetables + tofu puffs + coconut milk broth composite. Frequently served with lontong as the curry component — noted in meal context."
+  },
+  "per_100g": {
+    "energy_kcal": 82.0,
+    "protein_g": 3.5,
+    "fat_g": 5.8,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 0.7,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 5.5,
+    "sugar_g": 2.0,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 195.0,
+    "potassium_mg": 188.0,
+    "calcium_mg": 52.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_a_mcg_rae": 62.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.6,
+    "phosphorus_mg": 58.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 2.5,
+    "water_g": 84.0
+  },
+  "glycemic_index": 38,
+  "glycemic_load_per_serving": 6.3,
+  "gi_source": "University of Sydney GI Database — Vegetable-dominant dish with very low carbohydrate (5.5g/100g). GI driven by minor carbohydrate from vegetables (long beans, carrot, cabbage — all low-GI). Coconut milk fat further suppresses glycaemic response. Estimated composite GI ~35–42. Per-300g bowl delivers approximately 16.5g carbohydrate; GL per bowl ~6.3 (very low).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sayur Lodeh has one of the lower sodium profiles among Malay curries (195mg/100g). A 300g bowl delivers approximately 585mg sodium. The main sodium source is the spice paste (shrimp paste if used). Many versions are prepared without belacan — check preparation.",
+      "guidance": "Patients with hypertension can freely enjoy sayur lodeh — it is one of the lowest-sodium Malay curry preparations. Request no belacan or reduced belacan to minimise sodium further. This is one of the best Malay curry choices for hypertension patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "very low",
+      "key_factor": "Sayur Lodeh is one of the best Malay curry choices for patients with type 2 diabetes — very low GI (~38), very low GL per bowl (~6.3), and high dietary fibre (1.8g/100g) from mixed vegetables. The vegetable-dominant composition with minimal starch is ideal.",
+      "guidance": "Patients with type 2 diabetes should actively choose sayur lodeh at lontong or nasi padang stalls. It is the lowest-GL curry side dish in Malay cuisine. The tofu puffs provide protein without adding carbohydrate. Eating sayur lodeh alongside higher-GL foods moderates the overall meal glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Coconut milk saturated fat (4.5g/100g) is the primary concern. However, the high vitamin C (12mg/100g) from cabbage and vegetables — a 300g bowl provides 36mg (40% of the 90mg/day RDA) — and folate (22mcg/100g) are beneficial for joint health and anti-inflammatory response.",
+      "guidance": "Sayur Lodeh is among the best Malay curry choices for patients with rheumatoid arthritis. The high vegetable content provides vitamin C and folate that support joint health. The turmeric in the base provides curcumin. Limit to 2–3 times per week due to saturated fat."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Sayur Lodeh is a light, mildly spiced mixed vegetable curry in coconut milk that is the vegetable companion to lontong — it is almost always served together with the compressed rice cake. Long beans, carrot, cabbage, eggplant, and tofu puffs are simmered in a golden, fragrant broth of diluted coconut milk seasoned with lemongrass, galangal, candlenuts, and turmeric. Unlike the thick, concentrated coconut curries of rendang or opor, sayur lodeh uses a lighter coconut milk broth — the vegetables are simmered until tender but retain their texture. It is one of the most nutritionally balanced Malay dishes: low calorie, low GI, high fibre, and with meaningful vitamin C from the vegetables.",
+    "common_user_queries": [
+      "sayur lodeh calories",
+      "sayur lodeh nutrition",
+      "sayur lodeh healthy",
+      "sayur lodeh glycemic index",
+      "sayur lodeh vs lontong",
+      "sayur lodeh vitamin C"
+    ],
+    "meal_context": [
+      "lontong accompaniment",
+      "nasi padang side dish",
+      "Malay hawker centre",
+      "Hari Raya vegetable curry",
+      "home cooking"
+    ],
+    "ingredient_synonyms": {
+      "sayur lodeh": [
+        "sayor lodeh",
+        "Malay vegetable coconut curry",
+        "lontong vegetable curry"
+      ],
+      "lodeh": [
+        "coconut vegetable broth",
+        "Javanese vegetable curry"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct entry in HPB Singapore Foodo for Sayur Lodeh. Values consistent with known vegetable-coconut curry composition. Low sodium values consistent with a belacan-optional preparation.",
+  "notes": "Sayur Lodeh's nutritional profile varies significantly based on (1) coconut milk concentration (thick vs. thin) and (2) whether belacan is used. The HPB Singapore values reflect a moderate coconut milk version. Vitamin A (62mcg RAE/100g) from carrot in the dish — a 300g serving provides 186mcg RAE (21% of the 900mcg/day RDA for men). Cholesterol-free (no animal fat beyond any trace from coconut milk — plant-based). Frequently paired with lontong (#152) as the 'two-component' Malay breakfast dish."
+}

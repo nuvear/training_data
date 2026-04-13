@@ -78,5 +78,9 @@
   {
     "food_id": "192_gulai_ikan",
     "idx": 19
+  },
+  {
+    "food_id": "193_sayur_lodeh",
+    "idx": 20
   }
 ]
