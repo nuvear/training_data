@@ -1,0 +1,161 @@
+{
+  "food_name": "Soto Ayam Malay (spiced chicken soup with rice vermicelli)",
+  "local_names": {
+    "malay": "Soto Ayam",
+    "chinese_simplified": "马来鸡汤",
+    "chinese_traditional": "馬來雞湯",
+    "tamil": "சோட்டோ அயம்",
+    "indonesian": "Soto Ayam"
+  },
+  "aliases": [
+    "soto ayam",
+    "Malay chicken soup",
+    "spiced chicken noodle soup",
+    "soto ayam bening",
+    "clear chicken soto"
+  ],
+  "cuisine": "Singapore Malay / Javanese",
+  "region_of_origin": "Java, Indonesia — widely adopted across Singapore Malay hawker culture",
+  "food_group": "Soups and stews",
+  "food_subgroup": "Spiced clear chicken broth soup with rice vermicelli",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Soto Ayam (Malay style). Closest parent is chicken-based clear broth noodle soup. Soto Betawi (coconut milk version) would be a distinct concept.",
+    "foodex2_code": "A00KQ",
+    "foodex2_description": "Spiced chicken noodle soup, clear broth (Malay soto style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered",
+      "boiled",
+      "assembled"
+    ],
+    "processing_level": "prepared soup dish",
+    "main_ingredients": [
+      "chicken",
+      "rice vermicelli (bee hoon)",
+      "turmeric",
+      "lemongrass",
+      "galangal",
+      "candlenuts",
+      "bean sprouts",
+      "hard-boiled egg",
+      "fried shallots",
+      "coriander"
+    ],
+    "allergens": [
+      "eggs",
+      "possible crustaceans (shrimp paste in sambal)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 500g total",
+    "size_g": 500,
+    "natural_language_portion": "A standard Soto Ayam serving consists of 150g clear turmeric broth, 100g rice vermicelli (bee hoon), 80g shredded chicken, 80g vegetables and hard-boiled egg, and 90g garnishes (fried shallots, coriander, lime, sambal). Total bowl weight approximately 500g."
+  },
+  "nutrient_source": {
+    "title": "Soto Ayam (Malay clear broth) — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has a Soto Ayam (Malay clear broth) entry confirmed as the turmeric-based clear broth version, not Soto Betawi (coconut milk). Values per 100g represent blended bowl composition. Composition: 150g broth + 100g bee hoon + 80g shredded chicken + 170g vegetables/egg/garnishes across 500g total."
+  },
+  "per_100g": {
+    "energy_kcal": 85.0,
+    "protein_g": 6.8,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.7,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 9.5,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 0.9,
+    "sodium_mg": 380.0,
+    "potassium_mg": 195.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 3.8,
+    "vitamin_a_mcg_rae": 35.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.09,
+    "vitamin_b3_niacin_mg": 3.2,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.3,
+    "folate_mcg_dfe": 14.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 98.0,
+    "magnesium_mg": 16.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 10.5,
+    "water_g": 79.0
+  },
+  "glycemic_index": 57,
+  "glycemic_load_per_serving": 27.1,
+  "gi_source": "University of Sydney GI Database — GI driven primarily by rice vermicelli (bee hoon) at approximately GI 61. Protein from chicken, fat from shallots, and fibre from vegetables reduce the effective composite dish GI. Estimated composite GI ~55–60. Per-500g bowl delivers approximately 47.5g carbohydrate; GL per bowl ~27.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium in soto ayam comes primarily from the spiced broth (chicken stock, salt, fish sauce) and sambal accompaniment. A 500g bowl delivers approximately 1,900mg sodium — 79% of the 2,400mg/day recommended limit for hypertension. This is significantly lower than laksa or mee rebus but still requires mindfulness.",
+      "guidance": "Patients with hypertension should consume soto ayam in moderation — up to twice per week. Request the stall to reduce fish sauce or salt in the broth. Leave the last one-third of the broth unconsumed to reduce sodium intake by approximately 250–350mg per bowl. Avoid adding extra sambal at the table."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Soto Ayam has a lower carbohydrate density than rice-based dishes. The 500g bowl contains approximately 47.5g carbohydrate with a GL of ~27, primarily from bee hoon (rice vermicelli). Low fat content means carbohydrate absorption is relatively unmoderated.",
+      "guidance": "Patients with type 2 diabetes can choose soto ayam as a lower-calorie, lower-carbohydrate alternative to nasi padang or mee rebus. Request half the noodle portion to further reduce carbohydrate. The high protein from shredded chicken (6.8g/100g) supports satiety and reduces postprandial glucose spikes."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Soto Ayam is a lower-fat dish (2.5g/100g) with a rich anti-inflammatory spice profile: turmeric (curcumin), galangal (galangal compounds), lemongrass (citral), and ginger (gingerols). The clear broth is well-tolerated.",
+      "guidance": "Soto Ayam is a suitable regular dish for patients with rheumatoid arthritis — low fat, anti-inflammatory spices, and adequate protein. The turmeric in the broth contributes to curcumin intake. Can be consumed daily if sodium is managed (leave some broth)."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Soto Ayam is a fragrant Malay spiced chicken soup that is one of the most beloved dishes in Singapore and Indonesia. Unlike the Thai Tom Kha Gai (coconut milk) or the richer Soto Betawi (Jakarta-style with coconut milk and offal), the Singapore Malay version uses a clear, golden turmeric-based broth made from slowly simmered chicken with lemongrass, galangal, and candlenuts. It is served over rice vermicelli (bee hoon) with shredded poached chicken, bean sprouts, a halved hard-boiled egg, fried shallots, and fresh coriander, with lime wedges and sambal on the side. It is a lighter, healthier choice in the hawker centre context compared to coconut-milk based dishes.",
+    "common_user_queries": [
+      "soto ayam calories",
+      "soto ayam nutrition",
+      "is soto ayam healthy",
+      "soto ayam vs laksa",
+      "soto ayam for weight loss",
+      "soto ayam sodium content"
+    ],
+    "meal_context": [
+      "Malay hawker centre",
+      "breakfast",
+      "lunch",
+      "kopitiam",
+      "Ramadan suhoor"
+    ],
+    "ingredient_synonyms": {
+      "soto ayam": [
+        "Malay chicken soup",
+        "spiced chicken noodle soup",
+        "soto"
+      ],
+      "bee hoon": [
+        "rice vermicelli",
+        "rice noodles"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "HPB Singapore Foodo has an exact Soto Ayam (Malay clear broth) entry. Confirmed as the turmeric-based clear broth version — not the coconut milk Soto Betawi variant.",
+  "notes": "Distinguish from Soto Betawi (Indonesian, Jakarta-style) which uses full-fat coconut milk and offal — a significantly higher fat and calorie profile. Soto Ayam Malay (clear broth) is one of the lower-calorie choices at Malay hawker stalls. The broth contributes the majority of sodium — leaving broth unconsumed substantially reduces the sodium intake."
+}

@@ -1,0 +1,67 @@
+{
+  "source_json": "soto_ayam_malay.json",
+  "filename_prefix": "soto_ayam_malay",
+  "save_pattern": "soto_ayam_malay_{x}.jpg",
+  "objective": "Train MedGemma to visually identify and understand Soto Ayam Malay as a clear turmeric-based spiced chicken soup with rice vermicelli, its ingredients, serving context, and label-relevant allergen and sodium cues in Southeast Asian hawker culture.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of Soto Ayam Malay clear turmeric chicken soup with rice vermicelli, shredded chicken, hard-boiled egg, fried shallots, coriander, lime wedge, sambal on the side, Singapore Malay hawker centre style",
+      "Soto Ayam spiced chicken noodle soup in a white bowl with clear golden broth, rice vermicelli (bee hoon), bean sprouts, halved hard-boiled egg, fresh coriander garnish, fried shallots, served with lime and sambal, Malay cuisine",
+      "close-up of Malay Soto Ayam clear broth soup with shredded chicken, rice vermicelli noodles, turmeric yellow broth, garnished with coriander and fried shallots, traditional Southeast Asian hawker food"
+    ],
+    "macro_texture": [
+      "texture detail of clear turmeric chicken broth in Soto Ayam with visible oil droplets and spices",
+      "close-up of rice vermicelli (bee hoon) noodles in clear chicken soup broth, soft and translucent texture",
+      "fried shallots crispy texture topping Soto Ayam soup bowl with fresh coriander leaves"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh raw chicken pieces and shredded cooked chicken for Soto Ayam Malay spiced soup",
+      "turmeric root, lemongrass stalks, galangal rhizome, candlenuts arranged on wooden board for Soto Ayam broth preparation",
+      "rice vermicelli (bee hoon) noodles uncooked and soaked, ready for Soto Ayam assembly",
+      "hard-boiled eggs halved, bean sprouts fresh, coriander leaves, lime wedges and sambal chili paste ingredients for Soto Ayam garnish"
+    ],
+    "in_the_wild_context": [
+      "Soto Ayam Malay served in a busy Singapore Malay hawker centre stall with other local dishes visible",
+      "traditional Malay kopitiam breakfast table with a bowl of Soto Ayam, sambal, lime wedges, and utensils",
+      "Soto Ayam soup served during Ramadan suhoor meal in Singapore, with typical hawker centre background",
+      "Malay lunch setting with Soto Ayam and side dishes on a plastic table in a hawker centre environment"
+    ],
+    "culinary_application": [
+      "Soto Ayam Malay served as a light lunch soup with rice vermicelli and garnishes in a casual hawker setting",
+      "Soto Ayam clear chicken broth soup plated with sambal chili and lime for added flavor, Malay cuisine",
+      "traditional Malay spiced chicken noodle soup served with condiments for customization at hawker stalls"
+    ],
+    "label_truth": [
+      "Soto Ayam Malay soup allergen warning sign for eggs and possible crustaceans due to shrimp paste sambal",
+      "close-up of sodium content label on packaged Soto Ayam or hawker stall nutrition info highlighting moderate sodium level",
+      "ingredient label highlighting turmeric, lemongrass, galangal, chicken, rice vermicelli in Soto Ayam Malay soup"
+    ],
+    "optional_local_language_queries": [
+      "马来鸡汤 clear turmeric chicken soup with rice vermicelli in Singapore hawker centre",
+      "Soto Ayam 马来鸡汤 Malay spiced chicken noodle soup with hard-boiled egg and sambal",
+      "சோட்டோ அயம் Tamil name for Malay spiced chicken soup with rice noodles and turmeric broth",
+      "Soto Ayam Indonesian Malay style clear chicken broth soup with bee hoon and garnishes"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
