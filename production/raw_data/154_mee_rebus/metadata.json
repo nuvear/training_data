@@ -1,0 +1,162 @@
+{
+  "food_name": "Mee Rebus (yellow noodles in thick sweet-savoury gravy)",
+  "local_names": {
+    "malay": "Mee Rebus",
+    "chinese_simplified": "马来黄面",
+    "chinese_traditional": "馬來黃麵",
+    "tamil": "மீ ரெபுஸ்",
+    "indonesian": "Mie Rebus"
+  },
+  "aliases": [
+    "mee rebus",
+    "mi rebus",
+    "boiled yellow noodles with gravy",
+    "Malay yellow noodle curry",
+    "mee rebus with sweet potato gravy"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Singapore Malay — Javanese-Malay hawker food tradition",
+  "food_group": "Noodles",
+  "food_subgroup": "Yellow egg noodles in thick sweet-savoury sweet potato gravy",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Mee Rebus. Closest parent is yellow egg noodle dish with thick savoury gravy.",
+    "foodex2_code": "A00KN",
+    "foodex2_description": "Yellow noodle dish with thick sweet-savoury sweet potato gravy (Malay mee rebus style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "assembled"
+    ],
+    "processing_level": "prepared noodle dish",
+    "main_ingredients": [
+      "yellow egg noodles",
+      "sweet potato (for gravy thickening)",
+      "dried shrimp",
+      "beef or prawn stock",
+      "hard-boiled egg",
+      "fried tofu",
+      "bean sprouts",
+      "green chilli",
+      "fried shallots"
+    ],
+    "allergens": [
+      "eggs",
+      "gluten (wheat noodles)",
+      "crustaceans (dried shrimp)",
+      "soy (tofu)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate = 450g total",
+    "size_g": 450,
+    "natural_language_portion": "A standard mee rebus plate consists of 160g boiled yellow noodles, 200g thick sweet-savoury gravy (made from sweet potato, dried shrimp, and spiced stock), and 90g toppings (egg, tofu, bean sprouts, chilli, shallots). Total plate weight approximately 450g."
+  },
+  "nutrient_source": {
+    "title": "Mee Rebus — HPB Singapore Foodo Database",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has a direct Mee Rebus entry. Values per 100g represent the blended plate composition (noodles + gravy + toppings). The sweet potato gravy is a defining feature — the natural sweetness comes from blended sweet potato used as a thickening agent, not added sugar."
+  },
+  "per_100g": {
+    "energy_kcal": 125.0,
+    "protein_g": 5.8,
+    "fat_g": 3.2,
+    "saturated_fat_g": 0.8,
+    "monounsaturated_fat_g": 1.1,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 18.5,
+    "sugar_g": 3.8,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 540.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 1.1,
+    "cholesterol_mg": 42.0,
+    "vitamin_c_mg": 5.2,
+    "vitamin_a_mcg_rae": 62.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.11,
+    "vitamin_b3_niacin_mg": 2.5,
+    "vitamin_b6_mg": 0.16,
+    "vitamin_b12_mcg": 0.2,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.3,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 7.5,
+    "water_g": 70.0
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 51.6,
+  "gi_source": "University of Sydney GI Database — Yellow egg noodles have GI ~50–57. The sweet potato thickener contributes moderate GI carbohydrates (~50–65 for sweet potato). The combined gravy raises the sugar content slightly compared to plain noodle dishes. Estimated composite plate GI ~60–65. A 450g plate delivers approximately 83g total carbohydrate; GL per plate ~51.6.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Mee rebus is notably high in sodium, primarily from the dried shrimp in the gravy, beef/prawn stock, and soy sauce. A 450g plate delivers approximately 2,430mg sodium — at or above the entire daily recommended limit of 2,400mg for hypertension patients.",
+      "guidance": "Patients with hypertension should exercise significant caution with mee rebus. The thick gravy is the main sodium source — request a reduced amount of gravy. Consume mee rebus no more than once per week. Avoid additional soy sauce or chilli sauce at the table. The belacan-free version (if available) will have slightly lower sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "A 450g mee rebus plate delivers approximately 83g total carbohydrate with an estimated GL of ~51.6 — one of the highest GL meals at Malay hawker stalls. Carbohydrate sources include yellow noodles, sweet potato gravy thickener (which also contributes moderate sugar), and fried shallots.",
+      "guidance": "Patients with type 2 diabetes should request a half noodle portion and extra toppings (egg, tofu, bean sprouts) to balance the carbohydrate load. The sweet potato gravy cannot be reduced without losing the dish's character — portion control of the overall plate is the primary strategy. Choose mee soto (lower carbohydrate, clear broth) as a lower-GL alternative."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "The sweet potato in the gravy provides beta-carotene (vitamin A precursor). Turmeric and galangal in the spice base have anti-inflammatory properties. Low saturated fat (0.8g/100g) compared to coconut-milk based dishes.",
+      "guidance": "Mee rebus is acceptable for patients with rheumatoid arthritis from a fat perspective, but the high sodium warrants caution. Limit to once per week. The sweet potato content contributes anti-oxidative beta-carotene."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mee Rebus is a distinctive Singapore Malay noodle dish characterised by its thick, deeply savoury-sweet gravy poured over boiled yellow egg noodles. Unlike Chinese noodle soups (thin clear broth), the mee rebus gravy is thickened with blended sweet potato and flavoured with dried shrimp (hae bee), beef or prawn stock, and a complex spice paste. The natural sweetness comes from the sweet potato — not added sugar — giving the gravy a unique depth of flavour. It is topped with sliced hard-boiled egg, fried tofu, bean sprouts, green chilli, crispy fried shallots, and a squeeze of lime. Distinguish from mee soto (clear broth) — mee rebus is always thick-sauced.",
+    "common_user_queries": [
+      "mee rebus calories",
+      "mee rebus nutrition facts",
+      "mee rebus vs mee soto",
+      "mee rebus sodium content",
+      "mee rebus for diabetes",
+      "mee rebus healthy or not"
+    ],
+    "meal_context": [
+      "Malay hawker centre",
+      "breakfast",
+      "lunch",
+      "kopitiam",
+      "hawker stall staple"
+    ],
+    "ingredient_synonyms": {
+      "mee rebus": [
+        "mi rebus",
+        "boiled yellow noodles with gravy",
+        "Malay noodle curry"
+      ],
+      "sweet potato gravy": [
+        "ubi keledek gravy",
+        "keledek-thickened gravy"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct Mee Rebus entry in HPB Singapore Foodo confirmed. High confidence in the macro and micronutrient values for the canonical plate composition.",
+  "notes": "Differentiate from Mee Soto (#155) — Mee Soto uses a clear, aromatic chicken broth and has significantly lower sodium and calorie density. Mee Rebus is characterised exclusively by its thick, sweet potato-thickened gravy. The sodium content of the gravy makes this one of the higher-sodium noodle dishes at Malay hawker stalls. The sweet potato thickener contributes beta-carotene and a natural sweetness without refined sugar addition."
+}

@@ -1,0 +1,75 @@
+{
+  "source_json": "mee_rebus_singapore.json",
+  "filename_prefix": "mee_rebus_singapore",
+  "save_pattern": "mee_rebus_singapore_{x}.jpg",
+  "objective": "Train MedGemma to visually identify Mee Rebus, a Singapore Malay yellow egg noodle dish with thick sweet potato gravy and characteristic toppings, in authentic hawker contexts and understand its key ingredients and sodium-related label concerns.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic plate of mee rebus singapore malay yellow egg noodles in thick sweet potato gravy with hard-boiled egg tofu bean sprouts green chilli fried shallots",
+      "mee rebus singapore malay hawker centre dish yellow noodles thick sweet-savoury gravy with toppings closeup",
+      "mee rebus boiled yellow noodles with sweet potato gravy and prawn stock garnished with egg tofu bean sprouts chili"
+    ],
+    "macro_texture": [
+      "closeup thick sweet potato gravy texture on yellow egg noodles mee rebus singapore malay",
+      "texture of sweet potato thickened gravy on boiled yellow noodles mee rebus dish",
+      "fried shallots crispy texture and bean sprouts fresh texture topping mee rebus gravy noodles"
+    ],
+    "raw_ingredients_and_process": [
+      "yellow egg noodles raw uncooked for mee rebus singapore malay noodle dish",
+      "sweet potato tuber used for thickening mee rebus gravy",
+      "dried shrimp hae bee ingredient for mee rebus gravy singapore malay",
+      "hard-boiled egg sliced topping for mee rebus",
+      "fried tofu cubes topping mee rebus singapore malay",
+      "bean sprouts fresh ingredient mee rebus",
+      "green chilli fresh sliced for mee rebus garnish",
+      "fried shallots crispy topping mee rebus",
+      "boiled yellow egg noodles simmered and assembled with thick sweet potato gravy mee rebus"
+    ],
+    "in_the_wild_context": [
+      "mee rebus served at singapore malay hawker centre kopitiam breakfast lunch",
+      "mee rebus plate on hawker stall table with typical singapore malay food setting",
+      "mee rebus dish served in traditional singapore malay hawker food court",
+      "mee rebus with lime wedge and chili sauce on hawker centre table singapore"
+    ],
+    "culinary_application": [
+      "mee rebus eaten as singapore malay breakfast or lunch noodle dish",
+      "mee rebus served with typical malay hawker accompaniments lime chili sauce",
+      "mee rebus as thick gravy noodle dish distinct from mee soto clear broth",
+      "mee rebus with toppings egg tofu bean sprouts chili in singapore malay cuisine"
+    ],
+    "label_truth": [
+      "mee rebus nutrition label showing high sodium content from dried shrimp soy sauce gravy",
+      "mee rebus allergen warning eggs gluten crustaceans soy on food label",
+      "mee rebus sodium warning for hypertension patients singapore malay noodle dish",
+      "mee rebus nutrition facts highlighting carbohydrate and sodium levels per serving"
+    ],
+    "optional_local_language_queries": [
+      "mee rebus 马来黄面 singapore malay noodle dish with thick sweet potato gravy",
+      "mee rebus 馬來黃麵 thick sweet-savoury gravy yellow egg noodles singapore",
+      "mee rebus malay yellow noodle curry with sweet potato gravy",
+      "மீ ரெபுஸ் singapore malay noodle dish with gravy",
+      "mie rebus indonesian variant of sweet potato thickened yellow noodles"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
