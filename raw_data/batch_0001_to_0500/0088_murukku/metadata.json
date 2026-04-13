@@ -1,0 +1,158 @@
+{
+  "food_name": "Murukku",
+  "local_names": {
+    "malay": "Murukku",
+    "chinese_simplified": "南印度米粉螺旋脆饼",
+    "chinese_traditional": "南印度米粉螺旋脆餅",
+    "tamil": "முறுக்கு",
+    "romanized_local": "Murukku / Mullu Murukku"
+  },
+  "aliases": [
+    "murukku",
+    "chakli",
+    "mullu murukku",
+    "rice flour spiral snack",
+    "South Indian crispy snack",
+    "Deepavali murukku"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Kerala / Karnataka)",
+  "food_group": "Snacks and street food",
+  "food_subgroup": "Deep-fried crispy rice and lentil flour spiral snack",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Murukku. Nearest parent is a deep-fried grain snack. A new concept for South Indian murukku preparations is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Deep-fried rice flour spiral snack, South Indian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "extruded",
+      "deep-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour",
+      "urad dal flour",
+      "cumin seeds",
+      "sesame seeds",
+      "butter or oil",
+      "asafoetida (hing)",
+      "oil (for deep frying)",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "5 pieces / 1 small pack",
+    "size_g": 50,
+    "natural_language_portion": "A standard serving of murukku is approximately 5 medium spirals (approximately 50g) — extremely crispy, golden-brown, hard deep-fried rice flour spirals with a distinctly savoury, cumin-sesame flavour."
+  },
+  "nutrient_source": {
+    "title": "Murukku — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with HPB Singapore Foodo",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); Health Promotion Board (HPB), Singapore",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone murukku entry. Values estimated from ICMR-NIN rice flour and urad dal flour composition data with standard deep-frying oil absorption for hard fried snacks (approximately 25–30g oil per 100g cooked murukku based on comparable chakli/murukku published data)."
+  },
+  "per_100g": {
+    "energy_kcal": 478.0,
+    "protein_g": 6.5,
+    "fat_g": 25.5,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 10.0,
+    "polyunsaturated_fat_g": 9.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 58.5,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 425.0,
+    "potassium_mg": 125.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 5.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.5,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 8.0,
+    "water_g": 3.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "No GI data available in University of Sydney GI Database for murukku. Expected moderate GI from rice flour base but insufficient standard data available for testing. GI and GL not reported.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 213mg per 50g serving — moderate; murukku is a salty snack and the sodium per serving accumulates quickly if multiple servings are consumed.",
+      "guidance": "Patients with hypertension should limit murukku to 25–30g (2–3 spirals) per occasion. It is easy to overconsume as a festive snack. Choose reduced-salt varieties where available."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Very high caloric density (478 kcal/100g); rice flour base is moderate-high GI; the high fat from deep frying blunts the glycaemic response somewhat.",
+      "guidance": "Diabetic patients should limit murukku to 2–3 spirals (20–25g) on special occasions. The very high caloric density means even small portions contribute significant energy."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Deep-fried in oil with high omega-6 content; urad dal provides folate which supports immune function; cumin and sesame seeds have anti-inflammatory properties.",
+      "guidance": "Limit murukku to occasional festive consumption. The deep-frying method and high omega-6 fat content may exacerbate inflammation with regular consumption. The small standard serving (50g) makes it acceptable as an occasional treat."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Murukku is a classic South Indian deep-fried snack — a dough of rice flour and urad dal flour seasoned with cumin seeds, sesame seeds, butter, and asafoetida, pressed through a star-shaped mould directly into hot oil and fried until golden-brown and remarkably hard and crunchy. The distinctive spiral or circular shape breaks with a satisfying crunch. It has a savoury, slightly nutty, cumin-sesame flavour and is gluten-free and vegan (when made with oil, not butter). In Singapore, murukku is a staple snack at Deepavali (Diwali) celebrations, at Indian sweet shops year-round, and at hawker centres.",
+    "common_user_queries": [
+      "murukku calories",
+      "is murukku healthy",
+      "murukku gluten free",
+      "murukku for Deepavali",
+      "murukku vs chakli difference",
+      "how many murukku can I eat"
+    ],
+    "meal_context": [
+      "Indian sweet shop",
+      "Deepavali snack",
+      "festive snack",
+      "hawker centre",
+      "tea-time"
+    ],
+    "ingredient_synonyms": {
+      "murukku": [
+        "chakli",
+        "mullu murukku",
+        "rice spiral snack",
+        "South Indian chakra"
+      ],
+      "rice flour": [
+        "puttu flour",
+        "idiyappam flour",
+        "fine rice flour"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone murukku entry in ICMR-NIN or HPB Foodo. Values estimated from ICMR-NIN rice flour and urad dal flour data with standard deep-frying oil absorption for hard fried snacks. High caloric density from oil absorption is well-established for hard fried snacks.",
+  "notes": "Contains dairy (butter) when made with butter; vegan and dairy-free when made with oil. Cholesterol approximately 2.5mg per 50g serving when made with butter. GI and GL are null — insufficient published data. Very low water content (~3.5%) as murukku is a dry, hard fried snack. Calorie density is very high — weight-for-weight one of the most energy-dense Indian snacks."
+}

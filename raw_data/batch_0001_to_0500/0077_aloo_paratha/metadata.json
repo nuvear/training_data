@@ -1,0 +1,161 @@
+{
+  "food_name": "Aloo Paratha",
+  "local_names": {
+    "malay": "Paratha Kentang",
+    "chinese_simplified": "印度土豆馅薄饼",
+    "chinese_traditional": "印度土豆餡薄餅",
+    "tamil": "உருளைக்கிழங்கு பராத்தா",
+    "romanized_local": "Aloo Paratha / Alu Paratha"
+  },
+  "aliases": [
+    "aloo paratha",
+    "alu paratha",
+    "potato stuffed flatbread",
+    "Punjabi paratha",
+    "potato paratha"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Whole wheat flatbread stuffed with spiced potato",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Aloo Paratha. Nearest parent is a stuffed flatbread. A new concept for Indian stuffed paratha preparations is recommended.",
+    "foodex2_code": "A01GP",
+    "foodex2_description": "Stuffed whole wheat flatbread (paratha) with potato filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stuffed",
+      "rolled",
+      "griddle-cooked with fat"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "whole wheat flour (atta)",
+      "mashed potato",
+      "green chilli",
+      "coriander leaves",
+      "cumin seeds",
+      "amchur (dried mango powder)",
+      "garam masala",
+      "ghee or oil (for cooking)",
+      "salt"
+    ],
+    "allergens": [
+      "gluten (wheat)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 piece (with ghee)",
+    "size_g": 130,
+    "natural_language_portion": "A standard serving of aloo paratha is 1 piece (approximately 130g) — a round, golden-brown flatbread stuffed with spiced mashed potato, cooked on a griddle with ghee until crispy on both sides, served with yogurt and pickle."
+  },
+  "nutrient_source": {
+    "title": "Aloo Paratha — HPB Singapore Foodo Database, Food Code F05020001; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05020001 — Aloo Paratha, standard Punjabi preparation with ghee."
+  },
+  "per_100g": {
+    "energy_kcal": 272.0,
+    "protein_g": 6.2,
+    "fat_g": 10.5,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 3.8,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 40.5,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 3.8,
+    "sodium_mg": 312.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 18.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_a_mcg_rae": 10.0,
+    "vitamin_b1_thiamine_mg": 0.22,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 2.5,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 32.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 125.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 18.0,
+    "water_g": 38.5
+  },
+  "glycemic_index": 66,
+  "glycemic_load_per_serving": 34.7,
+  "gi_source": "University of Sydney GI Database — estimated from whole wheat paratha with potato filling; the ghee and potato together give a moderate GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 406mg per piece (130g) — moderate; the ghee in cooking adds saturated fat but minimal sodium.",
+      "guidance": "Suitable in moderation for hypertensive patients. The high potassium from potato (370mg per paratha) partially offsets the sodium. Request oil-based cooking instead of ghee to reduce saturated fat."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~66); glycaemic load per piece (130g) is approximately 35 — high. The potato filling and whole wheat dough both contribute carbohydrates.",
+      "guidance": "Diabetic patients should limit to half a piece and pair with a high-protein side (yogurt, dal) to moderate the glycaemic response. The ghee slightly lowers the GI but the total glycaemic load remains substantial."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Ghee provides butyrate and fat-soluble vitamins; whole wheat provides selenium and B vitamins; potato provides vitamin B6 and vitamin C.",
+      "guidance": "Suitable in moderation for patients with rheumatoid arthritis who do not have gluten intolerance. The ghee and B vitamins provide some benefit. Nightshade-free diet followers should avoid (potato filling)."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Aloo Paratha is the quintessential Punjabi breakfast and comfort food — a generous whole wheat flatbread stuffed with a spiced mashed potato filling (cumin, green chilli, coriander, amchur, garam masala) and cooked on a hot griddle with ghee until golden and slightly crispy on both sides. Rich, filling, and fragrant. Served with a bowl of cold fresh yogurt and a tangy pickle (achar). The combination of whole wheat dough and potato filling creates a complete, satisfying meal. In Singapore, aloo paratha is available at North Indian restaurants and some hawker stalls.",
+    "common_user_queries": [
+      "aloo paratha calories",
+      "is aloo paratha healthy",
+      "aloo paratha vs plain chapati",
+      "aloo paratha for diabetics",
+      "aloo paratha fat content",
+      "aloo paratha protein content"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "breakfast",
+      "lunch",
+      "Punjabi cuisine"
+    ],
+    "ingredient_synonyms": {
+      "aloo paratha": [
+        "potato paratha",
+        "alu paratha",
+        "potato stuffed flatbread",
+        "Punjabi paratha"
+      ],
+      "amchur": [
+        "dried mango powder",
+        "mango powder",
+        "raw mango powder"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05020001 — Aloo Paratha, standard preparation.",
+  "notes": "Contains gluten (wheat) and dairy (ghee). Not vegan or suitable for gluten-sensitive patients. Cholesterol approximately 23mg per piece (130g) from ghee. Vitamin C from potato and amchur. Some rheumatoid arthritis patients follow nightshade-free diets which would exclude the potato filling."
+}

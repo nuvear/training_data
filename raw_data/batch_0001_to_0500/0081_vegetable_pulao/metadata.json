@@ -1,0 +1,160 @@
+{
+  "food_name": "Vegetable Pulao",
+  "local_names": {
+    "malay": "Nasi Pulau Sayur",
+    "chinese_simplified": "印度香米蔬菜饭",
+    "chinese_traditional": "印度香米蔬菜飯",
+    "tamil": "காய்கறி புலாவ்",
+    "romanized_local": "Vegetable Pulao / Veg Pulao / Sabzi Pulao"
+  },
+  "aliases": [
+    "vegetable pulao",
+    "veg pulao",
+    "sabzi pulao",
+    "mixed vegetable rice",
+    "Indian vegetable pilaf"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (North India / Mughal-influenced)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Fragrant basmati rice cooked with mixed vegetables and aromatic spices",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Vegetable Pulao. Nearest parent is a mixed vegetable rice dish. A new concept for Indian pulao preparations is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Mixed vegetable aromatic rice dish (pulao/pilaf) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "sautéed",
+      "absorption-cooked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "basmati rice",
+      "peas (green)",
+      "carrot",
+      "green beans",
+      "potato",
+      "onion",
+      "bay leaf",
+      "cinnamon",
+      "cardamom",
+      "cloves",
+      "ghee or oil",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 300,
+    "natural_language_portion": "A standard serving of vegetable pulao is 1 plate (approximately 300g) — fragrant, fluffy basmati rice interspersed with colourful mixed vegetables, whole aromatic spices, and fried onion."
+  },
+  "nutrient_source": {
+    "title": "Vegetable Pulao — ICMR-NIN Nutritive Value of Indian Foods, derived from basmati rice and mixed vegetable component data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone vegetable pulao entry. Values derived from ICMR-NIN cooked basmati rice data combined with standard mixed vegetable proportions (peas, carrot, beans, potato) and ghee tempering per standard recipe."
+  },
+  "per_100g": {
+    "energy_kcal": 148.0,
+    "protein_g": 3.2,
+    "fat_g": 3.5,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 27.5,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 168.0,
+    "potassium_mg": 142.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 6.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 35.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.9,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.05,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 62.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 8.0,
+    "water_g": 62.0
+  },
+  "glycemic_index": 56,
+  "glycemic_load_per_serving": 46.2,
+  "gi_source": "University of Sydney GI Database — estimated from cooked basmati rice with vegetables; vegetables add fibre which slightly reduces GI vs plain basmati rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 504mg per plate (300g) — moderate. The varied vegetable content provides potassium (426mg per plate) and magnesium that support blood pressure management.",
+      "guidance": "Suitable for hypertensive patients when prepared with reduced salt. Vegetable pulao is naturally lower in sodium than biryani or fried rice."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~56); glycaemic load per plate (300g) is approximately 46 — high due to the large serving size. The vegetables add fibre that moderates the GI of the basmati rice.",
+      "guidance": "Diabetic patients should limit to 200g and pair with a protein-rich raita or dal. The vegetable content improves the glycaemic profile versus plain rice but the total carbohydrate load remains substantial."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "The whole aromatic spices (cardamom, cinnamon, cloves) have documented anti-inflammatory and antioxidant properties; the mixed vegetables provide diverse antioxidants.",
+      "guidance": "Suitable for patients with rheumatoid arthritis. The aromatic whole spices provide anti-inflammatory benefits. The diverse vegetable content provides antioxidants."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Vegetable Pulao is a fragrant, colourful Indian rice dish — basmati rice cooked by the absorption method with mixed vegetables (peas, carrot, beans, potato) and whole aromatic spices (bay leaf, cinnamon, cardamom, cloves) and fried onion until the rice is fluffy and each grain is separate. Less complex than biryani, the rice and vegetables cook together in one pot. The result is a mildly spiced, aromatic, satisfying dish that is lighter than biryani. Served with raita or dal. A popular restaurant and home cooking staple across India and in Indian restaurants in Singapore.",
+    "common_user_queries": [
+      "vegetable pulao calories",
+      "veg pulao vs biryani",
+      "is vegetable pulao healthy",
+      "vegetable pulao for diabetics",
+      "veg pulao protein content"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "lunch",
+      "dinner",
+      "vegetarian main"
+    ],
+    "ingredient_synonyms": {
+      "vegetable pulao": [
+        "veg pulao",
+        "sabzi pulao",
+        "mixed vegetable rice",
+        "Indian vegetable pilaf"
+      ],
+      "basmati rice": [
+        "aromatic long-grain rice",
+        "Indian rice",
+        "pilaf rice"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone vegetable pulao entry in ICMR-NIN or HPB Foodo. Values derived from ICMR-NIN cooked basmati rice and mixed vegetable component data. Estimates are consistent with comparable published recipe analyses.",
+  "notes": "Contains dairy (ghee) — not vegan or dairy-free when made with ghee. Vegan when made with oil. Cholesterol approximately 18mg per plate (300g) when made with ghee. Vitamin B12 is 0.0 as trace B12 from ghee is negligible at this proportion. Vegetable composition varies by season and region — the vitamin A and C content may be higher when using more carrot or peas."
+}

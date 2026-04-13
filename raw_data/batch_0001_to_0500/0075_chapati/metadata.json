@@ -1,0 +1,161 @@
+{
+  "food_name": "Chapati",
+  "local_names": {
+    "malay": "Chapati / Roti Canai Biasa (plain)",
+    "chinese_simplified": "印度全麦薄饼",
+    "chinese_traditional": "印度全麥薄餅",
+    "tamil": "சப்பாத்தி",
+    "romanized_local": "Chapati / Chapatti / Roti"
+  },
+  "aliases": [
+    "chapati",
+    "chapatti",
+    "roti",
+    "phulka",
+    "whole wheat flatbread",
+    "Indian unleavened flatbread",
+    "atta roti"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (North India / Punjab / Pan-Indian)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Unleavened whole wheat flatbread, dry-cooked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03311299",
+    "foodon_label": "Chapati",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A01GP",
+    "foodex2_description": "Unleavened flatbread, whole wheat (chapati/roti)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "kneaded",
+      "rolled",
+      "dry-cooked on griddle",
+      "optional ghee finish"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "whole wheat flour (atta)",
+      "water",
+      "salt",
+      "ghee (optional — brushed after cooking)"
+    ],
+    "allergens": [
+      "gluten (wheat)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 120,
+    "natural_language_portion": "A standard serving of chapati is 2 pieces (approximately 55–60g each, 120g total) — thin, soft round flatbreads with dark spots from the dry-cooked griddle and a slightly chewy, nutty texture from whole wheat flour."
+  },
+  "nutrient_source": {
+    "title": "Chapati — HPB Singapore Foodo Database, Food Code F05030004; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05030004 — Chapati / Roti (plain, whole wheat), standard preparation without added fat."
+  },
+  "per_100g": {
+    "energy_kcal": 238.0,
+    "protein_g": 8.2,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.5,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 48.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 5.5,
+    "sodium_mg": 195.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 2.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.32,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 2.8,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 38.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 52.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 28.0,
+    "water_g": 38.5
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 30.1,
+  "gi_source": "University of Sydney GI Database — whole wheat chapati GI approximately 52; the whole wheat flour and high fibre moderate the GI vs white bread.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 234mg per 2-chapati serving (120g) — low; chapati is one of the lower-sodium breads available. High magnesium and potassium from whole wheat support blood pressure.",
+      "guidance": "Excellent choice for hypertensive patients — low in sodium, high in magnesium and potassium. Chapati is significantly better than white bread or naan for blood pressure management."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~52) due to whole wheat fibre; glycaemic load per 2-chapati serving (120g) is approximately 30. Significantly lower GI than white bread, plain naan, or poori.",
+      "guidance": "Chapati is the preferred bread choice for diabetic patients in Indian cuisine — the whole wheat content gives a lower GI than refined flour breads. Limit to 2 chapatis per meal and pair with high-protein sides."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Whole wheat is an excellent source of selenium (28mcg/100g) and magnesium; B vitamins thiamine and niacin are important for energy metabolism and inflammation control.",
+      "guidance": "Chapati is suitable for patients with rheumatoid arthritis who do not have gluten intolerance. The high selenium and magnesium content of whole wheat are beneficial for immune function and bone health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chapati (also called Roti or Phulka) is the most widely consumed bread in India — a thin, unleavened flatbread made only from whole wheat flour (atta), water, and salt, hand-rolled into thin rounds and dry-cooked on a flat cast-iron griddle (tawa) until brown spots appear, then briefly held over a direct flame to puff up with steam. No fat is added during cooking, making it one of the lowest-fat breads. Often brushed with a small amount of ghee after cooking for flavour. High in fibre, B vitamins, and minerals from whole wheat. The nutritional standard-bearer among Indian breads.",
+    "common_user_queries": [
+      "chapati calories",
+      "is chapati healthy",
+      "chapati vs naan calories",
+      "chapati vs rice which is better",
+      "chapati for diabetics",
+      "chapati fibre content",
+      "chapati gluten free"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "South Indian restaurant",
+      "bread basket",
+      "accompaniment"
+    ],
+    "ingredient_synonyms": {
+      "chapati": [
+        "chapatti",
+        "roti",
+        "phulka",
+        "whole wheat flatbread",
+        "atta roti"
+      ],
+      "whole wheat flour": [
+        "atta",
+        "durum wheat atta",
+        "chakki atta"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05030004 — Chapati (plain, whole wheat), standard preparation.",
+  "notes": "Contains gluten (whole wheat) — not suitable for coeliac or gluten-sensitive patients. Vegan in standard preparation (no fat); vegetarian when brushed with ghee (adds ~15 kcal and trace dairy per chapati). Cholesterol is 0.0 for plain preparation. If ghee is added post-cooking, add approximately 25–35 kcal and 3g fat per chapati."
+}

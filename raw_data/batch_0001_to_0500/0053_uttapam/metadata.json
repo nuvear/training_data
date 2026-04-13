@@ -1,0 +1,159 @@
+{
+  "food_name": "Uttapam",
+  "local_names": {
+    "malay": "Uttapam",
+    "chinese_simplified": "印度厚薄饼",
+    "chinese_traditional": "印度厚薄餅",
+    "tamil": "உத்தாப்பம்",
+    "romanized_local": "Uttapam / Uthappam"
+  },
+  "aliases": [
+    "uttapam",
+    "uthappam",
+    "thick dosa",
+    "South Indian pancake with toppings",
+    "Indian pizza",
+    "oothappam"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Thick fermented rice and lentil pancake with vegetable toppings",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Uttapam. Nearest parent is a fermented grain pancake. A new concept covering thick South Indian fermented pancakes with toppings is warranted.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Fermented grain pancake products (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "griddle-cooked",
+      "pan-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "parboiled rice",
+      "urad dal (split black lentils, dehusked)",
+      "onion",
+      "tomato",
+      "green chilli",
+      "coriander leaves",
+      "oil (for griddle)",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece",
+    "size_g": 180,
+    "natural_language_portion": "A standard serving of uttapam is 1 full piece (approximately 180g) — a thick round pancake about 20cm in diameter, topped with diced onion, tomato, green chilli, and coriander, and cooked on both sides with oil on a flat griddle."
+  },
+  "nutrient_source": {
+    "title": "Uttapam — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000068",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000068 — Uttapam, standard preparation with onion, tomato, and green chilli topping."
+  },
+  "per_100g": {
+    "energy_kcal": 180.0,
+    "protein_g": 5.2,
+    "fat_g": 4.8,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 2.0,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 30.5,
+    "sugar_g": 2.0,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 215.0,
+    "potassium_mg": 118.0,
+    "calcium_mg": 24.0,
+    "iron_mg": 1.1,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 1.0,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 5.5,
+    "water_g": 56.0
+  },
+  "glycemic_index": 68,
+  "glycemic_load_per_serving": 37.3,
+  "gi_source": "University of Sydney GI Database — estimated from fermented rice-lentil batter pancakes; thick batter and toppings moderate the GI slightly vs plain dosa.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 387mg per piece (180g) — moderate; the vegetable toppings add minimal sodium while increasing potassium content.",
+      "guidance": "Suitable for hypertensive patients when consumed with sambar and chutney in moderation; the vegetable toppings enhance nutrient density."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~68) — lower than plain idli due to the thick batter and vegetable topping adding fibre; glycaemic load per full piece is approximately 37.",
+      "guidance": "Patients with diabetes should limit to half a piece (90g) per meal or choose ragi (finger millet) uttapam for a lower-GI alternative. The vegetable toppings improve the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fermented batter supports gut microbiome health; fresh tomato and coriander toppings provide antioxidants and vitamin C.",
+      "guidance": "Uttapam is suitable for patients with rheumatoid arthritis — gluten-free, fermented, and enriched with anti-inflammatory vegetable toppings."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Uttapam is a thick, savoury South Indian pancake made from the same fermented batter of parboiled rice and urad dal used for dosa and idli, but cooked much thicker (0.5–1cm) on a flat griddle with toppings pressed into the surface before cooking. The standard toppings include diced onion, tomato, green chilli, and fresh coriander. It is sometimes called 'Indian pizza' for its thick-base appearance. Compared to plain dosa, uttapam is higher in fat (from griddle oil) but offers more vegetable content and fibre from the toppings. In Singapore, uttapam is a staple at South Indian tiffin counters and banana-leaf restaurants.",
+    "common_user_queries": [
+      "uttapam calories",
+      "is uttapam healthy",
+      "uttapam vs dosa calories",
+      "is uttapam gluten free",
+      "uttapam for weight loss",
+      "how much fat is in uttapam"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "tiffin",
+      "lunch"
+    ],
+    "ingredient_synonyms": {
+      "uttapam": [
+        "uthappam",
+        "oothappam",
+        "thick dosa",
+        "Indian pancake"
+      ],
+      "urad dal": [
+        "ulundu",
+        "black gram (dehusked)",
+        "split black lentil (white)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000068 — Uttapam, standard preparation with vegetable toppings.",
+  "notes": "Vegan and gluten-free. Vitamin C comes from tomato and green chilli toppings. Cholesterol is 0.0. The sambar and chutney accompaniments are not included in per_100g values."
+}

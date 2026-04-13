@@ -1,0 +1,161 @@
+{
+  "food_name": "Coconut Chutney",
+  "local_names": {
+    "malay": "Chutney Kelapa",
+    "chinese_simplified": "印度椰子酱",
+    "chinese_traditional": "印度椰子醬",
+    "tamil": "தேங்காய் சட்னி",
+    "romanized_local": "Thengai Chutney / Coconut Chutney"
+  },
+  "aliases": [
+    "coconut chutney",
+    "thengai chutney",
+    "fresh coconut chutney",
+    "South Indian white chutney",
+    "nariyal chutney"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Kerala / Karnataka)",
+  "food_group": "Condiments and sauces",
+  "food_subgroup": "Fresh coconut-based chutney condiment",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Coconut Chutney. Nearest parent is a coconut-based condiment or relish. A new concept for fresh South Indian coconut chutney is warranted.",
+    "foodex2_code": "A12AC",
+    "foodex2_description": "Condiments and sauces — coconut-based fresh chutney (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "raw",
+      "ground",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "freshly grated coconut",
+      "roasted chana dal (daria / pottu kadalai)",
+      "green chilli",
+      "fresh ginger",
+      "salt",
+      "coconut oil (for tempering)",
+      "mustard seeds",
+      "dried red chilli",
+      "curry leaves"
+    ],
+    "allergens": [
+      "tree nuts (coconut)",
+      "legumes (chana dal)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 tablespoons / 1 small bowl",
+    "size_g": 40,
+    "natural_language_portion": "A standard serving of coconut chutney is 2 tablespoons or a small accompanying bowl (approximately 40g) — a smooth, pale-white fresh condiment with a tadka of mustard seeds, red chilli, and curry leaves on top."
+  },
+  "nutrient_source": {
+    "title": "Coconut Chutney — ICMR-NIN Nutritive Value of Indian Foods, derived from fresh coconut and chana dal composition data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone coconut chutney entry. Values are derived from ICMR-NIN fresh coconut and roasted chana dal data, blended per standard recipe proportions (grated coconut ~55%, chana dal ~10%, water ~25%, green chilli/ginger/salt/oil ~10%)."
+  },
+  "per_100g": {
+    "energy_kcal": 212.0,
+    "protein_g": 3.2,
+    "fat_g": 18.5,
+    "saturated_fat_g": 15.5,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 11.5,
+    "sugar_g": 3.8,
+    "dietary_fibre_g": 5.2,
+    "sodium_mg": 280.0,
+    "potassium_mg": 220.0,
+    "calcium_mg": 15.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 3.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.5,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 62.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 3.0,
+    "water_g": 60.5
+  },
+  "glycemic_index": 18,
+  "glycemic_load_per_serving": 0.8,
+  "gi_source": "University of Sydney GI Database — estimated from fresh coconut flesh GI; the high fat and fibre content of fresh coconut gives a very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 112mg per standard serving (40g) — low; the chutney provides 220mg potassium per 100g which helps offset sodium intake.",
+      "guidance": "Suitable for hypertensive patients at standard serving sizes. Salt can be reduced in home preparation. Fresh coconut provides potassium which is beneficial for blood pressure management."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~18); glycaemic load per 40g serving is less than 1 — negligible. High fat and fibre content of coconut slows gastric emptying.",
+      "guidance": "Coconut chutney is an excellent accompaniment for diabetic patients — it adds virtually no glycaemic load to a meal and the coconut fat slows absorption of the accompanying starch."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fresh coconut contains medium-chain triglycerides (MCTs) with lauric acid which has anti-inflammatory and antimicrobial properties; green chilli and ginger are anti-inflammatory.",
+      "guidance": "Suitable for patients with rheumatoid arthritis. Fresh coconut chutney provides a beneficial lauric acid content and anti-inflammatory spice compounds. Standard serving size is small (40g) so total fat intake is modest."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Coconut Chutney is the indispensable fresh condiment of South Indian cuisine — a smooth, creamy white-beige paste made by grinding freshly grated coconut with roasted chana dal, green chilli, ginger, and salt, then finished with a fragrant tadka (tempering) of coconut oil, mustard seeds, dried red chilli, and curry leaves. Served in a small bowl alongside idli, dosa, vada, and uttapam. It is the cooling, rich, slightly nutty counterpart to the tangy-spicy sambar. Very fresh and perishable — typically consumed on the day of preparation. In Singapore, coconut chutney is available at all South Indian restaurants.",
+    "common_user_queries": [
+      "coconut chutney calories",
+      "is coconut chutney healthy",
+      "coconut chutney fat content",
+      "coconut chutney for diabetics",
+      "coconut chutney serving size"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "condiment",
+      "accompaniment"
+    ],
+    "ingredient_synonyms": {
+      "coconut chutney": [
+        "thengai chutney",
+        "nariyal chutney",
+        "white chutney",
+        "fresh coconut dip"
+      ],
+      "chana dal": [
+        "roasted chana dal",
+        "daria",
+        "pottu kadalai",
+        "bhuna chana dal"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone coconut chutney entry in ICMR-NIN or HPB Foodo. Values estimated from fresh coconut and chana dal component data per standard recipe proportions. The high fat content from fresh coconut is well-established.",
+  "notes": "Vegan and gluten-free. Contains tree nut allergen (coconut). Cholesterol is 0.0 as this is a plant-based preparation. The very high saturated fat per 100g (~15.5g) is entirely from fresh coconut — medium-chain triglycerides (MCTs), primarily lauric acid. At the standard 40g serving size, total fat is approximately 7.4g. Fresh chutney is highly perishable — must be consumed within 1 day."
+}

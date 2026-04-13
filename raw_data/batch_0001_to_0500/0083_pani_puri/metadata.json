@@ -1,0 +1,161 @@
+{
+  "food_name": "Pani Puri",
+  "local_names": {
+    "malay": "Pani Puri",
+    "chinese_simplified": "印度空心脆球（填馅）",
+    "chinese_traditional": "印度空心脆球（填餡）",
+    "tamil": "பானிபூரி",
+    "romanized_local": "Pani Puri / Gol Gappa / Puchka"
+  },
+  "aliases": [
+    "pani puri",
+    "gol gappa",
+    "puchka",
+    "hollow crispy puffs",
+    "water puri",
+    "Indian street food puri"
+  ],
+  "cuisine": "Indian street food",
+  "region_of_origin": "India (North and West India — Uttar Pradesh / Maharashtra)",
+  "food_group": "Snacks and street food",
+  "food_subgroup": "Deep-fried semolina puffs with spiced tamarind water filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Pani Puri. Nearest parent is a deep-fried grain snack with filling. A new concept for Indian hollow puffed street food preparations is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Deep-fried grain puff snack with filling, Indian street food (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "deep-fried",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "semolina (rava/sooji) or wheat flour",
+      "water",
+      "boiled potato",
+      "boiled chickpeas or moong sprouts",
+      "tamarind water (pani)",
+      "mint-coriander chutney",
+      "black salt (kala namak)",
+      "cumin",
+      "chilli powder"
+    ],
+    "allergens": [
+      "gluten (wheat/semolina)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "6 pieces",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of pani puri is 6 pieces (approximately 100g total including filling and pani) — each crispy hollow sphere is cracked open, filled with potato-chickpea mixture, and immediately filled with spiced green tamarind water and eaten in one mouthful."
+  },
+  "nutrient_source": {
+    "title": "Pani Puri — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000051",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000051 — Pani Puri, standard street food preparation including filling and pani water."
+  },
+  "per_100g": {
+    "energy_kcal": 188.0,
+    "protein_g": 3.8,
+    "fat_g": 6.5,
+    "saturated_fat_g": 0.8,
+    "monounsaturated_fat_g": 2.5,
+    "polyunsaturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 31.2,
+    "sugar_g": 4.5,
+    "dietary_fibre_g": 2.5,
+    "sodium_mg": 485.0,
+    "potassium_mg": 192.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 1.0,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 68.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 8.0,
+    "water_g": 54.5
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 19.3,
+  "gi_source": "University of Sydney GI Database — estimated from deep-fried semolina and potato filling with tamarind water; the filling and water add fibre and reduce GI vs plain fried semolina.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 485mg per 100g (standard 6-puri serving) — elevated; the black salt (kala namak) and spiced tamarind water are particularly high in sodium.",
+      "guidance": "Patients with hypertension should limit pani puri consumption and be cautious of the spiced tamarind water (pani) which is the primary sodium source. Street vendor preparations are typically very high in sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~62); glycaemic load per 100g serving is approximately 19. The potato filling and semolina puri both contribute carbohydrates.",
+      "guidance": "Diabetic patients should limit to 3–4 pieces and minimise the tamarind-sugar water. The chickpea filling provides protein and fibre that moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Tamarind has anti-inflammatory properties; mint and coriander in the pani contain antioxidants; black salt provides sulfur compounds.",
+      "guidance": "Acceptable occasionally for patients with rheumatoid arthritis. The spice blend in pani puri provides various anti-inflammatory herbs. Black salt (kala namak) is lower in sodium than regular salt."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Pani Puri (Gol Gappa) is the most exuberant Indian street food experience — small, round, hollow crispy spheres made from semolina or wheat flour, deep-fried until they puff up like tiny balloons. Each puri is cracked open with a thumb, stuffed with a spiced filling of mashed boiled potato and chickpeas (or sprouted moong), then dramatically flooded with spiced cold green tamarind water (pani) made from mint, coriander, ginger, cumin, and tangy black salt. The entire puri is popped into the mouth in one go — an explosion of crispy, tangy, spicy, sour, and savoury. A beloved street food sensation in Singapore's Indian community.",
+    "common_user_queries": [
+      "pani puri calories",
+      "pani puri vs bhel puri nutrition",
+      "is pani puri healthy",
+      "pani puri for diabetics",
+      "gol gappa calories",
+      "pani puri sodium content"
+    ],
+    "meal_context": [
+      "Indian street food",
+      "Indian restaurant",
+      "chaat counter",
+      "snack"
+    ],
+    "ingredient_synonyms": {
+      "pani puri": [
+        "gol gappa",
+        "puchka",
+        "gup chup",
+        "pani puri",
+        "water puri"
+      ],
+      "pani": [
+        "spiced tamarind water",
+        "khatti meethi pani",
+        "imli pani"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000051 — Pani Puri, standard street food preparation.",
+  "notes": "Contains wheat/semolina gluten. Vegan in standard preparation. Cholesterol is 0.0. Hygiene is a significant concern for street food pani puri — the water (pani) must be made with clean water. Black salt (kala namak) is used in authentic preparations and contributes distinctive sulphurous flavour; it has a different mineral profile than regular table salt."
+}

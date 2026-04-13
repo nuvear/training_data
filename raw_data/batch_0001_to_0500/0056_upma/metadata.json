@@ -1,0 +1,165 @@
+{
+  "food_name": "Upma",
+  "local_names": {
+    "malay": "Upma",
+    "chinese_simplified": "粗麦粉咸粥",
+    "chinese_traditional": "粗麥粉鹹粥",
+    "tamil": "உப்புமா",
+    "romanized_local": "Upma / Uppumavu / Rava Upma"
+  },
+  "aliases": [
+    "upma",
+    "uppumavu",
+    "rava upma",
+    "sooji upma",
+    "semolina savoury porridge",
+    "semolina savoury pudding"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka / Andhra Pradesh)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Semolina-based savoury porridge",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Upma. Nearest parent is a semolina-based cooked porridge. A new concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Semolina-based cooked porridge, savoury (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "roasted",
+      "boiled",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "semolina (rava / sooji / suji)",
+      "mustard seeds",
+      "urad dal",
+      "chana dal",
+      "onion",
+      "green chilli",
+      "fresh ginger",
+      "curry leaves",
+      "oil or ghee",
+      "water",
+      "salt"
+    ],
+    "allergens": [
+      "gluten (wheat semolina)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of upma is 1 bowl (approximately 250g) — a smooth, thick semolina porridge cooked with tempered oil, onion, green chilli, and curry leaves, with a slightly grainy texture from the rava."
+  },
+  "nutrient_source": {
+    "title": "Upma — ICMR-NIN Nutritive Value of Indian Foods, adapted from rava upma preparation data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone upma entry. Values are derived from ICMR-NIN semolina (rava) composition data combined with standard upma recipe proportions (rava ~40%, water ~50%, oil ~5%, onion/spices ~5%). Cross-referenced with available recipe-level data from NCC Food and Nutrient Database."
+  },
+  "per_100g": {
+    "energy_kcal": 145.0,
+    "protein_g": 3.5,
+    "fat_g": 4.5,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 23.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 200.0,
+    "potassium_mg": 80.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 2.0,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.9,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 65.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 8.0,
+    "water_g": 65.0
+  },
+  "glycemic_index": 66,
+  "glycemic_load_per_serving": 38.6,
+  "gi_source": "University of Sydney GI Database — estimated from semolina (rava) cooked; rava has a moderate GI and the tempering adds fat which slightly lowers GI vs plain boiled semolina.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 500mg per bowl (250g) — moderate; most sodium is from added salt during cooking which can be reduced.",
+      "guidance": "Suitable for hypertensive patients when prepared with reduced salt. Upma is a naturally low-saturated-fat, low-cholesterol dish."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~66); glycaemic load per full bowl is approximately 39. Semolina has a higher GI than oats but lower than refined white rice.",
+      "guidance": "Diabetic patients should limit to 150g and prefer rava upma made with durum wheat semolina over maida-based variants. Adding vegetables (peas, carrot) increases fibre and lowers glycaemic load."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Contains mustard seeds and ginger which have anti-inflammatory properties; semolina provides B vitamins including selenium.",
+      "guidance": "Suitable for patients with rheumatoid arthritis. Not suitable for patients with gluten intolerance (contains wheat semolina). Ghee-based upma provides butyrate benefits."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Upma is a popular South Indian breakfast porridge made by dry-roasting semolina (rava/sooji) until fragrant, then adding it to a tempered base of oil, mustard seeds, urad dal, onion, green chilli, ginger, and curry leaves, and cooking with water to a smooth, thick consistency. The texture is fluffy and slightly grainy, with bursts of flavour from the tempering. Common add-ins include peas, cashews, and grated coconut. It is quick to prepare and widely available at South Indian tiffin counters across Singapore. Note: upma contains gluten as it is made from wheat semolina.",
+    "common_user_queries": [
+      "upma calories",
+      "is upma healthy",
+      "upma for weight loss",
+      "upma vs idli which is better",
+      "is upma good for diabetes",
+      "does upma contain gluten",
+      "upma protein content"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "tiffin"
+    ],
+    "ingredient_synonyms": {
+      "upma": [
+        "uppumavu",
+        "rava upma",
+        "sooji upma",
+        "semolina porridge"
+      ],
+      "semolina": [
+        "rava",
+        "sooji",
+        "suji",
+        "cream of wheat"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone upma entry in ICMR-NIN or HPB Foodo. Values derived from ICMR-NIN rava composition data and standard recipe proportions. Nutrient estimates are consistent with comparable published sources.",
+  "notes": "Contains wheat gluten (semolina) — not suitable for coeliac or gluten-sensitive patients. Vegan when made with oil; vegetarian when made with ghee (ghee version adds cholesterol ~8mg/100g and dairy allergen). Cholesterol value of 0.0 assumes oil-based preparation."
+}

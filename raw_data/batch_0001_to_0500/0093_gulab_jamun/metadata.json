@@ -1,0 +1,164 @@
+{
+  "food_name": "Gulab Jamun",
+  "local_names": {
+    "malay": "Gulab Jamun",
+    "chinese_simplified": "印度玫瑰糖浆炸奶球",
+    "chinese_traditional": "印度玫瑰糖漿炸奶球",
+    "tamil": "குலாப் ஜாமுன்",
+    "romanized_local": "Gulab Jamun"
+  },
+  "aliases": [
+    "gulab jamun",
+    "gulab jaman",
+    "deep-fried milk solids in syrup",
+    "Indian syrup-soaked dumplings",
+    "khoya balls in rose syrup"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian / Persian-Mughal origin)",
+  "food_group": "Sweets and desserts",
+  "food_subgroup": "Deep-fried milk solids soaked in rose sugar syrup",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Gulab Jamun. Nearest parent is a fried dairy confectionery in syrup. A new concept for Indian milk-based syrup desserts is recommended.",
+    "foodex2_code": "A14AS",
+    "foodex2_description": "Deep-fried milk solid confection in sugar syrup, Indian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "deep-fried",
+      "syrup-soaked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "khoya (evaporated milk solids / mawa)",
+      "all-purpose flour (maida) or milk powder",
+      "baking powder",
+      "ghee or oil (for frying)",
+      "sugar syrup",
+      "rosewater",
+      "cardamom",
+      "saffron (optional)"
+    ],
+    "allergens": [
+      "milk (khoya)",
+      "gluten (maida)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of gulab jamun is 2 pieces (approximately 45–50g each, 100g total) — two dark-brown, soft, spongy syrup-soaked balls with a glistening surface and a distinctly sweet, fragrant, rose-cardamom flavour."
+  },
+  "nutrient_source": {
+    "title": "Gulab Jamun — HPB Singapore Foodo Database, Food Code F11100008; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F11100008 — Gulab Jamun, standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 342.0,
+    "protein_g": 5.5,
+    "fat_g": 12.5,
+    "saturated_fat_g": 6.8,
+    "monounsaturated_fat_g": 3.8,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 55.5,
+    "sugar_g": 48.5,
+    "dietary_fibre_g": 0.2,
+    "sodium_mg": 88.0,
+    "potassium_mg": 142.0,
+    "calcium_mg": 125.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 28.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 55.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 5.0,
+    "water_g": 24.5
+  },
+  "glycemic_index": 76,
+  "glycemic_load_per_serving": 42.2,
+  "gi_source": "University of Sydney GI Database — estimated from dairy-based fried confection soaked in sugar syrup; high sugar content from syrup gives a very high GI and glycaemic load.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 88mg per 100g serving — low; gulab jamun is naturally low in sodium. The sugar and fat content are the primary health concerns, not sodium.",
+      "guidance": "From a sodium standpoint, gulab jamun is suitable for hypertensive patients. The concern is the very high sugar and calorie content from the sugar syrup."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Very high GI (~76) and very high sugar content (48.5g/100g — primarily from sugar syrup); glycaemic load per 2-piece serving (100g) is approximately 42.",
+      "guidance": "Gulab jamun must be avoided by diabetic patients — it is one of the highest GI and highest glycaemic load desserts available. Even a single piece (50g) provides ~24g of rapidly absorbed sugar."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "high",
+      "key_factor": "Very high sugar content (48.5g/100g) promotes inflammatory cytokine production; deep-frying adds pro-inflammatory fats; minimal anti-inflammatory nutrients.",
+      "guidance": "Gulab jamun should be consumed very sparingly by patients with rheumatoid arthritis — the high sugar content and deep-frying combination are strongly pro-inflammatory. Limit to 1 piece on rare festive occasions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Gulab Jamun is one of India's most iconic and beloved desserts — small, round balls made from khoya (reduced evaporated milk solids) mixed with a little flour and leavening, deep-fried until uniformly dark golden-brown, then soaked in warm sugar syrup flavoured with rosewater and cardamom until they absorb the syrup and become plump, soft, and glistening. The texture is uniquely spongy and the flavour intensely sweet and milky with a floral rose note. Rich in calcium from the khoya but very high in sugar. Served at celebrations, festivals, and as a dessert at Indian restaurants in Singapore.",
+    "common_user_queries": [
+      "gulab jamun calories",
+      "gulab jamun sugar content",
+      "is gulab jamun healthy",
+      "gulab jamun for diabetics",
+      "how much sugar in gulab jamun",
+      "gulab jamun calcium content"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "Indian sweet shop",
+      "dessert",
+      "Diwali sweet",
+      "festive",
+      "wedding"
+    ],
+    "ingredient_synonyms": {
+      "gulab jamun": [
+        "gulab jaman",
+        "khoya balls",
+        "milk fudge in syrup"
+      ],
+      "khoya": [
+        "mawa",
+        "khoa",
+        "evaporated milk solids"
+      ],
+      "rosewater": [
+        "gulab jal",
+        "rose essence"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F11100008 — Gulab Jamun, standard preparation.",
+  "notes": "Contains dairy (khoya/milk) and gluten (maida). Not vegan or dairy-free. Cholesterol approximately 28mg per 100g serving. The sugar syrup accounts for the majority (48.5g/100g) of the carbohydrate content. High caloric density (342 kcal per 100g) is driven by sugar syrup absorption and fat from frying."
+}

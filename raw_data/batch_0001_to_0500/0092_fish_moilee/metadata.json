@@ -1,0 +1,166 @@
+{
+  "food_name": "Fish Moilee",
+  "local_names": {
+    "malay": "Fish Moilee",
+    "chinese_simplified": "喀拉拉淡味椰奶鱼咖喱",
+    "chinese_traditional": "喀拉拉淡味椰奶魚咖喱",
+    "tamil": "மீன் மொயிலி",
+    "romanized_local": "Fish Moilee / Meen Molee / Moilee"
+  },
+  "aliases": [
+    "fish moilee",
+    "meen molee",
+    "meen moily",
+    "Kerala coconut fish curry",
+    "white fish curry Kerala",
+    "mild coconut fish curry"
+  ],
+  "cuisine": "Kerala / South Indian",
+  "region_of_origin": "India (Kerala)",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Mild Kerala coconut milk fish curry (white/yellow, no red chilli)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Fish Moilee. Nearest parent is a mild fish in coconut milk sauce. A new concept for Kerala mild coconut fish curry preparations is recommended.",
+    "foodex2_code": "A04FM",
+    "foodex2_description": "Fish in mild coconut milk sauce, Kerala style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered in coconut milk"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "firm white fish (pomfret / kingfish)",
+      "thick coconut milk",
+      "thin coconut milk",
+      "green chilli",
+      "ginger",
+      "onion",
+      "garlic",
+      "turmeric",
+      "curry leaves",
+      "coconut oil"
+    ],
+    "allergens": [
+      "fish",
+      "tree nuts (coconut)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (2 pieces of fish + coconut gravy)",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of fish moilee is 1 bowl (approximately 250g) — 2 pieces of firm white fish in a thin, pale-yellow to white, mildly spiced coconut milk gravy with a clean, delicate flavour."
+  },
+  "nutrient_source": {
+    "title": "Fish Moilee — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000025",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000025 — Fish Moilee, Kerala-style mild coconut milk fish curry."
+  },
+  "per_100g": {
+    "energy_kcal": 108.0,
+    "protein_g": 10.8,
+    "fat_g": 6.5,
+    "saturated_fat_g": 4.8,
+    "monounsaturated_fat_g": 0.8,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.2,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 285.0,
+    "potassium_mg": 302.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 32.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 4.0,
+    "vitamin_b6_mg": 0.25,
+    "vitamin_b12_mcg": 1.8,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 3.5,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 155.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 22.0,
+    "water_g": 77.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — Fish Moilee contains negligible carbohydrates (3.2g/100g from onion and coconut milk). It does not meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 713mg per bowl (250g) — moderate to elevated; the coconut milk is naturally low in sodium but added salt in cooking is the primary sodium source.",
+      "guidance": "Fish moilee is a better choice than red fish curries for hypertensive patients — the mild, low-red-chilli preparation tends to use less salt. Reduce added salt during cooking."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Negligible carbohydrate content; GI not applicable. High protein and MCT fats from coconut milk support satiety and blood glucose stability.",
+      "guidance": "Excellent choice for diabetic patients — virtually no carbohydrates and high protein. The coconut milk MCTs do not raise blood glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fish provides omega-3 fatty acids; turmeric provides curcumin; coconut milk provides lauric acid with anti-inflammatory properties; vitamin D (3.5mcg/100g) supports immune function.",
+      "guidance": "Highly recommended for patients with rheumatoid arthritis — the mildness of Fish Moilee (no red chilli, gentle cooking) preserves the maximum anti-inflammatory omega-3 content of the fish. Turmeric and coconut oil provide additional anti-inflammatory benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Fish Moilee is the most delicate of Kerala fish curries — firm white fish pieces (pomfret, kingfish, or seer fish) gently poached in a thin, pale-yellow to white coconut milk gravy spiced only with turmeric, green chilli (no red chilli powder at all), ginger, and onion, finished with coconut oil and fresh curry leaves. The deliberately mild, subtle flavour showcases the natural sweetness of the fish and the clean creaminess of coconut milk. It is one of the mildest curries in Indian cuisine — the colour is white or pale yellow rather than the orange-red of most fish curries. Available at Kerala restaurants in Singapore.",
+    "common_user_queries": [
+      "fish moilee calories",
+      "is fish moilee healthy",
+      "fish moilee vs fish curry",
+      "fish moilee spice level",
+      "meen molee nutrition",
+      "Kerala mild fish curry calories"
+    ],
+    "meal_context": [
+      "Kerala restaurant",
+      "South Indian restaurant",
+      "main course",
+      "mild curry option"
+    ],
+    "ingredient_synonyms": {
+      "fish moilee": [
+        "meen molee",
+        "meen moily",
+        "Kerala white fish curry",
+        "mild fish curry Kerala"
+      ],
+      "pomfret": [
+        "bawal",
+        "butterfish",
+        "Singapore pomfret"
+      ],
+      "kingfish": [
+        "seer fish",
+        "wahoo",
+        "tenggiri"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000025 — Fish Moilee, Kerala coconut milk fish curry.",
+  "notes": "Contains fish and coconut (tree nut) allergens. Dairy-free. Cholesterol approximately 80mg per bowl (250g). GI and GL are null — negligible carbohydrate content. High saturated fat (4.8g/100g) is entirely from coconut milk MCTs. Vitamin D is particularly high from the white fish used — pomfret is an excellent vitamin D source."
+}

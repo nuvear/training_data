@@ -1,0 +1,158 @@
+{
+  "food_name": "Aloo Gobi",
+  "local_names": {
+    "malay": "Kari Kentang dan Kobis Bunga",
+    "chinese_simplified": "土豆花椰菜干咖喱",
+    "chinese_traditional": "土豆花椰菜乾咖喱",
+    "tamil": "உருளைக்கிழங்கு கோவி கறி",
+    "romanized_local": "Aloo Gobi / Alu Gobi"
+  },
+  "aliases": [
+    "aloo gobi",
+    "alu gobi",
+    "potato cauliflower curry",
+    "aloo gobhi",
+    "dry potato cauliflower curry"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab / North India)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Dry spiced potato and cauliflower curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Aloo Gobi. Nearest parent is a mixed vegetable curry with root vegetables. A new concept for North Indian dry vegetable curries is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Dry spiced potato and cauliflower vegetable dish, North Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "sautéed",
+      "dry-cooked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "potato (aloo)",
+      "cauliflower florets (gobi)",
+      "cumin seeds",
+      "turmeric",
+      "coriander powder",
+      "garam masala",
+      "ginger",
+      "green chilli",
+      "oil",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (side dish)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of aloo gobi is 1 bowl (approximately 200g) — a semi-dry curry of diced potato and cauliflower florets spiced with turmeric, cumin, and garam masala, served as a side with roti or rice."
+  },
+  "nutrient_source": {
+    "title": "Aloo Gobi — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000002",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000002 — Aloo Gobi, standard North Indian dry preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 98.0,
+    "protein_g": 2.2,
+    "fat_g": 4.2,
+    "saturated_fat_g": 0.5,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 14.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 2.8,
+    "sodium_mg": 198.0,
+    "potassium_mg": 398.0,
+    "calcium_mg": 25.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 32.0,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 48.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 72.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 2.5,
+    "water_g": 76.5
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 16.0,
+  "gi_source": "University of Sydney GI Database — estimated from cooked potato and cauliflower mixture; the dry-cooked cauliflower significantly moderates the GI compared to boiled potato alone.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 396mg per bowl (200g) — moderate; the very high potassium (796mg per bowl) from potatoes and cauliflower is outstanding for blood pressure management.",
+      "guidance": "Excellent choice for hypertensive patients — potatoes and cauliflower together provide exceptional potassium content. The dish is naturally low in sodium in home cooking; restaurant versions may have more added salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~55) for the combination; glycaemic load per bowl is approximately 16. The cauliflower significantly moderates the GI of the potato.",
+      "guidance": "Aloo gobi is acceptable for diabetic patients in moderate portions — the cauliflower provides fibre and vitamin C that moderate the potato's glycaemic impact. Limit to 150g portions."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Cauliflower is one of the richest vegetable sources of vitamin C (32mg/100g) and contains anti-inflammatory sulforaphane precursors; turmeric provides curcumin; potatoes provide potassium and vitamin B6.",
+      "guidance": "Suitable for patients with rheumatoid arthritis. Cauliflower's vitamin C and sulforaphane compound have documented anti-inflammatory effects. Potatoes are sometimes avoided in Nightshade-free diets, which some RA patients follow — individualize accordingly."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Aloo Gobi is a simple yet iconic North Indian dry vegetable curry — diced potatoes and cauliflower florets cooked together in a wok or kadai with cumin seeds, turmeric, coriander, garam masala, ginger, and green chilli until tender and lightly golden. Unlike most Indian curries, aloo gobi is semi-dry — the vegetables are coated in spices rather than swimming in gravy. It is vegan, gluten-free, and exceptionally rich in vitamin C, potassium, and vitamin B6. A staple in North Indian restaurants and a popular accompaniment to chapati.",
+    "common_user_queries": [
+      "aloo gobi calories",
+      "is aloo gobi healthy",
+      "aloo gobi vitamin C content",
+      "aloo gobi for diabetics",
+      "aloo gobi potassium content",
+      "is aloo gobi vegan"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "side dish",
+      "vegetarian",
+      "lunch"
+    ],
+    "ingredient_synonyms": {
+      "aloo gobi": [
+        "alu gobi",
+        "potato cauliflower curry",
+        "aloo gobhi"
+      ],
+      "cauliflower": [
+        "gobi",
+        "gobhi",
+        "phool gobi"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000002 — Aloo Gobi, standard North Indian preparation.",
+  "notes": "Vegan and gluten-free. Cholesterol is 0.0. Exceptionally high vitamin C (32mg/100g) from cauliflower and potatoes — 64mg per bowl (200g) covers 71% of the daily recommended intake. Potassium is very high from potatoes (approximately 796mg per bowl). Some rheumatoid arthritis patients avoid nightshade vegetables (potatoes) — individualize advice."
+}

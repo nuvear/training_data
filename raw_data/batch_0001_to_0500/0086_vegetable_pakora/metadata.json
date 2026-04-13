@@ -1,0 +1,170 @@
+{
+  "food_name": "Vegetable Pakora",
+  "local_names": {
+    "malay": "Pakora Sayur",
+    "chinese_simplified": "印度蔬菜脆炸饼",
+    "chinese_traditional": "印度蔬菜脆炸餅",
+    "tamil": "காய்கறி பகோரா",
+    "romanized_local": "Vegetable Pakora / Veg Pakoda / Bhajia"
+  },
+  "aliases": [
+    "vegetable pakora",
+    "veg pakoda",
+    "bhajia",
+    "onion pakora",
+    "mixed vegetable fritters",
+    "Indian vegetable fritters in chickpea batter"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Snacks and street food",
+  "food_subgroup": "Deep-fried spiced vegetable fritters in chickpea flour batter",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Vegetable Pakora. Nearest parent is a deep-fried vegetable snack. A new concept for Indian pakora-style fritters is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Deep-fried mixed vegetable fritters in legume batter (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "battered",
+      "deep-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chickpea flour (besan)",
+      "onion",
+      "potato",
+      "spinach",
+      "cauliflower",
+      "green chilli",
+      "ajwain (carom seeds)",
+      "red chilli powder",
+      "coriander powder",
+      "turmeric",
+      "oil (for deep frying)",
+      "salt"
+    ],
+    "allergens": [
+      "legumes (chickpea/besan)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "6 pieces",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of vegetable pakora is 6 pieces (approximately 150g total) — crispy, golden-brown irregular fritters of mixed vegetables coated in a spiced chickpea flour batter, served with mint chutney."
+  },
+  "nutrient_source": {
+    "title": "Vegetable Pakora — ICMR-NIN Nutritive Value of Indian Foods, derived from besan-battered deep-fried vegetable data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone vegetable pakora entry. Values estimated from ICMR-NIN chickpea flour (besan) composition data and standard deep-frying oil absorption (approximately 18–20g oil per 100g cooked pakora) with mixed vegetable proportion (~40% of batter weight)."
+  },
+  "per_100g": {
+    "energy_kcal": 295.0,
+    "protein_g": 6.2,
+    "fat_g": 17.5,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 7.0,
+    "polyunsaturated_fat_g": 7.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 31.5,
+    "sugar_g": 3.5,
+    "dietary_fibre_g": 4.2,
+    "sodium_mg": 285.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 2.0,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 12.0,
+    "vitamin_a_mcg_rae": 45.0,
+    "vitamin_b1_thiamine_mg": 0.15,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 58.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.5,
+    "phosphorus_mg": 128.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 1.0,
+    "selenium_mcg": 5.5,
+    "water_g": 40.5
+  },
+  "glycemic_index": 38,
+  "glycemic_load_per_serving": 17.8,
+  "gi_source": "University of Sydney GI Database — estimated from chickpea-battered deep-fried vegetable; chickpea flour has a low GI (~28) which significantly moderates the overall GI despite deep-frying.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 428mg per 6-piece serving (150g) — moderate; salt in batter and mint chutney dipping sauce contribute to sodium.",
+      "guidance": "Suitable in moderation for hypertensive patients. The high potassium from vegetables and chickpea flour (428mg per serving) is beneficial. Limit the mint chutney which may be high in salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low GI (~38) due to chickpea flour base; glycaemic load per 6-piece serving is approximately 18 — moderate. The chickpea flour provides excellent glycaemic control despite deep-frying.",
+      "guidance": "Vegetable pakora is an acceptable occasional snack for diabetic patients — the low-GI chickpea flour batter is beneficial. Limit to 3–4 pieces. Avoid eating with high-sugar chutneys."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Deep-frying adds omega-6 polyunsaturated fats which in excess can promote inflammation; however, ajwain (carom seeds) and turmeric in the batter are anti-inflammatory.",
+      "guidance": "Consume occasionally. The chickpea flour provides excellent folate and protein, and the spices provide anti-inflammatory benefits, but the deep-frying method means regular consumption is not recommended for patients with active arthritis."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Vegetable Pakora is a classic Indian snack — sliced or diced mixed vegetables (onion, potato, spinach, green chilli, cauliflower) coated in a thick, spiced chickpea flour (besan) batter seasoned with ajwain (carom seeds), red chilli, and coriander, then deep-fried until golden and crispy. The chickpea flour batter creates a distinctive, slightly nutty and crispy coating. Pakoras are universally available at Indian restaurants in Singapore as a starter or snack. Despite the deep-frying, the chickpea flour base gives pakoras a surprisingly low glycaemic index.",
+    "common_user_queries": [
+      "vegetable pakora calories",
+      "is pakora healthy",
+      "pakora vs samosa calories",
+      "pakora for diabetics",
+      "pakora gluten free",
+      "onion pakora nutrition"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "starter",
+      "snack",
+      "street food",
+      "monsoon snack"
+    ],
+    "ingredient_synonyms": {
+      "vegetable pakora": [
+        "veg pakoda",
+        "bhajia",
+        "bhaji",
+        "vegetable fritters",
+        "Indian fritters"
+      ],
+      "besan": [
+        "chickpea flour",
+        "gram flour",
+        "Bengal gram flour"
+      ],
+      "ajwain": [
+        "carom seeds",
+        "bishop's weed",
+        "oomam"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone vegetable pakora entry in ICMR-NIN or HPB Foodo. Values estimated from ICMR-NIN chickpea flour (besan) and mixed vegetable data with standard deep-frying oil absorption. Chickpea flour composition is well-established.",
+  "notes": "Contains legume allergen (chickpea flour). Vegan and gluten-free in standard preparation. Cholesterol is 0.0. The oil quality used for frying significantly affects the health profile — fresh oil vs reused oil changes the trans fat and polar compound content. High caloric density from oil absorption (~17.5g fat/100g)."
+}

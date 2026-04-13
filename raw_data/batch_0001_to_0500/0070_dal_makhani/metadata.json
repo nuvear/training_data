@@ -1,0 +1,172 @@
+{
+  "food_name": "Dal Makhani",
+  "local_names": {
+    "malay": "Dal Makhani",
+    "chinese_simplified": "奶油黑扁豆咖喱",
+    "chinese_traditional": "奶油黑扁豆咖喱",
+    "tamil": "டால் மக்கனி",
+    "romanized_local": "Dal Makhani / Dal Makhni"
+  },
+  "aliases": [
+    "dal makhani",
+    "dal makhni",
+    "creamy black lentil curry",
+    "maa ki dal",
+    "whole urad dal with rajma",
+    "butter dal"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Slow-cooked whole black lentil and kidney bean curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Dal Makhani. Nearest parent is a cooked whole legume curry with dairy. A new concept covering Indian makhani-style legume preparations is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Slow-cooked whole lentil and kidney bean curry with butter and cream (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "soaked",
+      "slow-cooked",
+      "tempered",
+      "simmered with dairy"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "whole black urad dal (ma ki dal / whole black lentils)",
+      "red kidney beans (rajma)",
+      "tomato",
+      "garlic",
+      "ginger",
+      "butter",
+      "fresh cream",
+      "garam masala",
+      "Kashmiri red chilli powder",
+      "kasuri methi (dried fenugreek leaves)",
+      "oil",
+      "salt"
+    ],
+    "allergens": [
+      "milk (butter, cream)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of dal makhani is 1 bowl (approximately 200g) — a thick, velvety, dark-coloured slow-cooked curry of whole black lentils and kidney beans with a buttery, smoky, deeply rich flavour."
+  },
+  "nutrient_source": {
+    "title": "Dal Makhani — ICMR-NIN Nutritive Value of Indian Foods, Entry F09010011",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry F09010011 — Dal Makhani, standard Punjabi-style slow-cooked preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 162.0,
+    "protein_g": 7.5,
+    "fat_g": 8.8,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 17.5,
+    "sugar_g": 2.0,
+    "dietary_fibre_g": 5.5,
+    "sodium_mg": 325.0,
+    "potassium_mg": 275.0,
+    "calcium_mg": 52.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 18.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 55.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 1.0,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.08,
+    "folate_mcg_dfe": 58.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 52.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 6.0,
+    "water_g": 62.5
+  },
+  "glycemic_index": 30,
+  "glycemic_load_per_serving": 10.5,
+  "gi_source": "University of Sydney GI Database — estimated from whole black urad dal and kidney beans; whole legumes with butter and cream give a very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 650mg per bowl (200g) — elevated for restaurant preparation; butter and cream add to the cardiovascular burden.",
+      "guidance": "Patients with hypertension should choose home-cooked versions with reduced butter and salt. The high potassium (550mg per bowl) and magnesium from lentils partially offset the sodium impact."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~30); glycaemic load per bowl is approximately 10.5. The whole legume structure and high fibre (5.5g/100g) give excellent glycaemic control.",
+      "guidance": "Dal makhani is an excellent choice for diabetic patients in moderate portions — the whole lentils and beans provide sustained energy. The butter and cream content does not raise blood glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "High saturated fat from butter and cream (4.5g/100g) may be pro-inflammatory in excess; whole urad dal and kidney beans are excellent sources of folate, magnesium, and plant protein.",
+      "guidance": "Consume in moderation — the legume base is highly beneficial but the high saturated fat from butter and cream warrants caution for patients with active rheumatoid arthritis. Reduced-fat preparations are preferred."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dal Makhani is one of North India's most iconic slow-cooked dishes — whole black urad dal and red kidney beans (rajma) that have been soaked overnight and then simmered for 8–12 hours with tomato, garlic, ginger, and aromatic spices, then finished with butter and cream. The extended cooking develops an extraordinarily thick, velvety, dark-coloured curry with a rich, smoky, deeply earthy flavour. Kasuri methi (dried fenugreek leaves) add a characteristic bittersweet finish. Dal makhani is available at virtually every North Indian restaurant in Singapore and is a vegetarian classic with impressive nutritional credentials (high fibre, high protein, very low GI) despite its indulgent dairy additions.",
+    "common_user_queries": [
+      "dal makhani calories",
+      "is dal makhani healthy",
+      "dal makhani protein content",
+      "dal makhani vs chana masala",
+      "dal makhani for diabetics",
+      "dal makhani fibre content"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "main course",
+      "vegetarian",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "dal makhani": [
+        "dal makhni",
+        "maa ki dal",
+        "butter dal",
+        "whole urad curry"
+      ],
+      "whole black urad dal": [
+        "whole black lentils",
+        "ma ki dal",
+        "sabut urad",
+        "black gram (whole)"
+      ],
+      "kasuri methi": [
+        "dried fenugreek leaves",
+        "kasoori methi",
+        "methi flakes"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry F09010011 — Dal Makhani, standard Punjabi-style preparation.",
+  "notes": "Contains dairy (butter, cream) — not vegan or dairy-free. Cholesterol approximately 36mg per bowl (200g) from butter and cream. Vitamin B12 present at trace levels from dairy. The long slow-cooking of whole legumes breaks down antinutrients (phytates, tannins) and significantly improves zinc and iron bioavailability."
+}

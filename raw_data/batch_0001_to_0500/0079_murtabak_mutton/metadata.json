@@ -1,0 +1,161 @@
+{
+  "food_name": "Murtabak (Mutton)",
+  "local_names": {
+    "malay": "Murtabak Kambing",
+    "chinese_simplified": "羊肉夹心煎饼",
+    "chinese_traditional": "羊肉夾心煎餅",
+    "tamil": "முர்தாபாக் (ஆட்டிறைச்சி)",
+    "romanized_local": "Murtabak Kambing / Mutton Murtabak"
+  },
+  "aliases": [
+    "murtabak",
+    "martabak",
+    "mutton murtabak",
+    "Indian Muslim pancake",
+    "stuffed pan-fried pancake",
+    "murtabak kambing"
+  ],
+  "cuisine": "Singapore Indian / Muslim",
+  "region_of_origin": "Singapore / Malaysia (Indian Muslim tradition)",
+  "food_group": "Mixed",
+  "food_subgroup": "Stuffed pan-fried white flour pancake with minced mutton and egg",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Murtabak. Nearest parent is a stuffed fried pancake. A new concept covering Singapore/Malaysia Indian Muslim murtabak preparations is recommended.",
+    "foodex2_code": "A05DM",
+    "foodex2_description": "Stuffed pan-fried flatbread with meat, South/Southeast Asian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pan-fried in oil"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "white flour dough (plain wheat flour)",
+      "minced mutton",
+      "egg",
+      "onion",
+      "garlic",
+      "ginger",
+      "green chilli",
+      "spices (cumin, garam masala, curry powder)",
+      "oil (for frying)"
+    ],
+    "allergens": [
+      "gluten (wheat)",
+      "eggs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece (full parcel, medium)",
+    "size_g": 300,
+    "natural_language_portion": "A standard serving of murtabak is 1 full piece (approximately 300g) — a large, flat, golden-brown square pancake parcel filled with minced mutton, egg, and onion, served with a curry dipping sauce and pickled onion."
+  },
+  "nutrient_source": {
+    "title": "Murtabak (Mutton) — HPB Singapore Foodo Database, Food Code F05020066",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05020066 — Murtabak (Mutton), Singapore Muslim-style preparation, including the dipping curry sauce."
+  },
+  "per_100g": {
+    "energy_kcal": 258.0,
+    "protein_g": 11.5,
+    "fat_g": 14.5,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 5.8,
+    "polyunsaturated_fat_g": 3.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 22.5,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 568.0,
+    "potassium_mg": 185.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 2.2,
+    "cholesterol_mg": 88.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 28.0,
+    "vitamin_b1_thiamine_mg": 0.15,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.25,
+    "vitamin_b12_mcg": 1.2,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 1.8,
+    "phosphorus_mg": 158.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 3.5,
+    "selenium_mcg": 18.0,
+    "water_g": 47.5
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 35.1,
+  "gi_source": "University of Sydney GI Database — estimated from white flour pancake with meat and egg filling; the high protein and fat content moderates the GI of the white flour dough.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1704mg per full piece (300g) — very high; the dipping curry sauce, seasoned filling, and frying oil all contribute significantly to sodium.",
+      "guidance": "Patients with hypertension should limit to a half piece (150g) and avoid the dipping curry sauce or ask for a reduced-salt version. Murtabak is one of the highest-sodium single-serve Indian dishes."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~52) due to the protein and fat in the filling; glycaemic load per full piece (300g) is approximately 35. The high total calories (774 kcal per piece) warrant overall portion control.",
+      "guidance": "Diabetic patients should limit to a half piece. The egg and mutton filling provide protein which moderates the glycaemic response. Avoid the sweetened dipping sauce variant."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Mutton is a red meat high in arachidonic acid which can promote inflammation; however it provides excellent zinc (3.5mg/100g) and vitamin B12 which support immune function.",
+      "guidance": "Consume in moderation — limit to monthly. The zinc and B12 content is beneficial for immune function but the red meat (mutton) and frying method may exacerbate inflammation with regular consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Murtabak (Mutton) is one of Singapore's most iconic Indian Muslim street foods — a large, thin white flour pancake that is folded around a spiced mixture of minced mutton, beaten egg, and diced onion, then pressed flat and pan-fried in oil on a large flat griddle until golden and crispy on both sides. Cut into squares and served with a curry dipping sauce and a small bowl of sliced onion pickled in vinegar. Available at dedicated murtabak stalls in Arab Street / Kampong Glam and at Indian Muslim restaurants across Singapore. A flavourful, filling, high-calorie dish.",
+    "common_user_queries": [
+      "murtabak calories",
+      "is murtabak healthy",
+      "murtabak sodium content",
+      "murtabak vs roti prata",
+      "mutton murtabak nutrition",
+      "murtabak for diabetics"
+    ],
+    "meal_context": [
+      "Indian Muslim stall",
+      "Kampong Glam",
+      "Arab Street",
+      "hawker centre",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "murtabak": [
+        "martabak",
+        "mutton murtabak",
+        "murtabak kambing",
+        "Indian Muslim pancake"
+      ],
+      "mutton": [
+        "goat meat",
+        "lamb (where substituted)",
+        "kambing"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05020066 — Murtabak (Mutton), Singapore Muslim-style preparation.",
+  "notes": "Contains gluten (wheat flour) and eggs. Halal-certified preparation uses mutton (goat). Cholesterol approximately 264mg per full piece (300g) from eggs and mutton. Vitamin B12 is notably high from mutton content. The dipping curry sauce sodium is included in HPB data. Chicken murtabak (a common variant) has lower zinc and B12 but lower saturated fat."
+}

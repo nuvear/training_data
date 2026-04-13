@@ -1,0 +1,165 @@
+{
+  "food_name": "Rasam",
+  "local_names": {
+    "malay": "Rasam",
+    "chinese_simplified": "南印度酸辣汤",
+    "chinese_traditional": "南印度酸辣湯",
+    "tamil": "ரசம்",
+    "romanized_local": "Rasam / Saaru / Charu"
+  },
+  "aliases": [
+    "rasam",
+    "saaru",
+    "charu",
+    "pepper water",
+    "South Indian tomato soup",
+    "tamarind pepper broth",
+    "mulligatawny base"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu)",
+  "food_group": "Soups and broths",
+  "food_subgroup": "Thin South Indian tamarind-tomato-pepper soup",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Rasam. Nearest parent is a thin spiced broth or soup. A new concept covering South Indian rasam is recommended.",
+    "foodex2_code": "A03SN",
+    "foodex2_description": "Spiced thin broth, South Indian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tempered",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "tamarind extract",
+      "tomato",
+      "toor dal water (thin strained water from cooked toor dal)",
+      "rasam powder (coriander, cumin, black pepper, red chilli)",
+      "mustard seeds",
+      "cumin seeds",
+      "curry leaves",
+      "dried red chilli",
+      "garlic",
+      "ghee or oil",
+      "asafoetida (hing)",
+      "turmeric",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of rasam is 1 bowl (approximately 200g) — a thin, watery, intensely sour and peppery broth served alongside idli, dosa, or poured over rice."
+  },
+  "nutrient_source": {
+    "title": "Rasam — ICMR-NIN Nutritive Value of Indian Foods, derived from component ingredients",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone rasam entry. Values are derived from ICMR-NIN data for tamarind, tomato, toor dal (thin water), and standard rasam spice blend. Rasam is primarily water (~90%) with minimal calorie density."
+  },
+  "per_100g": {
+    "energy_kcal": 28.0,
+    "protein_g": 0.8,
+    "fat_g": 0.8,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 285.0,
+    "potassium_mg": 115.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 1.5,
+    "vitamin_c_mg": 5.0,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 22.0,
+    "magnesium_mg": 10.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 1.0,
+    "water_g": 90.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — rasam is a very low-carbohydrate broth (approximately 9g carbohydrate per 200g serving) and does not raise blood glucose meaningfully.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 570mg per bowl (200g) — elevated; rasam is traditionally quite salty and sour. Home preparation allows sodium reduction.",
+      "guidance": "Hypertensive patients should request reduced-salt rasam or limit to 100ml. The high potassium from tamarind and tomato provides some offsetting benefit."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Extremely low calorie and carbohydrate content — approximately 56 kcal and 9g carbohydrate per full bowl; GI testing not applicable.",
+      "guidance": "Rasam is ideal for diabetic patients — very low in calories and carbohydrates. Black pepper in rasam may improve insulin sensitivity. Patients can consume freely."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Black pepper (piperine), turmeric, and tamarind have potent anti-inflammatory properties; rasam is one of the most medicinal foods in South Indian cuisine.",
+      "guidance": "Highly recommended for patients with rheumatoid arthritis. Traditionally consumed for joint pain and respiratory conditions. Black pepper enhances turmeric bioavailability. Contains ghee which provides fat-soluble vitamin benefits."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rasam is a thin, intensely sour and peppery South Indian broth — often described as South India's answer to soup — made from tamarind extract, tomato, thin toor dal water, and a rasam masala powder heavy in black pepper, coriander, and cumin. A ghee tadka of mustard seeds, cumin, curry leaves, and garlic is added at the end. Rasam is much thinner and more acidic than sambar. It is consumed as a soup, poured over rice as part of a South Indian meal, or drunk as a digestive remedy for cold and congestion. Extremely low in calories, it is one of the most beneficial drinks in traditional South Indian food culture.",
+    "common_user_queries": [
+      "rasam calories",
+      "is rasam good for cold",
+      "rasam for diabetes",
+      "rasam vs sambar difference",
+      "rasam health benefits",
+      "rasam sodium content"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "banana-leaf meal",
+      "home cooking",
+      "medicinal/therapeutic",
+      "soup course"
+    ],
+    "ingredient_synonyms": {
+      "rasam": [
+        "saaru",
+        "charu",
+        "pepper water",
+        "South Indian pepper soup"
+      ],
+      "tamarind": [
+        "asam jawa",
+        "imli",
+        "puli"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone rasam entry in ICMR-NIN or HPB. Values estimated from standard rasam recipe ingredient proportions using ICMR-NIN component data. High water content (~90%) makes rasam caloric estimates relatively straightforward.",
+  "notes": "Contains ghee (small amount) — not vegan; dairy allergen present at trace levels. Cholesterol approximately 3mg per 200g bowl from ghee. GI and GL are listed as null as rasam is a non-meaningful GI test subject — too low in carbohydrates. Sodium values may vary significantly between restaurants and home cooking (250–500mg per 100ml is typical restaurant range)."
+}

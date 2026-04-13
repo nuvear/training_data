@@ -1,0 +1,160 @@
+{
+  "food_name": "Khichdi",
+  "local_names": {
+    "malay": "Khichdi",
+    "chinese_simplified": "印度大米绿豆粥",
+    "chinese_traditional": "印度大米綠豆粥",
+    "tamil": "கிச்சடி",
+    "romanized_local": "Khichdi / Khichri / Khichadi"
+  },
+  "aliases": [
+    "khichdi",
+    "khichri",
+    "khichadi",
+    "kichadi",
+    "rice and moong dal porridge",
+    "Indian comfort porridge",
+    "khichuri"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "One-pot soft rice and moong dal porridge",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Khichdi. Nearest parent is a cooked rice-lentil porridge. A new concept for Indian one-pot rice-legume porridges is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Soft cooked rice and moong dal porridge, Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "pressure-cooked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "white rice",
+      "split yellow moong dal",
+      "ghee or oil",
+      "cumin seeds",
+      "turmeric",
+      "water",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 300,
+    "natural_language_portion": "A standard serving of khichdi is 1 bowl (approximately 300g) — a smooth, slightly thick, pourable porridge of completely soft white rice and moong dal, delicately flavoured with turmeric and cumin ghee tempering."
+  },
+  "nutrient_source": {
+    "title": "Khichdi — ICMR-NIN Nutritive Value of Indian Foods, derived from white rice and moong dal composition data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone plain khichdi entry. Values derived from ICMR-NIN cooked white rice and split moong dal data per standard khichdi recipe proportions (rice 40%, moong dal 20%, water ~38%, ghee/turmeric ~2%). Cross-referenced with pongal data as a comparable preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 92.0,
+    "protein_g": 3.2,
+    "fat_g": 1.8,
+    "saturated_fat_g": 0.9,
+    "monounsaturated_fat_g": 0.5,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 17.5,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 142.0,
+    "potassium_mg": 78.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 4.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.03,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.05,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 4.5,
+    "water_g": 74.5
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 34.2,
+  "gi_source": "University of Sydney GI Database — estimated from soft-cooked rice and moong dal mixture; the moong dal lowers GI vs plain cooked rice; the very soft porridge consistency raises GI slightly vs firm-cooked rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 426mg per bowl (300g) — moderate; khichdi is naturally low in sodium and can be prepared with minimal salt.",
+      "guidance": "Excellent choice for hypertensive patients — one of the lowest-sodium complete meals in Indian cuisine. The high water content and mild preparation make it ideal for patients requiring bland, easy-to-digest food."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~65); glycaemic load per bowl (300g) is approximately 34. The moong dal provides protein and fibre that meaningfully lowers the GI compared to plain rice porridge.",
+      "guidance": "Khichdi is suitable for diabetic patients as a comfort/convalescent meal — limit to 200g portions. The moong dal content provides protein and fibre that moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Moong dal is the easiest legume to digest and has very low purine content; turmeric provides curcumin; ghee provides butyrate. Traditionally considered the most anti-inflammatory and gut-healing Indian food.",
+      "guidance": "Khichdi is excellent for patients with rheumatoid arthritis, particularly during flares — it is extremely easy to digest, anti-inflammatory (turmeric, ghee), and nutritionally complete as a light meal."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Khichdi is India's original comfort food — a simple, soothing one-pot porridge of white rice and split yellow moong dal cooked together with water, turmeric, cumin seeds, and a small amount of ghee until the rice and dal lose their individual structure and merge into a smooth, slightly pourable, pale-yellow porridge. It is the most widely prescribed therapeutic food in Indian dietary practice — recommended for convalescence, upset stomachs, fevers, and recovery. Nutritionally, it provides a complete amino acid profile from the rice-dal combination, with very low sodium and easy digestibility. Plain khichdi is deeply humble in flavour and deeply healing in effect.",
+    "common_user_queries": [
+      "khichdi calories",
+      "is khichdi healthy",
+      "khichdi for diabetes",
+      "khichdi for sick people",
+      "khichdi protein content",
+      "khichdi for weight loss",
+      "khichdi vs pongal difference"
+    ],
+    "meal_context": [
+      "Indian home cooking",
+      "convalescent food",
+      "comfort food",
+      "light meal",
+      "baby food"
+    ],
+    "ingredient_synonyms": {
+      "khichdi": [
+        "khichri",
+        "khichadi",
+        "kichadi",
+        "rice dal porridge",
+        "Indian congee"
+      ],
+      "moong dal": [
+        "split yellow moong",
+        "mung dal",
+        "green gram (split, dehusked)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone plain khichdi entry in ICMR-NIN or HPB Foodo. Values derived from ICMR-NIN white rice and moong dal component data per standard recipe proportions. The high water content (~75%) makes caloric estimates reliable.",
+  "notes": "Contains dairy (ghee) — not vegan or dairy-free when made with ghee. Vegan when made with oil. Cholesterol approximately 12mg per bowl (300g) when made with ghee. Khichdi prepared with more dal has a lower GI and higher protein content. Vegetable additions (spinach, peas, ginger) significantly improve the micronutrient profile."
+}

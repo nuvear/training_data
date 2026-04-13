@@ -1,0 +1,151 @@
+{
+  "food_name": "Poori",
+  "local_names": {
+    "malay": "Puri",
+    "chinese_simplified": "印度炸膨饼",
+    "chinese_traditional": "印度炸膨餅",
+    "tamil": "பூரி",
+    "romanized_local": "Poori / Puri"
+  },
+  "aliases": [
+    "poori",
+    "puri",
+    "deep-fried puffed bread",
+    "deep-fried whole wheat bread",
+    "Indian puffed bread"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Deep-fried puffed whole wheat bread",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Poori. Nearest parent is a fried bread product. A new concept for Indian deep-fried flatbreads is recommended.",
+    "foodex2_code": "A01GP",
+    "foodex2_description": "Deep-fried whole wheat flatbread (poori/puri) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "kneaded",
+      "rolled",
+      "deep-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "whole wheat flour (atta)",
+      "water",
+      "salt",
+      "oil (for deep frying)"
+    ],
+    "allergens": [
+      "gluten (wheat)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "3 pieces",
+    "size_g": 120,
+    "natural_language_portion": "A standard serving of poori is 3 pieces (approximately 35–40g each, 120g total) — small, round, golden-brown puffed bread immediately consumed while still inflated with steam, paired with aloo bhaji or chana masala."
+  },
+  "nutrient_source": {
+    "title": "Poori — ICMR-NIN Nutritive Value of Indian Foods, derived from whole wheat flour and deep-frying data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone poori entry. Values derived from ICMR-NIN whole wheat flour composition data with standard poori deep-frying oil absorption (~15–18g oil per 100g cooked poori based on gravimetric studies of fried wheat products)."
+  },
+  "per_100g": {
+    "energy_kcal": 328.0,
+    "protein_g": 7.5,
+    "fat_g": 16.5,
+    "saturated_fat_g": 2.0,
+    "monounsaturated_fat_g": 6.5,
+    "polyunsaturated_fat_g": 6.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 42.0,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 4.2,
+    "sodium_mg": 185.0,
+    "potassium_mg": 188.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.28,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 2.5,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 32.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.2,
+    "phosphorus_mg": 168.0,
+    "magnesium_mg": 45.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 22.0,
+    "water_g": 28.5
+  },
+  "glycemic_index": 66,
+  "glycemic_load_per_serving": 33.1,
+  "gi_source": "University of Sydney GI Database — estimated from whole wheat fried bread; oil absorption slightly lowers GI vs boiled wheat products but the high carbohydrate density creates a significant glycaemic load.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 222mg per 3-poori serving (120g) — low; poori is naturally low in sodium as no salt is typically added beyond a minimal amount.",
+      "guidance": "Poori is low in sodium and suitable for hypertensive patients from a sodium standpoint. The main concern is the high fat content from deep frying rather than sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~66) but very high caloric density from deep frying; glycaemic load per 3-poori serving (120g) is approximately 33.",
+      "guidance": "Diabetic patients should limit poori to 1–2 pieces on special occasions. The deep-frying dramatically increases calorie density vs chapati. Choose chapati or roti as the daily bread option."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Deep-frying in vegetable oil introduces high levels of polyunsaturated omega-6 fatty acids which, in excess, may promote inflammation; the oil quality used for frying is critical.",
+      "guidance": "Patients with rheumatoid arthritis should limit poori consumption. The deep-frying method introduces pro-inflammatory omega-6 fats. Occasional consumption is acceptable but not recommended as a regular choice."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Poori (or Puri) is a small, round, deep-fried flatbread made from whole wheat dough — when it hits the hot oil, it puffs dramatically into a hollow golden sphere due to steam trapped inside. Eaten immediately while still puffed, the exterior is crispy and the interior soft. Classically served with aloo bhaji (spiced potato), chana masala, or halwa for breakfast, or with chicken/mutton curry as a main meal. Despite being made from whole wheat, the deep-frying significantly increases calorie content. Vegan in standard preparation.",
+    "common_user_queries": [
+      "poori calories",
+      "is poori healthy",
+      "poori vs chapati calories",
+      "poori for diabetics",
+      "puri calories",
+      "deep fried bread India calories"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "breakfast",
+      "festival food",
+      "puja/religious meal"
+    ],
+    "ingredient_synonyms": {
+      "poori": [
+        "puri",
+        "phuri",
+        "deep-fried Indian bread",
+        "puffed bread India"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone poori entry in ICMR-NIN or HPB Foodo. Values estimated from ICMR-NIN whole wheat flour data and standard deep-frying oil absorption studies. Fat content from frying is well-supported by gravimetric studies of fried wheat products.",
+  "notes": "Contains gluten (wheat). Vegan in standard preparation (water and salt only). Cholesterol is 0.0. The trans fat content depends on the type of oil used for frying — repeatedly reused oil may contain trans fats; fresh vegetable oil does not. High caloric density (328 kcal/100g) is driven by the absorbed frying oil (~16.5g fat/100g)."
+}

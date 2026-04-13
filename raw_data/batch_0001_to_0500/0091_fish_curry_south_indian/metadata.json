@@ -1,0 +1,173 @@
+{
+  "food_name": "Fish Curry (South Indian)",
+  "local_names": {
+    "malay": "Kari Ikan India Selatan",
+    "chinese_simplified": "南印度椰奶罗望子鱼咖喱",
+    "chinese_traditional": "南印度椰奶羅望子魚咖喱",
+    "tamil": "மீன் கறி",
+    "romanized_local": "Meen Kari / South Indian Fish Curry"
+  },
+  "aliases": [
+    "fish curry South Indian",
+    "meen kari",
+    "coconut fish curry",
+    "tamarind fish curry",
+    "Kerala fish curry",
+    "Tamil fish curry"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Kerala)",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Fish pieces in South Indian coconut-tamarind curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for South Indian Fish Curry. Nearest parent is a fish in spiced sauce. A new concept covering South Indian coconut-tamarind fish curry preparations is recommended.",
+    "foodex2_code": "A04FM",
+    "foodex2_description": "Fish in coconut-tamarind curry sauce, South Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "fish (mackerel / pomfret / red snapper)",
+      "coconut milk",
+      "tamarind extract",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "red chilli powder",
+      "coriander powder",
+      "fenugreek seeds",
+      "turmeric",
+      "mustard seeds",
+      "curry leaves",
+      "coconut oil"
+    ],
+    "allergens": [
+      "fish",
+      "tree nuts (coconut)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (2 pieces of fish + gravy)",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of fish curry is 1 bowl (approximately 250g) — 2 pieces of fish in a moderately thin, sour-spicy, golden-orange coconut milk and tamarind gravy."
+  },
+  "nutrient_source": {
+    "title": "Fish Curry (South Indian) — HPB Singapore Foodo Database, Food Code F03020005; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F03020005 — Fish Curry (South Indian, with coconut milk and tamarind), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 112.0,
+    "protein_g": 11.5,
+    "fat_g": 6.2,
+    "saturated_fat_g": 3.8,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.5,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 325.0,
+    "potassium_mg": 318.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 38.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 4.5,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 2.5,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 5.2,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 168.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 28.0,
+    "water_g": 74.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — South Indian Fish Curry contains very low carbohydrates (4.5g/100g from tamarind and vegetables). It does not meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 813mg per bowl (250g) — elevated; the tamarind, salt, and coconut milk all contribute.",
+      "guidance": "Patients with hypertension should limit to a smaller portion (150g) and reduce added salt. The high omega-3 content from oily fish varieties (mackerel) is beneficial for cardiovascular health."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Virtually no carbohydrates; GI testing not applicable. High protein and omega-3 fatty acids support insulin sensitivity.",
+      "guidance": "South Indian fish curry is an excellent choice for diabetic patients — high protein, virtually no carbohydrates, and the omega-3 fatty acids from fish support insulin sensitivity. Pair with basmati rice or chapati for a complete meal."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fish provides anti-inflammatory omega-3 fatty acids (EPA/DHA); turmeric, fenugreek, and tamarind all have anti-inflammatory properties; vitamin D (5.2mcg/100g) supports bone and immune health.",
+      "guidance": "Highly recommended for patients with rheumatoid arthritis — the combination of fish omega-3s, turmeric, and vitamin D makes this one of the most anti-inflammatory dishes in Indian cuisine."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "South Indian Fish Curry is a cornerstone of coastal Tamil Nadu and Kerala cuisine — fish pieces (typically mackerel, pomfret, or red snapper) cooked in a thin, tangy, sour-spicy gravy made from coconut milk and tamarind extract, spiced with red chilli, coriander, fenugreek, and turmeric, and tempered with mustard seeds, curry leaves, and garlic in coconut oil. The gravy is beautifully golden-orange, with a balance of heat, sourness, and coconut creaminess. Exceptionally nutritious — rich in omega-3 fatty acids, vitamin D, vitamin B12, selenium, and anti-inflammatory spice compounds.",
+    "common_user_queries": [
+      "fish curry South Indian calories",
+      "is fish curry healthy",
+      "fish curry omega 3 content",
+      "fish curry for diabetes",
+      "fish curry vitamin D content",
+      "South Indian fish curry nutrition"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "Kerala restaurant",
+      "main course",
+      "lunch",
+      "Indian restaurant"
+    ],
+    "ingredient_synonyms": {
+      "fish curry": [
+        "meen kari",
+        "meen kulambu",
+        "tamarind fish curry",
+        "coconut fish curry"
+      ],
+      "mackerel": [
+        "seer fish",
+        "Spanish mackerel",
+        "tenggiri",
+        "bangda"
+      ],
+      "pomfret": [
+        "butterfish",
+        "bawal",
+        "pampano"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F03020005 — Fish Curry (South Indian, coconut milk and tamarind), standard preparation.",
+  "notes": "Contains fish and coconut (tree nut) allergens. Dairy-free. Cholesterol approximately 95mg per bowl (250g). GI and GL are null — negligible carbohydrates. Vitamin D (5.2mcg/100g) is notably high — oily fish varieties (mackerel, sardine) provide significantly more vitamin D than white fish. Per_100g values include both fish and gravy."
+}

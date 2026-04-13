@@ -1,0 +1,167 @@
+{
+  "food_name": "Bhel Puri",
+  "local_names": {
+    "malay": "Bhel Puri",
+    "chinese_simplified": "印度膨化米沙拉",
+    "chinese_traditional": "印度膨化米沙拉",
+    "tamil": "பேல் பூரி",
+    "romanized_local": "Bhel Puri"
+  },
+  "aliases": [
+    "bhel puri",
+    "bhelpuri",
+    "puffed rice chaat",
+    "Mumbai bhel",
+    "murmura chaat"
+  ],
+  "cuisine": "Indian street food",
+  "region_of_origin": "India (Mumbai / Maharashtra)",
+  "food_group": "Snacks and street food",
+  "food_subgroup": "Cold puffed rice and vegetable chaat",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Bhel Puri. Nearest parent is a puffed grain snack with condiments. A new concept for Indian chaat preparations is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Puffed grain snack with vegetables and chutneys, Indian street food (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "assembled",
+      "no cooking required"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "puffed rice (murmura/mamra)",
+      "sev (fine crispy fried chickpea noodles)",
+      "diced raw onion",
+      "diced tomato",
+      "boiled potato",
+      "green chutney (mint-coriander)",
+      "tamarind chutney (sweet and sour)",
+      "lemon juice",
+      "chaat masala",
+      "salt"
+    ],
+    "allergens": [
+      "gluten (sev is made from chickpea flour but may contain wheat)",
+      "legumes (chickpea flour in sev)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of bhel puri is 1 plate (approximately 150g) — a crunchy, colourful mixture of puffed rice, sev, diced vegetables, boiled potato, and chutneys, tossed together immediately before serving."
+  },
+  "nutrient_source": {
+    "title": "Bhel Puri — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000009",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000009 — Bhel Puri, standard Mumbai-style chaat preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 162.0,
+    "protein_g": 3.5,
+    "fat_g": 4.8,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.5,
+    "sugar_g": 5.2,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 395.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.0,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 15.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 62.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 4.0,
+    "water_g": 58.5
+  },
+  "glycemic_index": 68,
+  "glycemic_load_per_serving": 29.2,
+  "gi_source": "University of Sydney GI Database — estimated from puffed rice; puffed rice has a high GI but the potato, sev, and chutney mixture moderates the overall GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 593mg per plate (150g) — elevated; chaat masala, tamarind chutney, and sev all contribute to high sodium content.",
+      "guidance": "Patients with hypertension should limit bhel puri to half a plate and request reduced chutney and chaat masala. The raw vegetables provide potassium but the sodium burden from toppings is significant."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate-high GI (~68) from puffed rice; glycaemic load per plate is approximately 29. The raw onion, tomato, and potato provide some glycaemic moderation.",
+      "guidance": "Diabetic patients should limit to a small serving (75–100g) and minimise the sweet tamarind chutney which adds sugar. The raw vegetable content is beneficial."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fresh raw vegetables (onion, tomato, coriander) and tamarind provide antioxidants and anti-inflammatory compounds; lemon juice provides vitamin C.",
+      "guidance": "Suitable occasionally for patients with rheumatoid arthritis. The fresh vegetables and herbs provide antioxidants. Limit the sweet tamarind chutney for patients monitoring sugar intake."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bhel Puri is a quintessential Mumbai street food — a cold, crunchy, sweet-sour-spicy chaat made from puffed rice (murmura), crispy fine noodles of fried chickpea flour (sev), diced raw onion, tomato, boiled potato, and two chutneys: a vibrant green mint-coriander chutney and a dark, sweet-sour tamarind chutney. Everything is tossed together fresh at the moment of serving to maintain crunchiness. Bhel puri requires no cooking — it is purely an assembly of ingredients. Light, fresh, and flavourful with contrasting textures. Vegan and relatively low in fat for a street food snack.",
+    "common_user_queries": [
+      "bhel puri calories",
+      "is bhel puri healthy",
+      "bhel puri vs pani puri",
+      "bhel puri for weight loss",
+      "bhel puri vegan",
+      "bhel puri sugar content"
+    ],
+    "meal_context": [
+      "Indian street food",
+      "chaat counter",
+      "snack",
+      "Indian restaurant"
+    ],
+    "ingredient_synonyms": {
+      "bhel puri": [
+        "bhelpuri",
+        "Mumbai bhel",
+        "puffed rice chaat",
+        "murmura chaat"
+      ],
+      "puffed rice": [
+        "murmura",
+        "mamra",
+        "pori",
+        "rice puffs"
+      ],
+      "sev": [
+        "fine fried chickpea noodles",
+        "nylon sev",
+        "besan sev"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000009 — Bhel Puri, standard preparation.",
+  "notes": "Contains wheat gluten (sev is typically made from chickpea flour but most commercial sev contains wheat starch). Vegan in standard preparation. Cholesterol is 0.0. The glycaemic response depends heavily on the ratio of sweet tamarind chutney (high sugar) to green chutney (low sugar) used."
+}

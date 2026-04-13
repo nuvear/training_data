@@ -1,0 +1,166 @@
+{
+  "food_name": "Dhokla",
+  "local_names": {
+    "malay": "Dhokla",
+    "chinese_simplified": "印度古吉拉特蒸鸡豆糕",
+    "chinese_traditional": "印度古吉拉特蒸雞豆糕",
+    "tamil": "தோக்லா",
+    "romanized_local": "Dhokla / Khaman Dhokla"
+  },
+  "aliases": [
+    "dhokla",
+    "khaman dhokla",
+    "Gujarati steamed snack",
+    "fermented chickpea cake",
+    "steamed besan cake"
+  ],
+  "cuisine": "Gujarati / West Indian",
+  "region_of_origin": "India (Gujarat)",
+  "food_group": "Snacks and street food",
+  "food_subgroup": "Steamed fermented chickpea flour cake",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Dhokla. Nearest parent is a steamed legume-based cake. A new concept for Gujarati steamed fermented snacks is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Steamed fermented chickpea flour cake, Gujarati (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "steamed",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chickpea flour (besan)",
+      "yogurt",
+      "water",
+      "baking soda or Eno (fruit salt)",
+      "lemon juice",
+      "turmeric",
+      "sugar",
+      "salt",
+      "oil (for tempering)",
+      "mustard seeds",
+      "curry leaves",
+      "green chilli",
+      "grated coconut (garnish)"
+    ],
+    "allergens": [
+      "milk (yogurt)",
+      "legumes (chickpea)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "4 pieces",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of dhokla is 4 pieces (approximately 150g total) — soft, spongy, pale-yellow squares of steamed chickpea cake with a drizzle of mustard-curry leaf tempering and a garnish of grated coconut and coriander."
+  },
+  "nutrient_source": {
+    "title": "Dhokla — ICMR-NIN Nutritive Value of Indian Foods, derived from chickpea flour and steamed fermented preparation data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone dhokla entry. Values estimated from ICMR-NIN chickpea flour (besan) and yogurt composition data with standard steamed dhokla recipe proportions. The steaming method means virtually no oil is absorbed in cooking (tempering oil is minimal — approximately 3g per 100g cooked)."
+  },
+  "per_100g": {
+    "energy_kcal": 155.0,
+    "protein_g": 6.5,
+    "fat_g": 3.2,
+    "saturated_fat_g": 0.5,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 26.5,
+    "sugar_g": 5.5,
+    "dietary_fibre_g": 3.2,
+    "sodium_mg": 310.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 2.5,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.18,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.05,
+    "folate_mcg_dfe": 52.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 125.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 1.0,
+    "selenium_mcg": 5.0,
+    "water_g": 61.0
+  },
+  "glycemic_index": 35,
+  "glycemic_load_per_serving": 13.9,
+  "gi_source": "University of Sydney GI Database — estimated from steamed chickpea flour preparation; chickpea flour base and fermentation give a low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 465mg per 4-piece serving (150g) — moderate to elevated; baking soda (sodium bicarbonate) contributes significantly to sodium content.",
+      "guidance": "Patients with hypertension should limit to 2–3 pieces. The baking soda used for leavening is a significant sodium source. Home preparation allows reduction of leavening agent sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low GI (~35) from chickpea flour; glycaemic load per 4-piece serving is approximately 14 — low. The fermentation and chickpea base give excellent glycaemic control.",
+      "guidance": "Excellent snack for diabetic patients — low GI and moderate glycaemic load. Chickpea flour is one of the best flours for blood glucose management. The added sugar (for tempering/sweetening) is small."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Steaming (not frying) preserves the anti-inflammatory properties; chickpea flour provides folate; turmeric provides curcumin; fermentation supports gut microbiome.",
+      "guidance": "Excellent snack for patients with rheumatoid arthritis — steamed preparation, chickpea-based, fermented, and flavoured with anti-inflammatory turmeric. Low in saturated fat and inflammatory fats."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dhokla is a beloved Gujarati snack — a spongy, light, soft steamed cake made from a fermented batter of chickpea flour (besan) and yogurt, leavened with baking soda or Eno. After steaming in a shallow tray, it is cut into diamond or square shapes and finished with a hot oil tempering (tadka) of mustard seeds, curry leaves, and green chilli, and garnished with grated coconut and coriander. The flavour is pleasantly tangy from the yogurt and lemon, mildly sweet from the batter, and fragrant from the tempering. Dhokla is gluten-free, low in fat (steamed, not fried), and has a low GI. Available at Indian sweet shops and restaurants across Singapore.",
+    "common_user_queries": [
+      "dhokla calories",
+      "is dhokla healthy",
+      "dhokla for diabetics",
+      "dhokla gluten free",
+      "dhokla protein content",
+      "dhokla vs idli which is healthier"
+    ],
+    "meal_context": [
+      "Indian sweet shop",
+      "Gujarati restaurant",
+      "snack",
+      "tea-time",
+      "Indian restaurant"
+    ],
+    "ingredient_synonyms": {
+      "dhokla": [
+        "khaman dhokla",
+        "Gujarati dhokla",
+        "steamed besan cake",
+        "savoury chickpea cake"
+      ],
+      "besan": [
+        "chickpea flour",
+        "gram flour",
+        "Bengal gram flour"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone dhokla entry in ICMR-NIN or HPB Foodo. Values estimated from ICMR-NIN chickpea flour and yogurt component data with standard recipe proportions. Steamed preparation means fat content is very low and well-constrained.",
+  "notes": "Contains dairy (yogurt) and legume (chickpea) allergens. Gluten-free — no wheat flour. Cholesterol approximately 3.75mg per serving (150g) from yogurt. The sugar in the batter (approximately 5.5g/100g) is from the added sugar which sweetens the dhokla slightly. Baking soda is a significant sodium source — reduce or substitute with Eno for lower sodium version."
+}

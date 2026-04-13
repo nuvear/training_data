@@ -1,0 +1,852 @@
+[
+  {
+    "record_num": 51,
+    "food_name": "Idli (steamed rice and lentil cake)",
+    "food_id": "0051_idli_steamed_rice_and_lentil_cake",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 52,
+    "food_name": "Medu Vada",
+    "food_id": "0052_medu_vada",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 53,
+    "food_name": "Uttapam",
+    "food_id": "0053_uttapam",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 54,
+    "food_name": "Appam",
+    "food_id": "0054_appam",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 55,
+    "food_name": "Pongal",
+    "food_id": "0055_pongal",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 56,
+    "food_name": "Upma",
+    "food_id": "0056_upma",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 57,
+    "food_name": "Idiyappam",
+    "food_id": "0057_idiyappam",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 58,
+    "food_name": "Sambar",
+    "food_id": "0058_sambar",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 59,
+    "food_name": "Rasam",
+    "food_id": "0059_rasam",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 60,
+    "food_name": "Coconut Chutney",
+    "food_id": "0060_coconut_chutney",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 61,
+    "food_name": "Lemon Rice",
+    "food_id": "0061_lemon_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 62,
+    "food_name": "Curd Rice",
+    "food_id": "0062_curd_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 63,
+    "food_name": "Aviyal",
+    "food_id": "0063_aviyal",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 64,
+    "food_name": "Keerai Masiyal",
+    "food_id": "0064_keerai_masiyal",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 65,
+    "food_name": "Peanut Sundal",
+    "food_id": "0065_peanut_sundal",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 66,
+    "food_name": "Dahi Vada",
+    "food_id": "0066_dahi_vada",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 67,
+    "food_name": "Palak Paneer",
+    "food_id": "0067_palak_paneer",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 68,
+    "food_name": "Paneer Butter Masala",
+    "food_id": "0068_paneer_butter_masala",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 69,
+    "food_name": "Chana Masala",
+    "food_id": "0069_chana_masala",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 70,
+    "food_name": "Dal Makhani",
+    "food_id": "0070_dal_makhani",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 71,
+    "food_name": "Rajma",
+    "food_id": "0071_rajma",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 72,
+    "food_name": "Aloo Gobi",
+    "food_id": "0072_aloo_gobi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 73,
+    "food_name": "Chicken Tikka",
+    "food_id": "0073_chicken_tikka",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 74,
+    "food_name": "Chicken Korma",
+    "food_id": "0074_chicken_korma",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 75,
+    "food_name": "Chapati",
+    "food_id": "0075_chapati",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 76,
+    "food_name": "Plain Naan",
+    "food_id": "0076_plain_naan",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 77,
+    "food_name": "Aloo Paratha",
+    "food_id": "0077_aloo_paratha",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 78,
+    "food_name": "Poori",
+    "food_id": "0078_poori",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 79,
+    "food_name": "Murtabak (Mutton)",
+    "food_id": "0079_murtabak_mutton",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 80,
+    "food_name": "Jeera Rice",
+    "food_id": "0080_jeera_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 81,
+    "food_name": "Vegetable Pulao",
+    "food_id": "0081_vegetable_pulao",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 82,
+    "food_name": "Khichdi",
+    "food_id": "0082_khichdi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 83,
+    "food_name": "Pani Puri",
+    "food_id": "0083_pani_puri",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 84,
+    "food_name": "Bhel Puri",
+    "food_id": "0084_bhel_puri",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 85,
+    "food_name": "Chole Bhature",
+    "food_id": "0085_chole_bhature",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 6,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": false,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 86,
+    "food_name": "Vegetable Pakora",
+    "food_id": "0086_vegetable_pakora",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 87,
+    "food_name": "Dhokla",
+    "food_id": "0087_dhokla",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 88,
+    "food_name": "Murukku",
+    "food_id": "0088_murukku",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 89,
+    "food_name": "Mutton Curry (Indian)",
+    "food_id": "0089_mutton_curry_indian",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 90,
+    "food_name": "Egg Curry",
+    "food_id": "0090_egg_curry",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 91,
+    "food_name": "Fish Curry (South Indian)",
+    "food_id": "0091_fish_curry_south_indian",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "validation"
+  },
+  {
+    "record_num": 92,
+    "food_name": "Fish Moilee",
+    "food_id": "0092_fish_moilee",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 93,
+    "food_name": "Gulab Jamun",
+    "food_id": "0093_gulab_jamun",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 94,
+    "food_name": "Jalebi",
+    "food_id": "0094_jalebi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 95,
+    "food_name": "Kheer",
+    "food_id": "0095_kheer",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 96,
+    "food_name": "Payasam (Semiya)",
+    "food_id": "0096_payasam_semiya",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 97,
+    "food_name": "Mango Lassi",
+    "food_id": "0097_mango_lassi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 98,
+    "food_name": "Sweet Lassi",
+    "food_id": "0098_sweet_lassi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 99,
+    "food_name": "Masala Chai",
+    "food_id": "0099_masala_chai",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  },
+  {
+    "record_num": 100,
+    "food_name": "Raita",
+    "food_id": "0100_raita",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "slot_results": {
+      "img_01": true,
+      "img_02": true,
+      "img_03": true,
+      "img_04": true,
+      "img_05": true,
+      "img_06": true,
+      "img_07": true
+    },
+    "split": "train"
+  }
+]

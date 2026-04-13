@@ -1,0 +1,161 @@
+{
+  "food_name": "Medu Vada",
+  "local_names": {
+    "malay": "Medu Vada",
+    "chinese_simplified": "印度炸豆圈",
+    "chinese_traditional": "印度炸豆圈",
+    "tamil": "மெது வடை",
+    "romanized_local": "Medu Vadai / Ulundu Vadai"
+  },
+  "aliases": [
+    "medu vada",
+    "medhu vada",
+    "urad dal fritter",
+    "South Indian doughnut",
+    "ulundu vadai",
+    "vada",
+    "sambar vada"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Deep-fried fermented lentil fritter",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Medu Vada. Closest parent is a fried lentil product. A dedicated concept covering urad dal ring fritters is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Deep-fried pulse-based snack products (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "soaked",
+      "ground",
+      "deep-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "urad dal (split black lentils, dehusked)",
+      "cumin seeds",
+      "black pepper",
+      "green chilli",
+      "curry leaves",
+      "salt",
+      "cooking oil (for deep frying)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 120,
+    "natural_language_portion": "A standard serving of medu vada is 2 pieces (approximately 55–60g each, 120g total), each shaped as a ring doughnut with a crispy golden exterior and soft interior, served alongside sambar and coconut chutney."
+  },
+  "nutrient_source": {
+    "title": "Medu Vada — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000041",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000041 — Medu Vada, deep-fried urad dal fritter with standard seasoning."
+  },
+  "per_100g": {
+    "energy_kcal": 322.0,
+    "protein_g": 10.2,
+    "fat_g": 17.5,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 7.2,
+    "polyunsaturated_fat_g": 6.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 34.8,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 3.8,
+    "sodium_mg": 285.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 46.0,
+    "iron_mg": 2.6,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 1.2,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.22,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 120.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 55.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 6.0,
+    "water_g": 32.5
+  },
+  "glycemic_index": 42,
+  "glycemic_load_per_serving": 17.5,
+  "gi_source": "University of Sydney GI Database — urad dal-based product, estimated from whole urad dal GI; deep-frying and whole lentil structure significantly lower GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Deep-fried preparation raises fat content significantly; 2-piece serving (120g) provides approximately 21g fat and 342mg sodium.",
+      "guidance": "Patients with hypertension should limit medu vada to 1–2 pieces and avoid pairing with high-sodium sambar. The deep-frying oil quality also matters for cardiovascular health."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low GI (~42) due to the protein and fibre content of urad dal and structural resistance of deep-fried batter; glycaemic load per serving is moderate.",
+      "guidance": "Despite deep-frying, medu vada has a low glycaemic index and can be consumed occasionally by diabetic patients. Limit to 1–2 pieces and monitor the sambar and chutney accompaniments for added carbohydrates."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Deep-fried in vegetable oil which, if refined and reused, contributes to pro-inflammatory omega-6 fatty acids; urad dal itself is an excellent anti-inflammatory legume.",
+      "guidance": "Urad dal is rich in protein and folate which support immune regulation. Consuming occasionally is acceptable; avoid if fried in highly re-used oil."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Medu Vada is one of South India's most iconic snacks — a savoury, crispy, ring-shaped fritter made from ground urad dal (dehusked black lentils) batter seasoned with cumin, black pepper, green chilli, and curry leaves. The doughnut-shaped vada is deep-fried until the exterior is golden and crunchy while the interior remains soft. High in plant protein and iron, but calorie-dense due to deep frying. In Singapore, medu vada is available at South Indian restaurants, mamak stalls, and tiffin counters, always served as a pair with sambar and coconut chutney.",
+    "common_user_queries": [
+      "calories in medu vada",
+      "is medu vada healthy",
+      "vada protein content",
+      "medu vada vs idli nutrition",
+      "how fattening is vada",
+      "can diabetics eat vada",
+      "medu vada iron content"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "tiffin",
+      "snack"
+    ],
+    "ingredient_synonyms": {
+      "medu vada": [
+        "vadai",
+        "ulundu vadai",
+        "South Indian doughnut",
+        "urad fritter",
+        "sambar vada"
+      ],
+      "urad dal": [
+        "black gram (white/dehusked)",
+        "ulundu",
+        "split black lentil"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000041 — Medu Vada, standard deep-fried preparation.",
+  "notes": "Vegan and gluten-free. Cholesterol is 0.0 as urad dal contains no cholesterol. Sambar and coconut chutney are not included in per_100g values — these are for the vada alone. Calorie density is driven by the deep-frying oil absorbed (~17.5g fat per 100g)."
+}

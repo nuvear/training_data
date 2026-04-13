@@ -1,0 +1,164 @@
+{
+  "food_name": "Kheer",
+  "local_names": {
+    "malay": "Kheer",
+    "chinese_simplified": "印度大米牛奶布丁",
+    "chinese_traditional": "印度大米牛奶布丁",
+    "tamil": "பால் பாயாசம்",
+    "romanized_local": "Kheer / Payesh / Phirni"
+  },
+  "aliases": [
+    "kheer",
+    "payesh",
+    "chawal ki kheer",
+    "Indian rice pudding",
+    "milk rice pudding India",
+    "firni"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Sweets and desserts",
+  "food_subgroup": "Rice and full-fat milk pudding with cardamom and nuts",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Kheer. Nearest parent is a rice milk dessert. A new concept for South Asian milk-rice puddings is recommended.",
+    "foodex2_code": "A14AS",
+    "foodex2_description": "Rice and milk pudding with sugar, Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "slow-simmered",
+      "reduced"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "white rice (broken or whole)",
+      "full-fat milk",
+      "sugar",
+      "cardamom powder",
+      "cashew nuts",
+      "almonds",
+      "pistachios",
+      "raisins",
+      "saffron (optional)",
+      "rosewater (optional)"
+    ],
+    "allergens": [
+      "milk",
+      "tree nuts (cashew, almond, pistachio)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 small bowl",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of kheer is 1 small bowl (approximately 150g) — a creamy, pale, slightly thick rice pudding with the pleasant fragrance of cardamom and saffron, garnished with slivered nuts and raisins."
+  },
+  "nutrient_source": {
+    "title": "Kheer — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000031",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000031 — Kheer (rice and milk pudding), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 182.0,
+    "protein_g": 4.5,
+    "fat_g": 6.8,
+    "saturated_fat_g": 3.8,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.5,
+    "sugar_g": 18.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 62.0,
+    "potassium_mg": 165.0,
+    "calcium_mg": 138.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 18.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 52.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.38,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 5.5,
+    "water_g": 57.5
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 27.8,
+  "gi_source": "University of Sydney GI Database — estimated from rice pudding in full-fat milk; the milk fat and protein moderate the GI of the rice; GI lower than plain cooked rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 93mg per bowl (150g) — very low. Kheer is naturally low in sodium; the calcium content (138mg/100g) is beneficial for blood pressure regulation.",
+      "guidance": "Suitable for hypertensive patients from a sodium standpoint. The concern is the moderate sugar content (18.5g/100g). Reduced-sugar kheer is an option."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~65); glycaemic load per bowl (150g) is approximately 28. The sugar content (18.5g/100g) is the primary concern.",
+      "guidance": "Diabetic patients should limit kheer to half a serving (75g) or choose a reduced-sugar version made with natural sweeteners. The milk protein and fat moderate the GI compared to plain rice."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Calcium (138mg/100g) and vitamin B12 (0.38mcg/100g) from milk are beneficial for bone health; cardamom and saffron have anti-inflammatory properties.",
+      "guidance": "Suitable in moderation for patients with rheumatoid arthritis. The calcium and vitamin B12 support bone and immune health. The moderate sugar content is a consideration for frequent consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Kheer is India's beloved national dessert — a creamy, sweet rice pudding made by slowly simmering rice in full-fat milk on low heat for 40–60 minutes, stirring frequently, until the milk reduces and thickens and the rice becomes very soft. Sweetened with sugar and perfumed with cardamom, saffron, and rosewater, then garnished with slivered cashews, almonds, pistachios, and raisins. It is served warm, at room temperature, or chilled. Rich in calcium and vitamin B12 from dairy. The defining difference from payasam (#096) is that kheer uses cow's milk only, while payasam uses coconut milk and/or vermicelli.",
+    "common_user_queries": [
+      "kheer calories",
+      "is kheer healthy",
+      "kheer vs payasam difference",
+      "kheer calcium content",
+      "kheer for diabetics",
+      "kheer sugar content",
+      "how many calories in rice kheer"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "Indian sweet shop",
+      "dessert",
+      "festival sweet",
+      "wedding"
+    ],
+    "ingredient_synonyms": {
+      "kheer": [
+        "payesh",
+        "chawal ki kheer",
+        "Indian rice pudding",
+        "firni (ground rice variant)"
+      ],
+      "cardamom": [
+        "elaichi",
+        "green cardamom",
+        "choti elaichi"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000031 — Kheer, standard rice and milk pudding preparation.",
+  "notes": "Contains dairy (milk, cream) and tree nuts (cashew, almond, pistachio). Not vegan or dairy-free. Cholesterol approximately 27mg per bowl (150g). Vitamin B12 is well-represented from full-fat milk. The calorie and sugar content vary significantly based on milk-to-rice ratio and amount of sugar added."
+}

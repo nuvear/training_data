@@ -1,0 +1,164 @@
+{
+  "food_name": "Keerai Masiyal",
+  "local_names": {
+    "malay": "Keerai Masiyal",
+    "chinese_simplified": "南印度捣碎菠菜豆泥",
+    "chinese_traditional": "南印度搗碎菠菜豆泥",
+    "tamil": "கீரை மசியல்",
+    "romanized_local": "Keerai Masiyal / Keerai Kootu"
+  },
+  "aliases": [
+    "keerai masiyal",
+    "spinach masiyal",
+    "mashed spinach with dal",
+    "keerai kootu",
+    "South Indian spinach curry",
+    "Tamil spinach mash"
+  ],
+  "cuisine": "South Indian (Tamil)",
+  "region_of_origin": "India (Tamil Nadu)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Mashed leafy greens with lentils and tempering",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Keerai Masiyal. Nearest parent is a cooked leafy vegetable with legume dish. A new concept for South Indian mashed spinach preparations is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Cooked spinach and lentil mash, South Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "mashed",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "spinach (keerai — palak or muLaikeerai)",
+      "toor dal or moong dal",
+      "garlic",
+      "dried red chilli",
+      "mustard seeds",
+      "cumin seeds",
+      "ghee or oil",
+      "turmeric",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 side dish serving",
+    "size_g": 150,
+    "natural_language_portion": "A standard side serving of keerai masiyal is approximately 150g — a dark-green, smooth, thick mash of cooked spinach combined with soft toor or moong dal, finished with a ghee-garlic tempering."
+  },
+  "nutrient_source": {
+    "title": "Keerai Masiyal — ICMR-NIN Nutritive Value of Indian Foods, derived from cooked spinach and toor/moong dal component data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone keerai masiyal entry. Values estimated from ICMR-NIN cooked spinach and toor/moong dal composition data per standard recipe proportions (spinach ~55%, dal ~20%, oil/ghee ~6%, water/spices balance)."
+  },
+  "per_100g": {
+    "energy_kcal": 88.0,
+    "protein_g": 4.5,
+    "fat_g": 3.5,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 11.2,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 3.2,
+    "sodium_mg": 185.0,
+    "potassium_mg": 320.0,
+    "calcium_mg": 95.0,
+    "iron_mg": 3.5,
+    "cholesterol_mg": 5.0,
+    "vitamin_c_mg": 15.0,
+    "vitamin_a_mcg_rae": 285.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 88.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 78.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 2.5,
+    "water_g": 78.0
+  },
+  "glycemic_index": 32,
+  "glycemic_load_per_serving": 5.4,
+  "gi_source": "University of Sydney GI Database — estimated from cooked spinach and lentil mixture; very high fibre and protein content gives very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 278mg per serving (150g) — moderate; the very high potassium (~480mg per serving) from spinach and dal provides excellent blood pressure benefit.",
+      "guidance": "Excellent choice for hypertensive patients — the potassium-sodium ratio is highly favourable. Spinach is one of the best dietary sources of potassium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~32); glycaemic load per 150g serving is approximately 5 — very low. High fibre, protein, and magnesium from spinach and dal are beneficial for insulin sensitivity.",
+      "guidance": "Highly recommended for diabetic patients — very low GI and GL, high in fibre and magnesium which improves insulin sensitivity. Regular consumption of leafy greens is strongly associated with reduced diabetes risk."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Spinach is one of the richest sources of folate (~88mcg DFE per 100g) and vitamin A in South Indian cuisine; turmeric provides curcumin; iron is a concern for patients with active inflammation.",
+      "guidance": "Highly recommended for patients with rheumatoid arthritis — the folate content supports cell repair, vitamin A supports immune function, and turmeric provides anti-inflammatory benefits. The ghee tempering provides fat-soluble vitamin absorption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Keerai Masiyal is a traditional South Indian Tamil dish of cooked, mashed spinach (keerai) combined with soft toor dal or moong dal into a thick, smooth, dark-green mash. The dish is finished with a hot ghee tempering of mustard seeds, dried red chilli, and garlic, which adds fragrance and depth. It is one of the most iron- and folate-dense side dishes in South Indian cuisine. Eaten as a side with plain rice and rasam as part of a Tamil home meal. High in calcium, iron, vitamin A, and folate — nutritionally exceptional despite its simple preparation.",
+    "common_user_queries": [
+      "keerai masiyal calories",
+      "keerai nutrition",
+      "South Indian spinach curry iron content",
+      "spinach dal curry health benefits",
+      "keerai for anaemia"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "home cooking",
+      "Tamil cuisine",
+      "lunch",
+      "side dish"
+    ],
+    "ingredient_synonyms": {
+      "keerai masiyal": [
+        "spinach masiyal",
+        "keerai kootu",
+        "South Indian spinach mash"
+      ],
+      "keerai": [
+        "spinach",
+        "palak",
+        "muLaikeerai",
+        "South Indian greens"
+      ],
+      "toor dal": [
+        "split pigeon peas",
+        "arhar dal",
+        "thuvaram paruppu"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone keerai masiyal entry in ICMR-NIN. Values estimated from ICMR-NIN cooked spinach and dal component data. Spinach nutrition values are well-established; estimates are reliable.",
+  "notes": "Contains ghee (dairy) — not vegan or dairy-free when made with ghee; vegan when made with oil. Cholesterol approximately 7.5mg per serving (150g) when made with ghee. Oxalate content of spinach may reduce calcium bioavailability — calcium from other foods in the meal is better absorbed. Iron is non-heme iron (plant source) — pair with vitamin C-rich foods to enhance absorption."
+}

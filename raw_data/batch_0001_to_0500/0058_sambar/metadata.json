@@ -1,0 +1,164 @@
+{
+  "food_name": "Sambar",
+  "local_names": {
+    "malay": "Sambar",
+    "chinese_simplified": "南印度扁豆蔬菜汤",
+    "chinese_traditional": "南印度扁豆蔬菜湯",
+    "tamil": "சாம்பார்",
+    "romanized_local": "Sambar / Sambhar"
+  },
+  "aliases": [
+    "sambar",
+    "sambhar",
+    "South Indian lentil stew",
+    "toor dal stew",
+    "pigeon pea curry",
+    "sambar dal",
+    "South Indian vegetable curry"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Spiced toor dal and vegetable stew",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Sambar. Nearest parent is a cooked legume-vegetable stew. A new concept covering South Indian sambar preparations is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Legume-vegetable stew, South Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tempered",
+      "pressure-cooked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "toor dal (split pigeon peas)",
+      "tamarind extract",
+      "tomato",
+      "drumstick (moringa pods)",
+      "brinjal (eggplant)",
+      "onion",
+      "sambar masala powder",
+      "mustard seeds",
+      "curry leaves",
+      "dried red chilli",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (accompaniment serving with idli/dosa)",
+    "size_g": 200,
+    "natural_language_portion": "A standard side serving of sambar is 1 bowl (approximately 200g) — a moderately thin, richly spiced lentil and vegetable stew poured alongside idli, dosa, or rice."
+  },
+  "nutrient_source": {
+    "title": "Sambar — ICMR-NIN Nutritive Value of Indian Foods; cross-referenced with HPB Singapore Foodo",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a sambar composite dish entry. Values are derived from ICMR-NIN toor dal composition data combined with standard sambar recipe proportions (toor dal ~15%, mixed vegetables ~20%, tamarind ~3%, spices/oil ~5%, water balance). Cross-referenced with available published sambar nutrition data."
+  },
+  "per_100g": {
+    "energy_kcal": 55.0,
+    "protein_g": 2.8,
+    "fat_g": 1.5,
+    "saturated_fat_g": 0.2,
+    "monounsaturated_fat_g": 0.6,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 8.5,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 2.0,
+    "sodium_mg": 320.0,
+    "potassium_mg": 195.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 8.0,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 48.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 2.5,
+    "water_g": 84.0
+  },
+  "glycemic_index": 35,
+  "glycemic_load_per_serving": 6.0,
+  "gi_source": "University of Sydney GI Database — estimated from toor dal (pigeon pea) GI; legume-based stew with significant fibre content gives a low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 640mg per bowl (200g) — elevated; restaurant sambar is notoriously high in salt; home-cooked sambar can be prepared with half the salt.",
+      "guidance": "Patients with hypertension should request reduced-salt sambar or limit their sambar serving to 100–150g. Sambar made at home allows precise sodium control — target under 300mg sodium per bowl."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~35) due to toor dal and vegetable fibre; glycaemic load per bowl is approximately 6 — negligible.",
+      "guidance": "Sambar is highly beneficial for diabetic patients — pairing sambar with idli, dosa, or rice significantly lowers the overall glycaemic response of the meal. Encourage liberal sambar consumption."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Turmeric and tamarind have potent anti-inflammatory properties; drumstick (moringa) is exceptionally rich in iron and vitamin C; toor dal provides folate.",
+      "guidance": "Sambar is highly beneficial for patients with rheumatoid arthritis. The turmeric content (curcumin) and drumstick (moringa) make it one of the most anti-inflammatory foods in South Indian cuisine."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Sambar is the quintessential South Indian lentil and vegetable stew — a moderately thin, deeply flavoured, tangy-spicy broth made from pressure-cooked toor dal (split pigeon peas) blended with tamarind water and a robust sambar masala spice blend. It typically contains drumstick pods, brinjal, tomato, and onion, finished with a mustard seed and curry leaf tadka. Sambar is served as an essential accompaniment to idli, dosa, vada, and rice across South India and Singapore's Indian restaurants. It is vegan, gluten-free, and an excellent source of plant protein and fibre.",
+    "common_user_queries": [
+      "sambar calories",
+      "is sambar healthy",
+      "sambar protein content",
+      "sambar for diabetes",
+      "sambar sodium content",
+      "sambar iron and vitamins"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "banana-leaf restaurant",
+      "mamak",
+      "tiffin",
+      "accompaniment"
+    ],
+    "ingredient_synonyms": {
+      "sambar": [
+        "sambhar",
+        "South Indian dal stew",
+        "toor dal curry"
+      ],
+      "toor dal": [
+        "split pigeon peas",
+        "arhar dal",
+        "thuvaram paruppu"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone sambar entry in ICMR-NIN or HPB Foodo. Values estimated from component ingredients per ICMR-NIN data and standard recipe proportions. Sodium value reflects typical restaurant preparation and may vary significantly.",
+  "notes": "Vegan and gluten-free. Sodium is the primary health concern — restaurant sambar can contain 300–600mg sodium per 100g depending on preparation. Drumstick (moringa) pods, if included, significantly increase iron and vitamin C content. Sambar recipe varies widely by family and region."
+}

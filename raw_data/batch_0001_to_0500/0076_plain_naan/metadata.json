@@ -1,0 +1,158 @@
+{
+  "food_name": "Plain Naan",
+  "local_names": {
+    "malay": "Naan Biasa",
+    "chinese_simplified": "印度白面包",
+    "chinese_traditional": "印度白麵包",
+    "tamil": "நான் ரொட்டி",
+    "romanized_local": "Naan / Naan Bread"
+  },
+  "aliases": [
+    "plain naan",
+    "naan bread",
+    "tandoor naan",
+    "leavened Indian flatbread",
+    "white flour naan",
+    "maida naan"
+  ],
+  "cuisine": "North Indian / Central Asian",
+  "region_of_origin": "India (Punjab / North India) / Central Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Leavened white flour flatbread, tandoor-baked",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301645",
+    "foodon_label": "Naan bread",
+    "foodon_match_type": "exact",
+    "foodon_gap_note": null,
+    "foodex2_code": "A01GP",
+    "foodex2_description": "Leavened flatbread, refined flour (naan)",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "leavened",
+      "rolled",
+      "tandoor-baked"
+    ],
+    "processing_level": "moderately processed",
+    "main_ingredients": [
+      "refined wheat flour (maida)",
+      "yogurt",
+      "yeast or baking powder",
+      "water",
+      "salt",
+      "butter or ghee (for brushing after baking)"
+    ],
+    "allergens": [
+      "gluten (wheat)",
+      "milk (yogurt, butter)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 piece",
+    "size_g": 120,
+    "natural_language_portion": "A standard serving of plain naan is 1 piece (approximately 120g) — a large, tear-drop shaped, soft and slightly chewy flatbread with golden-brown blisters from the tandoor, brushed with butter or ghee after baking."
+  },
+  "nutrient_source": {
+    "title": "Plain Naan — HPB Singapore Foodo Database, Food Code F05030007; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05030007 — Plain Naan, standard tandoor-baked preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 285.0,
+    "protein_g": 8.0,
+    "fat_g": 6.8,
+    "saturated_fat_g": 3.5,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 49.5,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 485.0,
+    "potassium_mg": 95.0,
+    "calcium_mg": 55.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 12.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.18,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.0,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.05,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 18.0,
+    "water_g": 30.5
+  },
+  "glycemic_index": 71,
+  "glycemic_load_per_serving": 42.1,
+  "gi_source": "University of Sydney GI Database — white flour naan GI approximately 71; refined flour and minimal fibre give a high GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 582mg per piece (120g) — elevated; naan contains yogurt, salt in dough, and butter brushing, all contributing to high sodium.",
+      "guidance": "Patients with hypertension should limit naan to half a piece or choose chapati instead. Naan has more than twice the sodium of chapati at equivalent serving sizes."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "High GI (~71) from refined flour; glycaemic load per full piece (120g) is approximately 42 — high. Minimal fibre provides no protection against blood glucose spikes.",
+      "guidance": "Diabetic patients should limit to half a piece or choose chapati (whole wheat) instead, which has a significantly lower GI (~52). Pair with high-protein curries to moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Refined flour is neutral for inflammation at standard serving levels; butter provides small amounts of fat-soluble vitamins.",
+      "guidance": "Suitable in moderation for patients with rheumatoid arthritis. No specific anti-inflammatory benefit from plain naan. Whole wheat alternatives (chapati, roti) are nutritionally superior."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Plain Naan is a leavened flatbread — synonymous with North Indian restaurant dining — made from refined white flour (maida) leavened with yogurt and yeast or baking powder, stretched by hand into a teardrop shape and baked at high heat directly on the inner wall of a clay tandoor oven. The surface develops beautiful golden-brown blisters while the interior remains soft and chewy. After baking, it is brushed with butter or ghee. Compared to chapati, naan is higher in calories, fat, sodium, and has a higher GI due to the refined flour, but has a superior soft texture that makes it a popular restaurant choice.",
+    "common_user_queries": [
+      "naan calories",
+      "naan vs chapati which is healthier",
+      "plain naan GI",
+      "naan for diabetics",
+      "naan sodium content",
+      "does naan contain dairy"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "tandoor section",
+      "bread basket"
+    ],
+    "ingredient_synonyms": {
+      "plain naan": [
+        "naan bread",
+        "tandoor naan",
+        "Indian white bread"
+      ],
+      "maida": [
+        "refined wheat flour",
+        "all-purpose flour",
+        "plain flour"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05030007 — Plain Naan, standard preparation.",
+  "notes": "Contains gluten (refined wheat) and dairy (yogurt, butter). Not vegan or suitable for gluten-sensitive patients. Cholesterol approximately 14mg per piece (120g) from butter/yogurt. Low fibre (1.8g/100g) compared to chapati (5.5g/100g). Garlic naan and butter naan have higher fat and calorie content."
+}

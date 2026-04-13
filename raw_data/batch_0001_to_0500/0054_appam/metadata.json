@@ -1,0 +1,156 @@
+{
+  "food_name": "Appam",
+  "local_names": {
+    "malay": "Appam",
+    "chinese_simplified": "印度椰奶煎饼",
+    "chinese_traditional": "印度椰奶煎餅",
+    "tamil": "ஆப்பம்",
+    "romanized_local": "Appam / Aappam / Hoppers"
+  },
+  "aliases": [
+    "appam",
+    "aappam",
+    "hoppers",
+    "bowl-shaped rice pancake",
+    "fermented coconut rice pancake",
+    "lacy rice pancake"
+  ],
+  "cuisine": "South Indian / Kerala",
+  "region_of_origin": "India (Kerala / Tamil Nadu) / Sri Lanka",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Fermented rice and coconut milk bowl pancake",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Appam. Nearest parent is a fermented rice-coconut pancake. A new concept covering appam (bowl-shaped South Indian pancake) is warranted.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Fermented rice-based pancake with coconut milk (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "pan-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "parboiled rice (raw rice)",
+      "coconut milk",
+      "coconut water or water",
+      "yeast or toddy (for fermentation)",
+      "salt"
+    ],
+    "allergens": [
+      "tree nuts (coconut)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of appam is 2 pieces (approximately 70–75g each, 150g total), each a thin lacy pancake with crispy edges and a soft spongy centre formed by cooking in a small appachatti (bowl-shaped pan)."
+  },
+  "nutrient_source": {
+    "title": "Appam — HPB Singapore Foodo Database, Food Code F05010001",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05010001 — Appam, fermented rice and coconut milk pancake, standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 164.0,
+    "protein_g": 3.2,
+    "fat_g": 4.5,
+    "saturated_fat_g": 3.8,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 175.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.03,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 4.0,
+    "water_g": 60.5
+  },
+  "glycemic_index": 76,
+  "glycemic_load_per_serving": 34.3,
+  "gi_source": "University of Sydney GI Database — estimated from fermented rice pancake category; GI is high due to white rice starch but fat from coconut milk moderates somewhat.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 263mg per 2-piece serving (150g) — moderate; coconut milk adds no sodium naturally.",
+      "guidance": "Suitable for hypertensive patients. Appam is naturally low in sodium. The accompaniments (sweetened coconut milk, vegetable stew) add minimal sodium compared to curry-based accompaniments."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "High GI (~76) due to gelatinised white rice starch; glycaemic load per 2-piece serving is approximately 34.",
+      "guidance": "Diabetic patients should limit appam to 1 piece and pair with egg or vegetable stew to increase protein content; avoid sweetened coconut milk accompaniment which adds further sugar."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Coconut milk provides medium-chain triglycerides (MCTs) with some evidence for anti-inflammatory effects; fermentation supports gut health.",
+      "guidance": "Appam is generally suitable for patients with rheumatoid arthritis. The saturated fat from coconut should not be a concern at standard serving levels."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Appam is a beautifully distinctive South Indian — particularly Kerala — pancake made from fermented rice batter blended with coconut milk. Cooked in a small, rounded wok called an appachatti, the batter spreads to create a circular pancake with thin, lacy, crispy edges and a thick, soft, spongy centre. The coconut milk gives appam a subtle sweetness and rich aroma. It is gluten-free and vegan. In Singapore, appam is found at South Indian and Sri Lankan restaurants and is typically served with sweetened coconut milk, vegetable stew (ishtew), or egg.",
+    "common_user_queries": [
+      "appam calories",
+      "is appam healthy",
+      "appam vs idli nutrition",
+      "is appam gluten free",
+      "appam for diabetics",
+      "calories in 2 appam"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "Sri Lankan restaurant",
+      "breakfast",
+      "tiffin"
+    ],
+    "ingredient_synonyms": {
+      "appam": [
+        "aappam",
+        "hoppers",
+        "bowl-shaped pancake",
+        "lacy pancake"
+      ],
+      "coconut milk": [
+        "santan",
+        "pati santan",
+        "coconut cream (diluted)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05010001 — Appam, standard preparation.",
+  "notes": "Vegan and gluten-free. Coconut is classified as a tree nut allergen. Cholesterol is 0.0. The high saturated fat per 100g (~3.8g) is entirely from coconut milk — medium-chain triglycerides (MCTs). Accompaniments are not included."
+}

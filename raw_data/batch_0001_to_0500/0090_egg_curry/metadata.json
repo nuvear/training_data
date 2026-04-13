@@ -1,0 +1,159 @@
+{
+  "food_name": "Egg Curry",
+  "local_names": {
+    "malay": "Kari Telur",
+    "chinese_simplified": "印度鸡蛋咖喱",
+    "chinese_traditional": "印度雞蛋咖喱",
+    "tamil": "முட்டை கறி",
+    "romanized_local": "Muttai Kari / Egg Curry"
+  },
+  "aliases": [
+    "egg curry",
+    "muttai kari",
+    "kari telur",
+    "Indian egg masala",
+    "boiled egg curry",
+    "anda curry"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Hard-boiled eggs in spiced Indian tomato-onion gravy",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Indian Egg Curry. Nearest parent is a cooked egg in spiced sauce. A new concept for egg-based Indian curries is recommended.",
+    "foodex2_code": "A09EG",
+    "foodex2_description": "Hard-boiled eggs in spiced sauce, Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "shallow-fried",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "hard-boiled eggs",
+      "onion",
+      "tomato",
+      "ginger-garlic paste",
+      "coriander powder",
+      "cumin",
+      "red chilli powder",
+      "garam masala",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "allergens": [
+      "eggs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 eggs + gravy",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of egg curry is 2 eggs with gravy (approximately 200g total) — 2 hard-boiled eggs (halved or whole, often first shallow-fried to create a slightly crispy surface) in a medium-thick onion-tomato gravy."
+  },
+  "nutrient_source": {
+    "title": "Egg Curry — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000023",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000023 — Egg Curry, standard Indian preparation with hard-boiled eggs in tomato-onion gravy."
+  },
+  "per_100g": {
+    "energy_kcal": 148.0,
+    "protein_g": 8.5,
+    "fat_g": 10.5,
+    "saturated_fat_g": 2.5,
+    "monounsaturated_fat_g": 4.5,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 6.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 318.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 195.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 85.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.22,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.85,
+    "folate_mcg_dfe": 32.0,
+    "vitamin_d_mcg": 1.5,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 22.0,
+    "water_g": 71.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — Egg Curry contains low carbohydrates (6.5g/100g from gravy vegetables). It does not meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 636mg per 2-egg serving (200g) — elevated; the gravy and salt from cooking concentrate sodium significantly.",
+      "guidance": "Patients with hypertension should reduce added salt in the gravy and limit portion size. The egg itself is a good source of potassium and magnesium for blood pressure support."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrates; GI testing not applicable. High protein (8.5g/100g) from eggs promotes satiety and blood glucose stability.",
+      "guidance": "Egg curry is an excellent choice for diabetic patients — low in carbohydrates, high in protein, and moderate in fat. Eggs provide a low GI protein source that does not raise blood glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Eggs are one of the best dietary sources of selenium (22mcg/100g) and vitamin D (1.5mcg/100g) — both critical for immune function; turmeric provides curcumin.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — the selenium and vitamin D from eggs support immune regulation and bone health. The turmeric in the gravy provides anti-inflammatory curcumin."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Egg Curry is a widely enjoyed Indian dish — hard-boiled eggs (often first shallow-fried in oil to create a golden, slightly crispy surface) simmered in a medium-thick onion-tomato gravy spiced with cumin, coriander, turmeric, red chilli, and garam masala. It is a simple, economical, and nutritionally excellent curry available at virtually all South Indian and Indian restaurants in Singapore. Rich in high-quality protein, vitamins B2, B12, D, and selenium from the eggs, combined with the anti-inflammatory spices from the gravy.",
+    "common_user_queries": [
+      "egg curry calories",
+      "is egg curry healthy",
+      "egg curry cholesterol",
+      "egg curry for diabetics",
+      "egg curry protein content",
+      "egg curry vitamin D"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "South Indian restaurant",
+      "main course",
+      "lunch",
+      "vegetarian restaurant"
+    ],
+    "ingredient_synonyms": {
+      "egg curry": [
+        "muttai kari",
+        "anda curry",
+        "Indian egg masala",
+        "kari telur"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000023 — Egg Curry, standard Indian preparation.",
+  "notes": "Contains eggs — not vegan. Suitable for lacto-ovo vegetarians. Cholesterol is high (195mg/100g, approximately 390mg per 2-egg serving) from the egg yolks. GI and GL are null — negligible carbohydrate content. Vitamin D (1.5mcg/100g) makes egg curry one of the few non-fish Indian dishes with meaningful vitamin D content."
+}

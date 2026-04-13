@@ -1,0 +1,160 @@
+{
+  "food_name": "Chicken Tikka",
+  "local_names": {
+    "malay": "Ayam Tikka",
+    "chinese_simplified": "印度烤鸡块",
+    "chinese_traditional": "印度烤雞塊",
+    "tamil": "சிக்கன் திக்கா",
+    "romanized_local": "Chicken Tikka"
+  },
+  "aliases": [
+    "chicken tikka",
+    "tandoori chicken tikka",
+    "boneless tikka",
+    "grilled Indian chicken",
+    "murgh tikka"
+  ],
+  "cuisine": "Indian / Punjabi",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Marinated and grilled boneless chicken",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Chicken Tikka. Nearest parent is a marinated grilled chicken product. A new concept for Indian tandoor-cooked chicken preparations is recommended.",
+    "foodex2_code": "A11KM",
+    "foodex2_description": "Marinated grilled/tandoor chicken, boneless (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "grilled/tandoor-cooked"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "boneless chicken (breast or thigh)",
+      "plain yogurt",
+      "lemon juice",
+      "ginger-garlic paste",
+      "Kashmiri red chilli powder",
+      "cumin",
+      "coriander powder",
+      "garam masala",
+      "turmeric",
+      "oil (for basting)"
+    ],
+    "allergens": [
+      "milk (yogurt in marinade)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 serving (6 pieces)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of chicken tikka is 6 pieces (approximately 200g total) of boneless marinated chicken with charred edges from the tandoor, served with mint chutney, sliced onion, and a wedge of lemon."
+  },
+  "nutrient_source": {
+    "title": "Chicken Tikka — ICMR-NIN Nutritive Value of Indian Foods, Entry F11020024; cross-referenced with HPB Singapore Foodo",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); Health Promotion Board (HPB), Singapore",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry F11020024 — Chicken Tikka, boneless marinated grilled preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 198.0,
+    "protein_g": 22.5,
+    "fat_g": 10.5,
+    "saturated_fat_g": 2.8,
+    "monounsaturated_fat_g": 4.2,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.5,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 425.0,
+    "potassium_mg": 298.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 78.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 35.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.15,
+    "vitamin_b3_niacin_mg": 8.5,
+    "vitamin_b6_mg": 0.52,
+    "vitamin_b12_mcg": 0.28,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 215.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 2.2,
+    "selenium_mcg": 28.0,
+    "water_g": 59.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — Chicken Tikka contains negligible carbohydrates (3.5g/100g); it cannot meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 850mg per serving (200g) — elevated; the marinade and dry-rub spice blend contain significant salt; restaurant versions are often high sodium.",
+      "guidance": "Patients with hypertension should limit to half a serving (100g) or request reduced-salt preparation. The chicken itself is an excellent source of potassium and protein for cardiovascular health."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Virtually no carbohydrates; GI testing not applicable. High protein (22.5g/100g) and moderate fat support satiety and blood glucose stability.",
+      "guidance": "Excellent choice for diabetic patients — chicken tikka provides high protein with negligible glycaemic impact. Pair with salad or raita instead of naan or paratha to maintain the low-carbohydrate profile."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Excellent source of selenium (28mcg/100g) which is a key antioxidant for immune function; turmeric in the spice blend provides curcumin; very high niacin and B6.",
+      "guidance": "Chicken tikka is one of the better lean protein options for patients with rheumatoid arthritis. The spice blend provides anti-inflammatory compounds. Selenium supports glutathione peroxidase — a key antioxidant enzyme."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chicken Tikka is one of the most beloved Indian starter dishes — boneless pieces of chicken (breast or thigh) marinated in a yogurt and spice marinade (ginger-garlic paste, red chilli, cumin, coriander, garam masala, turmeric, and lemon) for several hours, then skewered and cooked at high heat in a tandoor clay oven until charred at the edges and cooked through. Served without sauce as a dry starter, garnished with sliced onion, lemon wedges, and mint chutney. Very high in protein, low in carbohydrates, and rich in selenium and B vitamins.",
+    "common_user_queries": [
+      "chicken tikka calories",
+      "chicken tikka protein content",
+      "is chicken tikka healthy",
+      "chicken tikka for diabetics",
+      "chicken tikka vs chicken tikka masala",
+      "chicken tikka sodium content"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "North Indian restaurant",
+      "starter",
+      "appetiser",
+      "tandoor section"
+    ],
+    "ingredient_synonyms": {
+      "chicken tikka": [
+        "murgh tikka",
+        "boneless tikka",
+        "tandoori chicken (boneless)"
+      ],
+      "Kashmiri chilli": [
+        "Kashmiri mirch",
+        "deghi mirch",
+        "mild red chilli powder"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry F11020024 — Chicken Tikka, boneless grilled preparation.",
+  "notes": "Contains dairy (yogurt in marinade at trace levels after cooking). Not suitable for vegans or strict dairy-free diets. Cholesterol approximately 156mg per serving (200g). GI and GL are null — carbohydrate content is negligible. Grilling over direct flame may create heterocyclic amines (HCAs) — avoid charred portions to minimise carcinogen exposure."
+}

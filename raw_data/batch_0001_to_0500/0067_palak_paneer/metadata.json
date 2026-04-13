@@ -1,0 +1,172 @@
+{
+  "food_name": "Palak Paneer",
+  "local_names": {
+    "malay": "Palak Paneer",
+    "chinese_simplified": "菠菜芝士咖喱",
+    "chinese_traditional": "菠菜芝士咖喱",
+    "tamil": "பாலக் பனீர்",
+    "romanized_local": "Palak Paneer / Saag Paneer"
+  },
+  "aliases": [
+    "palak paneer",
+    "saag paneer",
+    "spinach paneer",
+    "cottage cheese in spinach curry",
+    "paneer in palak gravy"
+  ],
+  "cuisine": "North Indian",
+  "region_of_origin": "India (Punjab / North India)",
+  "food_group": "Dairy",
+  "food_subgroup": "Paneer cubes in spiced spinach-tomato gravy",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Palak Paneer. Nearest parent is a dairy-vegetable curry. A new concept for Indian paneer-based dishes is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Dairy (paneer) in vegetable curry sauce, North Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "blanched",
+      "puréed",
+      "sautéed",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "paneer (Indian cottage cheese)",
+      "fresh spinach (palak)",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "green chilli",
+      "cumin seeds",
+      "garam masala",
+      "coriander powder",
+      "turmeric",
+      "cream or yogurt",
+      "oil or ghee",
+      "salt"
+    ],
+    "allergens": [
+      "milk (paneer, cream/yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl (curry only)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of palak paneer is 1 bowl (approximately 200g) — vivid dark-green spinach curry with soft white cubes of paneer, creamy and mildly spiced, served as a main dish with roti or rice."
+  },
+  "nutrient_source": {
+    "title": "Palak Paneer — ICMR-NIN Nutritive Value of Indian Foods, Entry F01040001",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry F01040001 — Palak Paneer, standard North Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 172.0,
+    "protein_g": 7.5,
+    "fat_g": 13.2,
+    "saturated_fat_g": 6.8,
+    "monounsaturated_fat_g": 4.0,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 7.0,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 312.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 185.0,
+    "iron_mg": 2.8,
+    "cholesterol_mg": 32.0,
+    "vitamin_c_mg": 18.0,
+    "vitamin_a_mcg_rae": 320.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.15,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.28,
+    "folate_mcg_dfe": 88.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 152.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 5.5,
+    "water_g": 68.5
+  },
+  "glycemic_index": 22,
+  "glycemic_load_per_serving": 3.1,
+  "gi_source": "University of Sydney GI Database — estimated from high-protein, high-fat, low-carbohydrate curry; paneer and spinach combination gives very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 624mg per bowl (200g) — elevated; restaurant palak paneer tends to be high in salt and cream; home cooking allows control.",
+      "guidance": "Patients with hypertension should request reduced-salt preparations and minimal cream. The high calcium (185mg/100g) and potassium content from spinach and paneer are beneficial for blood pressure management."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~22) and very low carbohydrate content (7g/100g); glycaemic load per bowl is approximately 3 — negligible. High protein and fat slow any glucose absorption.",
+      "guidance": "Excellent choice for diabetic patients — palak paneer has one of the lowest glycaemic loads of all Indian restaurant dishes. The high protein (15g per bowl) supports satiety and blood sugar control."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Spinach provides exceptional folate (88mcg DFE/100g) and vitamin A (320mcg RAE/100g); turmeric provides curcumin; paneer provides calcium for bone health.",
+      "guidance": "Highly recommended for patients with rheumatoid arthritis — the combination of spinach's anti-inflammatory micronutrients, turmeric's curcumin, and paneer's calcium makes this one of the most beneficial curries for bone and joint health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Palak Paneer is one of India's most beloved vegetarian curries — soft, fresh paneer (Indian cottage cheese) cubes nestled in a thick, velvety, bright-green sauce made from blanched and puréed fresh spinach, cooked with onion, tomato, garlic, ginger, cumin, garam masala, and finished with a splash of cream or yogurt. The spinach sauce is smooth and intensely green, with the paneer providing a mild, creamy contrast. Nutritionally exceptional — very low GI, high calcium, high vitamin A, high folate, and rich in plant iron. Available at virtually all North Indian restaurants in Singapore.",
+    "common_user_queries": [
+      "palak paneer calories",
+      "is palak paneer healthy",
+      "palak paneer protein content",
+      "palak paneer for diabetes",
+      "palak paneer calcium content",
+      "palak paneer iron content",
+      "palak paneer vs dal makhani nutrition"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "main course",
+      "vegetarian",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "palak paneer": [
+        "saag paneer",
+        "spinach paneer",
+        "paneer in spinach gravy"
+      ],
+      "paneer": [
+        "Indian cottage cheese",
+        "fresh curd cheese",
+        "chhena"
+      ],
+      "palak": [
+        "spinach",
+        "baby spinach",
+        "English spinach"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry F01040001 — Palak Paneer, standard preparation.",
+  "notes": "Contains dairy (paneer and cream/yogurt) — not vegan or dairy-free. Cholesterol approximately 64mg per bowl (200g). Vitamin B12 present from dairy. High saturated fat from paneer and cream — patients with cardiovascular disease should moderate portion size. Spinach oxalate reduces calcium bioavailability from spinach itself, but paneer calcium is well-absorbed."
+}

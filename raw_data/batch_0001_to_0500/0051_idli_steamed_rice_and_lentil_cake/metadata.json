@@ -1,0 +1,159 @@
+{
+  "food_name": "Idli (steamed rice and lentil cake)",
+  "local_names": {
+    "malay": "Idli",
+    "chinese_simplified": "印度蒸米糕",
+    "chinese_traditional": "印度蒸米糕",
+    "tamil": "இட்லி",
+    "romanized_local": "Idli / Idly"
+  },
+  "aliases": [
+    "idli",
+    "idly",
+    "steamed rice cake",
+    "South Indian steamed cake",
+    "fermented rice lentil dumpling"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Steamed fermented rice and lentil cake",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Idli. Nearest parent is a steamed grain cake or fermented rice product. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Fermented grain products — steamed fermented rice and lentil cake (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "steamed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "parboiled rice (idli rice)",
+      "urad dal (split black lentils, dehusked)",
+      "water",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "3 pieces",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of idli consists of 3 pieces (approximately 45–50g each, 150g total) of soft, white, spongy steamed round cakes served with sambar and coconut chutney on the side."
+  },
+  "nutrient_source": {
+    "title": "Idli — HPB Singapore Foodo Database, Food Code F05010002; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05010002 — Idli, standard South Indian preparation. Cross-referenced with ICMR-NIN idli data for micronutrient validation."
+  },
+  "per_100g": {
+    "energy_kcal": 132.0,
+    "protein_g": 4.2,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.5,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 192.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 68.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 5.5,
+    "water_g": 64.5
+  },
+  "glycemic_index": 77,
+  "glycemic_load_per_serving": 32.8,
+  "gi_source": "University of Sydney GI Database — idli (fermented rice and urad dal, steamed); GI is relatively high despite fermentation due to gelatinised rice starch.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 288mg per 3-piece serving (150g) — about 13% of the 2300mg daily recommended limit; idli itself is low in sodium, and the sodium comes mainly from salt in the batter.",
+      "guidance": "Patients with hypertension may consume idli regularly; it is one of the lowest-sodium cooked grain staples and the sambar and chutney accompaniments are the primary sodium sources that can be moderated."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Idli has a high GI (~77) driven by the gelatinised parboiled rice content despite fermentation; per 3-piece serving glycaemic load is approximately 33.",
+      "guidance": "Diabetic patients should limit idli to 2 pieces per meal and pair with a generous portion of sambar and coconut chutney to increase protein and fibre which moderate the glycaemic response; ragi (finger millet) idli is a lower-GI alternative."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Virtually fat-free and low in pro-inflammatory compounds; fermentation increases folate bioavailability and promotes gut microbiome health linked to immune modulation.",
+      "guidance": "Idli is an excellent choice for patients with rheumatoid arthritis; it is one of the most anti-inflammatory grain preparations available — fat-free, fermented, and gluten-free."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Idli is the foundational South Indian breakfast food — a soft, white, spongy steamed cake made from a fermented batter of parboiled rice and urad dal (split black lentils) that has been soaked, ground, and fermented overnight. The idli is steamed in round perforated moulds until set and rises to a fluffy, porous texture with no fat added during cooking. It is gluten-free, vegan, and virtually fat-free, making it one of the most nutritionally clean grain staples in Singapore's Indian food landscape. Served universally with sambar and coconut chutney.",
+    "common_user_queries": [
+      "how many calories in idli",
+      "is idli healthy",
+      "is idli gluten free",
+      "idli vs dosa which is healthier",
+      "can a diabetic eat idli",
+      "idli for weight loss",
+      "how many idli can I eat per day"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "lunch",
+      "tiffin"
+    ],
+    "ingredient_synonyms": {
+      "idli": [
+        "idly",
+        "steamed rice cake",
+        "South Indian rice cake"
+      ],
+      "parboiled rice": [
+        "idli rice",
+        "boiled rice",
+        "par-boiled rice",
+        "ukda chawal"
+      ],
+      "urad dal": [
+        "black gram (dehusked)",
+        "ulundu",
+        "split black lentil (white)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05010002 — Idli, standard preparation.",
+  "notes": "Fully vegan, gluten-free, allergen-free. Cholesterol and vitamin B12 are 0.0. Sambar and coconut chutney accompaniments are not included in per_100g values. Fermentation increases the bioavailability of iron, zinc, and B vitamins. Ragi idli (finger millet) has a lower GI and higher mineral content."
+}

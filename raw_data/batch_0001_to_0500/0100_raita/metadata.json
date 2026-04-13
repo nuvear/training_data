@@ -1,0 +1,161 @@
+{
+  "food_name": "Raita",
+  "local_names": {
+    "malay": "Raita",
+    "chinese_simplified": "印度黄瓜酸奶蘸酱",
+    "chinese_traditional": "印度黃瓜酸奶蘸醬",
+    "tamil": "ரைத்தா",
+    "romanized_local": "Raita / Cucumber Raita"
+  },
+  "aliases": [
+    "raita",
+    "cucumber raita",
+    "boondi raita",
+    "Indian yogurt condiment",
+    "spiced yogurt side",
+    "dahi raita"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Condiments and sauces",
+  "food_subgroup": "Spiced yogurt and cucumber relish",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Raita. Nearest parent is a yogurt-based condiment with vegetables. A new concept for Indian raita preparations is recommended.",
+    "foodex2_code": "A12AC",
+    "foodex2_description": "Yogurt and cucumber condiment, spiced (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "whisked",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "plain yogurt (whole-milk dahi)",
+      "cucumber (diced)",
+      "roasted cumin powder",
+      "chilli powder",
+      "chaat masala",
+      "fresh coriander",
+      "salt"
+    ],
+    "allergens": [
+      "milk (yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 small bowl",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of raita is 1 small bowl (approximately 100g) — a cool, smooth, white yogurt condiment with diced cucumber, a dusting of roasted cumin and chilli, and fresh coriander, served cold alongside biryani or paratha."
+  },
+  "nutrient_source": {
+    "title": "Raita — HPB Singapore Foodo Database, Food Code F01040003; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F01040003 — Raita (cucumber and yogurt, spiced), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 62.0,
+    "protein_g": 3.2,
+    "fat_g": 2.8,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 0.7,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 6.5,
+    "sugar_g": 5.2,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 225.0,
+    "potassium_mg": 165.0,
+    "calcium_mg": 102.0,
+    "iron_mg": 0.3,
+    "cholesterol_mg": 10.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.03,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 85.0,
+    "magnesium_mg": 10.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 4.0,
+    "water_g": 86.0
+  },
+  "glycemic_index": 35,
+  "glycemic_load_per_serving": 2.3,
+  "gi_source": "University of Sydney GI Database — estimated from plain yogurt with cucumber; the yogurt protein and fat give a very low GI; the cucumber adds negligible carbohydrates.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 225mg per 100g serving — moderate; the chaat masala and salt are the sodium sources. The calcium from yogurt (102mg/100g) is beneficial for blood pressure.",
+      "guidance": "Raita is an excellent accompaniment for hypertensive patients — the calcium from yogurt is beneficial, and it adds a low-calorie, low-fat cooling element to a meal. Reduce chaat masala to lower sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~35); glycaemic load per 100g serving is approximately 2 — negligible. Excellent choice as a low-calorie, low-GI accompaniment that can moderate the overall meal's glycaemic response.",
+      "guidance": "Raita is highly recommended as an accompaniment for diabetic patients — it is virtually carbohydrate-free, very low GI, and the protein and fat from yogurt help slow digestion and moderate blood glucose response from the main dish."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Probiotics in fresh yogurt support gut microbiome health; roasted cumin has anti-inflammatory properties; cucumber provides cooling effect and is very low in purines.",
+      "guidance": "Highly suitable for patients with rheumatoid arthritis — raita is one of the best condiments for immune health. The probiotic yogurt supports gut-immune axis health and the low-purine cucumber is well-tolerated."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Raita is the essential cooling Indian condiment — plain whole-milk yogurt whisked smooth with diced fresh cucumber, a generous dusting of roasted cumin powder, a pinch of chilli powder, chaat masala, salt, and fresh coriander, all served cold. It is the perfect counterbalance to spicy Indian food — the cool, creamy yogurt cools the palate while the cucumber adds crunch and freshness. Served alongside biryani, paratha, aloo paratha, and spicy curries. One of the lowest-calorie and lowest-GI condiments in Indian cuisine, making it a genuinely beneficial addition to any meal.",
+    "common_user_queries": [
+      "raita calories",
+      "is raita healthy",
+      "raita for diabetics",
+      "raita calcium content",
+      "raita vs plain yogurt",
+      "best condiment with biryani",
+      "cucumber raita nutrition"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "North Indian restaurant",
+      "condiment",
+      "accompaniment",
+      "biryani side"
+    ],
+    "ingredient_synonyms": {
+      "raita": [
+        "cucumber raita",
+        "dahi raita",
+        "boondi raita (with fried chickpea puffs)",
+        "mint raita"
+      ],
+      "dahi": [
+        "yogurt",
+        "curd",
+        "plain yogurt",
+        "Indian curd"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F01040003 — Raita (cucumber and yogurt, spiced), standard preparation.",
+  "notes": "Contains dairy (yogurt). Not vegan or dairy-free. Cholesterol approximately 10mg per 100g serving. Vitamin B12 present from dairy. The calorie and fat content is entirely from the yogurt — the cucumber adds minimal calories. Raita is one of the lowest-GI and lowest-calorie Indian restaurant accompaniments."
+}

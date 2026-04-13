@@ -1,0 +1,154 @@
+{
+  "food_name": "Idiyappam",
+  "local_names": {
+    "malay": "Idiyappam / Putu Mayam",
+    "chinese_simplified": "米粉团（印度式）",
+    "chinese_traditional": "米粉團（印度式）",
+    "tamil": "இடியாப்பம்",
+    "romanized_local": "Idiyappam / Putu Mayam / String Hoppers"
+  },
+  "aliases": [
+    "idiyappam",
+    "putu mayam",
+    "string hoppers",
+    "rice noodle nest",
+    "steamed rice flour noodle",
+    "indiappam"
+  ],
+  "cuisine": "South Indian / Kerala / Sri Lankan",
+  "region_of_origin": "India (Kerala / Tamil Nadu) / Sri Lanka",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Steamed rice flour string noodle nests",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Idiyappam. Nearest parent is a steamed rice flour noodle product. A new concept is recommended.",
+    "foodex2_code": "A02OT",
+    "foodex2_description": "Rice noodle products — steamed rice flour noodle nests (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "extruded"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour (idiyappam flour / puttu flour)",
+      "water",
+      "salt",
+      "oil (small amount for dough)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "3 pieces",
+    "size_g": 180,
+    "natural_language_portion": "A standard serving of idiyappam is 3 nests (approximately 60g each, 180g total) — each nest is a flat circular arrangement of delicate extruded rice flour vermicelli steamed until tender, typically served with coconut milk and curry."
+  },
+  "nutrient_source": {
+    "title": "Idiyappam — ICMR-NIN Nutritive Value of Indian Foods, derived from rice flour composition data; adapted from puttu/idiyappam preparation",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone idiyappam entry. Values are derived from ICMR-NIN rice flour composition data and standard idiyappam recipe (rice flour ~45%, water ~52%, salt, small amount of oil). Cross-referenced with comparable vermicelli rice noodle entries."
+  },
+  "per_100g": {
+    "energy_kcal": 162.0,
+    "protein_g": 2.2,
+    "fat_g": 0.5,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 36.5,
+    "sugar_g": 0.2,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 120.0,
+    "potassium_mg": 25.0,
+    "calcium_mg": 5.0,
+    "iron_mg": 0.3,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.01,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.02,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 28.0,
+    "magnesium_mg": 8.0,
+    "zinc_mg": 0.3,
+    "selenium_mcg": 3.0,
+    "water_g": 58.5
+  },
+  "glycemic_index": 74,
+  "glycemic_load_per_serving": 49.1,
+  "gi_source": "University of Sydney GI Database — estimated from steamed rice vermicelli; GI is high due to the refined white rice flour with minimal fibre and protein to slow digestion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 216mg per 3-nest serving (180g) — low; idiyappam is one of the lowest-sodium cooked grain products.",
+      "guidance": "Excellent choice for hypertensive patients; virtually sodium-free in the idiyappam itself. Sodium intake is primarily determined by the accompaniments (curry, coconut milk)."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "High GI (~74) and high carbohydrate content from refined white rice flour; glycaemic load per 3-nest serving (180g) is approximately 49 — very high.",
+      "guidance": "Diabetic patients should limit to 1–2 nests and pair with high-protein accompaniments (egg, chicken stew, lentils) to moderate the glycaemic response. Ragi idiyappam (finger millet) is a lower-GI alternative."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Extremely low in fat and allergens; rice flour is non-inflammatory; the dish itself is very pure.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — gluten-free, vegan, and very low in fat. Pair with anti-inflammatory curries containing turmeric and ginger."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Idiyappam (also known as Putu Mayam in the Malay-Singapore context) is a delicate South Indian and Sri Lankan dish of steamed rice flour noodles. A soft dough of rice flour and water is pressed through a mould with fine perforations to create thin vermicelli-like strands, which are arranged into flat nests and steamed until tender. Each nest is white, slightly translucent, and has a soft, silky texture. It is virtually fat-free and naturally gluten-free. In Singapore, putu mayam is sold by street vendors with freshly grated coconut and palm sugar (gula melaka), and also served at South Indian restaurants with coconut milk and curry.",
+    "common_user_queries": [
+      "idiyappam calories",
+      "putu mayam calories",
+      "is idiyappam gluten free",
+      "idiyappam vs noodles nutrition",
+      "putu mayam for diabetics",
+      "idiyappam protein content"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "street food",
+      "breakfast",
+      "tiffin",
+      "hawker centre"
+    ],
+    "ingredient_synonyms": {
+      "idiyappam": [
+        "putu mayam",
+        "string hoppers",
+        "rice noodle nests",
+        "indiappam"
+      ],
+      "rice flour": [
+        "puttu flour",
+        "idiyappam flour",
+        "rice flour (fine ground)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone idiyappam entry in ICMR-NIN. Values derived from ICMR-NIN rice flour data and standard recipe proportions. Estimates are consistent with similar steamed rice flour products.",
+  "notes": "Vegan and gluten-free. Per_100g values are for plain idiyappam only (no coconut milk or sugar). Accompaniments (sweetened coconut milk + palm sugar from street vendor putu mayam) would add approximately 60–80 kcal and 15–18g sugar per serving. GI is notably high due to refined rice flour — ragi (finger millet) idiyappam is a better choice for diabetic patients."
+}

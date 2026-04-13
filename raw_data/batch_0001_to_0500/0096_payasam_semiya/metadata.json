@@ -1,0 +1,164 @@
+{
+  "food_name": "Payasam (Semiya)",
+  "local_names": {
+    "malay": "Payasam",
+    "chinese_simplified": "南印度椰奶细粉甜汤",
+    "chinese_traditional": "南印度椰奶細粉甜湯",
+    "tamil": "பாயாசம்",
+    "romanized_local": "Semiya Payasam / Vermicelli Payasam / Kheer"
+  },
+  "aliases": [
+    "semiya payasam",
+    "vermicelli payasam",
+    "semiya kheer",
+    "South Indian vermicelli dessert",
+    "vermicelli coconut milk pudding",
+    "seviyan kheer"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Kerala)",
+  "food_group": "Sweets and desserts",
+  "food_subgroup": "Toasted wheat vermicelli in coconut milk and sugar with ghee-fried nuts",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Semiya Payasam. Nearest parent is a vermicelli milk dessert. A new concept for South Indian payasam preparations is recommended.",
+    "foodex2_code": "A14AS",
+    "foodex2_description": "Vermicelli in coconut milk/milk dessert with sugar, South Indian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "toasted in ghee",
+      "simmered",
+      "reduced"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "wheat vermicelli (semiya)",
+      "full-fat milk",
+      "coconut milk",
+      "sugar",
+      "ghee",
+      "cardamom",
+      "saffron",
+      "cashews",
+      "raisins"
+    ],
+    "allergens": [
+      "gluten (wheat vermicelli)",
+      "milk",
+      "tree nuts (cashew)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 small bowl",
+    "size_g": 150,
+    "natural_language_portion": "A standard serving of semiya payasam is 1 small bowl (approximately 150g) — a warm, slightly thick, creamy dessert soup of thin wheat vermicelli in sweetened milk and coconut milk, garnished with golden cashews and plump raisins fried in ghee."
+  },
+  "nutrient_source": {
+    "title": "Payasam (Semiya) — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000079",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000079 — Semiya Payasam (vermicelli in coconut milk and milk), standard South Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 195.0,
+    "protein_g": 4.2,
+    "fat_g": 8.5,
+    "saturated_fat_g": 5.5,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.5,
+    "sugar_g": 16.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 55.0,
+    "potassium_mg": 148.0,
+    "calcium_mg": 95.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 12.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 28.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.28,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 102.0,
+    "magnesium_mg": 14.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 5.5,
+    "water_g": 57.0
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 26.5,
+  "gi_source": "University of Sydney GI Database — estimated from wheat vermicelli in full-fat coconut milk and cow's milk; coconut milk fat and cow's milk protein moderate the GI of the vermicelli.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 83mg per bowl (150g) — very low. Payasam is naturally very low in sodium.",
+      "guidance": "Suitable for hypertensive patients from a sodium standpoint. The moderate sugar and fat content are the primary dietary considerations."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~62); glycaemic load per bowl (150g) is approximately 27. The sugar content (16.5g/100g) combined with wheat vermicelli creates a significant glycaemic load.",
+      "guidance": "Diabetic patients should limit payasam to half a serving (75g) or choose a reduced-sugar version. The coconut milk fat moderates the GI somewhat but the sugar content is a significant concern."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Coconut milk provides lauric acid with anti-inflammatory properties; cardamom and saffron have anti-inflammatory and antioxidant properties; milk provides calcium.",
+      "guidance": "Suitable in moderation for patients with rheumatoid arthritis. The coconut milk and spice content provide some anti-inflammatory benefit. Contains gluten (wheat vermicelli) — not suitable for coeliac patients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Semiya Payasam is a classic South Indian festival dessert — thin wheat vermicelli (semiya) toasted in ghee until golden, then simmered in a mixture of full-fat cow's milk and coconut milk, sweetened with sugar, and flavoured with cardamom and saffron. Finished with ghee-fried cashews and raisins. The result is a creamy, fragrant, slightly thick dessert soup served warm or at room temperature. Payasam differs from North Indian kheer in using coconut milk and wheat vermicelli rather than pure cow's milk and rice. A traditional Onam Sadya and festive offering in South India and Singapore's Tamil community.",
+    "common_user_queries": [
+      "payasam calories",
+      "semiya payasam nutrition",
+      "payasam vs kheer difference",
+      "is payasam healthy",
+      "payasam for diabetics",
+      "semiya kheer sugar content"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "Onam Sadya",
+      "Tamil festival dessert",
+      "Deepavali sweet",
+      "dessert"
+    ],
+    "ingredient_synonyms": {
+      "payasam": [
+        "semiya payasam",
+        "vermicelli payasam",
+        "seviyan kheer",
+        "semiya kheer"
+      ],
+      "semiya": [
+        "wheat vermicelli",
+        "seviyan",
+        "thin wheat noodles for dessert"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000079 — Semiya Payasam, standard South Indian preparation.",
+  "notes": "Contains gluten (wheat vermicelli), dairy (milk, ghee), and tree nuts (cashew). Not vegan, not gluten-free, not dairy-free. Cholesterol approximately 18mg per bowl (150g). Key distinction from Kheer (#095): payasam uses coconut milk (higher saturated fat), wheat vermicelli (not rice), and the texture is slightly looser. Higher saturated fat than kheer due to coconut milk MCTs."
+}

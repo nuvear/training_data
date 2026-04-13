@@ -1,0 +1,161 @@
+{
+  "food_name": "Pongal",
+  "local_names": {
+    "malay": "Pongal",
+    "chinese_simplified": "南印度绿豆粥",
+    "chinese_traditional": "南印度綠豆粥",
+    "tamil": "பொங்கல்",
+    "romanized_local": "Pongal / Ven Pongal / Khara Pongal"
+  },
+  "aliases": [
+    "pongal",
+    "ven pongal",
+    "khara pongal",
+    "savoury pongal",
+    "ghee pongal",
+    "South Indian rice porridge"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Savoury cooked rice and lentil porridge with ghee",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Pongal. Nearest parent is a cooked rice-lentil porridge. A new concept covering South Indian pongal preparations is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Cooked grain and legume porridge, savoury style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "raw white rice (or parboiled rice)",
+      "split yellow moong dal",
+      "ghee (clarified butter)",
+      "cumin seeds",
+      "black pepper (cracked)",
+      "cashews",
+      "fresh ginger",
+      "curry leaves",
+      "salt"
+    ],
+    "allergens": [
+      "milk (ghee)",
+      "tree nuts (cashew)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of pongal is 1 bowl (approximately 250g) — a soft, mushy, creamy porridge of rice and moong dal flavoured with ghee, cracked pepper, and cumin, garnished with fried cashews and curry leaves."
+  },
+  "nutrient_source": {
+    "title": "Pongal (savoury) — HPB Singapore Foodo Database, Food Code F05100104; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05100104 — Pongal (savoury/ven pongal), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 148.0,
+    "protein_g": 4.5,
+    "fat_g": 4.8,
+    "saturated_fat_g": 2.5,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 22.5,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 188.0,
+    "potassium_mg": 112.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.0,
+    "cholesterol_mg": 10.5,
+    "vitamin_c_mg": 1.0,
+    "vitamin_a_mcg_rae": 20.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 0.9,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 82.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 6.0,
+    "water_g": 64.0
+  },
+  "glycemic_index": 72,
+  "glycemic_load_per_serving": 40.5,
+  "gi_source": "University of Sydney GI Database — estimated from cooked white rice and moong dal mixture; moong dal significantly lowers GI vs plain rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 470mg per bowl (250g) — moderate; pongal is a naturally low-sodium dish and the sodium comes from added salt which can be reduced.",
+      "guidance": "Suitable for hypertensive patients when prepared with reduced salt; avoid high-sodium sambar accompaniment for strict sodium restriction."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate-high GI (~72); glycaemic load per full bowl (250g) is approximately 40.5 — high; the moong dal provides fibre and protein which moderates the spike vs plain rice.",
+      "guidance": "Patients with diabetes should limit to a 150g portion and pair with a protein-rich side. The moong dal content provides protein and fibre which helps moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Ghee provides butyrate and fat-soluble vitamins; black pepper and ginger have anti-inflammatory properties; moong dal is a low-purine legume.",
+      "guidance": "Pongal is excellent for patients with rheumatoid arthritis — ghee, ginger, and black pepper are traditional Ayurvedic anti-inflammatory ingredients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Pongal (specifically Ven Pongal or Khara Pongal) is a beloved South Indian comfort dish from Tamil Nadu — a soft, creamy, savoury porridge made by pressure-cooking white rice and split yellow moong dal together until the mixture is completely amalgamated and mushy. It is generously flavoured with a hot ghee tempering of cumin seeds, cracked black pepper, fresh ginger, curry leaves, and golden-fried cashews. The dish is soft, warming, mildly spiced, and mildly nutty. In Singapore, pongal is a breakfast staple at South Indian restaurants and is served with sambar and coconut chutney.",
+    "common_user_queries": [
+      "pongal calories",
+      "is pongal healthy",
+      "pongal for diabetes",
+      "pongal vs khichdi nutrition",
+      "savoury pongal ghee content",
+      "South Indian pongal protein"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "breakfast",
+      "tiffin",
+      "Pongal festival"
+    ],
+    "ingredient_synonyms": {
+      "pongal": [
+        "ven pongal",
+        "khara pongal",
+        "savoury pongal",
+        "ghee pongal"
+      ],
+      "moong dal": [
+        "yellow split moong",
+        "mung dal",
+        "green gram (split, dehusked)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05100104 — Pongal (savoury), standard preparation.",
+  "notes": "Contains ghee (dairy/milk) and cashew (tree nut) — not vegan or dairy-free. Cholesterol approximately 26mg per bowl (250g) from ghee. Sweet sakkarai pongal (jaggery pongal) is a different dish with significantly higher sugar content — values here are for savoury ven pongal only."
+}

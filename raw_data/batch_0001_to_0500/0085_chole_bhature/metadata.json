@@ -1,0 +1,161 @@
+{
+  "food_name": "Chole Bhature",
+  "local_names": {
+    "malay": "Chole Bhature",
+    "chinese_simplified": "印度鹰嘴豆配油炸面包",
+    "chinese_traditional": "印度鷹嘴豆配油炸麵包",
+    "tamil": "சோலே பட்டூரே",
+    "romanized_local": "Chole Bhature / Chhole Bhature"
+  },
+  "aliases": [
+    "chole bhature",
+    "chhole bhature",
+    "chickpea curry with fried bread",
+    "Punjabi chole bhature"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab / Delhi)",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced chickpea curry with deep-fried leavened white bread",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Chole Bhature as a combined dish. Nearest parent is a legume curry served with fried bread. A new concept for this iconic Indian street food combination is recommended.",
+    "foodex2_code": "EX000018",
+    "foodex2_description": "Chole Bhature — spiced chickpea curry with deep-fried leavened bread, North Indian",
+    "foodex2_match_type": "exact",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pressure-cooked",
+      "simmered",
+      "deep-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "white chickpeas (kabuli chana)",
+      "refined wheat flour (maida) for bhatura",
+      "yogurt (for bhatura dough)",
+      "baking soda (for bhatura leavening)",
+      "onion",
+      "tomato",
+      "whole spices and chole masala",
+      "tea bag (for colour)",
+      "dried pomegranate seed powder",
+      "oil (for deep frying bhatura)"
+    ],
+    "allergens": [
+      "gluten (wheat in bhatura)",
+      "milk (yogurt in bhatura)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bhatura + 1 bowl chole",
+    "size_g": 350,
+    "natural_language_portion": "A standard serving of chole bhature is 1 bhatura (approximately 150g deep-fried puffed bread) plus 1 bowl of chole (200g spiced chickpea curry), totalling approximately 350g."
+  },
+  "nutrient_source": {
+    "title": "Chole Bhature — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000018",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000018 — Chole Bhature, combined serving (200g chole + 150g bhatura)."
+  },
+  "per_100g": {
+    "energy_kcal": 265.0,
+    "protein_g": 7.8,
+    "fat_g": 12.5,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 5.0,
+    "polyunsaturated_fat_g": 5.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 34.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 4.2,
+    "sodium_mg": 352.0,
+    "potassium_mg": 245.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 2.0,
+    "cholesterol_mg": 2.5,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 15.0,
+    "vitamin_b1_thiamine_mg": 0.15,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.02,
+    "folate_mcg_dfe": 45.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 128.0,
+    "magnesium_mg": 38.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 12.0,
+    "water_g": 40.5
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 75.5,
+  "gi_source": "University of Sydney GI Database — estimated from combined chickpea curry (low GI) and deep-fried wheat bhatura (high GI); the combined GI is moderate but the glycaemic load per full serving is very high.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1232mg per full serving (350g) — very high; the spice blend, salt in chole, and baking soda in bhatura all contribute.",
+      "guidance": "Patients with hypertension should treat chole bhature as an occasional indulgence meal. Limit to half a serving (175g). The high potassium from chickpeas provides some offset."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~62) but very high glycaemic load per full serving (350g) of approximately 75 — one of the highest glycaemic loads of any standard single meal.",
+      "guidance": "Diabetic patients should avoid chole bhature as a regular meal. The deep-fried bhatura has a very high glycaemic load. If consumed, limit to a quarter bhatura with 100g of chole."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Deep-frying oil from bhatura contributes omega-6 fatty acids; chickpeas are highly anti-inflammatory but the bhatura's refined flour and frying offset this.",
+      "guidance": "Consume occasionally. The chickpea chole is anti-inflammatory and high in folate, but the deep-fried bhatura undermines the overall nutritional benefit. Prefer the chole alone with chapati."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chole Bhature is a legendary North Indian street food and comfort meal — two inseparable components served together: Chole, a dark, intensely spiced chickpea curry with a dry-ish tomato-onion gravy flavoured with dried pomegranate seed powder and whole spices; and Bhature, large, puffed, golden, deep-fried leavened bread made from refined flour and yogurt. One of the most indulgent and calorie-dense dishes in Indian cuisine, chole bhature is a beloved breakfast-to-lunch item in Delhi and Punjab. The chickpea provides outstanding nutrition (high fibre, protein, folate) but the deep-fried bhatura adds significant calories and fat.",
+    "common_user_queries": [
+      "chole bhature calories",
+      "is chole bhature healthy",
+      "chole bhature vs rajma chawal",
+      "chole bhature for diabetics",
+      "chole bhature sodium",
+      "how many calories in bhatura"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Punjabi dhaba",
+      "street food",
+      "breakfast",
+      "lunch"
+    ],
+    "ingredient_synonyms": {
+      "chole bhature": [
+        "chhole bhature",
+        "chole puri",
+        "chickpea curry with fried bread"
+      ],
+      "bhatura": [
+        "bhature",
+        "bhatura bread",
+        "deep-fried leavened bread"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000018 — Chole Bhature, combined dish.",
+  "notes": "Contains gluten (bhatura is made from refined wheat flour) and dairy (yogurt in bhatura dough). Not vegan or suitable for gluten-sensitive patients. Per_100g values are for the combined chole + bhatura serving (350g total). Cholesterol approximately 8.75mg per full serving — primarily from yogurt in bhatura. Very high glycaemic load per full serving (approximately 75)."
+}

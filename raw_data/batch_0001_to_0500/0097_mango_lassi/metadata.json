@@ -1,0 +1,155 @@
+{
+  "food_name": "Mango Lassi",
+  "local_names": {
+    "malay": "Mango Lassi",
+    "chinese_simplified": "印度芒果酸奶饮料",
+    "chinese_traditional": "印度芒果酸奶飲料",
+    "tamil": "மாம்பழ லஸ்ஸி",
+    "romanized_local": "Mango Lassi / Aam Lassi"
+  },
+  "aliases": [
+    "mango lassi",
+    "aam lassi",
+    "mango yogurt drink",
+    "Indian mango shake",
+    "mango smoothie Indian"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Punjab / North India)",
+  "food_group": "Beverages",
+  "food_subgroup": "Blended yogurt and mango drink, sweetened",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Mango Lassi. Nearest parent is a yogurt-based fruit beverage. A new concept for South Asian lassi beverages is recommended.",
+    "foodex2_code": "A15NB",
+    "foodex2_description": "Yogurt-based fruit drink (lassi), sweetened (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "blended",
+      "chilled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "plain yogurt (whole-milk dahi)",
+      "ripe mango pulp (Alphonso or Kesar mango)",
+      "sugar",
+      "cardamom (optional)",
+      "water or milk (to adjust consistency)"
+    ],
+    "allergens": [
+      "milk (yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 glass",
+    "size_g": 310,
+    "natural_language_portion": "A standard serving of mango lassi is 1 glass (approximately 300ml / 310g) — a thick, creamy, bright-orange-yellow blended drink of yogurt and mango pulp, sweet with a pleasant yogurt tang."
+  },
+  "nutrient_source": {
+    "title": "Mango Lassi — ICMR-NIN Nutritive Value of Indian Foods, Entry EX000036",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EX000036 — Mango Lassi, standard preparation (yogurt, mango pulp, sugar)."
+  },
+  "per_100g": {
+    "energy_kcal": 88.0,
+    "protein_g": 2.8,
+    "fat_g": 2.2,
+    "saturated_fat_g": 1.4,
+    "monounsaturated_fat_g": 0.6,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 15.5,
+    "sugar_g": 14.2,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 42.0,
+    "potassium_mg": 138.0,
+    "calcium_mg": 85.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 8.0,
+    "vitamin_c_mg": 15.5,
+    "vitamin_a_mcg_rae": 88.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.18,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 78.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 4.0,
+    "water_g": 77.5
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 24.9,
+  "gi_source": "University of Sydney GI Database — estimated from yogurt and mango pulp combination; yogurt protein and fat moderate the GI of the mango sugars.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 130mg per glass (310g) — very low. High potassium (428mg per glass) from mango and yogurt is beneficial for blood pressure.",
+      "guidance": "Suitable for hypertensive patients — very low sodium, high potassium from mango. The calcium from yogurt is also beneficial for blood pressure regulation."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~52); glycaemic load per glass (310g) is approximately 25. The yogurt moderates the GI of mango, but the total sugar content per glass (~44g) is high.",
+      "guidance": "Diabetic patients should limit to half a glass (150ml) and avoid added sugar. Request sugar-free mango lassi or use less sweet mango. The yogurt protein moderates the glycaemic response significantly."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Mango is one of the richest fruit sources of vitamin C (15.5mg/100g) and beta-carotene/vitamin A (88mcg RAE/100g); yogurt provides probiotics and calcium.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — the vitamin C and beta-carotene from mango support collagen synthesis and have anti-inflammatory antioxidant effects. The probiotics from yogurt support gut-immune axis health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mango Lassi is India's most popular yogurt beverage — a smooth, thick, intensely fruity drink made by blending whole-milk yogurt with ripe mango pulp (traditionally Alphonso or Kesar mango), sugar, and sometimes a pinch of cardamom. Chilled and served immediately. The mango provides a bright, tropical sweetness and the yogurt adds a creamy body and mild tang. Rich in vitamin C, beta-carotene, and calcium. Available at virtually every Indian restaurant in Singapore as a standard beverages menu item. The ratio of mango to yogurt affects both texture and sweetness.",
+    "common_user_queries": [
+      "mango lassi calories",
+      "is mango lassi healthy",
+      "mango lassi sugar content",
+      "mango lassi for diabetics",
+      "mango lassi vitamin C",
+      "mango lassi vs plain lassi",
+      "how much sugar in mango lassi"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "beverage",
+      "accompaniment to meal",
+      "sweet drink"
+    ],
+    "ingredient_synonyms": {
+      "mango lassi": [
+        "aam lassi",
+        "mango yogurt drink",
+        "mango smoothie (Indian)"
+      ],
+      "mango pulp": [
+        "Alphonso mango pulp",
+        "Kesar mango pulp",
+        "aam ras"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EX000036 — Mango Lassi, standard preparation.",
+  "notes": "Contains dairy (yogurt). Not vegan or dairy-free. Cholesterol approximately 25mg per glass (310g). Vitamin A is notably high from mango beta-carotene (88mcg RAE/100g, approximately 273mcg RAE per glass). The sugar content varies significantly based on mango sweetness and added sugar — values assume standard restaurant preparation with added sugar."
+}

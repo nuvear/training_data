@@ -1,0 +1,167 @@
+{
+  "food_name": "Chicken Korma",
+  "local_names": {
+    "malay": "Ayam Korma",
+    "chinese_simplified": "奶油杏仁鸡咖喱",
+    "chinese_traditional": "奶油杏仁雞咖喱",
+    "tamil": "சிக்கன் கோர்மா",
+    "romanized_local": "Chicken Korma / Murgh Korma"
+  },
+  "aliases": [
+    "chicken korma",
+    "murgh korma",
+    "qorma",
+    "mild chicken curry",
+    "Mughlai chicken curry",
+    "white korma"
+  ],
+  "cuisine": "North Indian / Mughlai",
+  "region_of_origin": "India (Mughal Empire / North India)",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Braised chicken in mild yogurt-almond-cream sauce",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Chicken Korma. Nearest parent is a mild braised chicken curry with dairy. A new concept for Mughlai-style korma preparations is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Braised chicken in mild dairy-nut sauce, Mughlai style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "sautéed",
+      "braised"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "bone-in chicken pieces",
+      "plain yogurt",
+      "fried onion paste (birista)",
+      "cashew or almond paste",
+      "fresh cream",
+      "saffron",
+      "cardamom",
+      "cloves",
+      "cinnamon",
+      "bay leaf",
+      "ginger-garlic paste",
+      "oil or ghee",
+      "salt"
+    ],
+    "allergens": [
+      "milk (yogurt, cream)",
+      "tree nuts (cashew/almond)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl (curry with chicken pieces)",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of chicken korma is 1 bowl (approximately 250g) — chicken pieces in a pale yellow, mildly spiced, creamy and aromatic sauce with a distinctly sweet and nutty flavour."
+  },
+  "nutrient_source": {
+    "title": "Chicken Korma — ICMR-NIN Nutritive Value of Indian Foods, Entry F11020017; cross-referenced with HPB Singapore Foodo",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN); Health Promotion Board (HPB), Singapore",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry F11020017 — Chicken Korma, standard North Indian Mughlai preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 192.0,
+    "protein_g": 14.5,
+    "fat_g": 14.2,
+    "saturated_fat_g": 5.5,
+    "monounsaturated_fat_g": 5.8,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 5.0,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 318.0,
+    "potassium_mg": 248.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.0,
+    "cholesterol_mg": 62.0,
+    "vitamin_c_mg": 2.0,
+    "vitamin_a_mcg_rae": 42.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 5.5,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 2.0,
+    "phosphorus_mg": 175.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 22.0,
+    "water_g": 62.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — Chicken Korma contains very low carbohydrates (5g/100g); the minimal carbohydrate content does not meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 795mg per bowl (250g) — elevated for restaurant preparation; restaurant korma may contain additional salt and cream.",
+      "guidance": "Patients with hypertension should limit to a smaller portion (150g) or request reduced-salt preparation. Home cooking with reduced cream and salt is strongly preferred."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrates (5g/100g); GI testing not applicable. High protein and fat provide excellent satiety without a blood glucose spike.",
+      "guidance": "Chicken korma is acceptable for diabetic patients — the very low carbohydrate content does not raise blood glucose. However, the high saturated fat from cream warrants general moderation."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "High saturated fat from cream (5.5g/100g) may promote inflammation if consumed frequently; cardamom and cinnamon have modest anti-inflammatory properties.",
+      "guidance": "Consume in moderation — the high saturated fat content from cream warrants caution for patients with active rheumatoid arthritis. Choose reduced-cream preparations. The aromatic spices provide beneficial anti-inflammatory compounds."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chicken Korma is one of India's most celebrated Mughlai curries — chicken pieces braised in a rich, mildly spiced, pale-golden sauce made from yogurt, fried onion paste, cashew or almond paste, cream, and aromatic whole spices (cardamom, cloves, cinnamon, bay leaf). It is distinctly and intentionally mild in chilli heat — the flavour is aromatic, slightly sweet, and rich with nut and dairy fat. Often finished with saffron. A popular choice for those who prefer mild curries, and a classic at Indian restaurant buffets in Singapore.",
+    "common_user_queries": [
+      "chicken korma calories",
+      "is chicken korma healthy",
+      "chicken korma fat content",
+      "chicken korma for diabetics",
+      "chicken korma vs butter chicken",
+      "mildest Indian chicken curry calories"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "Mughlai restaurant",
+      "main course",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "chicken korma": [
+        "murgh korma",
+        "qorma",
+        "white korma",
+        "mild chicken curry"
+      ],
+      "birista": [
+        "fried onion paste",
+        "caramelised onion paste",
+        "beurista"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry F11020017 — Chicken Korma, standard preparation.",
+  "notes": "Contains dairy (yogurt, cream) and tree nuts (cashew/almond). Not vegan or dairy-free. Cholesterol approximately 155mg per bowl (250g). GI and GL are null — insufficient carbohydrate. Restaurant korma tends to use more cream than home cooking — values may be higher in restaurant servings."
+}

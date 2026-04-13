@@ -1,0 +1,161 @@
+{
+  "food_name": "Peanut Sundal",
+  "local_names": {
+    "malay": "Kacang Sundal",
+    "chinese_simplified": "南印度香料花生",
+    "chinese_traditional": "南印度香料花生",
+    "tamil": "வேர்க்கடலை சுண்டல்",
+    "romanized_local": "Verkadalai Sundal / Peanut Sundal"
+  },
+  "aliases": [
+    "peanut sundal",
+    "verkadalai sundal",
+    "tempered peanuts South Indian",
+    "Navratri sundal",
+    "boiled peanut snack South Indian"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Boiled peanuts dry-tempered with South Indian spices",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Peanut Sundal. Nearest parent is a cooked legume snack. A new concept for South Indian sundal preparations is recommended.",
+    "foodex2_code": "A03RJ",
+    "foodex2_description": "Cooked legume snack, South Indian tempered style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "dry-tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "raw peanuts (groundnuts)",
+      "oil",
+      "mustard seeds",
+      "urad dal",
+      "curry leaves",
+      "dried red chilli",
+      "green chilli",
+      "turmeric",
+      "freshly grated coconut",
+      "salt"
+    ],
+    "allergens": [
+      "peanuts",
+      "tree nuts (coconut)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of peanut sundal is 1 small bowl (100g) — moist boiled peanuts dry-tempered with mustard seeds, curry leaves, and chilli, garnished with freshly grated coconut."
+  },
+  "nutrient_source": {
+    "title": "Peanut Sundal — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000054",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000054 — Peanut Sundal, standard South Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 252.0,
+    "protein_g": 10.5,
+    "fat_g": 17.5,
+    "saturated_fat_g": 3.8,
+    "monounsaturated_fat_g": 8.2,
+    "polyunsaturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 16.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 5.2,
+    "sodium_mg": 215.0,
+    "potassium_mg": 385.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.28,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 4.5,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 48.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 4.5,
+    "phosphorus_mg": 185.0,
+    "magnesium_mg": 52.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 6.0,
+    "water_g": 50.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "No GI data available in University of Sydney GI Database for peanut sundal specifically. GI expected to be very low (<30) due to the very high protein, fat, and fibre content of peanuts. Testing not available for this preparation.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 215mg per 100g serving — moderate; high potassium (385mg/100g) from peanuts is beneficial for blood pressure. Peanuts are also a source of magnesium which supports vascular health.",
+      "guidance": "Suitable for hypertensive patients at standard serving sizes. Peanuts contain unsaturated fats that are beneficial for cardiovascular health."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Expected very low GI (peanuts have a GI of ~14); high in protein (10.5g/100g), fat (17.5g/100g), and fibre (5.2g/100g) which collectively minimise the glycaemic response.",
+      "guidance": "Excellent snack for diabetic patients — peanuts have one of the lowest GI values of all foods. Peanut sundal provides sustained energy without a blood glucose spike."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Peanuts are rich in vitamin E (4.5mg/100g) and folate — both important for immune function and anti-inflammatory pathways; magnesium supports bone health.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — the vitamin E and folate content supports immune modulation. Moderate consumption is advisable due to the peanut allergen potential in affected individuals."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Peanut Sundal is a classic South Indian snack from Tamil Nadu — raw peanuts (groundnuts) soaked and boiled until tender, then dry-tempered in oil with mustard seeds, urad dal, curry leaves, dried red chilli, and green chilli, finished with freshly grated coconut. The peanuts retain their natural nutty flavour and are moist but not swimming in oil — a dry, protein-rich snack. Sundal is a traditional Navratri festival offering and temple prasad in Tamil Nadu. In Singapore, peanut sundal is served at South Indian restaurants and tiffin counters as a starter or snack.",
+    "common_user_queries": [
+      "peanut sundal calories",
+      "is peanut sundal healthy",
+      "sundal protein content",
+      "peanut sundal for diabetics",
+      "South Indian peanut snack nutrition"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "Navratri prasad",
+      "snack",
+      "tiffin",
+      "starter"
+    ],
+    "ingredient_synonyms": {
+      "peanut sundal": [
+        "verkadalai sundal",
+        "South Indian boiled peanuts",
+        "groundnut sundal"
+      ],
+      "peanuts": [
+        "groundnuts",
+        "verkadalai",
+        "mungphali",
+        "monkey nuts"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000054 — Peanut Sundal, standard preparation.",
+  "notes": "Contains peanut and coconut (tree nut) allergens. Vegan and gluten-free. Cholesterol is 0.0. GI and GL are null — no testing data available but expected very low based on peanut composition. High caloric density per 100g from fat content; standard serving is 100g."
+}

@@ -1,0 +1,162 @@
+{
+  "food_name": "Dahi Vada",
+  "local_names": {
+    "malay": "Dahi Vada",
+    "chinese_simplified": "酸奶酱炸扁豆饼",
+    "chinese_traditional": "酸奶醬炸扁豆餅",
+    "tamil": "தயிர் வடை",
+    "romanized_local": "Dahi Vada / Dahi Bhalla / Thayir Vadai"
+  },
+  "aliases": [
+    "dahi vada",
+    "dahi bhalla",
+    "thayir vadai",
+    "lentil fritters in yogurt",
+    "vada in yogurt",
+    "urad dal fritters in curd"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (North and South)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Lentil fritters soaked in spiced sweetened yogurt",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Dahi Vada. Nearest parent is a lentil-based snack in dairy sauce. A new concept for yogurt-based Indian chaat is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Legume-based fritter in dairy condiment, Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "ground",
+      "deep-fried",
+      "soaked",
+      "assembled cold"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "urad dal (split black lentils, dehusked)",
+      "plain yogurt (curd / dahi), sweetened",
+      "tamarind chutney",
+      "green chutney (mint-coriander)",
+      "chaat masala",
+      "roasted cumin powder",
+      "chilli powder",
+      "oil (for deep frying)"
+    ],
+    "allergens": [
+      "milk (yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "2 pieces in yogurt",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of dahi vada is 2 pieces (200g total) — two soft soaked urad dal fritters submerged in chilled sweetened yogurt, topped with tamarind chutney, green chutney, chaat masala, and chilli powder."
+  },
+  "nutrient_source": {
+    "title": "Dahi Vada — ICMR-NIN Nutritive Value of Indian Foods, Entry EI000020",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry EI000020 — Dahi Vada, standard North Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 142.0,
+    "protein_g": 5.8,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 2.5,
+    "polyunsaturated_fat_g": 1.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 18.5,
+    "sugar_g": 6.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 298.0,
+    "potassium_mg": 158.0,
+    "calcium_mg": 95.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 8.5,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 38.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 98.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 5.0,
+    "water_g": 65.0
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 19.2,
+  "gi_source": "University of Sydney GI Database — estimated from urad dal fritter in yogurt; the yogurt protein and fat, combined with lentil structure, moderates the GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "medium",
+      "key_factor": "Sodium approximately 596mg per 2-piece serving (200g) — elevated; chutney toppings (especially tamarind chutney) and chaat masala are the primary sodium contributors.",
+      "guidance": "Patients with hypertension should limit dahi vada to 1 piece and request reduced-salt chutneys. The yogurt component provides calcium which is beneficial for blood pressure."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~52); glycaemic load per serving is approximately 19. The sweetened yogurt contributes 6.5g sugar per 100g which is a concern for diabetic patients.",
+      "guidance": "Diabetic patients should request dahi vada with unsweetened yogurt (no added sugar) and minimal tamarind chutney. Limit to 1 piece. The lentil base provides good protein content."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Urad dal is an excellent source of folate and protein; yogurt provides probiotics and calcium; cumin and chilli have anti-inflammatory properties.",
+      "guidance": "Suitable for patients with rheumatoid arthritis when made with unsweetened yogurt. The probiotic content of fresh yogurt and the anti-inflammatory spice toppings are beneficial."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dahi Vada is a popular Indian chaat dish — urad dal fritters (vadas) that are first deep-fried, then soaked in water to remove excess oil and soften, then submerged in chilled sweetened plain yogurt and finished with a generous topping of dark tamarind chutney, vibrant green mint-coriander chutney, chaat masala, roasted cumin, and chilli powder. Served cold, it is simultaneously creamy, tangy, sweet, and spiced. The deep-fried vada absorbs the yogurt to become soft and spongy in contrast to the crispy fresh medu vada. Rich in protein and calcium from both lentil and dairy sources.",
+    "common_user_queries": [
+      "dahi vada calories",
+      "is dahi vada healthy",
+      "dahi vada protein content",
+      "dahi vada vs medu vada calories",
+      "dahi vada for diabetics",
+      "dahi vada calcium content"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "street food",
+      "chaat",
+      "starter",
+      "festival food"
+    ],
+    "ingredient_synonyms": {
+      "dahi vada": [
+        "dahi bhalla",
+        "thayir vadai",
+        "yogurt vada",
+        "vada in curd"
+      ],
+      "tamarind chutney": [
+        "imli chutney",
+        "sweet chutney",
+        "asam chutney"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry EI000020 — Dahi Vada, standard preparation.",
+  "notes": "Contains dairy (yogurt) and is not vegan or dairy-free. Cholesterol approximately 17mg per 2-piece serving (200g) from yogurt. Vitamin B12 present from dairy. Sugar content is elevated due to sweetened yogurt — request unsweetened for diabetic patients."
+}

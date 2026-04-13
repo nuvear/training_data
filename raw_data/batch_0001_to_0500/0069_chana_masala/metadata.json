@@ -1,0 +1,164 @@
+{
+  "food_name": "Chana Masala",
+  "local_names": {
+    "malay": "Kari Kacang Buncis",
+    "chinese_simplified": "香料鹰嘴豆咖喱",
+    "chinese_traditional": "香料鷹嘴豆咖喱",
+    "tamil": "சுண்டல் மசாலா",
+    "romanized_local": "Chana Masala / Chole / Chhole"
+  },
+  "aliases": [
+    "chana masala",
+    "chole",
+    "chhole",
+    "spiced chickpea curry",
+    "white chickpea curry",
+    "kabuli chana curry"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab / North India)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Spiced cooked chickpea curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Chana Masala. Nearest parent is a cooked chickpea dish. A new concept covering Indian spiced chickpea curries is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Cooked chickpea curry, North Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pressure-cooked",
+      "simmered",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "white chickpeas (kabuli chana)",
+      "onion",
+      "tomato",
+      "ginger-garlic paste",
+      "cumin seeds",
+      "coriander powder",
+      "garam masala",
+      "amchur (dried mango powder)",
+      "chana masala spice blend",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of chana masala is 1 bowl (approximately 200g) — a hearty, aromatic, slightly dry chickpea curry with a thick, tangy tomato-onion gravy, served with puri, bhatura, or rice."
+  },
+  "nutrient_source": {
+    "title": "Chana Masala — HPB Singapore Foodo Database, Food Code F09010006; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F09010006 — Chana Masala, standard North Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 148.0,
+    "protein_g": 7.2,
+    "fat_g": 4.5,
+    "saturated_fat_g": 0.5,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 21.5,
+    "sugar_g": 3.2,
+    "dietary_fibre_g": 6.5,
+    "sodium_mg": 285.0,
+    "potassium_mg": 298.0,
+    "calcium_mg": 45.0,
+    "iron_mg": 2.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 52.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 145.0,
+    "magnesium_mg": 42.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 5.0,
+    "water_g": 63.0
+  },
+  "glycemic_index": 28,
+  "glycemic_load_per_serving": 12.0,
+  "gi_source": "University of Sydney GI Database — canned chickpeas in spiced curry GI approximately 28; the very high fibre (6.5g/100g) and protein content of chickpeas gives a very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 570mg per bowl (200g) — moderate; the very high potassium (596mg per bowl) and magnesium from chickpeas are beneficial for blood pressure regulation.",
+      "guidance": "Excellent choice for hypertensive patients — chickpeas are one of the most potassium-rich legumes; the potassium-to-sodium ratio is highly favourable. Reduce added salt during cooking."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~28); glycaemic load per bowl is approximately 12. The resistant starch and fibre in chickpeas significantly slow glucose absorption.",
+      "guidance": "Chana masala is highly recommended for diabetic patients — chickpeas are among the most diabetes-friendly carbohydrates available. Regular chickpea consumption is associated with improved long-term glycaemic control."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Chickpeas are rich in folate (52mcg DFE/100g), magnesium, and protein; turmeric and cumin provide anti-inflammatory compounds; amchur provides vitamin C for iron absorption.",
+      "guidance": "Highly suitable for patients with rheumatoid arthritis — the high folate, magnesium, and protein content supports immune function and muscle health. Regular legume consumption is associated with reduced inflammatory markers."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chana Masala is a North Indian and Punjabi staple — plump, pressure-cooked white chickpeas (kabuli chana) simmered in a robust, tangy, slightly dry tomato-onion gravy fragrant with cumin, coriander, garam masala, and a special chana masala spice blend that typically includes amchur (dried mango powder) and pomegranate seeds. The curry is drier and more intensely spiced than many other Indian curries. It is one of the most nutritionally complete legume dishes — very high in fibre, protein, folate, and potassium, with a very low GI. Paired with bhature or puri for the classic Chole Bhature combination, or eaten with rice.",
+    "common_user_queries": [
+      "chana masala calories",
+      "is chana masala healthy",
+      "chana masala protein content",
+      "chana masala for diabetics",
+      "chickpea curry fibre content",
+      "chana masala vs rajma nutrition"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "main course",
+      "vegetarian",
+      "lunch"
+    ],
+    "ingredient_synonyms": {
+      "chana masala": [
+        "chole",
+        "chhole",
+        "spiced chickpea curry",
+        "kabuli chana curry"
+      ],
+      "chickpeas": [
+        "kabuli chana",
+        "white chickpeas",
+        "garbanzo beans",
+        "Bengal gram (white)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F09010006 — Chana Masala, standard preparation.",
+  "notes": "Vegan and gluten-free. Cholesterol is 0.0. Exceptionally high fibre (6.5g/100g) — one of the highest fibre dishes in Indian cuisine. The amchur (dried mango powder) contributes to the tangy flavour and provides small amounts of vitamin C."
+}

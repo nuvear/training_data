@@ -1,0 +1,154 @@
+{
+  "food_name": "Jalebi",
+  "local_names": {
+    "malay": "Jalebi",
+    "chinese_simplified": "印度炸糖浆螺旋饼",
+    "chinese_traditional": "印度炸糖漿螺旋餅",
+    "tamil": "ஜிலேபி",
+    "romanized_local": "Jalebi / Jilapi / Imarti"
+  },
+  "aliases": [
+    "jalebi",
+    "jilapi",
+    "deep-fried spiral in sugar syrup",
+    "crispy Indian sweet",
+    "fermented wheat spiral sweet"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian / Persian origin)",
+  "food_group": "Sweets and desserts",
+  "food_subgroup": "Deep-fried fermented wheat batter spirals soaked in sugar syrup",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Jalebi. Nearest parent is a fried confectionery in sugar syrup. A new concept for jalebi-style fermented wheat spiral sweets is recommended.",
+    "foodex2_code": "A14AS",
+    "foodex2_description": "Deep-fried wheat flour confection in sugar syrup, Indian (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "deep-fried",
+      "syrup-soaked"
+    ],
+    "processing_level": "moderately processed",
+    "main_ingredients": [
+      "all-purpose flour (maida) or refined wheat flour",
+      "yogurt (for fermentation)",
+      "sugar syrup",
+      "saffron",
+      "cardamom",
+      "oil (for deep frying)"
+    ],
+    "allergens": [
+      "gluten (wheat)",
+      "milk (yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "4 pieces / 1 standard serving",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of jalebi is 4 pieces (approximately 100g total) — bright orange-yellow, crispy, spiral-shaped fried sweets that are dripping with absorbed sugar syrup, served warm."
+  },
+  "nutrient_source": {
+    "title": "Jalebi — HPB Singapore Foodo Database, Food Code F11100011; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F11100011 — Jalebi, standard deep-fried fermented wheat batter in sugar syrup preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 380.0,
+    "protein_g": 3.2,
+    "fat_g": 12.8,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 5.2,
+    "polyunsaturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 65.5,
+    "sugar_g": 52.0,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 48.0,
+    "potassium_mg": 52.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 2.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.02,
+    "vitamin_b12_mcg": 0.02,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 42.0,
+    "magnesium_mg": 8.0,
+    "zinc_mg": 0.3,
+    "selenium_mcg": 5.0,
+    "water_g": 16.5
+  },
+  "glycemic_index": 82,
+  "glycemic_load_per_serving": 53.7,
+  "gi_source": "University of Sydney GI Database — jalebi GI very high due to the predominantly sugar syrup composition; almost entirely rapidly-absorbed simple sugars.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 48mg per 100g serving — very low; jalebi is essentially sugar, oil, and flour with minimal salt.",
+      "guidance": "From a sodium standpoint, jalebi is safe for hypertensive patients. The primary health concern is the very high sugar content."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Very high GI (~82) and very high sugar content (52g/100g); glycaemic load per 100g serving is approximately 54 — extremely high. Jalebi is among the most glycaemically dangerous foods.",
+      "guidance": "Diabetic patients must avoid jalebi completely or limit to 1 small piece (15–20g) on rare occasions under glucose monitoring. The sugar syrup content is essentially pure rapidly-absorbed sucrose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "high",
+      "key_factor": "Very high sugar content (52g/100g) promotes inflammatory cytokines (TNF-alpha, IL-6); deep frying adds pro-inflammatory omega-6 fats.",
+      "guidance": "Patients with rheumatoid arthritis should strictly limit jalebi — the combination of extremely high sugar and deep-frying is among the most pro-inflammatory dietary patterns. Occasional small piece on festive occasions only."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Jalebi is one of India's most vibrant street food sweets — a fermented wheat flour batter piped through a cloth or squeeze bottle in spiral shapes directly into hot oil, deep-fried until crispy, then immediately immersed in warm sugar syrup flavoured with saffron and cardamom until they absorb the syrup and become glisteningly orange and syrup-saturated. The contrast between the crispy exterior and syrup-filled interior is the defining eating experience. Very high in sugar — the syrup penetrates the fried dough completely. In Singapore, jalebi is sold at Indian sweet shops and during Deepavali celebrations.",
+    "common_user_queries": [
+      "jalebi calories",
+      "jalebi sugar content",
+      "is jalebi healthy",
+      "jalebi for diabetics",
+      "how much sugar in jalebi",
+      "jalebi vs gulab jamun calories"
+    ],
+    "meal_context": [
+      "Indian sweet shop",
+      "Deepavali sweet",
+      "street food",
+      "festive",
+      "dessert"
+    ],
+    "ingredient_synonyms": {
+      "jalebi": [
+        "jilapi",
+        "jilab",
+        "crispy spiral sweet",
+        "imarti (lentil variant)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F11100011 — Jalebi, standard preparation.",
+  "notes": "Contains gluten (wheat flour) and dairy (yogurt at trace fermentation level). Not suitable for coeliac or gluten-sensitive patients. Cholesterol approximately 2mg per 100g from trace yogurt. The very high sugar (52g/100g) is primarily from sugar syrup absorption. Very low water content (16.5%) reflects the high sugar and fat density. Imarti (made with urad dal instead of wheat) is a gluten-free variant with similar caloric profile."
+}

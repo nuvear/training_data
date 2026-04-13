@@ -1,0 +1,160 @@
+{
+  "food_name": "Lemon Rice",
+  "local_names": {
+    "malay": "Nasi Lemon",
+    "chinese_simplified": "柠檬炒饭（南印度式）",
+    "chinese_traditional": "檸檬炒飯（南印度式）",
+    "tamil": "எலுமிச்சை சாதம்",
+    "romanized_local": "Elumichai Sadam / Chitranna"
+  },
+  "aliases": [
+    "lemon rice",
+    "elumichai sadam",
+    "chitranna",
+    "nimbe chitranna",
+    "South Indian lemon rice",
+    "tempered lemon rice"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Tempered rice dish with lemon",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Lemon Rice. Nearest parent is a tempered rice dish. A new concept covering South Indian variety rice dishes is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Tempered/seasoned rice dish, South Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tempered",
+      "tossed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "cooked white rice",
+      "fresh lemon juice",
+      "oil (groundnut or coconut)",
+      "mustard seeds",
+      "urad dal",
+      "chana dal",
+      "dried red chilli",
+      "curry leaves",
+      "turmeric",
+      "green chilli",
+      "peanuts (roasted)",
+      "salt"
+    ],
+    "allergens": [
+      "peanuts"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of lemon rice is 1 plate (approximately 250g) — a bright yellow, fluffy rice tossed with a tangy lemon tempering, garnished with roasted peanuts and curry leaves, served at room temperature."
+  },
+  "nutrient_source": {
+    "title": "Lemon Rice — HPB Singapore Foodo Database, Food Code F05100073; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F05100073 — Lemon Rice, South Indian style tempered preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 188.0,
+    "protein_g": 3.8,
+    "fat_g": 5.2,
+    "saturated_fat_g": 0.6,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 32.5,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 198.0,
+    "potassium_mg": 72.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 6.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.03,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.06,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 58.0,
+    "magnesium_mg": 14.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 5.5,
+    "water_g": 55.0
+  },
+  "glycemic_index": 66,
+  "glycemic_load_per_serving": 53.6,
+  "gi_source": "University of Sydney GI Database — estimated from cooked white rice; lemon juice and fat tempering moderately lower GI vs plain cooked rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 495mg per plate (250g) — moderate; primarily from added salt. Lemon juice provides potassium and is naturally sodium-free.",
+      "guidance": "Suitable for hypertensive patients when prepared with reduced salt. Lemon rice is naturally low in saturated fat and cholesterol-free."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Moderate GI (~66); glycaemic load per full plate (250g) is approximately 54 — high. The peanuts and tempering fat provide modest moderation.",
+      "guidance": "Diabetic patients should limit to 150g (about half a standard plate) and pair with a protein-rich side such as yogurt or dal. Vitamin C from lemon juice may improve iron absorption."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Turmeric in the tempering provides curcumin with potent anti-inflammatory properties; lemon juice provides vitamin C which supports collagen synthesis and iron absorption.",
+      "guidance": "Suitable for patients with rheumatoid arthritis. The turmeric and peanut content provide anti-inflammatory benefits. Vitamin C from lemon juice enhances iron absorption from other foods in the meal."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Lemon Rice is a classic South Indian variety rice dish — cooked white rice tossed with a tangy, citrus-bright tempering of oil, mustard seeds, urad dal, chana dal, curry leaves, dried red chilli, turmeric, and fresh lemon juice, garnished with roasted peanuts. The turmeric turns the rice a vibrant yellow, and the lemon provides a sharp, refreshing acidity. Often served at room temperature, lemon rice is a popular packed lunch, temple prasad offering, and festival food across Tamil Nadu and Karnataka. In Singapore, it is served at South Indian restaurants as a specialty rice dish.",
+    "common_user_queries": [
+      "lemon rice calories",
+      "is lemon rice healthy",
+      "lemon rice vs plain rice nutrition",
+      "lemon rice for diabetics",
+      "lemon rice peanut allergy",
+      "lemon rice gluten free"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "lunch",
+      "packed meal",
+      "temple prasad",
+      "festival food"
+    ],
+    "ingredient_synonyms": {
+      "lemon rice": [
+        "elumichai sadam",
+        "chitranna",
+        "nimbe chitranna",
+        "South Indian yellow rice"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05100073 — Lemon Rice, South Indian tempered preparation.",
+  "notes": "Contains peanut allergen. Vegan and gluten-free. Cholesterol is 0.0. Vitamin C from fresh lemon juice degrades if the dish is held warm for extended periods. GI and glycaemic load per serving are high due to the white rice base."
+}

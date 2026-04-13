@@ -1,0 +1,163 @@
+{
+  "food_name": "Masala Chai",
+  "local_names": {
+    "malay": "Teh Masala",
+    "chinese_simplified": "印度香料奶茶",
+    "chinese_traditional": "印度香料奶茶",
+    "tamil": "மசாலா டீ",
+    "romanized_local": "Masala Chai / Masala Tea / Chai"
+  },
+  "aliases": [
+    "masala chai",
+    "masala tea",
+    "chai",
+    "Indian spiced tea",
+    "Indian milk tea with spices",
+    "ginger cardamom tea"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Beverages",
+  "food_subgroup": "Spiced black tea brewed with milk and sugar",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Masala Chai. Nearest parent is a spiced milk tea beverage. A new concept for South Asian masala chai preparations is recommended.",
+    "foodex2_code": "A15NT",
+    "foodex2_description": "Spiced black tea with milk (masala chai) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered",
+      "strained"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "water",
+      "full-fat milk",
+      "black tea leaves (Assam or Darjeeling)",
+      "fresh ginger",
+      "green cardamom",
+      "cinnamon",
+      "cloves",
+      "black pepper",
+      "sugar"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 cup",
+    "size_g": 210,
+    "natural_language_portion": "A standard serving of masala chai is 1 cup (approximately 200ml / 210g) — a warm, amber-coloured, milky, sweet and spicy tea with a strong ginger-cardamom fragrance."
+  },
+  "nutrient_source": {
+    "title": "Masala Chai — ICMR-NIN Nutritive Value of Indian Foods, derived from standard masala chai recipe component data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone masala chai entry. Values derived from ICMR-NIN data for full-fat milk, sugar, black tea (negligible calories), and standard spice blend. Masala chai is approximately 50% milk, 40% water, 8% sugar, 2% spices/tea by weight."
+  },
+  "per_100g": {
+    "energy_kcal": 62.0,
+    "protein_g": 1.8,
+    "fat_g": 1.6,
+    "saturated_fat_g": 1.0,
+    "monounsaturated_fat_g": 0.4,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 9.8,
+    "sugar_g": 8.8,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 32.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 65.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 5.5,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.03,
+    "vitamin_b12_mcg": 0.15,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 8.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 2.5,
+    "water_g": 85.0
+  },
+  "glycemic_index": 42,
+  "glycemic_load_per_serving": 8.7,
+  "gi_source": "University of Sydney GI Database — estimated from sweetened milk tea; the milk protein moderates the GI of the added sugar; spices have negligible glycaemic effect.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 67mg per cup (210g) — very low. Masala chai is one of the lowest-sodium warm beverages. The calcium and potassium from milk support blood pressure.",
+      "guidance": "Suitable for hypertensive patients — very low sodium. Limit added sugar. Ginger in masala chai may have modest vasodilatory effects benefiting blood pressure."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~42); glycaemic load per cup (210g) is approximately 9. The sugar content (8.8g/100g) provides 18.5g of sugar per cup.",
+      "guidance": "Diabetic patients should request masala chai with less sugar or without sugar (the spice flavour is pleasant without sugar). The cinnamon in masala chai may improve insulin sensitivity."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Ginger, cardamom, cinnamon, cloves, and black pepper all have documented anti-inflammatory properties; the combination is one of the most potent anti-inflammatory spice blends in culinary use.",
+      "guidance": "Masala chai is highly recommended for patients with rheumatoid arthritis — the ginger, cinnamon, and cloves provide potent anti-inflammatory compounds. Ginger's gingerols and cinnamon's cinnamaldehyde have documented benefits for joint inflammation."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Masala Chai is India's national warming beverage — black tea brewed directly with whole aromatic spices (fresh ginger, green cardamom, cinnamon, cloves, black pepper) in water, then full-fat milk and sugar added and the whole mixture simmered together for 2–3 minutes before straining. The result is a rich, amber-coloured, milky, intensely fragrant tea with a warming, spicy kick. The spice blend varies by region and household — ginger and cardamom are universal, while cinnamon, cloves, and pepper are common additions. Available at Indian restaurants, mamak stalls, and teh tarik counters across Singapore. Provides notable anti-inflammatory spice compounds.",
+    "common_user_queries": [
+      "masala chai calories",
+      "is masala chai healthy",
+      "masala chai for arthritis",
+      "masala chai benefits",
+      "masala chai sugar content",
+      "masala chai vs teh tarik",
+      "ginger cardamom tea benefits"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "mamak",
+      "teh tarik stall",
+      "breakfast",
+      "evening drink"
+    ],
+    "ingredient_synonyms": {
+      "masala chai": [
+        "masala tea",
+        "chai",
+        "Indian spiced tea",
+        "ginger cardamom tea"
+      ],
+      "black tea": [
+        "Assam tea",
+        "chai patti",
+        "tea leaves",
+        "CTC tea"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone masala chai entry in ICMR-NIN or HPB Foodo. Values estimated from ICMR-NIN full-fat milk and sugar data per standard recipe proportions (~50% milk, 40% water, 8% sugar). Milk and sugar composition are well-established; spice contribution is negligible.",
+  "notes": "Contains dairy (milk). Not vegan or dairy-free. Cholesterol approximately 12mg per cup (210g). Caffeine content approximately 30–50mg per cup from black tea. Values assume 1.5 teaspoons sugar per cup (standard Indian chai sweetness). The anti-inflammatory spice compounds (gingerols, cinnamaldehyde, eugenol, piperine) are bioactive but contribute negligible macronutrients at standard brewing concentrations."
+}

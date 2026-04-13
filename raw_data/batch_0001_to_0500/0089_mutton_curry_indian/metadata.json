@@ -1,0 +1,163 @@
+{
+  "food_name": "Mutton Curry (Indian)",
+  "local_names": {
+    "malay": "Kari Kambing India",
+    "chinese_simplified": "印度羊肉咖喱",
+    "chinese_traditional": "印度羊肉咖喱",
+    "tamil": "ஆட்டுக்கறி கறி",
+    "romanized_local": "Mutton Curry / Aattu Kari"
+  },
+  "aliases": [
+    "mutton curry",
+    "goat curry Indian",
+    "aattu kari",
+    "kari kambing India",
+    "Indian dry mutton curry",
+    "bone-in mutton curry"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Pan-Indian)",
+  "food_group": "Meat, poultry and eggs",
+  "food_subgroup": "Bone-in mutton (goat) pieces in spiced onion-tomato curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Indian Mutton Curry. Nearest parent is a cooked goat meat in spiced sauce. A new concept for Indian bone-in goat curry is recommended.",
+    "foodex2_code": "A08HM",
+    "foodex2_description": "Goat meat curry, bone-in, South Asian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pressure-cooked",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "bone-in mutton (goat) pieces",
+      "onion",
+      "tomato",
+      "ginger-garlic paste",
+      "plain yogurt",
+      "coriander powder",
+      "cumin",
+      "red chilli powder",
+      "garam masala",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "allergens": [
+      "milk (yogurt in marinade)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl (curry with bone-in mutton)",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of mutton curry is 1 bowl (approximately 250g) — medium-thick, dark-reddish curry with 3–4 pieces of bone-in mutton providing approximately 100–120g of meat."
+  },
+  "nutrient_source": {
+    "title": "Mutton Curry — HPB Singapore Foodo Database, Food Code F06060011; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code F06060011 — Mutton Curry (Indian style, bone-in), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 165.0,
+    "protein_g": 14.5,
+    "fat_g": 10.8,
+    "saturated_fat_g": 4.2,
+    "monounsaturated_fat_g": 4.5,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.5,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 385.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 72.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 4.8,
+    "vitamin_b6_mg": 0.35,
+    "vitamin_b12_mcg": 1.5,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 188.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 4.5,
+    "selenium_mcg": 22.0,
+    "water_g": 66.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI testing not applicable — Mutton Curry contains negligible carbohydrates (4.5g/100g, primarily from vegetables in the gravy). It does not meaningfully raise blood glucose.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 963mg per bowl (250g) — high; the curry gravy contains significant salt and the pressure-cooking concentrates sodium.",
+      "guidance": "Patients with hypertension should limit mutton curry to a small portion (100–150g) and reduce salt during cooking. The high zinc and potassium content is somewhat beneficial."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Negligible carbohydrate content; GI testing not applicable. High protein (14.5g/100g) and fat provide satiety without a glycaemic response.",
+      "guidance": "Mutton curry has no direct glycaemic impact. However, the high fat content means patients should monitor total caloric intake. Pair with a low-GI grain (basmati rice or chapati) for a complete meal."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "Mutton is a red meat high in arachidonic acid (a precursor to pro-inflammatory eicosanoids); however it provides exceptional zinc (4.5mg/100g), B12, and selenium which support immune function.",
+      "guidance": "Limit to 1–2 servings per week. The zinc, selenium, and vitamin B12 from mutton are highly beneficial for immune regulation. However, the red meat and saturated fat content warrants moderation for patients with active inflammation."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mutton Curry (Indian) is a robust, hearty, aromatic curry of bone-in mutton (goat) pieces pressure-cooked with onion, tomato, ginger-garlic paste, yogurt, and a full South Asian spice blend of coriander, cumin, red chilli, garam masala, and turmeric. The gravy is medium-thick and dark-reddish, concentrated from the pressure-cooking. The bone-in preparation gives the curry a rich, deep flavour from the bone marrow. Very high in zinc and vitamin B12 — two nutrients critical for immune function. Available at South Indian and Indian Muslim restaurants across Singapore.",
+    "common_user_queries": [
+      "mutton curry calories",
+      "is mutton curry healthy",
+      "mutton curry protein content",
+      "mutton curry zinc content",
+      "Indian mutton curry for diabetes",
+      "mutton curry vs chicken curry nutrition"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "South Indian restaurant",
+      "main course",
+      "weekend meal",
+      "Indian Muslim restaurant"
+    ],
+    "ingredient_synonyms": {
+      "mutton curry": [
+        "goat curry",
+        "aattu kari curry",
+        "kari kambing"
+      ],
+      "mutton": [
+        "goat meat",
+        "kambing",
+        "chevon (young goat)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F06060011 — Mutton Curry (Indian style, bone-in), standard preparation.",
+  "notes": "Contains dairy (yogurt) at trace levels from marinating. GI and GL are null — negligible carbohydrate content. Cholesterol approximately 180mg per bowl (250g). Zinc is exceptionally high (4.5mg/100g) — one of the richest zinc sources in Indian cuisine. Per_100g values include both meat and gravy in standard proportion."
+}

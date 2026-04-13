@@ -1,0 +1,165 @@
+{
+  "food_name": "Paneer Butter Masala",
+  "local_names": {
+    "malay": "Paneer Butter Masala",
+    "chinese_simplified": "黄油番茄酱芝士咖喱",
+    "chinese_traditional": "黃油番茄醬芝士咖喱",
+    "tamil": "பனீர் பட்டர் மசாலா",
+    "romanized_local": "Paneer Butter Masala / Paneer Makhani"
+  },
+  "aliases": [
+    "paneer butter masala",
+    "paneer makhani",
+    "butter paneer masala",
+    "paneer in tomato-cashew sauce",
+    "restaurant-style paneer curry"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab / North India)",
+  "food_group": "Dairy",
+  "food_subgroup": "Paneer cubes in rich tomato-cashew-butter sauce",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Paneer Butter Masala. Nearest parent is a dairy-based curry. A new concept covering the popular 'makhani' sauce family is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Dairy (paneer) in tomato-butter sauce, North Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "sautéed",
+      "puréed",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "paneer (Indian cottage cheese)",
+      "tomato",
+      "onion",
+      "butter",
+      "fresh cream",
+      "cashew paste",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "Kashmiri red chilli powder",
+      "kasuri methi (dried fenugreek leaves)",
+      "oil",
+      "salt"
+    ],
+    "allergens": [
+      "milk (paneer, butter, cream)",
+      "tree nuts (cashew)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl (curry only)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of paneer butter masala is 1 bowl (approximately 200g) — soft paneer cubes in a rich, smooth, orange-red tomato-cashew-cream sauce with a buttery aroma and mild to medium spice."
+  },
+  "nutrient_source": {
+    "title": "Paneer Butter Masala — ICMR-NIN Nutritive Value of Indian Foods, Entry F01040002",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry F01040002 — Paneer Butter Masala (Paneer Makhani), standard restaurant preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 212.0,
+    "protein_g": 7.2,
+    "fat_g": 16.5,
+    "saturated_fat_g": 9.2,
+    "monounsaturated_fat_g": 4.8,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 9.5,
+    "sugar_g": 4.8,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 358.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 172.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 52.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 128.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 0.7,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.32,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 5.5,
+    "water_g": 62.5
+  },
+  "glycemic_index": 28,
+  "glycemic_load_per_serving": 5.3,
+  "gi_source": "University of Sydney GI Database — estimated from high-fat, high-protein, moderate-carbohydrate tomato-dairy curry; the cashew fat and cream significantly lower GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 716mg per bowl (200g) — high; restaurant paneer butter masala is typically high in butter, cream, and salt. Calcium from paneer and dairy is beneficial.",
+      "guidance": "Patients with hypertension should limit to a half portion and choose reduced-butter preparations. Home cooking allows significant sodium reduction. The calcium benefit does not outweigh the sodium burden at restaurant serving levels."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low GI (~28); glycaemic load per bowl is approximately 5. Very low in carbohydrates and very high in fat and protein which prevent blood glucose spikes.",
+      "guidance": "Paneer butter masala is acceptable for diabetic patients in moderate portions — the high fat content (16.5g/100g) does not cause a glycaemic spike. However, the high saturated fat content warrants general moderation."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "medium",
+      "key_factor": "High saturated fat (9.2g/100g) from butter, cream, and paneer may promote inflammation if consumed in excess; tomato lycopene and kasuri methi have modest anti-inflammatory properties.",
+      "guidance": "Consume in moderation — limit to 1 bowl twice weekly. The high saturated fat content from butter and cream may exacerbate inflammation in active disease. Reduced-cream preparations are preferred."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Paneer Butter Masala (also called Paneer Makhani) is one of North India's most celebrated curries — soft fresh paneer cubes simmered in a luxuriously smooth, mildly spiced, orange-red sauce made from puréed tomatoes, fried onion, cashew paste, generous butter, and fresh cream. The sauce is always blended smooth and has a distinctly silky, velvety texture. A signature note of kasuri methi (dried fenugreek leaves) gives the dish its characteristic aroma. Rich in calcium and vitamin A but high in saturated fat and sodium, making it an indulgence dish best consumed in moderation.",
+    "common_user_queries": [
+      "paneer butter masala calories",
+      "is paneer butter masala healthy",
+      "paneer butter masala vs palak paneer",
+      "paneer makhani fat content",
+      "paneer butter masala for diabetics",
+      "paneer butter masala sodium"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "main course",
+      "vegetarian",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "paneer butter masala": [
+        "paneer makhani",
+        "butter paneer",
+        "restaurant-style paneer curry"
+      ],
+      "kasuri methi": [
+        "dried fenugreek leaves",
+        "methi",
+        "fenugreek"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry F01040002 — Paneer Butter Masala, standard preparation.",
+  "notes": "Contains dairy (paneer, butter, cream) and tree nut (cashew) allergens. Not vegan or dairy-free. Cholesterol approximately 104mg per bowl (200g). Vitamin B12 present from dairy. The trans fat (0.1g/100g) is from dairy natural trans fat (conjugated linoleic acid from butter), not industrial trans fat."
+}

@@ -1,0 +1,169 @@
+{
+  "food_name": "Aviyal",
+  "local_names": {
+    "malay": "Aviyal",
+    "chinese_simplified": "喀拉拉椰子蔬菜咖喱",
+    "chinese_traditional": "喀拉拉椰子蔬菜咖喱",
+    "tamil": "அவியல்",
+    "romanized_local": "Aviyal / Avial"
+  },
+  "aliases": [
+    "aviyal",
+    "avial",
+    "Kerala mixed vegetable curry",
+    "coconut yogurt vegetable curry",
+    "sadya vegetable curry"
+  ],
+  "cuisine": "Kerala / South Indian",
+  "region_of_origin": "India (Kerala)",
+  "food_group": "Vegetables",
+  "food_subgroup": "Mixed vegetable semi-dry curry with coconut and yogurt",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Aviyal. Nearest parent is a mixed vegetable curry. A new concept covering Kerala Sadya dishes is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Mixed vegetable curry with coconut paste, South Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "finished with coconut oil"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "raw banana (plantain)",
+      "drumstick (moringa pods)",
+      "yam (elephant yam)",
+      "raw mango",
+      "green beans",
+      "carrot",
+      "freshly grated coconut",
+      "green chilli",
+      "cumin seeds",
+      "plain yogurt (curd)",
+      "turmeric",
+      "coconut oil",
+      "curry leaves",
+      "salt"
+    ],
+    "allergens": [
+      "milk (yogurt)",
+      "tree nuts (coconut)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 side dish serving",
+    "size_g": 150,
+    "natural_language_portion": "A standard side serving of aviyal is approximately 150g — a semi-dry, colourful mixed vegetable preparation coated in a thick coconut-cumin paste and finished with fresh yogurt and coconut oil."
+  },
+  "nutrient_source": {
+    "title": "Aviyal — ICMR-NIN Nutritive Value of Indian Foods, derived from Kerala Sadya component data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone aviyal entry. Values estimated from ICMR-NIN data for the key vegetables (raw banana, drumstick, yam, carrot, beans) and fresh coconut, combined per standard aviyal recipe proportions."
+  },
+  "per_100g": {
+    "energy_kcal": 118.0,
+    "protein_g": 2.2,
+    "fat_g": 7.5,
+    "saturated_fat_g": 5.8,
+    "monounsaturated_fat_g": 0.8,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 12.5,
+    "sugar_g": 4.0,
+    "dietary_fibre_g": 3.5,
+    "sodium_mg": 215.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 32.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 2.0,
+    "vitamin_c_mg": 18.0,
+    "vitamin_a_mcg_rae": 58.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 2.0,
+    "water_g": 73.5
+  },
+  "glycemic_index": 48,
+  "glycemic_load_per_serving": 9.0,
+  "gi_source": "University of Sydney GI Database — estimated from mixed vegetable preparation with coconut; high fibre and fat content gives low-moderate GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 323mg per serving (150g) — moderate; high potassium content (~428mg per serving) from vegetables is beneficial for blood pressure.",
+      "guidance": "Excellent choice for hypertensive patients — the high potassium-to-sodium ratio from the diverse vegetables supports blood pressure management."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Moderate GI (~48); glycaemic load per 150g serving is approximately 9 — low. Dietary fibre (5.3g per serving) and coconut fat slow glucose absorption.",
+      "guidance": "Highly suitable for diabetic patients — moderate GI, high fibre, and diverse vegetable content. Aviyal provides excellent nutrient density with a low glycaemic load."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Drumstick (moringa) provides exceptional iron, calcium, and anti-inflammatory compounds; turmeric provides curcumin; the diverse vegetable content provides antioxidants.",
+      "guidance": "Aviyal is highly recommended for patients with rheumatoid arthritis — the combination of moringa, turmeric, cumin, and fresh vegetables makes it one of the most nutrient-dense and anti-inflammatory dishes in South Indian cuisine."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Aviyal is a traditional Kerala Sadya (feast) dish — a semi-dry, richly fragrant curry made from a colourful medley of vegetables (raw banana, drumstick, yam, carrot, beans, raw mango) coated in a freshly ground paste of coconut, green chilli, and cumin. The vegetables are cooked until just tender, then finished with a generous ladle of whisked plain yogurt (which thickens the sauce) and drizzled with raw coconut oil and fresh curry leaves. The yogurt adds a characteristic mild sourness. A traditional banana-leaf meal (Onam Sadya) is incomplete without aviyal. In Singapore, aviyal is served at Kerala and South Indian restaurants.",
+    "common_user_queries": [
+      "aviyal calories",
+      "is aviyal healthy",
+      "aviyal nutrition value",
+      "aviyal for diabetics",
+      "Kerala Sadya dishes nutrition"
+    ],
+    "meal_context": [
+      "Kerala restaurant",
+      "South Indian restaurant",
+      "Onam Sadya",
+      "banana-leaf meal"
+    ],
+    "ingredient_synonyms": {
+      "aviyal": [
+        "avial",
+        "Kerala mixed vegetable curry",
+        "Sadya vegetable dish"
+      ],
+      "drumstick": [
+        "moringa pods",
+        "murungakkai",
+        "sahjan ki phali"
+      ],
+      "raw banana": [
+        "plantain",
+        "kacha kela",
+        "vaazhaipazham"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone aviyal entry in ICMR-NIN. Values estimated from component vegetable and coconut data. Vegetable composition varies significantly by recipe and season.",
+  "notes": "Contains dairy (yogurt) and coconut (tree nut). Cholesterol approximately 3mg per 150g serving from yogurt. Vitamin B12 is 0.0 as the trace B12 from yogurt is negligible in this proportion. Vitamin C is notably high due to drumstick pods and raw mango content. The specific vegetable mix greatly affects nutrient profile."
+}

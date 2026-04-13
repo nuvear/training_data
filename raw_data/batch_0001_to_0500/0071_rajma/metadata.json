@@ -1,0 +1,161 @@
+{
+  "food_name": "Rajma",
+  "local_names": {
+    "malay": "Kari Kacang Merah",
+    "chinese_simplified": "红腰豆咖喱",
+    "chinese_traditional": "紅腰豆咖喱",
+    "tamil": "ராஜ்மா",
+    "romanized_local": "Rajma / Rajmah"
+  },
+  "aliases": [
+    "rajma",
+    "rajmah",
+    "red kidney bean curry",
+    "rajma chawal curry",
+    "North Indian kidney bean curry"
+  ],
+  "cuisine": "North Indian / Punjabi",
+  "region_of_origin": "India (Punjab / Jammu)",
+  "food_group": "Legumes and pulses",
+  "food_subgroup": "Spiced red kidney bean curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Rajma. Nearest parent is a cooked kidney bean dish. A new concept for Indian kidney bean curry is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Cooked kidney bean curry, North Indian style (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "soaked",
+      "pressure-cooked",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "red kidney beans (rajma)",
+      "onion",
+      "tomato",
+      "ginger-garlic paste",
+      "cumin seeds",
+      "coriander powder",
+      "garam masala",
+      "red chilli powder",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of rajma is 1 bowl (approximately 200g) — a thick, hearty, dark red kidney bean curry with a robust onion-tomato gravy, served classically with steamed basmati rice (Rajma-Chawal)."
+  },
+  "nutrient_source": {
+    "title": "Rajma — ICMR-NIN Nutritive Value of Indian Foods, derived from cooked kidney bean composition data and standard rajma recipe",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone rajma curry entry. Values derived from ICMR-NIN cooked kidney bean data and standard rajma recipe proportions (kidney beans ~55%, tomato/onion gravy ~35%, oil ~5%, spices balance)."
+  },
+  "per_100g": {
+    "energy_kcal": 138.0,
+    "protein_g": 7.8,
+    "fat_g": 3.5,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 20.5,
+    "sugar_g": 2.8,
+    "dietary_fibre_g": 6.8,
+    "sodium_mg": 268.0,
+    "potassium_mg": 318.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 2.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.14,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 88.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 152.0,
+    "magnesium_mg": 48.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 5.5,
+    "water_g": 64.5
+  },
+  "glycemic_index": 29,
+  "glycemic_load_per_serving": 11.9,
+  "gi_source": "University of Sydney GI Database — kidney beans GI approximately 29; whole legume structure gives very low GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 536mg per bowl (200g) — moderate to elevated; high potassium (636mg per bowl) and magnesium from kidney beans provide significant blood pressure benefit.",
+      "guidance": "Suitable for hypertensive patients — the high potassium and magnesium from kidney beans are highly beneficial for blood pressure management. Reduce added salt during preparation."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low GI (~29); glycaemic load per bowl is approximately 12. The very high dietary fibre (6.8g/100g), resistant starch, and protein of kidney beans provide outstanding glycaemic control.",
+      "guidance": "Rajma is highly recommended for diabetic patients — kidney beans are one of the most diabetes-friendly foods. Regular consumption is associated with improved HbA1c and fasting glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Kidney beans provide 88mcg DFE folate per 100g — one of the highest folate foods; folate supports cell repair and DNA synthesis important for immune function.",
+      "guidance": "Highly suitable for patients with rheumatoid arthritis. The exceptional folate content supports immune modulation; magnesium and phosphorus support bone health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rajma is a beloved North Indian and Punjabi comfort dish of plump, pressure-cooked red kidney beans simmered in a thick, flavourful onion-tomato gravy spiced with cumin, coriander, garam masala, and ginger-garlic paste. The curry is thicker and more robust than dal makhani. Classically paired with plain steamed basmati rice in the iconic Rajma-Chawal combination — one of the most satisfying and nutritionally complete meals in Indian home cooking. Vegan, gluten-free, and exceptionally high in fibre, protein, folate, and potassium.",
+    "common_user_queries": [
+      "rajma calories",
+      "is rajma healthy",
+      "rajma protein content",
+      "rajma vs chana masala",
+      "rajma for diabetics",
+      "rajma folate content",
+      "rajma chawal nutrition"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "main course",
+      "lunch",
+      "vegetarian"
+    ],
+    "ingredient_synonyms": {
+      "rajma": [
+        "red kidney bean curry",
+        "rajmah",
+        "rajma chawal (the dish)"
+      ],
+      "kidney beans": [
+        "rajma",
+        "red beans",
+        "dark red kidney beans"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone rajma entry in ICMR-NIN or HPB Foodo. Values derived from ICMR-NIN cooked kidney bean composition data and standard recipe. Kidney bean nutritional values are well-established; estimates are reliable.",
+  "notes": "Vegan and gluten-free. Cholesterol is 0.0. One of the highest fibre dishes in Indian cuisine (6.8g/100g). Kidney beans must be properly soaked and pressure-cooked to deactivate lectins. The Rajma-Chawal combination (rajma + steamed rice) significantly increases total calories and carbohydrate content vs the curry alone."
+}

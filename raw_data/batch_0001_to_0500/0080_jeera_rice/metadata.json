@@ -1,0 +1,155 @@
+{
+  "food_name": "Jeera Rice",
+  "local_names": {
+    "malay": "Nasi Jintan",
+    "chinese_simplified": "孜然印度香米饭",
+    "chinese_traditional": "孜然印度香米飯",
+    "tamil": "சீரக சாதம்",
+    "romanized_local": "Jeera Rice / Zeera Rice / Cumin Rice"
+  },
+  "aliases": [
+    "jeera rice",
+    "zeera rice",
+    "cumin rice",
+    "cumin basmati rice",
+    "jeera pulao"
+  ],
+  "cuisine": "North Indian",
+  "region_of_origin": "India (North India / Punjab)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked basmati rice tempered with cumin and ghee",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Jeera Rice. Nearest parent is a cooked rice dish with spice tempering. A new concept for Indian cumin-tempered rice preparations is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Cooked basmati rice with cumin tempering (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "absorption-cooked",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "basmati rice (long-grain aged)",
+      "ghee or oil",
+      "whole cumin seeds (jeera)",
+      "bay leaf (optional)",
+      "water",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of jeera rice is 1 bowl (approximately 200g) — fluffy, separate-grain cooked basmati rice fragrant with toasted cumin seeds and a subtle ghee aroma."
+  },
+  "nutrient_source": {
+    "title": "Jeera Rice — ICMR-NIN Nutritive Value of Indian Foods, derived from basmati rice and ghee composition data",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "closest_parent",
+    "source_match_notes": "ICMR-NIN does not have a standalone jeera rice entry. Values derived from ICMR-NIN cooked basmati rice data plus standard tempering proportions (approximately 2g ghee and 0.5g cumin per 100g cooked rice). Cumin seeds add negligible calories at this proportion."
+  },
+  "per_100g": {
+    "energy_kcal": 162.0,
+    "protein_g": 3.5,
+    "fat_g": 3.2,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 0.8,
+    "polyunsaturated_fat_g": 0.3,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 31.5,
+    "sugar_g": 0.2,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 145.0,
+    "potassium_mg": 55.0,
+    "calcium_mg": 8.0,
+    "iron_mg": 0.6,
+    "cholesterol_mg": 7.5,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.05,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 8.0,
+    "water_g": 59.5
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 36.5,
+  "gi_source": "University of Sydney GI Database — cooked basmati rice GI approximately 58; the ghee and cumin tempering slightly lower GI vs plain boiled rice. Basmati has a lower GI than regular long-grain white rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 290mg per bowl (200g) — low to moderate. Jeera rice is naturally low in sodium.",
+      "guidance": "Suitable for hypertensive patients. One of the lower-sodium rice preparations. Cumin seeds may have mild blood pressure-lowering effects in regular dietary quantities."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~58) — lower than regular white rice; glycaemic load per bowl (200g) is approximately 37. The basmati rice GI is meaningfully lower than standard white rice (~73).",
+      "guidance": "Jeera rice is a better choice than regular rice for diabetic patients due to basmati's lower GI. Limit to 150g portions and pair with high-protein, high-fibre curries to further moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Cumin has documented anti-inflammatory and antioxidant properties; ghee provides butyrate and fat-soluble vitamins.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — the cumin provides anti-inflammatory compounds and the ghee provides beneficial fat-soluble nutrients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Jeera Rice is a simple, aromatic North Indian rice dish — long-grain aged basmati rice cooked by the absorption method to achieve individual, separate, fluffy grains, then finished with a quick tempering of ghee and whole cumin seeds (jeera) that are crackled in hot ghee until fragrant. The result is a perfectly seasoned rice with a subtle nutty-earthy cumin fragrance. Served as the plain rice accompaniment to Indian curries at virtually every North Indian restaurant. Basmati rice has a lower GI than regular white rice, making it a slightly better choice for blood glucose management.",
+    "common_user_queries": [
+      "jeera rice calories",
+      "jeera rice vs plain rice",
+      "is jeera rice healthy",
+      "cumin rice nutrition",
+      "jeera rice for diabetics",
+      "basmati rice GI"
+    ],
+    "meal_context": [
+      "North Indian restaurant",
+      "Indian restaurant",
+      "rice accompaniment",
+      "lunch",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "jeera rice": [
+        "zeera rice",
+        "cumin rice",
+        "basmati with cumin",
+        "jeera pulao"
+      ],
+      "basmati rice": [
+        "long-grain aromatic rice",
+        "Indian rice",
+        "aged basmati"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone jeera rice entry in ICMR-NIN or HPB Foodo. Values derived from ICMR-NIN cooked basmati rice data plus standard tempering (ghee and cumin) proportions. Basmati rice composition is well-established.",
+  "notes": "Contains dairy (ghee) — not vegan or dairy-free when made with ghee. Vegan when made with oil. Cholesterol approximately 15mg per bowl (200g) when made with ghee; 0.0 when made with oil. Cumin seeds at the standard proportion (~0.5g per 100g cooked rice) contribute negligible additional calories."
+}

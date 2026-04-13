@@ -1,0 +1,157 @@
+{
+  "food_name": "Sweet Lassi",
+  "local_names": {
+    "malay": "Sweet Lassi",
+    "chinese_simplified": "印度甜酸奶饮料",
+    "chinese_traditional": "印度甜酸奶飲料",
+    "tamil": "இனிப்பு லஸ்ஸி",
+    "romanized_local": "Sweet Lassi / Meetha Lassi"
+  },
+  "aliases": [
+    "sweet lassi",
+    "meetha lassi",
+    "plain lassi",
+    "Punjabi lassi",
+    "yogurt drink India",
+    "sweetened yogurt drink"
+  ],
+  "cuisine": "Indian / Punjabi",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Beverages",
+  "food_subgroup": "Sweetened churned yogurt drink with cardamom",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Sweet Lassi. Nearest parent is a yogurt-based sweetened beverage. A new concept for South Asian lassi beverages is recommended.",
+    "foodex2_code": "A15NB",
+    "foodex2_description": "Sweetened yogurt drink (lassi), plain (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "blended/churned",
+      "chilled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "plain whole-milk yogurt (dahi)",
+      "water",
+      "sugar",
+      "cardamom powder"
+    ],
+    "allergens": [
+      "milk (yogurt)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 glass",
+    "size_g": 310,
+    "natural_language_portion": "A standard serving of sweet lassi is 1 glass (approximately 300ml / 310g) — a frothy, smooth, chilled sweetened yogurt drink with a clean creamy flavour and subtle cardamom fragrance."
+  },
+  "nutrient_source": {
+    "title": "Sweet Lassi — HPB Singapore Foodo Database, Food Code D02020006; cross-referenced with ICMR-NIN",
+    "organization": "Health Promotion Board (HPB), Singapore; Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in HPB Foodo under food code D02020006 — Sweet Lassi (plain sweetened yogurt drink), standard preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 72.0,
+    "protein_g": 3.0,
+    "fat_g": 1.5,
+    "saturated_fat_g": 1.0,
+    "monounsaturated_fat_g": 0.4,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 12.5,
+    "sugar_g": 11.8,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 45.0,
+    "potassium_mg": 142.0,
+    "calcium_mg": 108.0,
+    "iron_mg": 0.1,
+    "cholesterol_mg": 6.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 15.0,
+    "vitamin_b1_thiamine_mg": 0.03,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 85.0,
+    "magnesium_mg": 10.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 4.0,
+    "water_g": 82.0
+  },
+  "glycemic_index": 48,
+  "glycemic_load_per_serving": 18.0,
+  "gi_source": "University of Sydney GI Database — sweetened yogurt drink GI approximately 48; the yogurt protein and fat moderate the GI of the added sugar.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 140mg per glass (310g) — very low. Excellent source of calcium (335mg per glass) which supports blood pressure regulation.",
+      "guidance": "Excellent choice for hypertensive patients — very low sodium and high calcium. A glass of sweet lassi provides about 30% of the daily recommended calcium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~48); glycaemic load per glass (310g) is approximately 18. The added sugar (11.8g/100g) provides 37g of sugar per glass.",
+      "guidance": "Diabetic patients should request sugar-free or reduced-sugar sweet lassi. The yogurt protein significantly moderates the GI of the sugar. Alternatively, salted lassi (no sugar) is a diabetes-friendly option."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Yogurt probiotics support gut microbiome health linked to immune modulation; calcium and phosphorus support bone health; cardamom has anti-inflammatory properties.",
+      "guidance": "Suitable for patients with rheumatoid arthritis — the probiotic content of fresh yogurt and the calcium support immune regulation and bone health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Sweet Lassi is the original and simplest form of lassi — whole-milk yogurt blended with water, sugar, and a pinch of cardamom, churned until frothy and served chilled. Originally from Punjab, it is consumed across India and in every Indian restaurant in Singapore. Cooling, refreshing, and mildly sweet with a clean yogurt tang. Very low in sodium and an excellent source of calcium and vitamin B12. The base form from which all other lassi variants (mango lassi, rose lassi, salted lassi) derive. Probiotics from fresh yogurt support digestive health.",
+    "common_user_queries": [
+      "sweet lassi calories",
+      "is lassi healthy",
+      "lassi vs mango lassi calories",
+      "sweet lassi sugar content",
+      "lassi for diabetes",
+      "lassi calcium content",
+      "plain lassi nutrition"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "Punjabi restaurant",
+      "beverage",
+      "accompaniment to meal"
+    ],
+    "ingredient_synonyms": {
+      "sweet lassi": [
+        "meetha lassi",
+        "plain lassi",
+        "Punjabi lassi",
+        "yogurt drink"
+      ],
+      "dahi": [
+        "yogurt",
+        "curd",
+        "plain yogurt",
+        "thayir"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code D02020006 — Sweet Lassi, standard preparation.",
+  "notes": "Contains dairy (yogurt). Not vegan or dairy-free. Cholesterol approximately 19mg per glass (310g). Vitamin B12 is well-represented from dairy. The sugar content per glass (approximately 37g) from added sugar is significant — reduced-sugar or unsweetened versions are preferable for health-conscious consumers."
+}

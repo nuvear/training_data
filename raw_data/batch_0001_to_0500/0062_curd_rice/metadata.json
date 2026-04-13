@@ -1,0 +1,165 @@
+{
+  "food_name": "Curd Rice",
+  "local_names": {
+    "malay": "Nasi Curd",
+    "chinese_simplified": "酸奶饭（南印度式）",
+    "chinese_traditional": "酸奶飯（南印度式）",
+    "tamil": "தயிர் சாதம்",
+    "romanized_local": "Thayir Sadam / Daddojanam / Mosaranna"
+  },
+  "aliases": [
+    "curd rice",
+    "thayir sadam",
+    "daddojanam",
+    "mosaranna",
+    "yogurt rice",
+    "South Indian yogurt rice",
+    "bagala bhath"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Andhra Pradesh / Karnataka)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked white rice mixed with yogurt and tempering",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Curd Rice. Nearest parent is a dairy-rice mixed dish. A new concept for South Indian curd rice is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Rice mixed with dairy condiment, South Indian variety rice (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "mixed",
+      "tempered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "cooked white rice",
+      "plain yogurt (curd / dahi)",
+      "oil or ghee",
+      "mustard seeds",
+      "urad dal",
+      "dried red chilli",
+      "curry leaves",
+      "fresh ginger",
+      "green chilli",
+      "salt"
+    ],
+    "allergens": [
+      "milk (yogurt / curd)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 250,
+    "natural_language_portion": "A standard serving of curd rice is 1 bowl (approximately 250g) — a creamy, soft white preparation of rice mashed with yogurt, tempered with oil, mustard seeds, curry leaves, and chilli, served at room temperature or slightly chilled."
+  },
+  "nutrient_source": {
+    "title": "Curd Rice — ICMR-NIN Nutritive Value of Indian Foods, Entry G00010240",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN)",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match in ICMR-NIN under entry G00010240 — Curd Rice (Thayir Sadam), standard South Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 122.0,
+    "protein_g": 3.5,
+    "fat_g": 2.8,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 0.8,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 21.5,
+    "sugar_g": 3.0,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 168.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 82.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 8.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 15.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 0.6,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.25,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 72.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 5.5,
+    "water_g": 68.5
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 31.2,
+  "gi_source": "University of Sydney GI Database — estimated from cooked white rice with full-fat yogurt; the yogurt's protein and fat significantly lower the GI compared to plain rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 420mg per bowl (250g) — moderate; the yogurt contributes natural sodium and the tempering adds salt. Calcium from yogurt supports blood pressure regulation.",
+      "guidance": "Suitable for hypertensive patients; the calcium from yogurt (~205mg per bowl) is beneficial for blood pressure. Reduce added salt during preparation."
+    },
+    "type2_diabetes": {
+      "concern_level": "medium",
+      "key_factor": "Moderate GI (~58) due to the yogurt protein and fat slowing starch digestion; glycaemic load per bowl is approximately 31.",
+      "guidance": "Curd rice is one of the better rice-based choices for diabetic patients — the yogurt protein and fat slow glucose absorption. Portion control (150–200g) is still advisable."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Probiotics in yogurt (curd) support gut microbiome health linked to immune modulation; calcium supports bone health; ginger and mustard seeds are anti-inflammatory.",
+      "guidance": "Excellent choice for patients with rheumatoid arthritis — the probiotic content of fresh curd supports immune regulation and the anti-inflammatory spices in the tempering provide additional benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Curd Rice (Thayir Sadam) is the ultimate South Indian comfort food — warm or room-temperature cooked white rice gently mashed and mixed with fresh plain yogurt (curd) until creamy and smooth, then finished with a hot oil tempering of mustard seeds, urad dal, dried red chilli, curry leaves, ginger, and green chilli. It is cooling, soothing, and mildly sour. Traditionally the last dish in a South Indian meal, eaten to calm the palate after spicy curries. Often garnished with pomegranate seeds and fresh coriander. Rich in probiotics from yogurt and calcium, making it one of the most digestive-friendly rice preparations.",
+    "common_user_queries": [
+      "curd rice calories",
+      "is curd rice healthy",
+      "curd rice for diabetes",
+      "curd rice calcium content",
+      "thayir sadam nutrition",
+      "curd rice vs plain rice"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "banana-leaf meal",
+      "lunch",
+      "comfort food"
+    ],
+    "ingredient_synonyms": {
+      "curd rice": [
+        "thayir sadam",
+        "daddojanam",
+        "mosaranna",
+        "yogurt rice",
+        "bagala bhath"
+      ],
+      "yogurt": [
+        "curd",
+        "dahi",
+        "thayir",
+        "plain yogurt"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under entry G00010240 — Curd Rice, standard South Indian preparation.",
+  "notes": "Contains dairy (yogurt/milk) — not vegan or dairy-free. Cholesterol approximately 20mg per bowl (250g). Vitamin B12 present from dairy. Probiotic content depends on whether yogurt is freshly set and live cultures are active — commercial yogurt may have reduced probiotic activity."
+}
