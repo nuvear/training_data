@@ -1,0 +1,23 @@
+{
+  "food_id": "326_fish_and_chips",
+  "stage": "test",
+  "slots": {
+    "img_01": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_02": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": 0.2731,
+      "source": "auto_replace"
+    },
+    "img_03": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    }
+  },
+  "promoted": true
+}

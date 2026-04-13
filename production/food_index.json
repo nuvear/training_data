@@ -98,5 +98,9 @@
   {
     "food_id": "324_horlicks",
     "idx": 24
+  },
+  {
+    "food_id": "326_fish_and_chips",
+    "idx": 25
   }
 ]

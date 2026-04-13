@@ -1,0 +1,68 @@
+{
+  "source_json": "fish_and_chips_singapore.json",
+  "filename_prefix": "fish_and_chips_singapore",
+  "save_pattern": "fish_and_chips_singapore_{x}.jpg",
+  "objective": "Train MedGemma to visually identify Singapore hawker style Fish and Chips including its product form, texture, ingredients, serving context, and label-relevant allergen and sodium cues.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "Singapore hawker style fish and chips plate with battered white fish fillet and thick-cut fries",
+      "golden crispy battered fish fillet with tartar sauce and coleslaw Singapore hawker fish and chips",
+      "hawker Western fish and chips Singapore style with deep-fried dory fillet and thick fries"
+    ],
+    "macro_texture": [
+      "close up of crispy golden wheat flour batter on deep-fried white fish fillet Singapore style",
+      "texture of thick-cut deep-fried potato fries on Singapore hawker fish and chips plate",
+      "surface detail of creamy tartar sauce with capers and gherkin on fish and chips Singapore hawker"
+    ],
+    "raw_ingredients_and_process": [
+      "frozen white fish fillet dory thawed and coated in wheat flour batter before deep frying",
+      "thick wheat flour batter mixed with baking powder and salt for Singapore fish and chips",
+      "deep frying process of battered white fish fillet in hot vegetable oil Singapore hawker style",
+      "preparation of thick-cut potato fries blanched and deep-fried for fish and chips",
+      "ingredients of tartar sauce mayonnaise capers gherkin lemon juice herbs",
+      "coleslaw shredded cabbage carrot mayonnaise served with fish and chips"
+    ],
+    "in_the_wild_context": [
+      "Singapore kopitiam hawker Western food stall serving fish and chips plate",
+      "hawker center Western food stall with fish and chips and tartar sauce Singapore",
+      "Singapore hawker fish and chips served on a plate with coleslaw and tartar sauce",
+      "typical Singapore hawker Western meal setting with fish and chips and thick fries"
+    ],
+    "culinary_application": [
+      "Singapore hawker style fish and chips served as a full plate meal with tartar sauce and coleslaw",
+      "battered white fish fillet and fries eaten as hawker Western lunch in Singapore",
+      "fish and chips with tartar sauce as popular Singapore hawker Western dish"
+    ],
+    "label_truth": [
+      "fish and chips allergen label showing fish gluten eggs milk in batter tartar sauce coleslaw",
+      "nutritional label highlighting high sodium content in Singapore hawker fish and chips",
+      "food label showing deep-fried white fish fillet with wheat flour batter and tartar sauce ingredients"
+    ],
+    "optional_local_language_queries": [
+      "炸鱼薯条 Singapore hawker style fish and chips plate",
+      "Ikan Goreng Tepung dengan Kentang Goreng fish and chips Malay Singapore hawker",
+      "Zhá Yú Shǔ Tiáo battered fish fillet fries Singapore hawker Western"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
