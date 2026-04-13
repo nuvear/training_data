@@ -1,0 +1,153 @@
+{
+  "food_name": "Ikan Bakar (grilled marinated fish with sambal)",
+  "local_names": {
+    "malay": "Ikan Bakar",
+    "chinese_simplified": "烤鱼",
+    "chinese_traditional": "烤魚",
+    "tamil": "இக்கான் பாக்கர்",
+    "indonesian": "Ikan Bakar"
+  },
+  "aliases": [
+    "ikan bakar",
+    "grilled fish Malay",
+    "charcoal grilled fish sambal",
+    "BBQ fish Malay style",
+    "ikan bakar sambal"
+  ],
+  "cuisine": "Singapore Malay / Malaysian Malay / Indonesian",
+  "region_of_origin": "Malay Peninsula and Indonesian archipelago — universal Malay coastal food",
+  "food_group": "Fish and seafood dishes",
+  "food_subgroup": "Charcoal-grilled fish marinated in sambal",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Ikan Bakar. Closest parent is grilled marinated fish with spice paste.",
+    "foodex2_code": "A0FRG",
+    "foodex2_description": "Grilled fish with sambal marinade (Malay ikan bakar style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "charcoal-grilled"
+    ],
+    "processing_level": "prepared grilled fish dish",
+    "main_ingredients": [
+      "fish (stingray/mackerel/snapper)",
+      "sambal (shrimp paste, dried chilli, lemongrass, turmeric)",
+      "banana leaf (cooking vessel, not consumed)"
+    ],
+    "allergens": [
+      "fish",
+      "crustaceans (belacan in sambal)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving = 250g (fish with sambal)",
+    "size_g": 250,
+    "natural_language_portion": "A standard ikan bakar serving is approximately 250g: 150g fish (bone-in, with a portion of edible skin) plus approximately 40g sambal marinade residue and juices. Banana leaf wrapping is excluded. Typically served with steamed rice and additional sambal."
+  },
+  "nutrient_source": {
+    "title": "Ikan Bakar — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has entries for grilled stingray with sambal (the canonical Singapore hawker ikan bakar version). IMR Malaysia MyFCD has grilled mackerel and grilled fish with sambal variants used for cross-reference. Values per 100g are for the grilled fish and sambal marinade composite. Banana leaf wrapping is not consumed and not included."
+  },
+  "per_100g": {
+    "energy_kcal": 128.0,
+    "protein_g": 16.8,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.2,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 0.6,
+    "sodium_mg": 580.0,
+    "potassium_mg": 340.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.4,
+    "cholesterol_mg": 68.0,
+    "vitamin_c_mg": 7.2,
+    "vitamin_a_mcg_rae": 38.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.13,
+    "vitamin_b3_niacin_mg": 5.2,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 2.2,
+    "folate_mcg_dfe": 14.0,
+    "vitamin_d_mcg": 3.5,
+    "vitamin_e_mg": 2.2,
+    "phosphorus_mg": 220.0,
+    "magnesium_mg": 32.0,
+    "zinc_mg": 1.0,
+    "selenium_mcg": 28.0,
+    "water_g": 72.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — Ikan Bakar is a protein and fat dominant dish with minimal carbohydrate (3.5g/100g from the sambal marinade only). No meaningful glycaemic response from the fish and sambal component.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium primarily from the belacan-based sambal marinade, which is applied generously before grilling. A 250g serving delivers approximately 1,450mg sodium — substantial but less than fried fish preparations with salty batters. The grilling process does not remove significant sodium.",
+      "guidance": "Patients with hypertension can enjoy ikan bakar occasionally but should be aware of the belacan-heavy sambal sodium. Request the stall to apply less sambal marinade. Pair with unsalted steamed vegetables. Limit to twice per week."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Ikan Bakar is a low-carbohydrate, high-protein dish — excellent for blood glucose management. Marine fish provides omega-3 fatty acids that support insulin sensitivity. The sambal contributes minimal carbohydrate (chilli, lemongrass, shrimp paste).",
+      "guidance": "Patients with type 2 diabetes should view ikan bakar as an excellent protein and omega-3 source. The dish itself has minimal glycaemic impact. Pair with controlled rice portion. Regular consumption of oily fish (mackerel, stingray) 2–3 times per week supports insulin sensitivity and reduces cardiovascular risk."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Marine fish provides omega-3 EPA and DHA (approximately 1.8g polyunsaturated fat/100g including marine omega-3). Selenium (28mcg/100g) is an important anti-oxidant for joint health. The charcoal-grilling method produces fewer proinflammatory compounds than deep-frying.",
+      "guidance": "Ikan Bakar is an excellent choice for patients with rheumatoid arthritis — high in marine omega-3, low in saturated fat, and cooked by a method that minimises proinflammatory advanced glycation end-products compared to high-heat frying. Recommend 2–3 times per week."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ikan Bakar, meaning 'grilled fish', is one of the most popular Malay-Indonesian coastal dishes, where fish is marinated in a sambal paste of belacan, dried chilli, lemongrass, and turmeric, then wrapped in banana leaf and grilled over charcoal. The banana leaf creates a semi-steamed, semi-grilled environment that keeps the fish moist while allowing the sambal to caramelise onto the skin. In Singapore, the most iconic version is Grilled Stingray with Sambal, a beloved hawker dish eaten with fingers from the banana leaf. Healthier than deep-fried preparations, ikan bakar retains more of the fish's omega-3 fatty acids and delivers a rich smoky, spicy flavour profile.",
+    "common_user_queries": [
+      "ikan bakar calories",
+      "grilled stingray nutrition",
+      "ikan bakar vs fried fish",
+      "ikan bakar healthy",
+      "ikan bakar omega 3",
+      "ikan bakar sodium content"
+    ],
+    "meal_context": [
+      "Malay hawker centre",
+      "outdoor barbecue (BBQ)",
+      "Geylang Serai food stalls",
+      "night market",
+      "paired with steamed rice"
+    ],
+    "ingredient_synonyms": {
+      "ikan bakar": [
+        "grilled fish Malay",
+        "BBQ fish Malay",
+        "charcoal grilled fish"
+      ],
+      "ikan pari bakar": [
+        "grilled stingray",
+        "stingray with sambal"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "HPB Singapore Foodo has direct entries for grilled stingray/fish with sambal. IMR Malaysia MyFCD cross-referenced for validation. Consistent nutrient values across sources.",
+  "notes": "Values represent the canonical Singapore hawker version: stingray or mackerel grilled in banana leaf with sambal. Vitamin D content (3.5mcg/100g) and selenium (28mcg/100g) are notable nutrients from marine fish. High protein (16.8g/100g) makes this a nutritionally superior choice compared to fried chicken or fried beancurd dishes. The sambal is high in sodium — the primary concern for hypertension patients."
+}

@@ -1,0 +1,65 @@
+{
+  "source_json": "ikan_bakar.json",
+  "filename_prefix": "ikan_bakar",
+  "save_pattern": "ikan_bakar_{x}.jpg",
+  "objective": "Train MedGemma to visually identify and contextualize Ikan Bakar, a Malay-Indonesian charcoal-grilled marinated fish dish with sambal, across its product forms, textures, ingredients, culinary contexts, and label-relevant features.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic close-up of ikan bakar grilled fish with sambal on banana leaf Malay Indonesian dish",
+      "ikan bakar sambal marinated fish grilled over charcoal served on banana leaf with sambal residue",
+      "grilled stingray fish with spicy sambal sauce on banana leaf typical Malay Peninsula coastal food"
+    ],
+    "macro_texture": [
+      "charcoal grilled fish skin caramelised with sambal paste close-up ikan bakar Malay style",
+      "texture of sambal marinade with dried chilli, shrimp paste, lemongrass on grilled fish",
+      "banana leaf wrapped grilled fish showing moist flaky fish flesh and spicy sambal coating"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh stingray mackerel snapper fish raw for ikan bakar Malay grilled fish dish",
+      "sambal ingredients shrimp paste dried chilli lemongrass turmeric for ikan bakar marinade",
+      "banana leaf sheets used for wrapping fish before charcoal grilling in Malay Indonesian cuisine"
+    ],
+    "in_the_wild_context": [
+      "ikan bakar served at Malay hawker centre outdoor barbecue Singapore Geylang Serai food stall",
+      "night market stall selling grilled ikan bakar fish with sambal and banana leaf presentation",
+      "Malay Indonesian coastal food street vendor grilling marinated fish wrapped in banana leaf"
+    ],
+    "culinary_application": [
+      "ikan bakar served with steamed white rice and extra sambal sauce typical Malay meal",
+      "Malay style grilled fish with sambal eaten with fingers on banana leaf at hawker centre",
+      "charcoal grilled ikan bakar fish plated with side of vegetables and sambal dipping sauce"
+    ],
+    "label_truth": [
+      "close-up of ikan bakar label showing allergens fish and crustaceans from belacan sambal",
+      "nutrition label highlighting high sodium content in sambal marinated grilled fish dish",
+      "Malay grilled fish sambal product label indicating halal certification and gluten free"
+    ],
+    "optional_local_language_queries": [
+      "烤鱼 Malay style grilled fish with sambal on banana leaf",
+      "Ikan Bakar 印尼马来海岸烧烤鱼配虾酱辣椒酱",
+      "இக்கான் பாக்கர் Tamil grilled fish with spicy sambal marinade",
+      "Ikan Bakar sambal ikan pari bakar grilled stingray with sambal Malay Indonesian"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

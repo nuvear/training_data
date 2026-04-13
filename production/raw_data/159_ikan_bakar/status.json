@@ -1,0 +1,23 @@
+{
+  "food_id": "159_ikan_bakar",
+  "stage": "test",
+  "slots": {
+    "img_01": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_02": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": 0.3296,
+      "source": "auto_replace"
+    },
+    "img_03": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    }
+  },
+  "promoted": true
+}
