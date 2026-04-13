@@ -1,0 +1,23 @@
+{
+  "food_id": "333_french_fries",
+  "stage": "test",
+  "slots": {
+    "img_01": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_02": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_03": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": 0.2898,
+      "source": "auto_replace"
+    }
+  },
+  "promoted": true
+}

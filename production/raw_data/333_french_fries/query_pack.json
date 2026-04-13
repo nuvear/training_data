@@ -1,0 +1,66 @@
+{
+  "source_json": "french_fries_sg.json",
+  "filename_prefix": "french_fries_sg",
+  "save_pattern": "french_fries_sg_{x}.jpg",
+  "objective": "Train MedGemma to visually identify medium serving fast food French Fries typical of McDonald's Singapore, capturing product form, texture, preparation, serving context, and nutritional label cues.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "medium serving McDonald's French fries Singapore fast food golden crispy thin-cut potato strips",
+      "McDonald's Singapore medium French fries carton 117g fast food side crispy salted",
+      "fast food medium French fries portion McDonald's KFC Singapore golden fried potato strips"
+    ],
+    "macro_texture": [
+      "close-up golden crispy exterior French fries medium fast food McDonald's Singapore",
+      "soft inside texture of thin-cut French fries medium serving McDonald's Singapore",
+      "golden brown crispy fried potato strips French fries medium portion fast food"
+    ],
+    "raw_ingredients_and_process": [
+      "russet potato pre-cut strips blanched frozen deep-fried vegetable oil French fries",
+      "frozen pre-blanched russet potato strips frying process vegetable oil McDonald's fries",
+      "deep-frying golden crispy French fries vegetable oil canola sunflower blend"
+    ],
+    "in_the_wild_context": [
+      "McDonald's Singapore medium French fries served in fast food meal tray",
+      "KFC Singapore medium French fries carton side dish fast food restaurant",
+      "fast food meal with medium French fries McDonald's or KFC Singapore quick service"
+    ],
+    "culinary_application": [
+      "medium French fries side dish with burger McDonald's Singapore fast food meal",
+      "fast food combo meal McDonald's Singapore including medium French fries and drink",
+      "French fries medium portion served salted hot in fast food restaurant Singapore"
+    ],
+    "label_truth": [
+      "nutrition label French fries medium serving McDonald's Singapore showing sodium content",
+      "ingredient label French fries McDonald's Singapore vegetable oil salt russet potato",
+      "fast food French fries medium serving nutrition facts high sodium and fat content"
+    ],
+    "optional_local_language_queries": [
+      "薯条中份 McDonald's Singapore medium French fries fast food",
+      "Kentang Goreng Sederhana French fries medium fast food Singapore",
+      "பிரஞ்சு ஃப்ரைஸ் medium French fries fast food Singapore",
+      "薯条 medium portion fast food fries Singapore",
+      "french fries medium fast food Singapore McDonald's style"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
