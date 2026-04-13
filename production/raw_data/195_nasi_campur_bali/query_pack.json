@@ -1,0 +1,70 @@
+{
+  "source_json": "nasi_campur_bali_halal_chicken.json",
+  "filename_prefix": "nasi_campur_bali_halal_chicken",
+  "save_pattern": "nasi_campur_bali_halal_chicken_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify and understand Nasi Campur Bali halal chicken version across its product form, texture, ingredients, cultural context, and allergen labeling.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic plate of Nasi Campur Bali halal chicken version with steamed white rice and assorted Balinese side dishes",
+      "Balinese mixed rice halal chicken version served on traditional Indonesian plate with colorful side dishes",
+      "Nasi Campur Bali halal chicken meal with chicken satay lilit, lawar, crispy tempeh, sambal matah, and peanuts"
+    ],
+    "macro_texture": [
+      "close-up of steamed white rice grains in Nasi Campur Bali halal chicken plate",
+      "texture detail of grilled chicken satay lilit on lemongrass skewer in Balinese mixed rice",
+      "crispy fried tempeh texture in Nasi Campur Bali halal chicken dish",
+      "fresh raw sambal matah chili relish with visible shallots and lemongrass in Balinese mixed rice"
+    ],
+    "raw_ingredients_and_process": [
+      "raw ingredients of Nasi Campur Bali halal chicken version including steamed white rice, chicken satay lilit skewers, lawar minced chicken with coconut, crispy tempeh, fresh sambal matah chili relish, and peanuts",
+      "grilled chicken satay lilit minced on lemongrass sticks for Balinese mixed rice",
+      "fresh Balinese sambal matah chili relish with lemongrass, shallots, and lime juice",
+      "fried tempeh pieces used in Nasi Campur Bali halal chicken version"
+    ],
+    "in_the_wild_context": [
+      "Nasi Campur Bali halal chicken served in Balinese restaurant setting with traditional Indonesian decor",
+      "Indonesian halal hawker stall serving Nasi Campur Bali with chicken satay lilit and sambal matah",
+      "Balinese food court plate of Nasi Campur Bali halal chicken version with multiple side dishes",
+      "tourist enjoying Nasi Campur Bali halal chicken meal in Bali street food market"
+    ],
+    "culinary_application": [
+      "Nasi Campur Bali halal chicken served as lunch meal with 400g portion including rice and side dishes",
+      "Balinese mixed rice plate with diverse textures and flavors: steamed, grilled, fried, and raw components",
+      "Halal chicken version of Balinese nasi campur with emphasis on protein side dishes and fresh chili sambal",
+      "Nasi Campur Bali halal chicken served with peanuts and tempeh as protein-rich Indonesian staple"
+    ],
+    "label_truth": [
+      "food label highlighting allergens peanuts and soy in Nasi Campur Bali halal chicken version",
+      "nutritional label showing moderate sodium content and halal certification for Balinese mixed rice chicken version",
+      "ingredient list emphasizing halal chicken substitution for traditional pork babi guling in Nasi Campur Bali"
+    ],
+    "optional_local_language_queries": [
+      "巴里岛杂饭 halal 鸡肉版本 印度尼西亚巴厘岛混合饭",
+      "Nasi Campur Bali halal chicken version Indonesian traditional mixed rice",
+      "நாசி சாம்பூர் பாலி ஹலால் கோழி பதிப்பு Balinese mixed rice",
+      "Nasi Campur Bali halal chicken version with sambal matah and satay lilit",
+      "Balinese nasi campur chicken halal version with lawar and crispy tempe"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

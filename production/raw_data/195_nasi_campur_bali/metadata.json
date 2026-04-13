@@ -1,0 +1,160 @@
+{
+  "food_name": "Nasi Campur Bali (Balinese mixed rice — halal chicken version)",
+  "local_names": {
+    "malay": "Nasi Campur Bali",
+    "chinese_simplified": "巴里岛杂饭",
+    "chinese_traditional": "巴里島雜飯",
+    "tamil": "நாசி சாம்பூர் பாலி",
+    "indonesian": "Nasi Campur Bali"
+  },
+  "aliases": [
+    "nasi campur bali",
+    "Balinese mixed rice",
+    "nasi campur",
+    "Bali mixed rice halal",
+    "Balinese nasi campur chicken"
+  ],
+  "cuisine": "Indonesian (Bali)",
+  "region_of_origin": "Bali, Indonesia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Balinese mixed rice with multiple side dishes",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Nasi Campur Bali. Closest parent is rice with multiple Balinese small side dishes.",
+    "foodex2_code": "A00PB",
+    "foodex2_description": "Balinese mixed rice with multiple small side dishes (nasi campur bali style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed (rice)",
+      "grilled (satay lilit)",
+      "fried (tempe)",
+      "raw (sambal matah)"
+    ],
+    "processing_level": "composite mixed rice plate",
+    "main_ingredients": [
+      "steamed white rice",
+      "chicken satay lilit (minced on lemongrass)",
+      "lawar (minced chicken with coconut)",
+      "crispy tempe",
+      "sambal matah (fresh Balinese raw chilli)",
+      "peanuts"
+    ],
+    "allergens": [
+      "peanuts",
+      "soy (tempeh)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate = 400g total",
+    "size_g": 400,
+    "natural_language_portion": "A standard Nasi Campur Bali serving is approximately 400g: 200g steamed white rice plus approximately 200g small portions of side dishes (chicken satay lilit, lawar, crispy tempe, sambal matah, peanuts)."
+  },
+  "nutrient_source": {
+    "title": "Nasi Campur Bali (halal chicken version) — FAO/INFOODS SEA Table; estimated from components",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table",
+    "url": "https://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "FAO/INFOODS SEA Table has limited data for Nasi Campur Bali specifically. Values estimated from canonical chicken-substitute components: steamed rice + chicken satay lilit (minced chicken on lemongrass) + lawar (minced chicken with coconut) + tempe goreng + sambal matah + peanuts. Note: traditional version uses babi guling (pork) — this record is for the halal chicken version. Per-100g represents blended plate composition. Confidence: medium."
+  },
+  "per_100g": {
+    "energy_kcal": 185.0,
+    "protein_g": 9.2,
+    "fat_g": 8.5,
+    "saturated_fat_g": 3.2,
+    "monounsaturated_fat_g": 3.0,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 21.0,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 295.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 25.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.3,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 125.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 12.0,
+    "water_g": 57.0
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 54.6,
+  "gi_source": "University of Sydney GI Database — GI driven by white steamed rice (~73). The diverse protein side dishes (chicken, tempe) and fat from peanuts and satay moderately lower the composite plate GI. Estimated composite GI ~63–68. Per-400g plate delivers approximately 84g carbohydrate; GL per plate ~54.6.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Moderate sodium (295mg/100g) — nasi campur bali is lower in sodium than belacan-heavy Malay dishes. A 400g plate delivers approximately 1,180mg sodium — 49% of the daily limit. The sambal matah (fresh Balinese chilli) is salt-light.",
+      "guidance": "Patients with hypertension can enjoy nasi campur bali with moderate sodium concern. It is one of the lower-sodium mixed rice dishes in the region. Monitor overall meal sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "A 400g plate delivers approximately 84g carbohydrate (GL ~54.6) from white steamed rice. The diverse protein and fat from multiple side dishes provides moderate GI lowering.",
+      "guidance": "Patients with type 2 diabetes should limit rice to 100g and compensate with extra protein and tempeh side dishes. The sambal matah (fresh chilli) contains capsaicin that may modestly support insulin sensitivity."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Lower saturated fat than coconut-milk-heavy Malay dishes (3.2g/100g from coconut in lawar component). High vitamin C from sambal matah (fresh chilli, 8.5mg/100g). Tempeh provides anti-inflammatory isoflavones. Peanuts provide resveratrol.",
+      "guidance": "Nasi Campur Bali is a suitable choice for patients with rheumatoid arthritis — diverse protein sources, relatively low saturated fat, and anti-inflammatory components from sambal matah, tempeh, and peanuts. Can be eaten twice per week."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Campur Bali is the Balinese version of a mixed rice plate — steamed white rice ringed with a diverse array of small portions of Balinese side dishes. The traditional version includes babi guling (roasted suckling pig), lawar (minced meat and green beans with grated coconut and spices), satay lilit (minced fish or meat on lemongrass skewers), crispy tempeh, and the distinctive sambal matah — a raw fresh Balinese chilli relish made with lemongrass, shallots, and lime juice. For halal diners, pork components are replaced with chicken. The diversity of flavours and textures — crispy, grilled, raw, spiced — makes nasi campur a quintessential Balinese food experience.",
+    "common_user_queries": [
+      "nasi campur bali calories",
+      "nasi campur bali nutrition",
+      "nasi campur bali halal version",
+      "nasi campur bali vs nasi padang",
+      "balinese mixed rice healthy",
+      "sambal matah calories"
+    ],
+    "meal_context": [
+      "Balinese restaurant",
+      "Indonesian food court",
+      "Bali travel food",
+      "Indonesian halal hawker"
+    ],
+    "ingredient_synonyms": {
+      "nasi campur bali": [
+        "Balinese mixed rice",
+        "nasi campur"
+      ],
+      "sambal matah": [
+        "fresh Balinese raw chilli relish",
+        "raw shallot chilli Bali"
+      ],
+      "satay lilit": [
+        "minced lemongrass satay Bali",
+        "Balinese satay"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "FAO/INFOODS SEA Table has limited Nasi Campur Bali coverage. Values estimated from canonical chicken-substitute components. Traditional version uses pork (babi guling) which significantly changes the fat and protein profile. Confidence: medium.",
+  "notes": "IMPORTANT: Traditional Balinese Nasi Campur uses babi guling (roasted suckling pig) — is_halal: FALSE for the traditional pork version. This record reports the halal CHICKEN-SUBSTITUTE version (is_halal: TRUE). The pork version would have higher saturated fat and different protein values. Always clarify pork vs. chicken when providing nutrition counselling for Balinese nasi campur."
+}
