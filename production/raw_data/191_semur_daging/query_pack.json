@@ -1,0 +1,64 @@
+{
+  "source_json": "semur_daging.json",
+  "filename_prefix": "semur_daging",
+  "save_pattern": "semur_daging_{x}.jpg",
+  "objective": "Train MedGemma to visually recognize Semur Daging across its product form, texture, ingredients, cultural context, culinary use, and label-relevant features.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic close-up of Semur Daging Indonesian sweet soy-braised beef in a bowl showing dark glossy kecap manis sauce and beef cubes",
+      "high-resolution image of Semur Daging (semur sapi) served in traditional Indonesian ceramic bowl with rich brown sweet soy braised beef and fried shallots",
+      "detailed photo of Betawi semur with tender beef cubes braised in thick sweet soy sauce with visible spices nutmeg and cloves"
+    ],
+    "macro_texture": [
+      "close-up macro shot of beef cubes braised in kecap manis sweet soy sauce showing glossy, sticky texture with fried shallots and black pepper flakes",
+      "detailed texture image of dark brown sweet soy sauce coating tender beef pieces in Semur Daging with visible tomato and spices",
+      "macro photography of Indonesian sweet soy-braised beef stew showing thick sauce surface with nutmeg and clove spices embedded"
+    ],
+    "raw_ingredients_and_process": [
+      "photorealistic image of raw beef cubes alongside kecap manis Indonesian sweet soy sauce bottle and whole nutmeg, cloves, black peppercorns, fried shallots",
+      "slow braising process of beef cubes simmering in dark sweet soy sauce (kecap manis) with whole spices nutmeg and cloves in a pot",
+      "ingredients layout showing fresh beef cubes, kecap manis sweet soy sauce, whole nutmeg, cloves, black pepper, fried shallots, and tomato on wooden table"
+    ],
+    "in_the_wild_context": [
+      "Indonesian home cooking setting with Semur Daging served in bowl alongside steamed white rice on wooden dining table",
+      "Betawi festive meal table featuring Semur Daging as a side dish with other traditional Indonesian dishes during Hari Raya celebration",
+      "Indonesian food court stall serving Semur Daging in bowls with rice, showing local Javanese culinary environment"
+    ],
+    "culinary_application": [
+      "Semur Daging plated as a main dish with steamed rice and garnished with fried shallots in Indonesian home meal context",
+      "traditional Indonesian family meal featuring Semur Daging alongside side dishes and sambal chili sauce",
+      "Betawi style festive meal presentation of Semur Daging served in ceramic bowl with rice and vegetable accompaniments"
+    ],
+    "label_truth": [
+      "close-up photo of kecap manis sweet soy sauce bottle label showing soy allergen warning and palm sugar ingredients",
+      "nutrition label of Semur Daging showing sodium content approximately 520mg per 100g and sugar content from kecap manis",
+      "ingredient list on packaged Semur Daging product highlighting soy allergen and sweet soy sauce (kecap manis) as main components"
+    ],
+    "optional_local_language_queries": [
+      "印尼甜酱油焖牛肉 Semur Daging Indonesian sweet soy-braised beef in traditional Indonesian bowl",
+      "Semur Daging (சேமூர் தாகிங்) slow-braised beef with kecap manis sweet soy sauce and spices nutmeg cloves",
+      "Semur sapi kecap manis beef stew with fried shallots and black pepper in Indonesian home cooking setting"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "food_name": "Semur Daging (Indonesian sweet soy-braised beef)",
+  "local_names": {
+    "malay": "Semur Daging",
+    "chinese_simplified": "印尼甜酱油焖牛肉",
+    "chinese_traditional": "印尼甜醬油燜牛肉",
+    "tamil": "சேமூர் தாகிங்",
+    "indonesian": "Semur Daging"
+  },
+  "aliases": [
+    "semur daging",
+    "semur sapi",
+    "Indonesian sweet soy braised beef",
+    "kecap manis beef stew",
+    "Betawi semur"
+  ],
+  "cuisine": "Indonesian (Javanese / Betawi origin — also common in Malaysia)",
+  "region_of_origin": "Java and Betawi (Jakarta), Indonesia",
+  "food_group": "Meat dishes",
+  "food_subgroup": "Beef braised in sweet soy sauce (kecap manis) with nutmeg and cloves",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Semur Daging. Closest parent is sweet soy-braised beef stew.",
+    "foodex2_code": "A0MEB",
+    "foodex2_description": "Beef braised in sweet soy sauce with spices (Indonesian semur daging style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "braised (slow-simmered in kecap manis sauce)"
+    ],
+    "processing_level": "prepared braised beef dish",
+    "main_ingredients": [
+      "beef cubes",
+      "kecap manis (Indonesian sweet soy sauce)",
+      "nutmeg",
+      "cloves",
+      "black pepper",
+      "fried shallots",
+      "tomato"
+    ],
+    "allergens": [
+      "soy (kecap manis)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 200g (beef + sauce)",
+    "size_g": 200,
+    "natural_language_portion": "A standard Semur Daging serving is approximately 200g: 120g beef cubes with 80g of the rich dark kecap manis sauce. Served alongside steamed rice (not included)."
+  },
+  "nutrient_source": {
+    "title": "Semur Daging — FAO/INFOODS SEA Table",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table",
+    "url": "https://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "FAO/INFOODS SEA Table is the primary source for Semur Daging. High sugar from kecap manis (palm sugar-based sweet soy) is the key nutritional distinguisher. Values per 100g represent beef + kecap manis sauce composite."
+  },
+  "per_100g": {
+    "energy_kcal": 165.0,
+    "protein_g": 15.5,
+    "fat_g": 7.5,
+    "saturated_fat_g": 2.8,
+    "monounsaturated_fat_g": 3.2,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 8.5,
+    "sugar_g": 6.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 520.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 2.0,
+    "cholesterol_mg": 58.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.14,
+    "vitamin_b3_niacin_mg": 4.5,
+    "vitamin_b6_mg": 0.32,
+    "vitamin_b12_mcg": 1.5,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 168.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 3.5,
+    "selenium_mcg": 16.0,
+    "water_g": 66.0
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 8.8,
+  "gi_source": "University of Sydney GI Database — GI driven by kecap manis (sweet soy sauce) which uses palm sugar. Palm sugar has lower GI (~35–55) than cane sugar. The protein from beef moderates carbohydrate absorption. Estimated GI ~48–55. Per-200g serving delivers approximately 17g carbohydrate; GL per serving ~8.8 (moderate).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium from kecap manis (soy sauce base) is significant. Kecap manis contains approximately 1,000–1,500mg sodium per 100g. A 200g serving of semur daging delivers approximately 1,040mg sodium — 43% of the daily limit.",
+      "guidance": "Patients with hypertension should monitor semur daging consumption. The kecap manis is the primary sodium source — request reduced kecap manis in preparation. Limit to once per week. The distinctive flavour depends on kecap manis so significant substitution is difficult."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Kecap manis contributes 6.5g sugar per 100g (palm sugar-based). A 200g serving delivers 13g sugar with GL ~8.8 — moderate. Palm sugar has lower GI than refined cane sugar, giving semur daging a more moderate glycaemic impact than dishes using regular sugar.",
+      "guidance": "Patients with type 2 diabetes can eat semur daging with moderate portion control. The palm sugar-based kecap manis has a more favourable GI than regular sugar. Pair with controlled rice. The beef provides zinc (3.5mg/100g) which supports glucose metabolism."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Lower saturated fat than coconut milk curries (2.8g/100g). High zinc (3.5mg/100g) from beef supports immune function. Cloves in the spice base (eugenol) and nutmeg have anti-inflammatory properties. The kecap manis sugar may promote inflammation with very frequent consumption.",
+      "guidance": "Semur daging is a relatively good choice for patients with rheumatoid arthritis — lower saturated fat, high zinc, and anti-inflammatory spices (cloves, nutmeg, black pepper). Limit to 2 times per week. The kecap manis sugar requires monitoring."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Semur Daging is an Indonesian slow-braised beef dish with distinctive Dutch colonial influence — 'semur' derives from the Dutch 'smoor' (braise). Beef cubes are braised in kecap manis (Indonesian palm sugar-sweetened soy sauce) with warming whole spices: nutmeg, cloves, black pepper, and crispy fried shallots. The kecap manis gives the dish a characteristic dark, glossy, sweet-savory sauce with deep umami. It is a common Javanese home-cooking staple and festive Betawi dish. The use of kecap manis (versus Chinese soy sauce) distinguishes it from Chinese braised beef — kecap manis is considerably sweeter and lower in sodium than regular soy sauce.",
+    "common_user_queries": [
+      "semur daging calories",
+      "semur daging nutrition",
+      "semur daging vs rendang",
+      "kecap manis beef stew healthy",
+      "semur daging sugar content",
+      "semur daging sodium"
+    ],
+    "meal_context": [
+      "Indonesian home cooking",
+      "Indonesian food court",
+      "Betawi festive meal",
+      "Hari Raya side dish"
+    ],
+    "ingredient_synonyms": {
+      "semur daging": [
+        "kecap manis beef",
+        "Indonesian sweet soy braised beef"
+      ],
+      "kecap manis": [
+        "sweet soy sauce Indonesia",
+        "Indonesian sweet soy"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "FAO/INFOODS SEA Table primary source. Values consistent with known kecap manis-braised beef composition.",
+  "notes": "Kecap manis (sweet soy sauce) contains palm sugar — which has lower GI than cane sugar, giving semur daging a more moderate glycaemic profile than its high sugar content might suggest. Zinc (3.5mg/100g) from beef is a notable nutrient. Gluten concern: kecap manis contains fermented soy/wheat — not gluten-free. The Dutch colonial influence on Indonesian cuisine is uniquely represented in semur."
+}
