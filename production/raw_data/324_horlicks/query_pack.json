@@ -1,0 +1,64 @@
+{
+  "source_json": "horlicks_kopitiam.json",
+  "filename_prefix": "horlicks_kopitiam",
+  "save_pattern": "horlicks_kopitiam_{x}.jpg",
+  "objective": "Train MedGemma to visually identify Horlicks malted milk hot drink in Singapore/Malaysian kopitiam context, capturing product form, texture, ingredients, preparation, serving context, and allergen cues.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic mug of hot Horlicks malted milk drink with creamy froth Singapore kopitiam style",
+      "close-up of standard kopitiam Horlicks malted milk powder dissolved in hot whole milk in mug",
+      "Singapore kopitiam serving of Horlicks hot malted milk beverage in traditional ceramic mug"
+    ],
+    "macro_texture": [
+      "close-up texture of creamy hot malted milk drink surface with light froth Horlicks style",
+      "dissolved malted barley powder texture in hot whole milk Horlicks beverage",
+      "thick creamy malted milk drink surface showing malted barley powder dissolved in hot milk"
+    ],
+    "raw_ingredients_and_process": [
+      "Horlicks malted milk powder sachet and heap of powder on spoon with barley malt and wheat flour grains",
+      "hot whole milk being poured into mug with Horlicks malted milk powder in Singapore kopitiam",
+      "stirring Horlicks malted milk powder dissolved in hot whole milk in ceramic kopitiam mug"
+    ],
+    "in_the_wild_context": [
+      "Singapore kopitiam interior with steaming mug of Horlicks malted milk drink on table",
+      "school canteen tray with Horlicks malted milk hot drink and local breakfast items Singapore",
+      "nighttime kopitiam scene with customers drinking Horlicks malted milk beverage in mugs"
+    ],
+    "culinary_application": [
+      "Horlicks malted milk hot drink served as comforting bedtime beverage in Singapore home setting",
+      "breakfast table with Horlicks malted milk drink alongside kaya toast and soft boiled eggs",
+      "traditional kopitiam breakfast featuring Horlicks malted milk drink with local pastries and snacks"
+    ],
+    "label_truth": [
+      "Horlicks malted milk powder nutrition label showing allergens gluten and milk Singapore product",
+      "close-up of Horlicks malted milk powder packaging highlighting malted barley and wheat flour ingredients",
+      "Horlicks malted milk powder label with halal certification and allergen warnings gluten and dairy"
+    ],
+    "optional_local_language_queries": [
+      "好立克 热饮 馥郁麦芽牛奶粉 新加坡咖啡店",
+      "Horlicks Panas 马来西亚热麦芽牛奶饮料 杯装",
+      "ஹார்லிக்ஸ் சூடான பாலுடன் மல்டெட் மில்க் பவுடர் குடிநீர்"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
