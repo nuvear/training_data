@@ -1,0 +1,22 @@
+{
+  "food_id": "0002_char_kway_teow",
+  "stage": "test",
+  "slots": {
+    "img_01": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_02": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_03": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    }
+  },
+  "promoted": true
+}
