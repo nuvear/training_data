@@ -1,0 +1,74 @@
+{
+  "source_json": "asam_pedas_ikan.json",
+  "filename_prefix": "asam_pedas_ikan",
+  "save_pattern": "asam_pedas_ikan_{x}.jpg",
+  "objective": "Train MedGemma to visually recognize Asam Pedas Ikan across its product form, texture, ingredients, culinary context, and allergen labeling in Southeast Asian Malay cuisine.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic close-up of Asam Pedas Ikan sour spicy fish stew in a bowl with clear tamarind broth and visible fish fillets",
+      "Asam Pedas Ikan Malay sour tamarind fish stew served in traditional Malaysian or Singaporean ceramic bowl",
+      "freshly served Asam Pedas Ikan with fish pieces and vibrant red broth showing dried chilli and bunga kantan torch ginger flower"
+    ],
+    "macro_texture": [
+      "detailed texture of simmered fish fillet in sour spicy tamarind broth of Asam Pedas Ikan",
+      "close-up of clear reddish broth with floating dried chilli flakes and pieces of torch ginger flower in Asam Pedas Ikan",
+      "surface texture of oily light tamarind-based fish stew broth with visible galangal and lemongrass strands"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh stingray fish fillet raw for Asam Pedas Ikan preparation",
+      "raw red snapper fish and mackerel fish used in Malay sour spicy fish stew",
+      "tamarind pulp and dried red chillis for making Asam Pedas Ikan broth",
+      "fresh torch ginger flower bunga kantan and lemongrass stalks on kitchen counter",
+      "shrimp paste belacan block and ground galangal root for Malay fish stew spice paste",
+      "Malay kitchen scene showing simmering pot of Asam Pedas Ikan with visible turmeric and spice ingredients"
+    ],
+    "in_the_wild_context": [
+      "Asam Pedas Ikan served at Singapore Malay hawker centre with steamed white rice on side",
+      "Malay family meal table setting featuring bowl of Asam Pedas Ikan with rice and vegetable sides",
+      "traditional Malaysian restaurant serving Asam Pedas Ikan in clay pot with wooden table background",
+      "home cooked Malay style Asam Pedas Ikan served in ceramic bowl with spoon and rice plate",
+      "street food stall in Malaysia selling freshly made Asam Pedas Ikan fish stew"
+    ],
+    "culinary_application": [
+      "Asam Pedas Ikan served as main dish paired with steamed white rice and stir-fried vegetables",
+      "Malay sour spicy fish stew Asam Pedas Ikan plated with side of sambal and fresh herbs",
+      "traditional Malay meal with Asam Pedas Ikan fish stew, steamed rice, and fresh cucumber slices",
+      "Asam Pedas Ikan in bowl showing portion size of approximately 300g fish and broth",
+      "Malay cuisine presentation of Asam Pedas Ikan highlighting clear tamarind broth and fish pieces"
+    ],
+    "label_truth": [
+      "food label showing allergens fish and crustaceans shrimp paste belacan in Asam Pedas Ikan packaging",
+      "nutrition facts label highlighting sodium content 520mg per 100g in Asam Pedas Ikan broth",
+      "Malay packaged Asam Pedas Ikan product label with halal certification and ingredient list",
+      "close-up of sodium warning or moderate hypertension caution on Asam Pedas Ikan food label"
+    ],
+    "optional_local_language_queries": [
+      "亚参辣鱼 Malay sour spicy fish stew Asam Pedas Ikan in Singapore hawker centre",
+      "Ikan Asam Pedas Indonesian Malay tamarind fish stew with dried chilli and bunga kantan",
+      "ஆசாம் பெடாஸ் Tamil name for Malay sour spicy fish stew with tamarind and fish",
+      "Asam Pedas Ikan assam pedas tamarind fish curry in traditional Malay cooking pot",
+      "Malay Asam Pedas ikan pari stingray fish stew with torch ginger flower bunga kantan"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

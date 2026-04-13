@@ -1,0 +1,23 @@
+{
+  "food_id": "156_asam_pedas_ikan",
+  "stage": "test",
+  "slots": {
+    "img_01": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": 0.3704,
+      "source": "auto_replace"
+    },
+    "img_02": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    },
+    "img_03": {
+      "status": "production",
+      "reviewer": "Raj",
+      "clip_score": null
+    }
+  },
+  "promoted": true
+}

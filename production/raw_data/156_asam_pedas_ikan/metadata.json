@@ -1,0 +1,160 @@
+{
+  "food_name": "Asam Pedas Ikan (sour spicy fish stew)",
+  "local_names": {
+    "malay": "Asam Pedas Ikan",
+    "chinese_simplified": "亚参辣鱼",
+    "chinese_traditional": "亞參辣魚",
+    "tamil": "ஆசாம் பெடாஸ்",
+    "indonesian": "Ikan Asam Pedas"
+  },
+  "aliases": [
+    "asam pedas",
+    "assam pedas",
+    "sour spicy fish stew",
+    "tamarind fish curry",
+    "ikan asam pedas",
+    "Malay sour fish stew"
+  ],
+  "cuisine": "Singapore Malay / Malaysian Malay",
+  "region_of_origin": "Malay Peninsula — ubiquitous in Singapore and Malaysia Malay cuisine",
+  "food_group": "Fish and seafood dishes",
+  "food_subgroup": "Sour tamarind-based spicy fish stew",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Asam Pedas Ikan. Closest parent is tamarind-based spiced fish stew.",
+    "foodex2_code": "A0FRG",
+    "foodex2_description": "Fish stew in tamarind-based spiced broth (Malay asam pedas style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered",
+      "stewed"
+    ],
+    "processing_level": "prepared fish dish",
+    "main_ingredients": [
+      "fish (stingray/snapper/mackerel)",
+      "tamarind",
+      "dried chilli",
+      "lemongrass",
+      "galangal",
+      "turmeric",
+      "torch ginger flower (bunga kantan)",
+      "shrimp paste (belacan)"
+    ],
+    "allergens": [
+      "fish",
+      "crustaceans (belacan)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (fish + broth) = 300g",
+    "size_g": 300,
+    "natural_language_portion": "A standard Asam Pedas Ikan serving is 300g of fish with broth: approximately 150g fish fillet/piece plus 150g sour-spicy tamarind broth. Typically served alongside steamed rice (not included in these values)."
+  },
+  "nutrient_source": {
+    "title": "Asam Pedas Ikan — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo and IMR Malaysia MyFCD both have entries for Asam Pedas fish stew. Values per 100g are for the broth-only preparation without steamed rice. Fish type: primary reference uses stingray (ikan pari) as the canonical Singapore hawker version, though snapper and mackerel are also used. Tamarind contributes tartness and moderate acidity noted in the values."
+  },
+  "per_100g": {
+    "energy_kcal": 95.0,
+    "protein_g": 12.5,
+    "fat_g": 3.2,
+    "saturated_fat_g": 0.8,
+    "monounsaturated_fat_g": 1.0,
+    "polyunsaturated_fat_g": 1.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.2,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 520.0,
+    "potassium_mg": 310.0,
+    "calcium_mg": 48.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 62.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 45.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 4.2,
+    "vitamin_b6_mg": 0.35,
+    "vitamin_b12_mcg": 1.8,
+    "folate_mcg_dfe": 16.0,
+    "vitamin_d_mcg": 2.5,
+    "vitamin_e_mg": 1.8,
+    "phosphorus_mg": 185.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 22.0,
+    "water_g": 79.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — Asam Pedas Ikan is a fish and broth dish with minimal carbohydrate content (4.2g/100g). The tamarind contributes organic acids but negligible glycaemically relevant carbohydrate. Consumed with steamed rice which carries the glycaemic load.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from belacan (shrimp paste), fish sauce or anchovies in the spice paste, and salt. A 300g serving delivers approximately 1,560mg sodium — 65% of the 2,400mg daily limit. Significantly lower sodium than dry curries (rendang) or heavily seasoned dishes, but notable for hypertension patients.",
+      "guidance": "Patients with hypertension can enjoy asam pedas ikan with portion control. Request reduced belacan or salt in the preparation. Consume with steamed vegetables rather than salt-seasoned sides. Limit to 1 portion per meal with a low-sodium accompaniment."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Asam Pedas Ikan is a protein-dominant dish with negligible carbohydrate (4.2g/100g). The dish itself has minimal glycaemic impact — the carbohydrate load comes from accompanying steamed rice. Fish protein supports insulin sensitivity.",
+      "guidance": "Patients with type 2 diabetes should view asam pedas ikan as an excellent protein and omega-3 fatty acid source. The dish has minimal direct glycaemic impact. Pair with controlled rice portions (100g steamed rice maximum) and add a vegetable side to achieve a balanced, lower-GL meal."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Fish provides omega-3 polyunsaturated fatty acids (1.1g/100g including EPA and DHA equivalents from marine fish). Turmeric, galangal, and lemongrass in the spice base contribute anti-inflammatory compounds. Tamarind provides vitamin C.",
+      "guidance": "Asam Pedas Ikan is an excellent choice for patients with rheumatoid arthritis — omega-3 from fish reduces joint inflammation, and the anti-inflammatory spice base provides additional benefit. Recommend 2–3 times per week. Choose mackerel (higher omega-3) as the fish type where available."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Asam Pedas Ikan is a quintessential Malay sour-spicy fish stew that represents one of the most beloved flavour profiles in Malay cuisine. 'Asam' means sour (from tamarind) and 'pedas' means spicy (from dried chillis). The fish — most commonly stingray, red snapper, or mackerel — is simmered in a broth made from tamarind water, lemongrass, galangal, turmeric, dried chilli, and toasted belacan (shrimp paste). The signature ingredient is torch ginger flower (bunga kantan), which adds a distinctive floral-spicy aroma. Unlike Indian fish curries which use coconut milk, asam pedas has a clear, sour, oil-light broth. It is a high-protein, low-carbohydrate dish with excellent omega-3 fatty acid content.",
+    "common_user_queries": [
+      "asam pedas calories",
+      "asam pedas nutrition facts",
+      "asam pedas ikan healthy",
+      "asam pedas vs fish curry",
+      "asam pedas for weight loss",
+      "asam pedas sodium"
+    ],
+    "meal_context": [
+      "Malay family meal",
+      "hawker centre",
+      "Malay restaurant",
+      "home cooking",
+      "paired with steamed rice"
+    ],
+    "ingredient_synonyms": {
+      "asam pedas": [
+        "assam pedas",
+        "tamarind fish stew",
+        "sour spicy fish"
+      ],
+      "bunga kantan": [
+        "torch ginger flower",
+        "ginger torch",
+        "pink ginger flower"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct entries in both HPB Singapore Foodo and IMR Malaysia MyFCD for asam pedas fish stew. Values confirmed across both sources with minor variation in sodium values (primary sodium source: belacan concentration).",
+  "notes": "Values are for the fish and broth component only — steamed rice accompaniment not included. Fish type affects protein and omega-3 values: stingray has slightly higher fat than mackerel; mackerel has higher omega-3. Vitamin B12 content (1.8mcg/100g) is significant from marine fish. Key allergens: fish and crustaceans (belacan). Tamarind provides organic acids (tartaric, malic) that contribute to the characteristic sour flavour and the dish's moderate antioxidant capacity."
+}
