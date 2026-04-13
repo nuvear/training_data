@@ -1,0 +1,172 @@
+{
+  "food_name": "Ban Mian (dry, with minced pork and egg)",
+  "local_names": {
+    "malay": "Mi Ban Mian Kering",
+    "chinese_simplified": "板面（干捞，肉碎加蛋）",
+    "chinese_traditional": "板麵（乾撈，肉碎加蛋）",
+    "tamil": "பான் மியான் (உலர்)",
+    "romanized_local": "Bǎn miàn (gān lāo)"
+  },
+  "aliases": [
+    "ban mian dry",
+    "ban mee dry",
+    "hand-made flat noodles (dry)",
+    "gon lo ban mian",
+    "dry tossed handmade noodles"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Dry-tossed handmade flat noodles with minced pork and egg",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Ban Mian. Nearest parent is a handmade flat noodle dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — dry-tossed flat handmade noodles with minced meat (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tossed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "handmade flat wheat noodles",
+      "minced pork",
+      "poached egg",
+      "dried anchovies (ikan bilis, fried)",
+      "shallots (fried crispy)",
+      "spinach or mani cai (sayur manis)",
+      "dark soy sauce",
+      "oyster sauce",
+      "lard"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "fish",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 380,
+    "natural_language_portion": "A typical dry Ban Mian serving weighs approximately 380g and consists of thick, chewy handmade flat wheat noodles tossed in a sauce of lard, oyster sauce, and dark soy sauce, topped with minced pork, a poached egg, crispy fried ikan bilis, fried shallots, and blanched leafy greens, with a small bowl of clear anchovies broth served on the side."
+  },
+  "nutrient_source": {
+    "title": "Ban Mian (dry) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB flat noodle dish and minced pork composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Ban Mian (dry) entry found in HPB Foodo. Values adapted from HPB handmade noodle and minced pork dish data with component estimation."
+  },
+  "per_100g": {
+    "energy_kcal": 147.0,
+    "protein_g": 8.1,
+    "fat_g": 5.9,
+    "saturated_fat_g": 2.0,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 17.5,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 492.0,
+    "potassium_mg": 175.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 78.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 45.0,
+    "vitamin_b1_thiamine_mg": 0.14,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 2.8,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.45,
+    "folate_mcg_dfe": 32.0,
+    "vitamin_d_mcg": 0.4,
+    "vitamin_e_mg": 0.6,
+    "phosphorus_mg": 125.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 1.4,
+    "selenium_mcg": 12.0,
+    "water_g": 64.5
+  },
+  "glycemic_index": 48,
+  "glycemic_load_per_serving": 31.9,
+  "gi_source": "University of Sydney GI Database — handmade wheat noodles (boiled); GI lower than dried/extruded noodles due to denser starch structure.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1870mg per bowl (380g) — about 81% of the 2300mg daily recommended limit, contributed by oyster sauce, dark soy sauce, and fried ikan bilis.",
+      "guidance": "Patients with hypertension should request reduced dark soy and oyster sauce tossing; the ikan bilis topping, while flavourful, is a significant sodium contributor and can be reduced."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Handmade flat noodles have a lower GI (~48) than standard extruded noodles; minced pork and egg provide protein that moderates postprandial glucose response; leafy greens add fibre.",
+      "guidance": "Ban Mian (dry) is a relatively diabetes-friendly hawker noodle option; the handmade noodle's lower GI and the high protein content from pork and egg help moderate blood glucose response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Leafy greens (mani cai or spinach) provide folate and anti-inflammatory antioxidants; moderate protein from minced pork supports muscle maintenance.",
+      "guidance": "Ban Mian is a suitable dish for patients with rheumatoid arthritis; the leafy greens provide anti-inflammatory micronutrients, and requesting reduced lard will lower the saturated fat content."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ban Mian is a Singaporean Chinese hawker dish of thick, chewy handmade flat wheat noodles (stretched or torn by hand and boiled to order) served dry-tossed with a sauce of lard, oyster sauce, and dark soy sauce, topped with seasoned minced pork, a soft poached egg, crispy fried ikan bilis (dried anchovies), fried shallots, and blanched leafy greens such as mani cai or spinach. A small bowl of clear, flavourful anchovy-based broth accompanies the dish. The handmade noodles give ban mian its distinctive chewy texture and irregular shape that absorbs sauce well.",
+    "common_user_queries": [
+      "how many calories in ban mian",
+      "is ban mian healthy",
+      "ban mian dry vs soup which is healthier",
+      "can a diabetic eat ban mian",
+      "is ban mian halal",
+      "ban mian sodium content",
+      "ban mian vs wonton mee which is healthier"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "ban mian noodles": [
+        "handmade flat noodles",
+        "banmee",
+        "板面",
+        "hand-pulled noodles",
+        "mee hoon kueh"
+      ],
+      "mani cai": [
+        "sayur manis",
+        "sweet leaf",
+        "Sauropus androgynus",
+        "star gooseberry leaf"
+      ],
+      "ikan bilis": [
+        "dried anchovies",
+        "silver fish",
+        "silver bait fish",
+        "白饭鱼干"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Ban Mian (dry) entry found in HPB Foodo. Values adapted from HPB noodle dish component data. Confidence medium.",
+  "notes": "Not halal at traditional Chinese stalls due to pork and lard. Halal chicken ban mian exists. The handmade noodles' GI advantage over commercial extruded noodles is clinically relevant for diabetic patients. Mee hoon kueh (irregular torn pieces) is a variant of ban mian with identical ingredients."
+}

@@ -1,0 +1,174 @@
+{
+  "food_name": "Beef Rendang (with steamed rice)",
+  "local_names": {
+    "malay": "Rendang Daging",
+    "chinese_simplified": "仁当牛肉（配白饭）",
+    "chinese_traditional": "仁當牛肉（配白飯）",
+    "tamil": "பீஃப் ரெண்டாங் (சாதம் உடன்)",
+    "romanized_local": "Rendang daging"
+  },
+  "aliases": [
+    "rendang daging",
+    "beef rendang",
+    "dry beef curry",
+    "Malay beef rendang",
+    "Minangkabau rendang",
+    "rendang with rice"
+  ],
+  "cuisine": "Malay",
+  "region_of_origin": "Malaysia / Indonesia (Minangkabau)",
+  "food_group": "Mixed",
+  "food_subgroup": "Dry-braised spiced coconut beef with steamed rice",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Beef Rendang. Nearest parent is a braised meat dish with spiced coconut. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Braised meat dishes — dry-braised beef in coconut milk and spices (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "braised",
+      "slow-cooked",
+      "stewed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "beef (topside or chuck)",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "turmeric",
+      "kaffir lime leaves",
+      "toasted coconut (kerisik)",
+      "chilli",
+      "shallots",
+      "steamed jasmine rice"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate (rendang + rice)",
+    "size_g": 400,
+    "natural_language_portion": "A typical serving of Beef Rendang with rice in Singapore weighs approximately 400g and consists of 100g of dry-braised beef rendang (2–3 pieces of fork-tender beef coated in a deeply caramelised, intensely spiced coconut paste) served over 300g of steamed jasmine rice."
+  },
+  "nutrient_source": {
+    "title": "Beef Rendang — IMR Malaysia MyFCD and HPB Singapore Foodo, Food Code F06040005",
+    "organization": "Institute for Medical Research (IMR) Malaysia — Malaysian Food Composition Database (MyFCD); cross-referenced with Health Promotion Board (HPB), Singapore",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F06040005 — Beef Rendang, standard Malay preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 192.0,
+    "protein_g": 11.5,
+    "fat_g": 10.5,
+    "saturated_fat_g": 6.8,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 0.9,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 16.2,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 382.0,
+    "potassium_mg": 198.0,
+    "calcium_mg": 24.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 42.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 1.2,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 138.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 3.8,
+    "selenium_mcg": 14.0,
+    "water_g": 58.0
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 35.6,
+  "gi_source": "University of Sydney GI Database — white jasmine rice (main GI contributor in the combined dish); beef rendang itself has negligible GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1528mg per serving (400g) — about 66% of the 2300mg daily recommended limit, contributed by seasoning salt and soy in the rendang paste.",
+      "guidance": "Patients with hypertension should limit the rendang portion to one serving and avoid additional salt or soy sauce on the rice; the coconut-based gravy residue should also be moderated."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Rice component drives the glycaemic load (~36 per serving); rendang itself is low in carbohydrates but high in saturated fat from coconut milk.",
+      "guidance": "Diabetic patients should reduce the rice portion to 150g and increase the rendang beef component; the high fat content of rendang will slow gastric emptying and moderate glucose absorption from the rice."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High saturated fat content from coconut milk and kerisik; turmeric and galangal provide anti-inflammatory curcumin and phytocompounds.",
+      "guidance": "Patients with rheumatoid arthritis may consume Beef Rendang in moderation; while the spice paste provides anti-inflammatory curcumin, the high saturated fat from coconut milk warrants limiting consumption frequency."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Beef Rendang is a Malaysian-Indonesian Malay slow-braised dish of beef simmered in a thick, spiced coconut milk paste of lemongrass, galangal, kaffir lime leaf, turmeric, chilli, and toasted grated coconut (kerisik) until nearly all the liquid has evaporated and the beef is coated in a dark, caramelised, intensely aromatic dry crust. The dish is served over steamed rice and is one of the richest, most complex flavoured dishes in SEA cuisine. Originating from the Minangkabau people of West Sumatra, it has been adopted as a signature Malay dish in Singapore and Malaysia.",
+    "common_user_queries": [
+      "how many calories in beef rendang",
+      "is beef rendang healthy",
+      "can a diabetic eat beef rendang",
+      "is beef rendang halal",
+      "beef rendang fat content",
+      "beef rendang vs chicken curry which is healthier",
+      "how much sodium in beef rendang"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "Malay restaurant",
+      "lunch",
+      "dinner",
+      "Hari Raya",
+      "festive"
+    ],
+    "ingredient_synonyms": {
+      "galangal": [
+        "lengkuas",
+        "greater galangal",
+        "blue ginger",
+        "laos",
+        "高良薑"
+      ],
+      "kaffir lime leaves": [
+        "daun limau purut",
+        "makrut lime leaves",
+        "lime leaf"
+      ],
+      "kerisik": [
+        "toasted coconut paste",
+        "grated toasted coconut",
+        "coconut floss toasted"
+      ],
+      "rendang": [
+        "dry beef curry",
+        "rendang daging",
+        "Minangkabau beef rendang"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F06040005 — Beef Rendang, standard Malay preparation including rice.",
+  "notes": "The rendang component alone (without rice) has approximately 280 kcal/100g and very low carbohydrate content (~3g/100g). The combined serving with rice drives the carbohydrate and glycaemic impact. Saturated fat from coconut milk is predominantly medium-chain (lauric acid), which has different metabolic effects than long-chain saturated fatty acids."
+}

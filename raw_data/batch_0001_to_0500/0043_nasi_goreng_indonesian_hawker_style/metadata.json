@@ -1,0 +1,164 @@
+{
+  "food_name": "Nasi Goreng (Indonesian hawker style)",
+  "local_names": {
+    "malay": "Nasi Goreng (gaya Indonesia)",
+    "chinese_simplified": "印尼式炒饭",
+    "chinese_traditional": "印尼式炒飯",
+    "tamil": "நாசி கோரெங் (இந்தோனேசிய பாணி)",
+    "romanized_local": "Nasi goreng"
+  },
+  "aliases": [
+    "Indonesian fried rice",
+    "nasi goreng",
+    "Indonesian hawker fried rice",
+    "fried rice Indonesian",
+    "nasi goreng biasa"
+  ],
+  "cuisine": "Indonesian",
+  "region_of_origin": "Indonesia",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried rice with sweet soy sauce and egg (Indonesian style)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Nasi Goreng. Nearest parent is a fried rice dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — stir-fried rice with sweet soy sauce and egg (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "cooked jasmine rice (day-old)",
+      "kecap manis (sweet soy sauce)",
+      "shallots",
+      "garlic",
+      "red chilli",
+      "egg (fried, topping)",
+      "chicken or shrimp (optional)",
+      "soy sauce",
+      "cooking oil",
+      "spring onion"
+    ],
+    "allergens": [
+      "eggs",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 350,
+    "natural_language_portion": "A typical plate of Indonesian Nasi Goreng weighs approximately 350g and consists of day-old jasmine rice stir-fried with kecap manis (sweet soy sauce), shallots, garlic, and chilli, topped with a fried egg, and accompanied by cucumber slices, tomato, and prawn crackers."
+  },
+  "nutrient_source": {
+    "title": "Nasi Goreng — FAO/INFOODS SEA Food Composition Table; HPB Singapore Foodo Food Code F05100083",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table; Health Promotion Board (HPB), Singapore",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05100083 — Nasi Goreng, Indonesian hawker style. Cross-referenced with FAO/INFOODS SEA Indonesian food data."
+  },
+  "per_100g": {
+    "energy_kcal": 173.0,
+    "protein_g": 5.5,
+    "fat_g": 6.5,
+    "saturated_fat_g": 1.2,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 24.2,
+    "sugar_g": 4.8,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 518.0,
+    "potassium_mg": 112.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 72.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 52.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 14.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 85.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 10.0,
+    "water_g": 60.8
+  },
+  "glycemic_index": 70,
+  "glycemic_load_per_serving": 59.2,
+  "gi_source": "University of Sydney GI Database — white rice (fried); similar GI to plain white rice; kecap manis adds sugar but does not significantly alter the overall GI relative to plain fried rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1813mg per serving (350g) — about 79% of the 2300mg daily recommended limit, contributed by kecap manis, soy sauce, and seasoning.",
+      "guidance": "Patients with hypertension should request reduced kecap manis and soy sauce; nasi goreng contains less sodium than many other hawker rice dishes due to lighter sauce usage compared to Chinese fried rice."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Jasmine rice base has a high GI (~70); kecap manis adds approximately 4.8g sugar per 100g; per-serving glycaemic load of approximately 59 is high.",
+      "guidance": "Diabetic patients should limit nasi goreng to a smaller portion (200g) and request reduced kecap manis; the added sugar from the sweet soy sauce compounds the already high glycaemic impact of the rice base."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Shallots and garlic in the stir-fry provide quercetin and allicin with anti-inflammatory effects; the egg provides selenium and vitamin D; overall moderate fat profile.",
+      "guidance": "Nasi Goreng is an acceptable meal choice for patients with rheumatoid arthritis; the shallot and garlic base provides anti-inflammatory compounds, and requesting extra vegetables as a side improves the overall anti-inflammatory profile."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Goreng is Indonesia's beloved national fried rice dish — day-old jasmine rice stir-fried in a hot wok with shallots, garlic, and bird's eye chilli, seasoned with kecap manis (sweet Indonesian soy sauce) that gives the rice a characteristic deep brown colour and subtly sweet flavour. The dish is topped with a fried egg and served with cucumber slices, tomato wedges, and often prawn crackers. Unlike Chinese fried rice, Nasi Goreng is defined by the kecap manis sauce and the aromatic shallot-garlic-chilli base, making it sweeter and more fragrant.",
+    "common_user_queries": [
+      "how many calories in nasi goreng",
+      "is nasi goreng healthy",
+      "nasi goreng vs nasi lemak which is healthier",
+      "can a diabetic eat nasi goreng",
+      "is nasi goreng halal",
+      "how much sugar in nasi goreng",
+      "nasi goreng calories per plate Singapore"
+    ],
+    "meal_context": [
+      "Indonesian restaurant",
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "mamak"
+    ],
+    "ingredient_synonyms": {
+      "nasi goreng": [
+        "Indonesian fried rice",
+        "Malay fried rice (related)",
+        "nasgor",
+        "nasi goring"
+      ],
+      "kecap manis": [
+        "sweet soy sauce",
+        "Indonesian sweet soy",
+        "ketjap manis",
+        "kicap manis (Malaysia)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo under food code F05100083 — Nasi Goreng, Indonesian hawker style; cross-referenced with FAO/INFOODS SEA.",
+  "notes": "Halal in standard Indonesian/Malay preparation (no pork). The sugar content from kecap manis is clinically significant for diabetic patients. Prawn crackers accompaniment adds approximately 50–70 kcal per serving if consumed."
+}

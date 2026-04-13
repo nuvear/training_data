@@ -1,0 +1,170 @@
+{
+  "food_name": "Mutton Biryani",
+  "local_names": {
+    "malay": "Nasi Biryani Kambing",
+    "chinese_simplified": "羊肉香饭",
+    "chinese_traditional": "羊肉香飯",
+    "tamil": "மட்டன் பிரியாணி",
+    "romanized_local": "Mutton biryani"
+  },
+  "aliases": [
+    "lamb biryani",
+    "mutton biriyani",
+    "nasi biryani kambing",
+    "gosht biryani",
+    "Singapore mutton biryani"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India / Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced basmati rice cooked with marinated mutton",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a generic biryani concept but no specific Mutton Biryani entry. Nearest parent is a spiced rice dish with red meat. Recommend new concept.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — spiced rice with mutton (biryani style) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "dum-cooked",
+      "braised",
+      "steamed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "basmati rice",
+      "mutton (bone-in pieces)",
+      "yoghurt",
+      "onion (caramelised)",
+      "ginger-garlic paste",
+      "biryani masala",
+      "turmeric",
+      "saffron",
+      "ghee",
+      "mint leaves"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 450,
+    "natural_language_portion": "A typical serving of Mutton Biryani weighs approximately 450g and consists of dum-cooked spiced basmati rice layered with slow-braised mutton pieces on the bone, served with raita, dhal or kurma gravy, sliced cucumber, fried onions, and a boiled egg."
+  },
+  "nutrient_source": {
+    "title": "Mutton Biryani — ICMR-NIN Nutritive Value of Indian Foods, Food Code EI000047",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in ICMR-NIN under food code EI000047 — Mutton Biryani, standard Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 180.0,
+    "protein_g": 10.5,
+    "fat_g": 8.2,
+    "saturated_fat_g": 3.5,
+    "monounsaturated_fat_g": 3.2,
+    "polyunsaturated_fat_g": 0.9,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 17.8,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 448.0,
+    "potassium_mg": 215.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 2.2,
+    "cholesterol_mg": 55.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.15,
+    "vitamin_b3_niacin_mg": 3.8,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 1.8,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 152.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 3.2,
+    "selenium_mcg": 12.0,
+    "water_g": 60.5
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 44.1,
+  "gi_source": "University of Sydney GI Database — basmati rice (cooked); same GI basis as chicken biryani.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 2016mg per serving (450g) — about 88% of the 2300mg daily recommended limit; slightly higher than chicken biryani due to longer mutton braising with more salt.",
+      "guidance": "Patients with hypertension should limit accompaniment gravies and request reduced salt in the biryani preparation; mutton biryani is a higher-sodium meal that should be consumed occasionally."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Basmati rice GI of ~55 is more favourable than jasmine rice; per-serving carbohydrate load approximately 80g is substantial; mutton fat slows gastric emptying.",
+      "guidance": "Diabetic patients can consume Mutton Biryani in moderation; basmati rice is preferred over jasmine rice for its lower GI, and requesting extra mutton with reduced rice improves the glycaemic outcome."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Mutton contains arachidonic acid which can promote pro-inflammatory pathways at high consumption; however, the biryani spice profile provides anti-inflammatory compounds.",
+      "guidance": "Patients with rheumatoid arthritis should limit red meat frequency; Mutton Biryani consumed 1–2 times weekly is acceptable, but the anti-inflammatory spices (turmeric, ginger, cinnamon) provide benefit even with moderate consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mutton Biryani is a rich, aromatic Indian rice dish of slow-braised bone-in mutton layered with saffron-infused basmati rice and cooked dum style (sealed with dough or foil) to allow the steam to perfume the rice with the spiced mutton juices. The mutton is marinated in yoghurt, biryani masala, ginger-garlic paste, and caramelised onions before cooking, resulting in fall-off-the-bone tender meat with a complex, deeply spiced flavour. It is one of the most popular dishes at Singapore's Indian Muslim restaurants and is associated with celebratory meals.",
+    "common_user_queries": [
+      "how many calories in mutton biryani",
+      "is mutton biryani healthy",
+      "can a diabetic eat mutton biryani",
+      "mutton biryani vs chicken biryani calories",
+      "is mutton biryani halal",
+      "mutton biryani iron content",
+      "how much sodium in mutton biryani"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "mamak",
+      "lunch",
+      "dinner",
+      "festive",
+      "Hari Raya",
+      "Deepavali"
+    ],
+    "ingredient_synonyms": {
+      "mutton": [
+        "lamb (young sheep)",
+        "goat (in Indian context)",
+        "daging kambing",
+        "gosht"
+      ],
+      "biryani masala": [
+        "biryani spice mix",
+        "gosht masala",
+        "mixed spice blend (biryani)"
+      ],
+      "dum cooking": [
+        "sealed pot cooking",
+        "slow steam cooking",
+        "pressure biryani"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under food code EI000047 — Mutton Biryani, standard Indian preparation.",
+  "notes": "Iron and vitamin B12 content are notably higher in mutton biryani compared to chicken biryani, reflecting the red meat component. Zinc content is also elevated. In Singapore Indian Muslim restaurants, 'mutton' typically refers to goat meat rather than sheep, which may have slightly different fat profiles."
+}

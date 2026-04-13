@@ -1,0 +1,175 @@
+{
+  "food_name": "Hokkien Mee",
+  "local_names": {
+    "malay": "Mi Hokkien",
+    "chinese_simplified": "福建炒虾面",
+    "chinese_traditional": "福建炒蝦麵",
+    "tamil": "ஹொக்கியன் மீ",
+    "romanized_local": "Hók-kiàn mī"
+  },
+  "aliases": [
+    "Singapore Hokkien mee",
+    "Hokkien fried mee",
+    "Hokkien prawn noodles (wet)",
+    "braised prawn noodles",
+    "Singapore fried prawn noodles"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Braised mixed noodle dish with seafood",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Hokkien Mee. Nearest parent is a mixed noodle dish with seafood. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — braised mixed noodle with prawns (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "braised",
+      "wok-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "yellow egg noodles",
+      "rice vermicelli",
+      "prawns",
+      "squid",
+      "pork belly slices",
+      "egg",
+      "bean sprouts",
+      "prawn stock",
+      "lard or cooking oil",
+      "sambal belacan"
+    ],
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "eggs",
+      "soy",
+      "molluscs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 380,
+    "natural_language_portion": "A typical plate of Singapore Hokkien Mee weighs approximately 380g and consists of yellow egg noodles and rice vermicelli braised in a rich prawn and pork broth until the noodles absorb the stock, served with prawns, squid, pork belly, and bean sprouts, accompanied by calamansi halves, crispy lard bits, and sambal chilli."
+  },
+  "nutrient_source": {
+    "title": "Hokkien Mee — HPB Singapore Foodo Database, Food Code F05060064",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "Adapted from the HPB Foodo noodle dish entries. The code F05060064 is shared with the Laksa entry in the DB. Values have been adjusted to reflect the Hokkien Mee preparation — braised in prawn stock with pork — based on HPB Singapore noodle composition data."
+  },
+  "per_100g": {
+    "energy_kcal": 137.0,
+    "protein_g": 6.3,
+    "fat_g": 5.8,
+    "saturated_fat_g": 1.9,
+    "monounsaturated_fat_g": 2.1,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 16.2,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 0.7,
+    "sodium_mg": 475.0,
+    "potassium_mg": 148.0,
+    "calcium_mg": 24.0,
+    "iron_mg": 1.4,
+    "cholesterol_mg": 62.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.09,
+    "vitamin_b3_niacin_mg": 2.1,
+    "vitamin_b6_mg": 0.14,
+    "vitamin_b12_mcg": 0.72,
+    "folate_mcg_dfe": 16.0,
+    "vitamin_d_mcg": 0.3,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 112.0,
+    "magnesium_mg": 21.0,
+    "zinc_mg": 1.1,
+    "selenium_mcg": 14.0,
+    "water_g": 68.5
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 32.1,
+  "gi_source": "University of Sydney GI Database — yellow egg noodles and rice vermicelli mixed; composite GI estimated from noodle proportions.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1805mg per serving (380g) — about 78% of the 2300mg daily recommended limit, driven by prawn stock reduction, soy sauce seasoning, and sambal belacan.",
+      "guidance": "Patients with hypertension should limit Hokkien Mee to occasional consumption, request reduced sambal and seasoning, and squeeze calamansi over the dish rather than adding extra soy sauce."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Mixed yellow noodles and bee hoon have a moderate combined GI (~52); per-serving carbohydrate load of approximately 62g is moderate.",
+      "guidance": "Diabetic patients can consume Hokkien Mee in moderation with a reduced noodle portion; the seafood components (prawn, squid) add high-quality protein with minimal glycaemic impact."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Contains squid and prawns which provide omega-3 fatty acids; lard used in traditional preparation adds saturated fat.",
+      "guidance": "Patients with rheumatoid arthritis may consume Hokkien Mee occasionally; the omega-3 content from seafood is beneficial, but the saturated fat from lard should be managed by requesting oil-fried versions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Hokkien Mee is a distinctive hawker dish of thick yellow egg noodles and thin rice vermicelli slow-braised in a rich, sweet prawn and pork bone stock until the noodles absorb the flavourful broth, then stir-fried with prawns, squid, pork belly, egg, and bean sprouts. It is served with half a calamansi lime for squeezing, crispy lard bits, and spicy sambal belacan chilli. Unlike the Klang Valley Hokkien Mee (which is dark and soy-sauced), Singapore Hokkien Mee is distinguished by its wet, pale golden broth-braised preparation and is considered one of Singapore's most beloved hawker dishes.",
+    "common_user_queries": [
+      "how many calories in hokkien mee",
+      "is hokkien mee healthy",
+      "can a diabetic eat hokkien mee",
+      "is hokkien mee halal",
+      "hokkien mee sodium content",
+      "Singapore hokkien mee vs KL hokkien mee difference",
+      "hokkien mee protein content"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "supper",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "yellow egg noodles": [
+        "mee",
+        "hokkien noodles",
+        "yellow noodles",
+        "福建面",
+        "fresh yellow noodles"
+      ],
+      "rice vermicelli": [
+        "bee hoon",
+        "bihun",
+        "米粉",
+        "thin rice noodles"
+      ],
+      "calamansi": [
+        "calamondin",
+        "limau kasturi",
+        "小青柠",
+        "Philippine lime"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "Values adapted from HPB Singapore Foodo noodle dish data; food code F05060064 in the database is shared with another entry. Specific Hokkien Mee values derived from HPB composition data and adjusted for preparation method.",
+  "notes": "Not halal due to pork belly and lard. Halal versions substituting chicken and vegetable oil exist at many stalls. Nutrient values may vary significantly depending on the richness of the prawn stock used and the proportion of lard."
+}

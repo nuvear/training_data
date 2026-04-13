@@ -1,0 +1,168 @@
+{
+  "food_name": "Roti Prata (plain, with dhal curry)",
+  "local_names": {
+    "malay": "Roti Prata",
+    "chinese_simplified": "印度煎饼（配扁豆咖喱）",
+    "chinese_traditional": "印度煎餅（配扁豆咖喱）",
+    "tamil": "ரொட்டி பராட்டா (தால் குழம்பு உடன்)",
+    "romanized_local": "Roti prata / Roti paratha"
+  },
+  "aliases": [
+    "roti canai (Malaysian)",
+    "plain prata",
+    "paratha",
+    "Singapore prata",
+    "Indian flatbread",
+    "flaky flatbread with curry"
+  ],
+  "cuisine": "Singapore Indian",
+  "region_of_origin": "Singapore / Malaysia (Indian Muslim)",
+  "food_group": "Mixed",
+  "food_subgroup": "Flaky fried flatbread with lentil dhal curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a paratha concept but no Singapore-specific Roti Prata with dhal. Nearest parent is a pan-fried layered flatbread. Recommend new concept.",
+    "foodex2_code": "A01VX",
+    "foodex2_description": "Unleavened bread — pan-fried layered flatbread with dipping curry (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pan-fried",
+      "griddled"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "wheat flour",
+      "water",
+      "salt",
+      "ghee or margarine",
+      "condensed milk (trace, for tenderness)",
+      "dhal curry (yellow lentils, turmeric, onion, curry leaves)"
+    ],
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "2 pieces of plain prata with dhal",
+    "size_g": 320,
+    "natural_language_portion": "A typical Roti Prata serving at a Singapore mamak stall consists of 2 pieces of plain prata (each approximately 100g) and a small bowl of dhal curry (~120g), totalling approximately 320g, served on a metal tray with sugar (optional) on the side."
+  },
+  "nutrient_source": {
+    "title": "Roti Prata — ICMR-NIN Nutritive Value of Indian Foods and HPB Singapore cross-reference; no exact HPB code found",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad; cross-referenced with HPB Singapore",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Roti Prata entry found in HPB Foodo. Values adapted from ICMR-NIN paratha data and HPB dhal curry composition, adjusted for the Singapore mamak ghee-fried preparation style."
+  },
+  "per_100g": {
+    "energy_kcal": 292.0,
+    "protein_g": 6.5,
+    "fat_g": 12.2,
+    "saturated_fat_g": 4.8,
+    "monounsaturated_fat_g": 4.5,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.2,
+    "carbohydrate_g": 39.5,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 318.0,
+    "potassium_mg": 145.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 8.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.18,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.0,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.05,
+    "folate_mcg_dfe": 35.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 12.0,
+    "water_g": 38.0
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 74.6,
+  "gi_source": "University of Sydney GI Database — white flour paratha / flatbread; GI elevated by the refined wheat flour and pan-frying in ghee.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1018mg per 2-piece serving (320g) — about 44% of the 2300mg daily recommended limit; primarily from the dhal curry and prata salt content.",
+      "guidance": "Patients with hypertension should limit the dhal curry portion and avoid adding additional salt; prata is a moderate-sodium choice compared to other Singapore hawker breakfast options."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Refined wheat flour prata has a high GI (~62) and a high glycaemic load (~75 per 2-piece serving); the high fat content from ghee slows but does not prevent a significant postprandial glucose rise.",
+      "guidance": "Diabetic patients should limit prata to 1 piece per meal and prefer the dhal as the protein accompaniment over sugar dipping; whole wheat prata where available will have a meaningfully lower GI."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Moderate saturated fat from ghee; refined wheat flour is pro-inflammatory at high consumption; dhal provides folate and plant protein with anti-inflammatory potential.",
+      "guidance": "Patients with rheumatoid arthritis should limit prata frequency; the dhal accompaniment provides beneficial plant protein and folate, but the refined wheat and ghee content of the prata itself is pro-inflammatory at regular consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Roti Prata is Singapore's beloved Indian Muslim flatbread — a thin, supple dough of white flour, water, salt, and ghee that is stretched, folded multiple times to create layers, then tossed into the air to stretch further and cooked on a hot griddle with ghee until golden, crisp on the outside and soft and flaky within. It is served with a small bowl of thin dhal curry (yellow lentil soup with turmeric and curry leaves) and sometimes fish or mutton curry. In Singapore, prata is consumed at any time of day and is a staple at Indian Muslim mamak stalls that are often open 24 hours.",
+    "common_user_queries": [
+      "how many calories in roti prata",
+      "is roti prata healthy",
+      "is roti prata halal",
+      "can a diabetic eat roti prata",
+      "roti prata vs roti canai are they the same",
+      "how much fat in roti prata",
+      "plain prata vs egg prata calories"
+    ],
+    "meal_context": [
+      "mamak stall",
+      "breakfast",
+      "supper",
+      "lunch",
+      "24-hour coffeeshop"
+    ],
+    "ingredient_synonyms": {
+      "roti prata": [
+        "roti canai (Malaysia)",
+        "paratha (India)",
+        "roti flatbread",
+        "coin prata (mini version)"
+      ],
+      "dhal": [
+        "dal",
+        "daal",
+        "lentil curry",
+        "yellow lentil soup",
+        "parippu"
+      ],
+      "ghee": [
+        "clarified butter",
+        "samn",
+        "desi ghee",
+        "vanaspati (margarine substitute)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Roti Prata entry found in HPB Foodo. Values adapted from ICMR-NIN paratha and HPB dhal data. Confidence medium.",
+  "notes": "Values represent 2 pieces plain prata + dhal combined. Egg prata adds approximately 78 kcal and 6.5g protein per piece. Coin prata (small thin version) has lower calorie density. Margarine versions common at budget stalls will have trans fat content."
+}

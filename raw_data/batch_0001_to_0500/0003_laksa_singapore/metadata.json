@@ -1,0 +1,187 @@
+{
+  "food_name": "Laksa (Singapore)",
+  "local_names": {
+    "malay": "Laksa",
+    "chinese_simplified": "叻沙",
+    "chinese_traditional": "叻沙",
+    "tamil": "லக்சா",
+    "romanized_local": "Lak-sa"
+  },
+  "aliases": [
+    "Singapore laksa",
+    "curry laksa",
+    "coconut milk laksa",
+    "laksa lemak",
+    "Katong laksa",
+    "Nonya laksa"
+  ],
+  "cuisine": "Singapore Peranakan",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Coconut curry noodle soup with seafood",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Laksa. Nearest parent is a spiced coconut soup or noodle soup concept. A new FoodOn term for this Peranakan dish is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — spiced coconut soup with noodles and seafood (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "assembled"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "rice vermicelli",
+      "coconut milk",
+      "laksa paste (lemongrass, galangal, turmeric, dried shrimp, candlenut)",
+      "shrimp (prawns)",
+      "fish cake",
+      "tofu puffs",
+      "cockles",
+      "bean sprouts",
+      "fresh laksa leaf (Vietnamese coriander)"
+    ],
+    "allergens": [
+      "crustaceans",
+      "fish",
+      "soy",
+      "tree nuts (candlenut)",
+      "molluscs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 520,
+    "natural_language_portion": "A typical bowl of Singapore Laksa weighs approximately 520g and consists of thick coconut-based curry broth poured over rice vermicelli or cut laksa noodles, topped with prawns, halved fish cake, tofu puffs, cockles, and bean sprouts, garnished with fresh laksa leaf and sambal chilli."
+  },
+  "nutrient_source": {
+    "title": "Laksa — HPB Singapore Foodo Database, Food Code F05060064",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05060064 — Laksa (Singapore style with coconut milk broth), standard hawker preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 128.0,
+    "protein_g": 4.6,
+    "fat_g": 7.2,
+    "saturated_fat_g": 5.5,
+    "monounsaturated_fat_g": 0.8,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 11.8,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 0.9,
+    "sodium_mg": 395.0,
+    "potassium_mg": 145.0,
+    "calcium_mg": 32.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 42.0,
+    "vitamin_c_mg": 2.8,
+    "vitamin_a_mcg_rae": 28.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.62,
+    "folate_mcg_dfe": 14.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 11.0,
+    "water_g": 73.0
+  },
+  "glycemic_index": 47,
+  "glycemic_load_per_serving": 28.8,
+  "gi_source": "University of Sydney GI Database — rice vermicelli (cooked); composite dish GI estimated based on noodle and coconut milk proportion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 2054mg per bowl (520g) — approximately 89% of the 2300mg daily recommended limit, driven by shrimp paste, fish sauce, and seasoning in the laksa paste.",
+      "guidance": "Hypertensive patients should limit laksa consumption to no more than once per week, request reduced laksa paste, and avoid finishing the broth to significantly reduce sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Rice vermicelli has a moderate glycaemic index (~47); however, the high saturated fat from coconut milk slows gastric emptying, moderating the postprandial glucose response.",
+      "guidance": "Diabetic patients can consume laksa occasionally with a reduced noodle portion; the high saturated fat content from coconut milk warrants attention for long-term cardiovascular risk management."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High saturated fat content from coconut milk (predominantly lauric acid) and galangal with turmeric in laksa paste, which contain anti-inflammatory compounds.",
+      "guidance": "Patients with rheumatoid arthritis should consume laksa in moderation; while turmeric and galangal in the laksa paste have anti-inflammatory properties, the high saturated fat from coconut milk may contribute to systemic inflammation at high consumption levels."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Laksa is a quintessential Peranakan (Straits Chinese) dish consisting of a rich, spiced coconut milk broth served over rice vermicelli and topped with prawns, halved fish cakes, tofu puffs, cockles, and bean sprouts, finished with fragrant laksa leaf and sambal chilli. The broth is made from a complex paste of lemongrass, galangal, dried shrimp, turmeric, candlenuts, and chilli, simmered with coconut milk to yield a thick, intensely aromatic, mildly spicy soup. It is widely considered one of Singapore's national dishes and is a staple at hawker centres island-wide.",
+    "common_user_queries": [
+      "how many calories in laksa",
+      "is laksa healthy",
+      "can a diabetic eat laksa",
+      "is laksa halal",
+      "how much fat in laksa",
+      "how much sodium in a bowl of laksa",
+      "is laksa good for weight loss",
+      "Katong laksa vs normal laksa calories"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "food court",
+      "Peranakan restaurant"
+    ],
+    "ingredient_synonyms": {
+      "rice vermicelli": [
+        "bee hoon",
+        "bihun",
+        "mee hoon",
+        "thin rice noodles",
+        "米粉"
+      ],
+      "laksa leaf": [
+        "Vietnamese coriander",
+        "daun kesum",
+        "polygonum leaf",
+        "hot mint"
+      ],
+      "tofu puffs": [
+        "tau pok",
+        "beancurd puffs",
+        "fried tofu puffs",
+        "豆腐泡"
+      ],
+      "cockles": [
+        "see hum",
+        "泥蚶",
+        "kerang",
+        "blood cockles"
+      ],
+      "candlenut": [
+        "buah keras",
+        "kemiri",
+        "kukui nut"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05060064 — Singapore Laksa, standard hawker preparation.",
+  "notes": "Values represent the standard Singapore coconut laksa preparation. Assam laksa (tamarind-based, Penang style) is nutritionally distinct with significantly lower fat. The HPB entry covers the coconut milk variety. Saturated fat is notably high due to coconut milk."
+}

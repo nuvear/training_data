@@ -1,0 +1,173 @@
+{
+  "food_name": "Hainanese Chicken Rice",
+  "local_names": {
+    "malay": "Nasi Ayam Hainan",
+    "chinese_simplified": "海南鸡饭",
+    "chinese_traditional": "海南雞飯",
+    "tamil": "ஹைனான் சிக்கன் ரைஸ்",
+    "romanized_local": "Hái nán jī fàn"
+  },
+  "aliases": [
+    "chicken rice",
+    "Hainanese chicken rice",
+    "Singapore chicken rice",
+    "nasi ayam",
+    "steamed chicken rice",
+    "poached chicken rice"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Rice-based mixed dish with poultry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn does not have a specific concept for Hainanese Chicken Rice. Nearest parent is 'rice dish' (FOODON_03301712). A new concept proposal covering this Singapore-Chinese staple is warranted.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — mixed rice dish with meat (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "poached",
+      "boiled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "jasmine rice",
+      "chicken (whole, poached)",
+      "ginger",
+      "garlic",
+      "sesame oil",
+      "soy sauce",
+      "cucumber"
+    ],
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 450,
+    "natural_language_portion": "A typical plate of Hainanese Chicken Rice in Singapore weighs approximately 450g and consists of fragrant rice steamed in chicken broth with ginger and pandan leaf, topped with sliced poached chicken, served alongside a bowl of clear chicken soup, cucumber slices, and dipping sauces of chilli, ginger paste, and dark soy sauce."
+  },
+  "nutrient_source": {
+    "title": "Hainanese Chicken Rice — HPB Singapore Foodo Database, Food Code EX000101",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code EX000101 — Hainanese Chicken Rice, standard hawker preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 169.0,
+    "protein_g": 8.5,
+    "fat_g": 5.8,
+    "saturated_fat_g": 1.7,
+    "monounsaturated_fat_g": 2.3,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 22.4,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 348.0,
+    "potassium_mg": 115.0,
+    "calcium_mg": 16.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 35.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.07,
+    "vitamin_b3_niacin_mg": 3.2,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.25,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 92.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 8.5,
+    "water_g": 61.5
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 58.8,
+  "gi_source": "University of Sydney GI Database — white jasmine rice (cooked, boiled); GI referenced for rice component; composite dish GI estimated based on rice proportion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1566mg per serving (450g) — about 68% of the 2300mg daily recommended limit, contributed primarily by soy-based dipping sauces, chicken broth, and seasoned rice.",
+      "guidance": "Patients with hypertension should request the dish without added dark soy sauce and limit the chilli sauce to reduce sodium intake to a safer level."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Jasmine rice base carries a medium-high glycaemic index (~58); per serving carbohydrate load is approximately 101g, which will produce a significant postprandial glucose rise.",
+      "guidance": "Diabetic patients should halve the rice portion, increase the chicken and cucumber components, and prefer versions without the skin to reduce both carbohydrate and saturated fat load."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Poached chicken is a lean protein source with low inflammatory potential; ginger in the rice provides mild anti-inflammatory polyphenols.",
+      "guidance": "Hainanese Chicken Rice is an acceptable meal choice for patients with rheumatoid arthritis; the lean poached chicken supports muscle maintenance and ginger may offer modest anti-inflammatory benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Hainanese Chicken Rice is Singapore's most iconic hawker dish, consisting of tender poached or steamed whole chicken served over fragrant rice cooked in seasoned chicken broth with ginger, garlic, pandan leaf, and sesame oil. The dish is accompanied by a clear chicken soup, sliced cucumber, and three dipping sauces — fresh chilli paste, grated ginger in chicken fat, and dark soy sauce. It traces its origins to Hainanese immigrants in Singapore and is considered a national dish, available at hawker centres, coffee shops, and dedicated chicken rice restaurants island-wide.",
+    "common_user_queries": [
+      "how many calories in hainanese chicken rice",
+      "is chicken rice healthy",
+      "can a diabetic eat chicken rice",
+      "is chicken rice halal",
+      "how much sodium in chicken rice",
+      "is hainanese chicken rice good for weight loss",
+      "roasted vs steamed chicken rice which is healthier"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "food court",
+      "casual dining"
+    ],
+    "ingredient_synonyms": {
+      "jasmine rice": [
+        "fragrant rice",
+        "Thai jasmine rice",
+        "long-grain white rice",
+        "beras wangi"
+      ],
+      "chicken": [
+        "poached chicken",
+        "steamed chicken",
+        "whole chicken",
+        "ayam"
+      ],
+      "ginger": [
+        "halia",
+        "生姜",
+        "fresh ginger root"
+      ],
+      "pandan leaf": [
+        "screwpine leaf",
+        "daun pandan",
+        "pandanus leaf"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code EX000101 — Hainanese Chicken Rice, standard hawker centre preparation.",
+  "notes": "Values represent the standard hawker centre preparation inclusive of rice, poached chicken, and accompaniments. Roasted chicken rice variants will have higher fat content. Sodium values are highly variable depending on quantity of dipping sauces used."
+}

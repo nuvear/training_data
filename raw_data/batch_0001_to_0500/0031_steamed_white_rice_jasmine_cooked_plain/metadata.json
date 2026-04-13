@@ -1,0 +1,157 @@
+{
+  "food_name": "Steamed White Rice (jasmine, cooked, plain)",
+  "local_names": {
+    "malay": "Nasi Putih (masak, jasmine)",
+    "chinese_simplified": "白米饭（茉莉香米，煮熟）",
+    "chinese_traditional": "白米飯（茉莉香米，煮熟）",
+    "tamil": "வெண் சாதம் (ஜாஸ்மின்)",
+    "romanized_local": "Nasi putih"
+  },
+  "aliases": [
+    "steamed rice",
+    "plain white rice",
+    "cooked jasmine rice",
+    "white rice",
+    "nasi putih",
+    "boiled white rice"
+  ],
+  "cuisine": "Staple",
+  "region_of_origin": "Southeast Asia / Thailand",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked white rice (long-grain jasmine)",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03312182",
+    "foodon_label": "white rice food product",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a white rice food product concept; closest match for cooked jasmine rice. A specific cooked jasmine rice concept would be more precise.",
+    "foodex2_code": "A00RJ",
+    "foodex2_description": "Rice, white, cooked, milled (FoodEx2 — closest match)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": "412153006",
+    "snomed_ct_description": "White rice (food)"
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "boiled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "jasmine rice (long-grain, milled white)",
+      "water"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl / 1 cup cooked",
+    "size_g": 180,
+    "natural_language_portion": "A standard bowl of steamed jasmine rice as served with hawker meals in Singapore weighs approximately 180g (cooked) and provides a soft, slightly sticky, fragrant rice that is the staple carbohydrate accompaniment to virtually all local dishes."
+  },
+  "nutrient_source": {
+    "title": "White Rice, cooked — USDA FoodData Central, SR Legacy, Item #20444 (Long-grain white rice, cooked, unenriched); cross-referenced with HPB Singapore",
+    "organization": "USDA Agricultural Research Service — FoodData Central (SR Legacy)",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match for cooked white jasmine rice using USDA SR Legacy data (Item #20444). Jasmine rice has essentially identical macronutrient composition to standard long-grain white rice when cooked."
+  },
+  "per_100g": {
+    "energy_kcal": 130.0,
+    "protein_g": 2.7,
+    "fat_g": 0.3,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.2,
+    "sugar_g": 0.1,
+    "dietary_fibre_g": 0.4,
+    "sodium_mg": 1.0,
+    "potassium_mg": 35.0,
+    "calcium_mg": 10.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.01,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.09,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 43.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 7.5,
+    "water_g": 68.4
+  },
+  "glycemic_index": 72,
+  "glycemic_load_per_serving": 36.7,
+  "gi_source": "University of Sydney GI Database — white rice, long-grain, cooked (Australian study); jasmine rice has one of the highest GIs among rice varieties (GI 68–89 range).",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium 1mg per 100g — essentially sodium-free; white rice itself has no meaningful impact on blood pressure.",
+      "guidance": "White rice is a sodium-free carbohydrate and has no direct impact on hypertension; patients should manage sodium through the dishes served alongside rather than restricting rice on sodium grounds."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Jasmine white rice has one of the highest GIs among common carbohydrates (~72); per-bowl glycaemic load is approximately 37, which is classified as high; regular high-volume consumption is a major risk factor for T2DM in Asian populations.",
+      "guidance": "Diabetic patients should limit jasmine white rice to 150g per meal (cooked), consider substituting half the portion with brown rice or cauliflower rice, and always pair with protein and high-fibre vegetables to reduce postprandial glucose response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "White rice is nutritionally neutral with no anti-inflammatory or pro-inflammatory impact at typical serving sizes; it provides readily available energy for patients with fatigue from RA.",
+      "guidance": "White rice is acceptable for patients with rheumatoid arthritis; substituting a portion with brown rice will improve fibre, magnesium, and antioxidant intake, supporting overall anti-inflammatory dietary patterns."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Steamed white jasmine rice is the central carbohydrate staple of Singapore and Southeast Asian cuisine, served with virtually every local meal from hawker centre dishes to restaurant meals. Jasmine rice (Thai hom mali rice) is a long-grain white milled rice with a characteristic floral fragrance and a slightly sticky texture when cooked by absorption or steaming. It is the most consumed food in Singapore by meal frequency and serves as the caloric foundation of the diet for the majority of the population.",
+    "common_user_queries": [
+      "how many calories in a bowl of rice",
+      "how many calories in steamed rice",
+      "is white rice healthy",
+      "can a diabetic eat white rice",
+      "white rice vs brown rice which is healthier",
+      "how many grams of carbs in one bowl of rice",
+      "jasmine rice GI glycemic index"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "all meals",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "home cooking"
+    ],
+    "ingredient_synonyms": {
+      "jasmine rice": [
+        "Thai jasmine rice",
+        "hom mali rice",
+        "fragrant rice",
+        "long-grain white rice",
+        "beras jasmin",
+        "泰国茉莉香米"
+      ],
+      "steamed rice": [
+        "boiled rice",
+        "cooked rice",
+        "nasi putih",
+        "白饭"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match from USDA SR Legacy Item #20444 — white long-grain rice, cooked, unenriched. Jasmine rice has an identical macronutrient profile.",
+  "notes": "One of the most clinically important records in this dataset due to its universal consumption. The high GI of jasmine rice (~72) is a key public health concern in Singapore, where white rice consumption is epidemiologically linked to T2DM incidence. Brown rice (GI ~50) or a mixed white/brown rice blend is recommended for metabolic health. Enriched versions available in some markets will have higher iron and B vitamins."
+}

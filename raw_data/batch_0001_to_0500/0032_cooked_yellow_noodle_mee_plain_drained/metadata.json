@@ -1,0 +1,157 @@
+{
+  "food_name": "Cooked Yellow Noodle / Mee (plain, drained)",
+  "local_names": {
+    "malay": "Mee Kuning (masak, tosir)",
+    "chinese_simplified": "熟黄面（原味，沥干）",
+    "chinese_traditional": "熟黃麵（原味，瀝乾）",
+    "tamil": "மஞ்சள் நூடுல்ஸ் (வேகவைத்த)",
+    "romanized_local": "Mee (yellow noodles)"
+  },
+  "aliases": [
+    "yellow noodles",
+    "Hokkien noodles (cooked)",
+    "fresh yellow egg noodles",
+    "mee",
+    "yellow wheat noodles",
+    "cooked fresh yellow noodles"
+  ],
+  "cuisine": "Staple",
+  "region_of_origin": "Southeast Asia / China",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked fresh yellow wheat egg noodles",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a noodle product concept but no specific yellow egg noodle (mee) concept. Nearest parent is a wheat-based noodle product. Recommend new concept.",
+    "foodex2_code": "A01PE",
+    "foodex2_description": "Pasta and noodles — fresh wheat egg noodle, cooked (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "drained"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "wheat flour",
+      "egg",
+      "water",
+      "kansui (alkaline solution)",
+      "salt"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (standard hawker portion)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of cooked yellow noodles for a hawker dish weighs approximately 200g (cooked, drained) and forms the noodle base for dishes such as Hokkien Mee, Mee Goreng, and Wonton Mee."
+  },
+  "nutrient_source": {
+    "title": "Cooked Yellow Noodle — HPB Singapore Foodo Database; values adapted from HPB fresh wheat noodle composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact cooked yellow mee entry found as a standalone item in HPB Foodo. Values derived from HPB fresh wheat noodle product data, cross-referenced with USDA SR Legacy wheat egg noodle data."
+  },
+  "per_100g": {
+    "energy_kcal": 118.0,
+    "protein_g": 3.8,
+    "fat_g": 0.6,
+    "saturated_fat_g": 0.1,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 24.5,
+    "sugar_g": 0.3,
+    "dietary_fibre_g": 0.9,
+    "sodium_mg": 86.0,
+    "potassium_mg": 42.0,
+    "calcium_mg": 8.0,
+    "iron_mg": 0.6,
+    "cholesterol_mg": 18.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.04,
+    "vitamin_b2_riboflavin_mg": 0.03,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.05,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 52.0,
+    "magnesium_mg": 10.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 8.0,
+    "water_g": 69.5
+  },
+  "glycemic_index": 52,
+  "glycemic_load_per_serving": 25.5,
+  "gi_source": "University of Sydney GI Database — fresh yellow wheat noodles (boiled, drained); lower GI than dried noodles due to fresh egg noodle structure.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 172mg per serving (200g) of plain noodles — less than 8% of the 2300mg daily recommended limit; sodium burden in noodle dishes comes primarily from sauces and seasonings.",
+      "guidance": "Patients with hypertension should manage sodium through the sauces and seasonings in noodle dishes rather than the noodles themselves; plain cooked yellow noodles are low in sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Medium GI (~52); per-serving glycaemic load of approximately 26 is moderate; fresh egg noodles have a more favourable GI than dried rice noodles or white rice.",
+      "guidance": "Yellow egg noodles are a more diabetes-friendly carbohydrate base than white rice or dried rice noodles; diabetic patients can include a 150–200g cooked portion in meals paired with sufficient protein and fibre."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Plain wheat egg noodles are nutritionally neutral for inflammation; they provide moderate energy without pro-inflammatory fats or sugars.",
+      "guidance": "Plain yellow noodles are an acceptable staple for patients with rheumatoid arthritis; the alkaline kansui adds no inflammatory burden, and the egg content provides modest selenium and B vitamins."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Yellow egg noodles (commonly called 'mee' in Singapore) are thick, springy wheat and egg noodles with a characteristic yellow colour from the kansui (alkaline lye water) used in their production, which also gives them their distinctive bouncy texture. They are the noodle base for many Singapore hawker classics including Hokkien Mee, Mee Goreng, and Wonton Mee. The fresh noodles are pre-cooked (parboiled) by the manufacturer and need only brief blanching before use.",
+    "common_user_queries": [
+      "how many calories in yellow noodles",
+      "yellow noodles vs rice which is healthier",
+      "yellow noodles carbohydrate content",
+      "is yellow mee halal",
+      "hokkien noodles vs bee hoon which has fewer calories"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "all noodle dishes",
+      "component ingredient"
+    ],
+    "ingredient_synonyms": {
+      "yellow noodles": [
+        "mee",
+        "Hokkien noodles",
+        "yellow wheat noodles",
+        "fresh egg noodles",
+        "alkaline noodles",
+        "黄面"
+      ],
+      "kansui": [
+        "lye water",
+        "alkaline solution",
+        "potassium carbonate solution"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone cooked yellow mee entry found in HPB Foodo. Values derived from HPB fresh wheat noodle data and USDA cross-reference. Confidence medium.",
+  "notes": "Values represent plain cooked drained noodles with no added sauces or seasonings. The kansui (alkaline water) in yellow noodles is the source of the distinctive yellow colour and springy texture but adds no significant nutrients. Sodium is minimal without added seasonings."
+}

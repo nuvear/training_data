@@ -1,0 +1,166 @@
+{
+  "food_name": "Ang Ku Kueh (groundnut filling)",
+  "local_names": {
+    "malay": "Ang Ku Kuih (isi kacang tanah)",
+    "chinese_simplified": "红龟粿（花生馅）",
+    "chinese_traditional": "紅龜粿（花生餡）",
+    "tamil": "அங் கு குவே (வேர்க்கடலை நிரப்பி)",
+    "romanized_local": "Ang ku kueh"
+  },
+  "aliases": [
+    "ang ku kueh",
+    "red tortoise cake",
+    "red turtle cake",
+    "ang ku",
+    "glutinous rice red turtle kueh"
+  ],
+  "cuisine": "Chinese",
+  "region_of_origin": "Singapore / China (Hokkien)",
+  "food_group": "Desserts",
+  "food_subgroup": "Steamed glutinous rice cake with peanut filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Ang Ku Kueh. Nearest parent is a steamed glutinous rice confectionery or steamed rice cake. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Rice-based confectionery — steamed glutinous rice cake with nut filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "glutinous rice flour",
+      "sweet potato (orange, for dough colour and moisture)",
+      "roasted groundnuts (peanuts, filling)",
+      "sugar",
+      "salt",
+      "cooking oil",
+      "red food colouring"
+    ],
+    "allergens": [
+      "peanuts"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 100,
+    "natural_language_portion": "A typical serving of Ang Ku Kueh consists of 2 pieces (approximately 50g each, 100g total) of small, sticky red glutinous rice cakes shaped like tortoise shells, each filled with a sweet ground peanut and sugar paste."
+  },
+  "nutrient_source": {
+    "title": "Ang Ku Kueh (groundnut) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB glutinous rice kueh and peanut filling composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Ang Ku Kueh entry found in HPB Foodo. Values adapted from HPB glutinous rice cake composition data and peanut-sugar filling proportion analysis."
+  },
+  "per_100g": {
+    "energy_kcal": 265.0,
+    "protein_g": 5.2,
+    "fat_g": 6.8,
+    "saturated_fat_g": 1.0,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 46.5,
+    "sugar_g": 18.2,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 118.0,
+    "potassium_mg": 148.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 1.8,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 85.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 3.5,
+    "water_g": 38.5
+  },
+  "glycemic_index": 75,
+  "glycemic_load_per_serving": 34.9,
+  "gi_source": "University of Sydney GI Database — glutinous rice (cooked); GI very high from waxy glutinous rice starch; peanut filling slightly moderates overall GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 118mg per 2-piece serving (100g) — about 5% of the 2300mg daily recommended limit; a very low-sodium traditional kueh.",
+      "guidance": "Patients with hypertension may consume Ang Ku Kueh occasionally; the sodium content is negligible."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Glutinous rice flour has a very high GI (~75); high sugar content from filling (18.2g/100g); glycaemic load of approximately 35 per 2-piece serving is high.",
+      "guidance": "Diabetic patients should strictly limit Ang Ku Kueh to 1 piece maximum as an occasional treat; the glutinous rice base has one of the highest GIs of all carbohydrate foods."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High glycaemic refined carbohydrate base may promote inflammation at regular consumption; peanuts provide vitamin E and healthy fats with mild anti-inflammatory properties.",
+      "guidance": "Patients with rheumatoid arthritis should limit ang ku kueh to occasional consumption; the high sugar and glutinous rice content can promote glycaemic-driven inflammation."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ang Ku Kueh (literally 'red tortoise cake') is a traditional Hokkien-Chinese kueh of a bright red glutinous rice and sweet potato dough moulded in a wooden press into the shape of a tortoise shell and filled with sweetened ground peanut paste, then steamed on banana leaf. The red colour from food colouring and the tortoise shape symbolise longevity and prosperity in Chinese culture, making this kueh an important offering at religious ceremonies, birthdays, and the One Month celebration of newborns.",
+    "common_user_queries": [
+      "how many calories in ang ku kueh",
+      "is ang ku kueh healthy",
+      "ang ku kueh sugar content",
+      "is ang ku kueh vegan",
+      "is ang ku kueh gluten free",
+      "can a diabetic eat ang ku kueh",
+      "ang ku kueh peanut vs mung bean filling calories"
+    ],
+    "meal_context": [
+      "kueh stall",
+      "dessert",
+      "festive",
+      "Chinese New Year",
+      "birthday",
+      "religious offering",
+      "one-month celebration"
+    ],
+    "ingredient_synonyms": {
+      "ang ku kueh": [
+        "red tortoise cake",
+        "red turtle cake",
+        "红龟粿",
+        "glutinous rice kueh"
+      ],
+      "groundnut filling": [
+        "peanut filling",
+        "kacang filling",
+        "roasted peanut paste"
+      ],
+      "glutinous rice flour": [
+        "sticky rice flour",
+        "sweet rice flour",
+        "waxy rice flour",
+        "糯米粉"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Ang Ku Kueh entry found in HPB Foodo. Values adapted from HPB glutinous rice cake and peanut filling component data. Confidence medium.",
+  "notes": "Fully vegan and gluten-free. Peanut allergy is a critical concern. The mung bean or lotus paste versions will have different nutritional profiles. Cholesterol and vitamin B12 are 0.0. The red food colouring adds no measurable nutrients."
+}

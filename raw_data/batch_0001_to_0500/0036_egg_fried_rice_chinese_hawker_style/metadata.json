@@ -1,0 +1,163 @@
+{
+  "food_name": "Egg Fried Rice (Chinese hawker style)",
+  "local_names": {
+    "malay": "Nasi Goreng Telur (gaya China)",
+    "chinese_simplified": "蛋炒饭（华人小贩风格）",
+    "chinese_traditional": "蛋炒飯（華人小販風格）",
+    "tamil": "முட்டை வறுத்த சாதம்",
+    "romanized_local": "Dan chao fan"
+  },
+  "aliases": [
+    "egg fried rice",
+    "Chinese egg fried rice",
+    "hawker fried rice",
+    "yang chow fried rice (with extras)",
+    "plain egg fried rice"
+  ],
+  "cuisine": "Chinese",
+  "region_of_origin": "China / Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried rice with egg",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for egg fried rice. Nearest parent is a fried rice product. Recommend new concept.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — fried rice with egg (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "cooked jasmine rice (day-old)",
+      "eggs",
+      "spring onion",
+      "soy sauce",
+      "sesame oil",
+      "cooking oil",
+      "white pepper",
+      "salt"
+    ],
+    "allergens": [
+      "eggs",
+      "soy",
+      "sesame"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 320,
+    "natural_language_portion": "A typical plate of Chinese Egg Fried Rice at a Singapore hawker centre weighs approximately 320g and consists of day-old jasmine rice stir-fried in a hot wok with egg, spring onion, light soy sauce, sesame oil, and white pepper, achieving a lightly golden, slightly dry-fried texture with individual rice grains."
+  },
+  "nutrient_source": {
+    "title": "Egg Fried Rice — HPB Singapore Foodo Database, Food Code F05100049",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05100049 — Egg Fried Rice, standard Chinese hawker preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 182.0,
+    "protein_g": 5.6,
+    "fat_g": 6.8,
+    "saturated_fat_g": 1.3,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 25.5,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 478.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 85.0,
+    "vitamin_c_mg": 1.2,
+    "vitamin_a_mcg_rae": 42.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.38,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.6,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 16.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 12.0,
+    "water_g": 59.5
+  },
+  "glycemic_index": 68,
+  "glycemic_load_per_serving": 55.6,
+  "gi_source": "University of Sydney GI Database — fried rice (cooked jasmine rice, stir-fried); GI similar to plain white rice but glycaemic load elevated by the larger serving size of fried rice compared to steamed rice.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1530mg per serving (320g) — about 66% of the 2300mg daily recommended limit, contributed by soy sauce and sesame oil seasoning.",
+      "guidance": "Patients with hypertension should request reduced soy sauce in fried rice; using light soy sauce sparingly rather than dark soy sauce can meaningfully reduce sodium content."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Jasmine rice base has a high GI (~68); per-serving glycaemic load of approximately 56 is high; fried rice dishes typically use larger rice volumes than steamed rice bowls.",
+      "guidance": "Diabetic patients should be aware that fried rice has a high glycaemic load comparable to plain white rice; limiting portion to 200g and increasing protein additions (extra egg, chicken) will improve the glycaemic outcome."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Moderate fat with good unsaturated-to-saturated fat ratio from cooking oil; eggs provide selenium and vitamin D; spring onion provides quercetin.",
+      "guidance": "Egg Fried Rice is an acceptable meal choice for patients with rheumatoid arthritis; the egg component provides valuable anti-inflammatory nutrients, and sesame oil contains lignans with potential anti-inflammatory benefits."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chinese Egg Fried Rice is a fundamental hawker dish of day-old jasmine rice stir-fried in a screaming-hot wok with beaten egg scrambled directly into the rice, seasoned with light soy sauce, sesame oil, and white pepper, and finished with sliced spring onion. The use of cold day-old rice is essential for achieving the characteristic separate, slightly dry, wok-fragrant grains rather than a wet, mushy result. It is one of the most widely available and universally consumed dishes across all of Singapore's hawker centres and coffee shops.",
+    "common_user_queries": [
+      "how many calories in egg fried rice",
+      "is fried rice healthy",
+      "can a diabetic eat egg fried rice",
+      "egg fried rice vs steamed rice which is healthier",
+      "egg fried rice calories per plate",
+      "is egg fried rice halal",
+      "how much sodium in fried rice"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "coffee shop",
+      "zi char",
+      "all meals"
+    ],
+    "ingredient_synonyms": {
+      "egg fried rice": [
+        "dan chao fan",
+        "蛋炒饭",
+        "yang chow fried rice (with extras)",
+        "nasi goreng telur"
+      ],
+      "sesame oil": [
+        "芝麻油",
+        "gingelly oil",
+        "toasted sesame oil"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05100049 — Egg Fried Rice, standard Chinese hawker preparation.",
+  "notes": "Vegetarian in the standard preparation (egg, soy, no meat). Can be made vegan by omitting egg. The high GI is nutritionally significant — fried rice provides essentially the same glycaemic impact as plain white rice. Yang Chow fried rice with char siu and shrimp will have higher protein and calorie content."
+}

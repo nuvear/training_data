@@ -1,0 +1,170 @@
+{
+  "food_name": "Banh Mi (Vietnamese baguette, pork pâté)",
+  "local_names": {
+    "malay": "Banh Mi (roti Vietnam, pâté babi)",
+    "chinese_simplified": "越南法棍三明治（猪肉酱）",
+    "chinese_traditional": "越南法棍三明治（豬肉醬）",
+    "tamil": "பான் மீ (வியட்நாம் பேகட், பன்றி பேட்)",
+    "romanized_local": "Bánh mì"
+  },
+  "aliases": [
+    "bánh mì",
+    "Vietnamese baguette sandwich",
+    "Vietnamese sub",
+    "banh mi sandwich",
+    "Vietnamese pork roll"
+  ],
+  "cuisine": "Vietnamese",
+  "region_of_origin": "Vietnam",
+  "food_group": "Mixed",
+  "food_subgroup": "Baguette sandwich with pork pâté and pickled vegetables",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Banh Mi. Nearest parent is a sandwich or filled bread roll. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01VS",
+    "foodex2_description": "Sandwiches — filled wheat baguette with meat pâté and vegetables (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "baked (bread)",
+      "assembled"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "Vietnamese baguette (light wheat flour)",
+      "pork pâté",
+      "char siu pork or pork roll",
+      "pickled daikon radish",
+      "pickled carrot",
+      "cucumber (sliced)",
+      "cilantro",
+      "butter or mayonnaise",
+      "Maggi seasoning or soy sauce",
+      "chilli"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 baguette sandwich",
+    "size_g": 220,
+    "natural_language_portion": "A standard Banh Mi sandwich weighs approximately 220g and consists of a light, crispy Vietnamese baguette (approximately 120g) filled with a spread of pork pâté and butter or mayonnaise, slices of char siu pork or pork roll, pickled daikon and carrot, cucumber, fresh cilantro, and sliced chilli."
+  },
+  "nutrient_source": {
+    "title": "Banh Mi — FAO/INFOODS SEA Food Composition Table; Vietnamese food component data with baguette and pork pâté analysis",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Banh Mi entry found in FAO/INFOODS. Values adapted from FAO/INFOODS Vietnamese bread and pork component data, with baguette (~270 kcal/100g untoasted) and pork pâté (~350 kcal/100g) composition weighted by serving proportions."
+  },
+  "per_100g": {
+    "energy_kcal": 232.0,
+    "protein_g": 9.2,
+    "fat_g": 8.2,
+    "saturated_fat_g": 2.8,
+    "monounsaturated_fat_g": 3.5,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 30.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 518.0,
+    "potassium_mg": 188.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 2.2,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 28.0,
+    "vitamin_b1_thiamine_mg": 0.22,
+    "vitamin_b2_riboflavin_mg": 0.15,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.52,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 14.0,
+    "water_g": 47.5
+  },
+  "glycemic_index": 68,
+  "glycemic_load_per_serving": 45.7,
+  "gi_source": "University of Sydney GI Database — baguette (white wheat, French-style); GI elevated by the fine-crumb French-style bread.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1140mg per sandwich (220g) — about 50% of the 2300mg daily recommended limit; pork pâté, Maggi seasoning, and pickled vegetables are the primary sodium sources.",
+      "guidance": "Patients with hypertension should limit Maggi seasoning and request reduced pâté; the pickled vegetables contribute to sodium but also provide potassium that partially offsets the sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "White baguette has a high GI (~68); per-serving glycaemic load of approximately 46 is high; the French-style bread has minimal fibre.",
+      "guidance": "Diabetic patients should limit banh mi to an occasional treat and consider requesting wholemeal bread substitutes where available; removing the bread and consuming only the filling dramatically reduces the glycaemic impact."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "White refined flour bread is pro-inflammatory at high consumption; pork pâté is high in saturated fat; pickled vegetables provide probiotic benefit.",
+      "guidance": "Patients with rheumatoid arthritis should limit white bread consumption including banh mi; the pickled vegetable component provides probiotic and antioxidant benefit, and cilantro provides anti-inflammatory compounds."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bánh Mì is a Vietnamese sandwich that brilliantly fuses French colonial baguette bread with Southeast Asian flavours — a light, crispy-thin Vietnamese baguette filled with pork pâté (chả lụa), char siu pork or Vietnamese cold cuts, pickled daikon and carrot (đồ chua), sliced cucumber, fresh cilantro, and bird's eye chilli, all drizzled with Maggi seasoning sauce. The Vietnamese baguette is distinguished from the French original by its lighter, airier, crispier shell and more tender crumb, achieved by mixing rice flour into the wheat dough. It is available at Vietnamese bakeries and delis across Singapore.",
+    "common_user_queries": [
+      "how many calories in banh mi",
+      "is banh mi healthy",
+      "is banh mi halal",
+      "banh mi vs subway which is healthier",
+      "can a diabetic eat banh mi",
+      "banh mi sodium content",
+      "banh mi vs burger calories"
+    ],
+    "meal_context": [
+      "Vietnamese bakery",
+      "lunch",
+      "snack",
+      "takeaway",
+      "casual dining"
+    ],
+    "ingredient_synonyms": {
+      "banh mi": [
+        "bánh mì",
+        "Vietnamese sub",
+        "Vietnamese baguette",
+        "Vietnamese sandwich roll"
+      ],
+      "pork pâté": [
+        "chả lụa",
+        "gio lua",
+        "Vietnamese pork roll pâté"
+      ],
+      "pickled daikon": [
+        "đồ chua (pickled veg mix)",
+        "pickled turnip",
+        "cai chua",
+        "酸萝卜"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Banh Mi entry found in FAO/INFOODS. Values adapted from component data. Confidence medium.",
+  "notes": "Not halal due to pork pâté. Halal versions with chicken or beef are available at some Vietnamese restaurants in Singapore. The Vietnamese baguette has a lower density than a French baguette, resulting in fewer calories per cm than expected. Iron content is notable from pork pâté."
+}

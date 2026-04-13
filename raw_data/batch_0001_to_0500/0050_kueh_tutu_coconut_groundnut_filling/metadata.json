@@ -1,0 +1,162 @@
+{
+  "food_name": "Kueh Tutu (coconut / groundnut filling)",
+  "local_names": {
+    "malay": "Kueh Tutu (isi kelapa / kacang tanah)",
+    "chinese_simplified": "土土糕（椰丝/花生馅）",
+    "chinese_traditional": "土土糕（椰絲/花生餡）",
+    "tamil": "குவே துட்டு (தேங்காய் / வேர்க்கடலை நிரப்பி)",
+    "romanized_local": "Kueh tutu"
+  },
+  "aliases": [
+    "kue tutu",
+    "kueh tutu",
+    "steamed rice flour kueh",
+    "traditional Singapore rice kueh",
+    "coconut kueh tutu"
+  ],
+  "cuisine": "Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Desserts",
+  "food_subgroup": "Steamed rice flour kueh with coconut or peanut filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Kueh Tutu. Nearest parent is a steamed rice flour cake or rice confectionery. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Rice-based confectionery — steamed rice flour cake with coconut or nut filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour (fine, lightly toasted)",
+      "freshly grated coconut (for coconut version)",
+      "roasted groundnuts (for peanut version)",
+      "sugar",
+      "salt"
+    ],
+    "allergens": [
+      "peanuts (in groundnut version)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "3 pieces",
+    "size_g": 90,
+    "natural_language_portion": "A typical serving of Kueh Tutu consists of 3 pieces (approximately 30g each, 90g total) of small, white, dome-shaped steamed rice flour cakes with a sweet shredded coconut or ground peanut filling, served wrapped in a piece of banana leaf or pandan leaf."
+  },
+  "nutrient_source": {
+    "title": "Kueh Tutu — HPB Singapore Foodo Database; no exact code found; values adapted from HPB rice flour kueh and coconut/peanut filling composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Kueh Tutu entry found in HPB Foodo. Values adapted from HPB steamed rice flour cake and coconut filling data. Groundnut version has slightly higher protein and fat."
+  },
+  "per_100g": {
+    "energy_kcal": 212.0,
+    "protein_g": 3.5,
+    "fat_g": 5.2,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 39.5,
+    "sugar_g": 14.5,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 78.0,
+    "potassium_mg": 118.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.03,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.4,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 6.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 45.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.4,
+    "selenium_mcg": 2.5,
+    "water_g": 49.5
+  },
+  "glycemic_index": 72,
+  "glycemic_load_per_serving": 25.6,
+  "gi_source": "University of Sydney GI Database — fine rice flour, steamed; GI elevated by gelatinised rice starch similar to putu piring.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 70mg per 3-piece serving (90g) — about 3% of the 2300mg daily recommended limit; one of the lowest-sodium traditional kueh.",
+      "guidance": "Patients with hypertension may consume Kueh Tutu occasionally; the sodium content is negligible."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Fine rice flour base has a high GI (~72); per-serving glycaemic load of approximately 26 from just 3 pieces is significant; sugar from filling adds further glycaemic impact.",
+      "guidance": "Diabetic patients should limit Kueh Tutu to 1–2 pieces as an occasional treat; the high GI rice flour base and sweet filling together produce a significant postprandial glucose rise disproportionate to the small portion size."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High refined carbohydrate and sugar content may promote inflammation at frequent consumption; coconut provides medium-chain saturated fatty acids.",
+      "guidance": "Patients with rheumatoid arthritis should limit Kueh Tutu to occasional treats due to the high sugar and refined rice flour content."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Kueh Tutu is one of Singapore's most traditional and nostalgic street kueh — small, white dome-shaped steamed cakes made from finely ground rice flour pressed into metal mould plates with a sweet filling of either freshly shredded coconut with sugar, or ground roasted peanuts with sugar. The moulds are placed over a steamer and the kueh is ready in minutes, served fresh in a small banana or pandan leaf wrapper. Kueh Tutu stalls, once common throughout Singapore, are now rare heritage fixtures, making them a sought-after nostalgic treat at cultural events and selected hawker centres.",
+    "common_user_queries": [
+      "how many calories in kueh tutu",
+      "is kueh tutu healthy",
+      "is kueh tutu gluten free",
+      "is kueh tutu vegan",
+      "kueh tutu sugar content",
+      "can a diabetic eat kueh tutu",
+      "kueh tutu coconut vs peanut which is healthier",
+      "where to buy kueh tutu Singapore"
+    ],
+    "meal_context": [
+      "kueh stall",
+      "dessert",
+      "teatime",
+      "heritage food",
+      "festive",
+      "children's snack"
+    ],
+    "ingredient_synonyms": {
+      "kueh tutu": [
+        "kue tutu",
+        "rice flour steamed kueh",
+        "Singapore heritage kueh"
+      ],
+      "grated coconut filling": [
+        "freshly shredded coconut",
+        "kelapa parut",
+        "santan filling (sweetened)"
+      ],
+      "fine rice flour": [
+        "tepung beras halus",
+        "ground rice flour",
+        "米粉 (milled fine)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Kueh Tutu entry found in HPB Foodo. Values adapted from HPB steamed rice flour cake and filling component data. Confidence medium.",
+  "notes": "Coconut version is listed here. Groundnut version has slightly higher protein (5.5g/100g), higher fat (8.5g/100g), and lower saturated fat ratio. Both versions are fully vegan, gluten-free, and allergen-free (coconut version). This is the final record in Batch 1 of the Project Veritas initiative."
+}

@@ -1,0 +1,168 @@
+{
+  "food_name": "Pho Bo (Vietnamese beef noodle soup)",
+  "local_names": {
+    "malay": "Pho Daging (sup mi Vietnam)",
+    "chinese_simplified": "越南牛肉河粉汤",
+    "chinese_traditional": "越南牛肉河粉湯",
+    "tamil": "போ போ (வியட்நாம் பீஃப் நூடுல் சூப்)",
+    "romanized_local": "Phở bò"
+  },
+  "aliases": [
+    "pho",
+    "pho bo",
+    "Vietnamese beef noodle soup",
+    "Vietnamese pho",
+    "beef pho",
+    "phở bò"
+  ],
+  "cuisine": "Vietnamese",
+  "region_of_origin": "Vietnam (Northern)",
+  "food_group": "Mixed",
+  "food_subgroup": "Slow-simmered beef bone broth with rice noodles",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Pho Bo. Nearest parent is a beef noodle soup. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Soup-noodle dishes — slow-simmered beef bone broth with rice noodles (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "slow-simmered",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "flat rice noodles (banh pho)",
+      "beef bone broth",
+      "beef (rare slices and brisket)",
+      "star anise",
+      "cinnamon",
+      "charred ginger",
+      "charred onion",
+      "fish sauce",
+      "bean sprouts",
+      "fresh herbs (basil, cilantro)"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 600,
+    "natural_language_portion": "A typical bowl of Pho Bo weighs approximately 600g and consists of flat rice noodles (banh pho) in a deeply aromatic slow-simmered beef bone broth flavoured with star anise, cinnamon, and charred ginger, topped with thinly sliced rare beef, braised beef brisket, bean sprouts, and fresh herbs, with lime, chilli, hoisin sauce, and sriracha served on the side."
+  },
+  "nutrient_source": {
+    "title": "Pho Bo — FAO/INFOODS SEA Food Composition Table; Vietnamese food component data",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Pho Bo entry found in FAO/INFOODS. Values adapted from FAO/INFOODS SEA Vietnamese beef soup and rice noodle component data."
+  },
+  "per_100g": {
+    "energy_kcal": 76.0,
+    "protein_g": 6.2,
+    "fat_g": 2.3,
+    "saturated_fat_g": 0.8,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 8.2,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 0.6,
+    "sodium_mg": 578.0,
+    "potassium_mg": 155.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 28.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 2.5,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.88,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 10.0,
+    "water_g": 81.5
+  },
+  "glycemic_index": 45,
+  "glycemic_load_per_serving": 22.1,
+  "gi_source": "University of Sydney GI Database — rice noodles (flat, cooked); composite GI modified by the high protein content of beef in the broth.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 3468mg per bowl (600g) — significantly exceeding the 2300mg daily recommended limit; the slow-simmered bone broth concentrates sodium from fish sauce and seasoning.",
+      "guidance": "Patients with hypertension should avoid finishing the pho broth and limit additional hoisin sauce or sriracha; the beef and noodles themselves have much lower sodium than the broth."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Flat rice noodles have a moderate GI (~45); per-serving glycaemic load of approximately 22 is moderate-low for a full bowl; high protein from beef moderates the glycaemic response significantly.",
+      "guidance": "Pho Bo is a relatively diabetes-friendly noodle soup; the high protein from beef slows gastric emptying and moderates glucose absorption from the rice noodles; avoid adding hoisin sauce which contains significant added sugar."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Bone broth provides collagen precursors and glycine; star anise and cinnamon contain anti-inflammatory phytocompounds; beef provides zinc and vitamin B12 supporting immune function.",
+      "guidance": "Pho Bo bone broth is traditionally regarded as beneficial for joint health due to its collagen and glycosaminoglycan content; the anti-inflammatory spice profile of the broth (star anise, cinnamon, ginger) provides additional benefit for patients with rheumatoid arthritis."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Pho Bo is Vietnam's most celebrated national dish — a deeply aromatic, crystal-clear beef bone broth simmered for many hours with charred ginger, charred onion, star anise, cinnamon, cloves, and cardamom, served over flat rice noodles (banh pho) topped with thinly sliced raw beef (which cooks in the hot broth when poured), braised beef brisket, and finished with fresh bean sprouts, Thai basil, lime, and sliced chilli. The broth's complex spice profile gives pho its distinctive warming, anise-forward fragrance. It is widely available at Vietnamese restaurants in Singapore.",
+    "common_user_queries": [
+      "how many calories in pho",
+      "is pho healthy",
+      "is pho bo halal",
+      "pho sodium content",
+      "can a diabetic eat pho",
+      "is pho gluten free",
+      "pho calories per bowl"
+    ],
+    "meal_context": [
+      "Vietnamese restaurant",
+      "lunch",
+      "dinner",
+      "healthy eating"
+    ],
+    "ingredient_synonyms": {
+      "pho": [
+        "phở",
+        "Vietnamese noodle soup",
+        "beef rice noodle soup"
+      ],
+      "banh pho": [
+        "flat rice noodles",
+        "pho noodles",
+        "rice stick noodles (wide)",
+        "河粉 (ho fun)"
+      ],
+      "star anise": [
+        "八角",
+        "bunga lawang",
+        "anise star",
+        "badiane"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Pho Bo entry found in FAO/INFOODS SEA. Values adapted from FAO/INFOODS Vietnamese beef soup and noodle component data. Confidence medium.",
+  "notes": "Not halal at traditional Vietnamese restaurants due to non-halal-certified fish sauce and potential non-halal beef sourcing. Halal pho is available at halal-certified Vietnamese restaurants in Singapore. Sodium content is very high from the bone broth — the broth accounts for over 90% of the dish's sodium."
+}

@@ -1,0 +1,163 @@
+{
+  "food_name": "Curry Puff (baked, potato filling)",
+  "local_names": {
+    "malay": "Karipap (dibakar, isi kentang)",
+    "chinese_simplified": "咖喱角（烘烤，薯仔馅）",
+    "chinese_traditional": "咖喱角（烘烤，薯仔餡）",
+    "tamil": "கறி பஃப் (பேக்கட், உருளைக்கிழங்கு)",
+    "romanized_local": "Karipap"
+  },
+  "aliases": [
+    "karipap",
+    "curry puff",
+    "baked curry puff",
+    "Singapore curry puff",
+    "potato curry puff",
+    "epok epok (fried variant name)"
+  ],
+  "cuisine": "Singapore",
+  "region_of_origin": "Singapore / Malaysia",
+  "food_group": "Snacks",
+  "food_subgroup": "Baked pastry with spiced potato curry filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Curry Puff. Nearest parent is a baked filled pastry or hand pie. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01VH",
+    "foodex2_description": "Pastry products — filled baked pastry with spiced vegetable filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "baked"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "wheat flour pastry shell",
+      "potato (diced, spiced)",
+      "onion",
+      "curry powder",
+      "chicken or egg (optional)",
+      "butter or margarine (in pastry)",
+      "curry leaves",
+      "chilli"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 piece",
+    "size_g": 90,
+    "natural_language_portion": "A standard baked potato curry puff weighs approximately 90g and consists of a flaky, multilayered baked wheat pastry shell enclosing a spiced potato filling with diced onions, curry powder, and sometimes hard-boiled egg or chicken pieces."
+  },
+  "nutrient_source": {
+    "title": "Curry Puff (baked, potato) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB baked pastry and spiced potato filling composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact baked curry puff entry found in HPB Foodo. Values adapted from HPB pastry and spiced potato data. Old Chang Kee-style spiral pastry curry puff reference used as benchmark."
+  },
+  "per_100g": {
+    "energy_kcal": 285.0,
+    "protein_g": 5.6,
+    "fat_g": 15.0,
+    "saturated_fat_g": 6.5,
+    "monounsaturated_fat_g": 5.8,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.2,
+    "carbohydrate_g": 33.0,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 2.0,
+    "sodium_mg": 378.0,
+    "potassium_mg": 225.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 18.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.15,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 2.2,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.05,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 72.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 5.5,
+    "water_g": 42.0
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 19.3,
+  "gi_source": "University of Sydney GI Database — wheat flour pastry base; GI elevated by refined flour shell; potato filling adds moderate GI starch.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 340mg per piece (90g) — about 15% of the 2300mg daily recommended limit; relatively moderate sodium for a savory snack.",
+      "guidance": "Patients with hypertension may consume a single curry puff occasionally; the sodium content is moderate, but the high saturated fat and calorie density make it a poor choice for frequent snacking."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Refined wheat pastry has a high GI (~65); per-piece carbohydrate load is approximately 30g; high fat content from butter/margarine slows but does not prevent significant postprandial glucose rise.",
+      "guidance": "Diabetic patients should limit curry puff consumption to occasional treats; the refined flour pastry shell and potato filling together produce a moderate-high glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High saturated fat from butter or margarine in the pastry; refined flour has a pro-inflammatory glycaemic impact; curry spices (cumin, coriander, turmeric) provide modest anti-inflammatory benefit.",
+      "guidance": "Patients with rheumatoid arthritis should limit curry puff consumption due to the high refined flour and saturated fat content; the anti-inflammatory spices in the filling provide minimal offsetting benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "The Singapore Curry Puff is one of the most beloved local snacks, consisting of a flaky, multi-layered baked wheat flour pastry shell (made with butter or margarine for its characteristic spiral layers) filled with a mildly spiced potato curry seasoned with turmeric, curry powder, onions, and sometimes diced chicken or hard-boiled egg. The baked version is distinguished from the fried epok-epok by its golden, oven-baked shell. It is a staple of traditional bakeries, kiosks (Old Chang Kee is the iconic chain), and hawker stall breakfast menus across Singapore and Malaysia.",
+    "common_user_queries": [
+      "how many calories in a curry puff",
+      "is curry puff healthy",
+      "is curry puff halal",
+      "baked vs fried curry puff which is healthier",
+      "can a diabetic eat curry puff",
+      "Old Chang Kee curry puff calories",
+      "curry puff fat content"
+    ],
+    "meal_context": [
+      "snack",
+      "breakfast",
+      "teatime",
+      "hawker centre",
+      "bakery",
+      "on-the-go"
+    ],
+    "ingredient_synonyms": {
+      "curry puff": [
+        "karipap",
+        "epok-epok (fried)",
+        "curry pie (informal)",
+        "karipap kentang"
+      ],
+      "curry powder": [
+        "mixed spice blend (curry)",
+        "masala blend (approx)",
+        "serbuk kari"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact baked curry puff entry found in HPB Foodo. Values adapted from HPB pastry and potato data. Confidence medium.",
+  "notes": "Baked version has ~20% fewer calories than the deep-fried version. Versions with egg or chicken will have higher protein. Vegetarian in standard potato filling without meat; contains egg and dairy (butter) so not vegan. Trans fat content depends on whether margarine with partially hydrogenated fat is used."
+}

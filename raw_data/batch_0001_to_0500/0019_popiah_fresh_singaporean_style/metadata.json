@@ -1,0 +1,176 @@
+{
+  "food_name": "Popiah (fresh, Singaporean style)",
+  "local_names": {
+    "malay": "Popiah",
+    "chinese_simplified": "薄饼（新加坡式，新鲜）",
+    "chinese_traditional": "薄餅（新加坡式，新鮮）",
+    "tamil": "போப்பியா",
+    "romanized_local": "Poh piah (Hokkien)"
+  },
+  "aliases": [
+    "fresh spring roll",
+    "Singapore popiah",
+    "Nonya popiah",
+    "Hokkien popiah",
+    "fresh Singaporean spring roll",
+    "popiah basah"
+  ],
+  "cuisine": "Singapore Peranakan",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Fresh spring roll with braised turnip filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Popiah. Nearest parent is a fresh spring roll or wheat flour wrap. A new FoodOn concept is recommended.",
+    "foodex2_code": "A05BA",
+    "foodex2_description": "Pastry and wraps — fresh spring roll with vegetable filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed (skin)",
+      "braised (filling)",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "thin wheat flour popiah skin",
+      "braised jicama (bangkuang) with carrot",
+      "bean sprouts",
+      "prawns (small)",
+      "Chinese sausage (lap cheong) or egg strips",
+      "tofu (fried strips)",
+      "lettuce leaf",
+      "hoisin sauce",
+      "sweet black sauce",
+      "chilli paste"
+    ],
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "eggs",
+      "soy",
+      "peanuts (crushed, topping)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 rolls",
+    "size_g": 280,
+    "natural_language_portion": "A typical serving of fresh Singapore Popiah consists of two rolls, each weighing approximately 140g, filled with braised jicama and carrot filling, bean sprouts, prawns, egg strips, fried tofu strips, and crushed peanuts, wrapped in a thin wheat skin smeared with hoisin sauce, sweet black sauce, and chilli."
+  },
+  "nutrient_source": {
+    "title": "Popiah (fresh) — HPB Singapore Foodo Database, Food Code F05020083",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05020083 — Fresh Popiah, Singapore Peranakan style, standard hawker preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 119.0,
+    "protein_g": 5.2,
+    "fat_g": 4.0,
+    "saturated_fat_g": 0.9,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 16.0,
+    "sugar_g": 4.8,
+    "dietary_fibre_g": 2.2,
+    "sodium_mg": 308.0,
+    "potassium_mg": 192.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 32.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.22,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 6.5,
+    "water_g": 71.5
+  },
+  "glycemic_index": 48,
+  "glycemic_load_per_serving": 21.5,
+  "gi_source": "University of Sydney GI Database — thin wheat flour wrap; GI modified downward by high vegetable content of filling.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 862mg per 2-roll serving (280g) — about 37% of the 2300mg daily recommended limit; one of the lower-sodium hawker options.",
+      "guidance": "Patients with hypertension may consume popiah regularly; the main sodium contributors are the hoisin and sweet black sauce — requesting reduced sauce will further lower sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low-moderate GI (~48); high vegetable fibre from jicama and bean sprouts moderates glucose absorption; glycaemic load per serving is low (~22).",
+      "guidance": "Fresh Popiah is one of the most diabetes-friendly hawker snacks; the jicama filling is naturally low in carbohydrates and high in fibre, and the sweet sauces are the primary glycaemic driver that can be reduced."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "High vegetable content from jicama, bean sprouts, and lettuce provides anti-inflammatory antioxidants; low saturated fat makes this one of the most anti-inflammatory hawker choices.",
+      "guidance": "Fresh Popiah is an excellent food choice for patients with rheumatoid arthritis; the high vegetable content, low saturated fat, and anti-inflammatory vitamin C content make it one of the most suitable hawker options."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Popiah is a fresh (not fried) spring roll of Teochew-Hokkien and Peranakan origin, consisting of a thin, soft wheat flour skin wrapped around a generous filling of slowly braised jicama (bangkuang) and carrot, bean sprouts, fried tofu strips, egg omelette strips, small prawns, and crushed roasted peanuts, smeared with hoisin sauce, sweet dark sauce, and chilli paste. Unlike the deep-fried spring roll, the fresh popiah is a lighter, more vegetable-forward dish, and is regarded as one of Singapore's most distinctive and nutritionally balanced hawker snacks.",
+    "common_user_queries": [
+      "how many calories in popiah",
+      "is popiah healthy",
+      "is popiah halal",
+      "fresh popiah vs fried spring roll which is healthier",
+      "can a diabetic eat popiah",
+      "popiah sugar content",
+      "how many calories per popiah roll"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "snack",
+      "Peranakan restaurant",
+      "Chinese New Year"
+    ],
+    "ingredient_synonyms": {
+      "jicama": [
+        "bangkuang",
+        "yam bean",
+        "yambean",
+        "sengkuang",
+        "turnip (in SG hawker context)",
+        "Pachyrhizus erosus"
+      ],
+      "popiah skin": [
+        "spring roll skin",
+        "rice paper (similar but different)",
+        "薄饼皮",
+        "fresh wheat wrapper"
+      ],
+      "hoisin sauce": [
+        "sweet bean sauce",
+        "plum sauce (approx)",
+        "海鲜酱"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05020083 — Fresh Popiah, Singapore Peranakan style.",
+  "notes": "Not halal at Chinese stalls due to Chinese sausage (lap cheong) and possible pork in the filling. Halal versions without pork-derived ingredients are available. The fresh version has significantly fewer calories than the deep-fried version. Peanuts are a critical allergen topping."
+}

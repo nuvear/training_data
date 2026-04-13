@@ -1,0 +1,175 @@
+{
+  "food_name": "Bak Chor Mee (minced pork noodle, dry)",
+  "local_names": {
+    "malay": "Mi Daging Cincang Kering",
+    "chinese_simplified": "肉脞面（干捞）",
+    "chinese_traditional": "肉脞麵（乾撈）",
+    "tamil": "பாக் சோர் மீ (உலர்)",
+    "romanized_local": "Bak chor mee (Hokkien)"
+  },
+  "aliases": [
+    "minced pork noodles",
+    "minced meat noodles dry",
+    "pork mince noodles",
+    "Singapore pork noodles dry",
+    "BCM dry"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Dry-tossed noodles with minced pork, liver, and mushrooms",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Bak Chor Mee. Nearest parent is a mixed minced meat noodle dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — dry-tossed noodle with minced pork and offal (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tossed"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "thin or flat egg noodles",
+      "minced pork",
+      "pork liver",
+      "pork balls",
+      "mushrooms (braised shiitake)",
+      "vinegar",
+      "chilli sauce",
+      "lard",
+      "dark soy sauce",
+      "fried shallots"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 360,
+    "natural_language_portion": "A typical dry Bak Chor Mee serving weighs approximately 360g and consists of thin springy egg noodles tossed with lard, vinegar, chilli sauce, and dark soy sauce, topped with seasoned minced pork, sliced pork liver, pork balls, braised shiitake mushrooms, blanched leafy greens, and crispy fried shallots, served with a small bowl of clear pork rib broth."
+  },
+  "nutrient_source": {
+    "title": "Bak Chor Mee (dry) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB pork noodle and minced pork composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Bak Chor Mee (dry) entry found in HPB Foodo. Values adapted from HPB noodle dish and minced pork component data with adjustments for vinegar-lard tossing and pork liver inclusion."
+  },
+  "per_100g": {
+    "energy_kcal": 153.0,
+    "protein_g": 7.9,
+    "fat_g": 6.6,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 2.5,
+    "polyunsaturated_fat_g": 1.3,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 17.8,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 0.9,
+    "sodium_mg": 568.0,
+    "potassium_mg": 168.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 3.8,
+    "cholesterol_mg": 95.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 1250.0,
+    "vitamin_b1_thiamine_mg": 0.16,
+    "vitamin_b2_riboflavin_mg": 0.65,
+    "vitamin_b3_niacin_mg": 3.8,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 8.5,
+    "folate_mcg_dfe": 48.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 138.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 2.2,
+    "selenium_mcg": 18.0,
+    "water_g": 63.5
+  },
+  "glycemic_index": 46,
+  "glycemic_load_per_serving": 29.6,
+  "gi_source": "University of Sydney GI Database — thin egg noodles (boiled); GI estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 2045mg per serving (360g) — about 89% of the 2300mg daily recommended limit, contributed by dark soy sauce, lard-based seasoning, and pork balls.",
+      "guidance": "Patients with hypertension should request reduced dark soy and chilli sauce tossing; pork balls and pork liver are notable sodium contributors and can be reduced in quantity."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Thin egg noodles have a low-moderate GI (~46); per-serving carbohydrate load approximately 64g is moderate; the vinegar in the tossing may modestly blunt the postprandial glucose response.",
+      "guidance": "Diabetic patients can consume Bak Chor Mee in moderation; the acetic acid (vinegar) in the characteristic tossing sauce has evidence for modestly reducing the glycaemic response of the noodles."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Pork liver is exceptional for vitamin B12, folate, iron, and vitamin A; the overall dish has moderate protein for muscle support; shiitake mushrooms provide ergothioneine and beta-glucans.",
+      "guidance": "Bak Chor Mee provides excellent micronutrient density from pork liver, making it beneficial for patients with rheumatoid arthritis managing anaemia or nutritional deficiencies; saturated fat from lard should be monitored."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bak Chor Mee is a beloved Singapore Chinese hawker dish of thin egg noodles or flat noodles tossed with a uniquely tangy-savoury sauce of vinegar, chilli, lard, and soy, topped with seasoned minced pork, silky sliced pork liver, pork balls, braised shiitake mushrooms, and blanched greens. The distinctive tang from black vinegar sets this dish apart from other Singapore noodle preparations. The pork liver in the dish makes it exceptionally rich in vitamin B12, folate, and iron. A small bowl of clear pork broth is served alongside for sipping.",
+    "common_user_queries": [
+      "how many calories in bak chor mee",
+      "is bak chor mee healthy",
+      "bak chor mee dry vs soup which is healthier",
+      "can a diabetic eat bak chor mee",
+      "is bak chor mee halal",
+      "bak chor mee vitamin B12 content",
+      "bak chor mee sodium content"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "minced pork": [
+        "ground pork",
+        "pork mince",
+        "肉碎",
+        "bak chor"
+      ],
+      "pork liver": [
+        "pig liver",
+        "猪肝",
+        "offal (pork)"
+      ],
+      "pork balls": [
+        "bakso babi",
+        "肉丸",
+        "pork meatballs"
+      ],
+      "shiitake mushrooms": [
+        "Chinese black mushrooms",
+        "lentinus edodes",
+        "冬菇",
+        "dried mushrooms (reconstituted)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Bak Chor Mee entry found in HPB Foodo. Values adapted from HPB component data. Pork liver micronutrient data from USDA SR Legacy and ICMR-NIN. Confidence medium.",
+  "notes": "Not halal due to pork and lard. Vitamin A and vitamin B12 values are notably elevated due to pork liver inclusion; these are clinically significant values. Cholesterol from pork liver is high (~320mg/100g for liver). The vinegar characteristic of BCM has documented glycaemic-modulating effects."
+}

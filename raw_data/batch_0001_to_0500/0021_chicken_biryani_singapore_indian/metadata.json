@@ -1,0 +1,172 @@
+{
+  "food_name": "Chicken Biryani (Singapore Indian)",
+  "local_names": {
+    "malay": "Nasi Biryani Ayam",
+    "chinese_simplified": "印度鸡肉香饭",
+    "chinese_traditional": "印度雞肉香飯",
+    "tamil": "சிக்கன் பிரியாணி",
+    "romanized_local": "Chicken biryani"
+  },
+  "aliases": [
+    "chicken biriyani",
+    "chicken biryani rice",
+    "Singapore chicken biryani",
+    "Indian chicken biryani",
+    "nasi biryani ayam"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India / Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced basmati rice cooked with marinated chicken",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a generic biryani concept but no specific Singapore Indian Chicken Biryani entry. Nearest parent is a spiced rice dish with meat. Recommend new concept.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — spiced rice with chicken (biryani style) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "dum-cooked",
+      "steamed",
+      "braised"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "basmati rice",
+      "chicken pieces (bone-in)",
+      "yoghurt",
+      "onion",
+      "ginger-garlic paste",
+      "turmeric",
+      "garam masala",
+      "saffron",
+      "ghee",
+      "whole spices (cardamom, cinnamon, cloves)"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 450,
+    "natural_language_portion": "A typical serving of Singapore Chicken Biryani weighs approximately 450g and consists of fragrant dum-cooked or layered spiced basmati rice with chicken pieces, served with raita (yoghurt), a small portion of dhal or kurma gravy, sliced cucumber, and fried onions."
+  },
+  "nutrient_source": {
+    "title": "Chicken Biryani — ICMR-NIN Nutritive Value of Indian Foods, Food Code EI000014",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in ICMR-NIN under food code EI000014 — Chicken Biryani, standard Indian preparation. Singapore-style biryani closely follows the North Indian dum biryani method."
+  },
+  "per_100g": {
+    "energy_kcal": 163.0,
+    "protein_g": 9.2,
+    "fat_g": 6.5,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 18.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 425.0,
+    "potassium_mg": 195.0,
+    "calcium_mg": 32.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 38.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.25,
+    "vitamin_b12_mcg": 0.35,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.6,
+    "phosphorus_mg": 135.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 10.5,
+    "water_g": 62.5
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 45.8,
+  "gi_source": "University of Sydney GI Database — basmati rice (cooked); basmati rice has a lower GI than jasmine rice due to its higher amylose content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1913mg per serving (450g) — about 83% of the 2300mg daily recommended limit, driven by the complex spice marinade, ghee, and accompaniment gravies.",
+      "guidance": "Patients with hypertension should limit the added raita and kurma gravy accompaniments; requesting reduced salt in the biryani preparation will meaningfully lower sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Basmati rice has a lower GI (~55) than white jasmine rice, making biryani a better rice option for diabetics; per-serving carbohydrate load is still substantial (~83g).",
+      "guidance": "Diabetic patients may consume chicken biryani in moderation; basmati rice is preferable to jasmine rice for its lower GI, and requesting a reduced rice portion with extra chicken will improve the glycaemic outcome."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Rich spice profile with turmeric, garam masala, and whole spices providing curcumin and anti-inflammatory phytocompounds; lean chicken protein supports muscle maintenance.",
+      "guidance": "Chicken Biryani is a suitable meal for patients with rheumatoid arthritis; the anti-inflammatory spice profile including turmeric, cardamom, and cinnamon provides meaningful benefit, and the lean chicken protein is favourable."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Indian Chicken Biryani is a fragrant, layered spiced rice dish of marinated chicken pieces slow-cooked with basmati rice using the dum (sealed pot) method, flavoured with whole spices, saffron, ginger-garlic paste, and ghee. The Singapore version is typically served at Indian Muslim or Mamak restaurants with raita, dhal, kurma gravy, and fried onions. Basmati rice gives the biryani its characteristic long-grain, fluffy texture and nutty aroma, and its lower glycaemic index compared to jasmine rice makes it a more favourable option for metabolic health.",
+    "common_user_queries": [
+      "how many calories in chicken biryani",
+      "is chicken biryani healthy",
+      "can a diabetic eat chicken biryani",
+      "is chicken biryani halal",
+      "chicken biryani protein content",
+      "basmati rice vs jasmine rice GI which is lower",
+      "how much sodium in chicken biryani"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "mamak",
+      "lunch",
+      "dinner",
+      "festive",
+      "catering",
+      "Hari Raya",
+      "Deepavali"
+    ],
+    "ingredient_synonyms": {
+      "basmati rice": [
+        "long-grain rice",
+        "fragrant rice (Indian)",
+        "beras basmati",
+        "basumati"
+      ],
+      "ghee": [
+        "clarified butter",
+        "samneh",
+        "desi ghee",
+        "butter oil (Indian)"
+      ],
+      "garam masala": [
+        "mixed spice blend (Indian)",
+        "curry spice blend (warm)",
+        "masala powder"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under food code EI000014 — Chicken Biryani, standard Indian preparation.",
+  "notes": "Contains dairy (yoghurt in marinade, ghee). The Singapore Chicken Biryani closely follows the traditional Indian dum biryani preparation. Calorie values may vary by restaurant based on ghee quantity. Saffron adds negligible nutritional contribution at hawker quantities."
+}

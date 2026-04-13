@@ -1,0 +1,152 @@
+{
+  "food_name": "Cooked Flat Rice Noodle / Kway Teow (plain)",
+  "local_names": {
+    "malay": "Kway Teow (masak, kosong)",
+    "chinese_simplified": "熟粿条（原味）",
+    "chinese_traditional": "熟粿條（原味）",
+    "tamil": "வேகவைத்த அரிசி நூடுல்ஸ் (தட்டையான)",
+    "romanized_local": "Kway teow / Guǒ tiáo"
+  },
+  "aliases": [
+    "kway teow",
+    "flat rice noodles",
+    "rice ribbon noodles",
+    "fresh rice noodles",
+    "ho fun (Cantonese)",
+    "banh pho (Vietnamese version)"
+  ],
+  "cuisine": "Staple",
+  "region_of_origin": "China / Southeast Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked flat rice noodles (kway teow)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a rice noodle concept but no specific flat rice noodle (kway teow) concept. Nearest parent is a rice-based noodle product. Recommend new concept.",
+    "foodex2_code": "A01PE",
+    "foodex2_description": "Pasta and noodles — flat rice noodle, cooked (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "parboiled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour",
+      "water",
+      "tapioca starch (trace, for smoothness)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (standard hawker portion)",
+    "size_g": 200,
+    "natural_language_portion": "A standard serving of flat rice noodles for a hawker dish weighs approximately 200g (cooked) and forms the noodle base for dishes such as Char Kway Teow and Pad See Ew."
+  },
+  "nutrient_source": {
+    "title": "Flat Rice Noodles (Kway Teow) — HPB Singapore Foodo Database; values adapted from HPB fresh rice noodle data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact standalone kway teow entry found in HPB Foodo. Values derived from HPB rice noodle product data and USDA rice noodle composition."
+  },
+  "per_100g": {
+    "energy_kcal": 109.0,
+    "protein_g": 1.8,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 25.8,
+    "sugar_g": 0.1,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 5.0,
+    "potassium_mg": 22.0,
+    "calcium_mg": 6.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.01,
+    "vitamin_b2_riboflavin_mg": 0.01,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.03,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 3.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 28.0,
+    "magnesium_mg": 8.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 3.5,
+    "water_g": 71.2
+  },
+  "glycemic_index": 61,
+  "glycemic_load_per_serving": 31.6,
+  "gi_source": "University of Sydney GI Database — rice noodles, freshly made (cooked); GI moderate-high due to rice flour starch gelatinisation.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 10mg per serving (200g) of plain noodles — essentially sodium-free; all sodium in kway teow dishes comes from sauces and seasonings.",
+      "guidance": "Patients with hypertension should manage sodium through dish sauces rather than the kway teow noodles, which contain negligible sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Moderate GI (~61) from gelatinised rice flour; per-serving glycaemic load approximately 32; slightly higher GI than yellow egg noodles due to absence of egg.",
+      "guidance": "Diabetic patients should be aware that flat rice noodles have a moderately higher GI than yellow egg noodles or pasta; portion control to 150–200g cooked is advisable."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Nutritionally neutral for inflammation; gluten-free and allergen-free; provides clean energy without inflammatory compounds.",
+      "guidance": "Flat rice noodles are suitable for patients with rheumatoid arthritis, particularly those following a gluten-free diet; they provide clean, easily digestible carbohydrate energy without pro-inflammatory additives."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Flat rice noodles (kway teow) are wide, flat, silky white noodles made from rice flour and water, sold fresh in Singapore's hawker centres and wet markets. They have a soft, slippery texture and a mild, clean rice flavour that absorbs sauces and wok char exceptionally well, making them the preferred base for Char Kway Teow. Fresh kway teow are entirely allergen-free (no wheat, no egg), gluten-free, and vegan.",
+    "common_user_queries": [
+      "how many calories in kway teow",
+      "kway teow vs bee hoon which has fewer calories",
+      "is kway teow gluten free",
+      "kway teow carbohydrates per serving",
+      "flat rice noodles GI glycemic index"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "component ingredient",
+      "all noodle dishes"
+    ],
+    "ingredient_synonyms": {
+      "kway teow": [
+        "flat rice noodles",
+        "ho fun",
+        "rice ribbon noodles",
+        "粿条",
+        "banh pho (Vietnamese)",
+        "pad see ew noodles"
+      ],
+      "rice flour noodles": [
+        "rice noodles",
+        "bihun (thin version)",
+        "sen yai (Thai flat noodles)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone kway teow entry found in HPB Foodo. Values derived from HPB rice noodle product data and USDA cross-reference. Confidence medium.",
+  "notes": "Vegan, gluten-free, and allergen-free. Nutritionally simple — primarily starch and water. The low protein content means kway teow must be paired with protein-rich toppings for nutritional completeness. Fresh kway teow has a shorter shelf life than dried rice noodles."
+}

@@ -1,0 +1,169 @@
+{
+  "food_name": "Stir-fried Kangkung with Belacan",
+  "local_names": {
+    "malay": "Kangkung Goreng Belacan",
+    "chinese_simplified": "虾膏炒空心菜",
+    "chinese_traditional": "蝦膏炒空心菜",
+    "tamil": "வெங்காயத்தாள் வறுவல் (பெலாக்கன்)",
+    "romanized_local": "Kangkung goreng belacan"
+  },
+  "aliases": [
+    "stir-fried water spinach with shrimp paste",
+    "kangkung belacan",
+    "fried kangkung",
+    "morning glory with shrimp paste",
+    "water spinach belacan"
+  ],
+  "cuisine": "Singapore",
+  "region_of_origin": "Singapore / Malaysia",
+  "food_group": "Vegetables",
+  "food_subgroup": "Stir-fried leafy greens with shrimp paste",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a water spinach concept but no specific stir-fried kangkung with belacan preparation. Nearest parent is a cooked vegetable dish. Recommend new concept.",
+    "foodex2_code": "A04DG",
+    "foodex2_description": "Vegetable dishes — stir-fried leafy greens with seasoning (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "kangkung (water spinach, Ipomoea aquatica)",
+      "belacan (shrimp paste)",
+      "garlic",
+      "dried shrimp",
+      "chilli (fresh red or dried)",
+      "cooking oil"
+    ],
+    "allergens": [
+      "crustaceans (belacan)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (side dish)",
+    "size_g": 200,
+    "natural_language_portion": "A typical serving of Stir-fried Kangkung with Belacan as a side dish at a Singapore hawker centre weighs approximately 200g and consists of fresh water spinach stir-fried at high heat with toasted belacan, dried shrimp, garlic, and chilli, with a slight char and intensely savoury-spicy flavour."
+  },
+  "nutrient_source": {
+    "title": "Stir-fried Kangkung with Belacan — HPB Singapore Foodo Database; no exact code found; values adapted from HPB stir-fried leafy vegetables and kangkung composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact stir-fried kangkung belacan entry found in HPB Foodo. Values adapted from HPB kangkung (water spinach) raw composition data plus stir-fry oil and belacan seasoning correction."
+  },
+  "per_100g": {
+    "energy_kcal": 62.0,
+    "protein_g": 3.1,
+    "fat_g": 4.0,
+    "saturated_fat_g": 0.5,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.5,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 512.0,
+    "potassium_mg": 312.0,
+    "calcium_mg": 55.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 5.0,
+    "vitamin_c_mg": 28.0,
+    "vitamin_a_mcg_rae": 245.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.08,
+    "folate_mcg_dfe": 42.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 48.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 2.5,
+    "water_g": 87.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1024mg per serving (200g) — about 45% of the 2300mg daily recommended limit, driven by belacan (shrimp paste) and dried shrimp.",
+      "guidance": "Patients with hypertension should request reduced belacan in the preparation; kangkung itself is very low in sodium and provides potassium which helps counteract dietary sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate content (~3.5g/100g); negligible glycaemic impact; high fibre for a cooked vegetable side dish.",
+      "guidance": "Stir-fried Kangkung with Belacan is an excellent vegetable side dish for diabetic patients; it adds minimal carbohydrates and calories while contributing high folate, vitamins A and C, and dietary fibre."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Kangkung is exceptionally rich in vitamin A (beta-carotene), folate, and vitamin C — all with anti-inflammatory and immune-supporting properties; cooking oil adds healthy unsaturated fats.",
+      "guidance": "Stir-fried Kangkung with Belacan is one of the best vegetable dishes for patients with rheumatoid arthritis; the high beta-carotene and folate content support immune regulation, and the high potassium content supports cardiovascular health."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Stir-fried Kangkung with Belacan is one of Singapore's most popular vegetable side dishes — fresh water spinach (kangkung; Ipomoea aquatica) stir-fried in a blazing-hot wok with pounded toasted belacan (fermented shrimp paste), dried shrimp, garlic, and fresh or dried chilli until wilted with a slight char and an intensely savoury, umami-rich, spicy flavour. Kangkung is a semi-aquatic tropical leafy green with hollow stems and tender leaves, exceptional in vitamin A, folate, and vitamin C. It is a staple side dish at zi char (Chinese stir-fry) stalls and Malay hawker stalls throughout Singapore and Malaysia.",
+    "common_user_queries": [
+      "how many calories in stir-fried kangkung",
+      "is kangkung healthy",
+      "is stir-fried kangkung belacan halal",
+      "kangkung vitamin A content",
+      "kangkung vs kailan which is healthier",
+      "can a diabetic eat kangkung",
+      "kangkung iron content"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "zi char",
+      "dinner",
+      "side dish",
+      "Malay stall"
+    ],
+    "ingredient_synonyms": {
+      "kangkung": [
+        "water spinach",
+        "morning glory (vegetable)",
+        "water convolvulus",
+        "空心菜",
+        "ong choy",
+        "swamp cabbage",
+        "river spinach",
+        "water morning glory"
+      ],
+      "belacan": [
+        "shrimp paste",
+        "dried shrimp paste",
+        "terasi",
+        "kapi (Thai)",
+        "bagoong"
+      ],
+      "dried shrimp": [
+        "hae bee",
+        "udang kering",
+        "虾米"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact stir-fried kangkung belacan entry found in HPB Foodo. Values adapted from HPB kangkung composition data with belacan and oil correction. Confidence medium.",
+  "notes": "Vitamin A (beta-carotene) content is notably high — kangkung is one of the richest plant sources of provitamin A in the Singapore diet. Folate content is clinically significant. The belacan is a crustacean allergen. Sodium content varies significantly based on belacan quantity used."
+}

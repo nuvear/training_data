@@ -1,0 +1,171 @@
+{
+  "food_name": "Mee Goreng",
+  "local_names": {
+    "malay": "Mee Goreng",
+    "chinese_simplified": "炒黄面",
+    "chinese_traditional": "炒黃麵",
+    "tamil": "மீ கோரெங்",
+    "romanized_local": "Mi Goreng"
+  },
+  "aliases": [
+    "Singapore mee goreng",
+    "Indian mee goreng",
+    "fried yellow noodles",
+    "mamak mee goreng",
+    "stir-fried yellow noodles"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried yellow noodles, Indian-Malay style",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Mee Goreng. Nearest parent is a stir-fried noodle dish concept. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — stir-fried yellow noodles with mixed toppings (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "yellow egg noodles",
+      "potato (cubed, fried)",
+      "tofu (fried, cubed)",
+      "tomato ketchup",
+      "chilli paste (sambal)",
+      "egg",
+      "bean sprouts",
+      "green chillies",
+      "lime"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 350,
+    "natural_language_portion": "A typical plate of Mee Goreng from a Singapore Indian Muslim or mamak stall weighs approximately 350g and consists of yellow egg noodles stir-fried in a tomato-chilli sauce with fried tofu cubes, potato cubes, egg, bean sprouts, and green chillies, served with a squeeze of lime."
+  },
+  "nutrient_source": {
+    "title": "Mee Goreng — HPB Singapore Foodo Database, Food Code F05060080",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05060080 — Mee Goreng, standard Singapore Indian Muslim mamak preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 142.0,
+    "protein_g": 5.8,
+    "fat_g": 6.0,
+    "saturated_fat_g": 1.1,
+    "monounsaturated_fat_g": 2.5,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 17.0,
+    "sugar_g": 2.8,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 505.0,
+    "potassium_mg": 155.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 1.4,
+    "cholesterol_mg": 52.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 25.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.9,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.35,
+    "folate_mcg_dfe": 20.0,
+    "vitamin_d_mcg": 0.3,
+    "vitamin_e_mg": 1.0,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 8.5,
+    "water_g": 67.5
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 33.0,
+  "gi_source": "University of Sydney GI Database — yellow wheat noodles (cooked); composite GI estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1768mg per serving (350g) — about 77% of the 2300mg daily recommended limit, contributed by soy sauce, tomato ketchup, and sambal seasoning.",
+      "guidance": "Patients with hypertension should request reduced sauce and avoid adding extra soy sauce; the tomato ketchup is a significant hidden sodium and sugar source."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Yellow noodles have a moderate GI (~55); fried potato cubes add additional starchy carbohydrates; added sugar from ketchup is notable.",
+      "guidance": "Diabetic patients should request reduced ketchup, limit the potato cubes, and keep portions to 200g or less; extra tofu and vegetables can be substituted for the starchy components."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Moderate fat content with a better unsaturated-to-saturated fat ratio compared to lard-based noodle dishes; vitamin C from tomatoes and chilli may offer anti-inflammatory support.",
+      "guidance": "Mee Goreng is a relatively suitable hawker choice for patients with rheumatoid arthritis due to its lower saturated fat content and vitamin C from the tomato-based sauce."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Mee Goreng is a hawker dish of yellow egg noodles stir-fried in a sweet, spicy, and tangy sauce made from tomato ketchup, chilli paste, and seasonings, cooked with fried tofu cubes, potato cubes, egg, and bean sprouts. It is the signature dish of Indian Muslim (mamak) hawker stalls and is distinctly Singaporean in character — unlike Indonesian mi goreng, the Singapore version is more tomato-based and less sweet. It is garnished with green chillies and a squeeze of lime, and the stir-fry uses high heat to impart a slight char.",
+    "common_user_queries": [
+      "how many calories in mee goreng",
+      "is mee goreng halal",
+      "is mee goreng healthy",
+      "can a diabetic eat mee goreng",
+      "mee goreng sodium content",
+      "Singapore mee goreng vs Indonesian mi goreng difference",
+      "mee goreng calories hawker"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "mamak stall",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "supper",
+      "food court"
+    ],
+    "ingredient_synonyms": {
+      "yellow egg noodles": [
+        "mee",
+        "hokkien noodles",
+        "yellow noodles",
+        "fresh wheat noodles"
+      ],
+      "bean sprouts": [
+        "taugeh",
+        "mung bean sprouts",
+        "tauge",
+        "豆芽"
+      ],
+      "tomato ketchup": [
+        "tomato sauce",
+        "sos tomato",
+        "tomato paste (in cooking)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05060080 — Mee Goreng, standard mamak preparation.",
+  "notes": "Halal at Indian Muslim (mamak) stalls. Chinese-style fried mee will differ in ingredients and nutritional profile. The tomato ketchup and sambal contribute both hidden sugar and sodium. Shrimp or chicken versions will increase protein and seafood allergen content."
+}

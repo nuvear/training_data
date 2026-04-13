@@ -1,0 +1,177 @@
+{
+  "food_name": "Fish Head Curry (Singapore Indian style)",
+  "local_names": {
+    "malay": "Kari Kepala Ikan",
+    "chinese_simplified": "鱼头咖喱（新加坡印度式）",
+    "chinese_traditional": "魚頭咖喱（新加坡印度式）",
+    "tamil": "மீன் தலை கறி",
+    "romanized_local": "Meen thalai kari"
+  },
+  "aliases": [
+    "fish head curry",
+    "Singapore fish head curry",
+    "Indian fish head curry",
+    "kari kepala ikan",
+    "curry fish head"
+  ],
+  "cuisine": "Singapore Indian",
+  "region_of_origin": "Singapore",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Fish head in spiced coconut milk curry with vegetables",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Fish Head Curry. Nearest parent is a fish curry or coconut-based fish dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A02VG",
+    "foodex2_description": "Fish curry — spiced fish in coconut milk (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "simmered",
+      "braised"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "red snapper or grouper head",
+      "coconut milk",
+      "tamarind",
+      "tomatoes",
+      "okra (ladies fingers)",
+      "brinjal (eggplant)",
+      "curry leaves",
+      "chilli",
+      "turmeric",
+      "mustard seeds"
+    ],
+    "allergens": [
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (fish head + curry + vegetables, no rice)",
+    "size_g": 400,
+    "natural_language_portion": "A typical serving of Singapore Fish Head Curry weighs approximately 400g and consists of one halved red snapper or grouper head cooked in a rich, tangy coconut-based curry with brinjal, okra, tomatoes, and curry leaves, served in a claypot or large bowl."
+  },
+  "nutrient_source": {
+    "title": "Fish Head Curry — HPB Singapore Foodo Database, Food Code F03020006",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F03020006 — Fish Head Curry, Singapore Indian style with coconut milk."
+  },
+  "per_100g": {
+    "energy_kcal": 113.0,
+    "protein_g": 12.5,
+    "fat_g": 5.5,
+    "saturated_fat_g": 3.2,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 4.5,
+    "sugar_g": 2.2,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 518.0,
+    "potassium_mg": 278.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 48.0,
+    "vitamin_c_mg": 12.5,
+    "vitamin_a_mcg_rae": 35.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 4.8,
+    "vitamin_b6_mg": 0.32,
+    "vitamin_b12_mcg": 2.8,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 5.5,
+    "vitamin_e_mg": 1.8,
+    "phosphorus_mg": 175.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 22.0,
+    "water_g": 75.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 2072mg per serving (400g) — about 90% of the 2300mg daily recommended limit; primarily from the curry paste, tamarind seasoning, and fish seasoning.",
+      "guidance": "Patients with hypertension should avoid additional salt and limit the coconut curry broth; the fish itself is an excellent lean protein source and the vegetables add potassium that helps offset sodium."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate content in the curry itself (~4.5g/100g); high-quality fish protein with negligible glycaemic impact; glycaemic impact comes entirely from any accompanying rice.",
+      "guidance": "Fish Head Curry without rice is an excellent protein source with minimal glycaemic impact for diabetic patients; pair with a small portion of brown rice or limit white rice to 150g for optimal blood glucose management."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Red snapper and grouper are rich in omega-3 fatty acids; turmeric and curry leaves provide anti-inflammatory compounds; tamarind provides antioxidants.",
+      "guidance": "Fish Head Curry is an excellent dish for patients with rheumatoid arthritis; the omega-3 fatty acids from the fish head (especially the gelatinous portions) and the anti-inflammatory spice profile make this one of the best hawker choices for inflammatory conditions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Fish Head Curry is a uniquely Singaporean Indian invention — a rich, tangy, mildly spicy curry of a whole halved red snapper or grouper head simmered in a coconut milk-based curry with okra, brinjal, tomatoes, and curry leaves, seasoned with tamarind for sourness, turmeric, and a complex South Indian-style spice base. The fish head yields gelatinous, flavourful meat from the cheeks, collar, and eye socket, which are prized for their rich texture. Fish Head Curry is considered one of Singapore's signature dishes, credited to a Tamil Indian cook in the 1940s who adapted a South Indian fish curry for Chinese customers.",
+    "common_user_queries": [
+      "how many calories in fish head curry",
+      "is fish head curry healthy",
+      "is fish head curry halal",
+      "can a diabetic eat fish head curry",
+      "fish head curry omega-3 content",
+      "fish head curry protein per serving",
+      "Singapore fish head curry vs Malay fish curry"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "Chinese seafood restaurant",
+      "lunch",
+      "dinner",
+      "family meal",
+      "festive"
+    ],
+    "ingredient_synonyms": {
+      "red snapper": [
+        "ikan merah",
+        "ang sai",
+        "红鱼",
+        "Pacific red snapper",
+        "crimson snapper"
+      ],
+      "grouper": [
+        "kerapu",
+        "garoupa",
+        "石斑",
+        "garouper"
+      ],
+      "tamarind": [
+        "assam jawa",
+        "imli",
+        "asem",
+        "tamarind paste"
+      ],
+      "ladies fingers": [
+        "okra",
+        "bendi",
+        "bhindi",
+        "秋葵"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F03020006 — Fish Head Curry, Singapore Indian style.",
+  "notes": "Vitamin D and vitamin B12 are notably high from the fish. Selenium content is elevated from the seafood. The gelatinous portions of the fish head (cheeks, collar) are rich in collagen but this is not captured in standard nutrient analysis. The coconut milk contributes medium-chain saturated fatty acids."
+}

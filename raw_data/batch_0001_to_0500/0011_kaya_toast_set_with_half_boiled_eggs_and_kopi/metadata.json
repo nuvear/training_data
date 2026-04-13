@@ -1,0 +1,170 @@
+{
+  "food_name": "Kaya Toast Set (with half-boiled eggs and kopi)",
+  "local_names": {
+    "malay": "Roti Kaya dengan Telur Separuh Masak",
+    "chinese_simplified": "咖椰吐司套餐（附半熟蛋和咖啡）",
+    "chinese_traditional": "咖椰吐司套餐（附半熟蛋和咖啡）",
+    "tamil": "காயா டோஸ்ட் செட்",
+    "romanized_local": "Kaya toast set"
+  },
+  "aliases": [
+    "kaya toast",
+    "Singapore coffee toast set",
+    "half-boiled egg set",
+    "kopitiam breakfast set",
+    "kopi toast set"
+  ],
+  "cuisine": "Singapore",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Traditional Singapore kopitiam breakfast set",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for the Singapore Kaya Toast Set. Nearest parent would be a toast and egg breakfast set. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01VH",
+    "foodex2_description": "Bread and pastry products — toasted bread with spread (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "toasted",
+      "grilled (charcoal)",
+      "boiled (soft-boiled)"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "white bread (thinly sliced)",
+      "kaya (coconut jam with eggs and pandan)",
+      "butter",
+      "eggs (two, soft-boiled)",
+      "dark soy sauce (for eggs)",
+      "white pepper (for eggs)"
+    ],
+    "allergens": [
+      "gluten",
+      "eggs",
+      "milk",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 set (2 slices toast + 2 half-boiled eggs)",
+    "size_g": 260,
+    "natural_language_portion": "A typical Singapore Kaya Toast Set (excluding the kopi/coffee beverage) consists of two slices of charcoal-toasted thin white bread spread with kaya (pandan coconut jam) and a thick slab of cold butter, accompanied by two soft half-boiled eggs in a small bowl, drizzled with dark soy sauce and a dash of white pepper, totalling approximately 260g."
+  },
+  "nutrient_source": {
+    "title": "Kaya Toast Set — HPB Singapore Foodo Database; values estimated from HPB kaya toast, kaya spread, butter, and half-boiled egg component data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No single Kaya Toast Set entry found in HPB Foodo. Values constructed from HPB kaya spread, white bread, butter, and half-boiled egg component data. Coffee/kopi not included in nutrient analysis."
+  },
+  "per_100g": {
+    "energy_kcal": 263.0,
+    "protein_g": 9.6,
+    "fat_g": 11.5,
+    "saturated_fat_g": 5.8,
+    "monounsaturated_fat_g": 3.5,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.2,
+    "carbohydrate_g": 31.2,
+    "sugar_g": 11.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 385.0,
+    "potassium_mg": 105.0,
+    "calcium_mg": 62.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 175.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 88.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.72,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.9,
+    "vitamin_e_mg": 0.7,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 16.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 14.0,
+    "water_g": 44.0
+  },
+  "glycemic_index": 70,
+  "glycemic_load_per_serving": 56.8,
+  "gi_source": "University of Sydney GI Database — white bread (toasted); GI of kaya toast estimated from white bread GI data with correction for fat and egg content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1001mg per set (260g) — about 44% of the 2300mg daily recommended limit, contributed by butter, dark soy sauce on eggs, and white bread.",
+      "guidance": "Patients with hypertension should limit the dark soy sauce on the eggs and choose reduced-sodium bread where available; the set is moderate in sodium compared to other hawker breakfast options."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "White toast has a high GI (~70) and kaya spread is sugar-rich; the set has a high glycaemic load (~57) for a breakfast portion, driving significant postprandial glucose elevation.",
+      "guidance": "Diabetic patients should substitute wholegrain toast for white bread where available, limit kaya spread to one slice, and rely on the eggs as the primary protein component to moderate the postprandial glucose response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Eggs provide high-quality protein, zinc, and vitamin D; butter adds saturated fat; the overall inflammatory index of this set is moderate.",
+      "guidance": "Patients with rheumatoid arthritis may consume the Kaya Toast Set occasionally; the egg component provides valuable anti-inflammatory nutrients (omega-3, vitamin D, selenium), and wholmeal bread alternatives are preferred."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "The Singapore Kaya Toast Set is the archetypal kopitiam (traditional coffee shop) breakfast, consisting of two slices of thin white bread charcoal-grilled or toasted until lightly crispy and served with a generous spread of kaya — a fragrant, sweetened coconut and pandan jam made with eggs — and a thick slab of cold butter, alongside two soft half-boiled eggs in a small bowl seasoned with dark soy sauce and a pinch of white pepper. The set is traditionally accompanied by a cup of kopi (local Robusta coffee brewed with condensed or evaporated milk) or teh (tea). It is a daily institution for many Singaporeans and embodies the unique kopitiam culture of the island.",
+    "common_user_queries": [
+      "how many calories in kaya toast set",
+      "is kaya toast healthy",
+      "kaya toast calories",
+      "is kaya toast high in sugar",
+      "can a diabetic eat kaya toast",
+      "how much fat is in kaya toast",
+      "kaya toast cholesterol content"
+    ],
+    "meal_context": [
+      "kopitiam",
+      "breakfast",
+      "morning tea",
+      "brunch",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "kaya": [
+        "coconut jam",
+        "kaya jam",
+        "pandan coconut jam",
+        "srikaya",
+        "coconut egg jam"
+      ],
+      "kopi": [
+        "Singapore coffee",
+        "local coffee",
+        "robusta coffee",
+        "white coffee (kopi-o)"
+      ],
+      "half-boiled eggs": [
+        "soft-boiled eggs",
+        "runny eggs",
+        "Singapore soft eggs",
+        "telur separuh masak"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No single Kaya Toast Set entry found in HPB Foodo. Values constructed from component analysis using HPB data. Confidence medium.",
+  "notes": "Kopi (coffee) is not included in the nutrient analysis; adding kopi with condensed milk adds approximately 90–130 kcal, 3–5g fat, and 14–18g sugar per cup. The set is vegetarian (eggs included) and halal in the standard preparation. Cholesterol from two eggs is notably high at approximately 455mg per set."
+}

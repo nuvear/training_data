@@ -1,0 +1,160 @@
+{
+  "food_name": "Putu Piring (steamed rice cake, palm sugar)",
+  "local_names": {
+    "malay": "Putu Piring",
+    "chinese_simplified": "普都碟（蒸米糕，椰糖馅）",
+    "chinese_traditional": "普都碟（蒸米糕，椰糖餡）",
+    "tamil": "புட்டு பிரிங் (ஆவியில் அரிசி கேக்)",
+    "romanized_local": "Putu piring"
+  },
+  "aliases": [
+    "putu piring",
+    "steamed rice flour cake",
+    "Malay steamed rice cake with palm sugar",
+    "putu mayam (related, string hopper)"
+  ],
+  "cuisine": "Malay",
+  "region_of_origin": "Singapore / Malaysia",
+  "food_group": "Desserts",
+  "food_subgroup": "Steamed rice flour cake with gula melaka and coconut",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Putu Piring. Nearest parent is a steamed rice flour cake or rice confectionery. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Rice-based confectionery — steamed rice flour cake with palm sugar (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour (coarse)",
+      "gula melaka (palm sugar, filling)",
+      "pandan leaf",
+      "grated fresh coconut",
+      "water",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "4 pieces",
+    "size_g": 100,
+    "natural_language_portion": "A typical serving of Putu Piring consists of 4 pieces (approximately 25g each, 100g total) of small, round steamed rice flour cakes with a molten gula melaka (palm sugar) centre, served on banana leaf with freshly grated coconut on the side."
+  },
+  "nutrient_source": {
+    "title": "Putu Piring — HPB Singapore Foodo Database, Food Code F11090049",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F11090049 — Putu Piring, standard Malay steamed rice cake preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 192.0,
+    "protein_g": 2.2,
+    "fat_g": 3.5,
+    "saturated_fat_g": 3.0,
+    "monounsaturated_fat_g": 0.2,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 39.5,
+    "sugar_g": 16.8,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 65.0,
+    "potassium_mg": 128.0,
+    "calcium_mg": 12.0,
+    "iron_mg": 0.4,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.2,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.1,
+    "phosphorus_mg": 32.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 2.0,
+    "water_g": 52.5
+  },
+  "glycemic_index": 72,
+  "glycemic_load_per_serving": 28.4,
+  "gi_source": "University of Sydney GI Database — coarse rice flour, steamed; GI elevated by gelatinised rice starch; gula melaka adds significant sugar.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 65mg per 4-piece serving (100g) — about 3% of the 2300mg daily recommended limit; Putu Piring is one of the lowest-sodium kueh available.",
+      "guidance": "Patients with hypertension may consume Putu Piring occasionally without sodium concerns; the very low sodium makes it appropriate as an occasional sweet treat."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Rice flour base has a high GI (~72); gula melaka provides 16.8g sugar per 100g; per-serving glycaemic load of approximately 28 is significant.",
+      "guidance": "Diabetic patients should limit Putu Piring to 1–2 pieces maximum as an occasional treat; the high GI rice flour base and palm sugar filling together produce a significant postprandial glucose rise."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High refined carbohydrate and sugar content may promote inflammation at frequent consumption; coconut provides medium-chain saturated fatty acids with neutral-to-positive anti-inflammatory profile.",
+      "guidance": "Patients with rheumatoid arthritis should limit Putu Piring to occasional consumption; the high sugar content is the primary pro-inflammatory concern."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Putu Piring is a traditional Malay steamed kueh of lightly fragrant coarse rice flour pressed into small round moulds with a nugget of gula melaka (palm sugar) hidden in the centre, then steamed until the rice flour sets into a soft, slightly granular cake. When bitten, the molten gula melaka filling flows out, imparting a deep, caramel-sweet, slightly smoky palm sugar flavour. The cakes are served on banana leaf with freshly grated coconut and eaten immediately while warm. Putu Piring is associated with traditional Malay kueh stalls and is one of Singapore's most nostalgic street foods.",
+    "common_user_queries": [
+      "how many calories in putu piring",
+      "is putu piring healthy",
+      "is putu piring gluten free",
+      "is putu piring vegan",
+      "putu piring sugar content",
+      "can a diabetic eat putu piring",
+      "putu piring vs ondeh ondeh calories"
+    ],
+    "meal_context": [
+      "kueh stall",
+      "dessert",
+      "teatime",
+      "Malay festival",
+      "Hari Raya",
+      "wet market"
+    ],
+    "ingredient_synonyms": {
+      "putu piring": [
+        "steamed rice cake (Malay)",
+        "putu buluh (bamboo version)",
+        "putu mayam (different — string form)"
+      ],
+      "gula melaka": [
+        "palm sugar",
+        "coconut palm sugar",
+        "Malacca palm sugar",
+        "dark palm sugar"
+      ],
+      "coarse rice flour": [
+        "rice semolina",
+        "tepung beras kasar",
+        "stone-ground rice flour"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F11090049 — Putu Piring, standard Malay preparation.",
+  "notes": "Fully vegan, gluten-free, and allergen-free. Cholesterol and vitamin B12 are 0.0. Nutritionally simple — primarily starch and sugar. The coconut coating adds medium-chain saturated fatty acids (predominantly lauric acid). Must be consumed fresh while warm — does not keep well."
+}

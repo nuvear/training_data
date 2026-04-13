@@ -1,0 +1,153 @@
+{
+  "food_name": "Cooked Rice Vermicelli / Bee Hoon (plain)",
+  "local_names": {
+    "malay": "Bihun (masak, kosong)",
+    "chinese_simplified": "熟米粉（原味）",
+    "chinese_traditional": "熟米粉（原味）",
+    "tamil": "அரிசி வர்மிசெல்லி (வேகவைத்த)",
+    "romanized_local": "Bee hoon / Bihun / Mee hoon"
+  },
+  "aliases": [
+    "bee hoon",
+    "bihun",
+    "mee hoon",
+    "rice vermicelli",
+    "thin rice noodles",
+    "rice stick noodles (thin)"
+  ],
+  "cuisine": "Staple",
+  "region_of_origin": "China / Southeast Asia",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Cooked thin rice vermicelli",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a rice noodle concept but no specific rice vermicelli (bee hoon) concept. Nearest parent is a thin rice-based noodle product. Recommend new concept.",
+    "foodex2_code": "A01PE",
+    "foodex2_description": "Pasta and noodles — thin rice vermicelli, cooked (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "soaked",
+      "boiled",
+      "drained"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice flour",
+      "water"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": true,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (standard hawker portion)",
+    "size_g": 180,
+    "natural_language_portion": "A standard serving of cooked rice vermicelli for a hawker dish weighs approximately 180g (cooked) and forms the noodle base for dishes such as Laksa, Mee Siam, and Fried Bee Hoon."
+  },
+  "nutrient_source": {
+    "title": "Cooked Rice Vermicelli — HPB Singapore Foodo Database; USDA FoodData Central SR Legacy, rice noodles cooked",
+    "organization": "Health Promotion Board (HPB), Singapore; USDA Agricultural Research Service",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact standalone bee hoon entry found as a separate item in HPB Foodo. Values derived from USDA SR Legacy rice noodle cooked data, cross-referenced with HPB."
+  },
+  "per_100g": {
+    "energy_kcal": 109.0,
+    "protein_g": 2.0,
+    "fat_g": 0.2,
+    "saturated_fat_g": 0.0,
+    "monounsaturated_fat_g": 0.1,
+    "polyunsaturated_fat_g": 0.1,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 24.5,
+    "sugar_g": 0.0,
+    "dietary_fibre_g": 0.4,
+    "sodium_mg": 4.0,
+    "potassium_mg": 14.0,
+    "calcium_mg": 3.0,
+    "iron_mg": 0.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.01,
+    "vitamin_b2_riboflavin_mg": 0.01,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.02,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 2.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.0,
+    "phosphorus_mg": 18.0,
+    "magnesium_mg": 5.0,
+    "zinc_mg": 0.1,
+    "selenium_mcg": 2.8,
+    "water_g": 72.5
+  },
+  "glycemic_index": 47,
+  "glycemic_load_per_serving": 21.1,
+  "gi_source": "University of Sydney GI Database — rice vermicelli (dried, then cooked); lower GI than fresh rice noodles due to retrogradation of starch during drying and rehydration.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 7mg per serving (180g) — essentially sodium-free; all sodium in bee hoon dishes comes from sauces and seasonings.",
+      "guidance": "Patients with hypertension may freely include rice vermicelli as the noodle base; all sodium management should focus on the sauces and toppings served alongside."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Rice vermicelli has a relatively low GI (~47) for a rice-based product due to starch retrogradation during drying; per-serving glycaemic load of approximately 21 is moderate-low.",
+      "guidance": "Rice vermicelli is a more diabetes-friendly noodle base than white rice or fresh rice noodles; its lower GI from starch retrogradation makes it a preferable carbohydrate choice in hawker meals."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Nutritionally neutral; gluten-free and allergen-free; provides clean carbohydrate energy without inflammatory burden.",
+      "guidance": "Rice vermicelli is suitable for all patients including those with rheumatoid arthritis; its gluten-free composition is beneficial for patients who also have gluten sensitivity, which is associated with some autoimmune conditions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rice vermicelli (bee hoon in Singapore; bihun in Malay/Indonesian) is the thin, dried rice flour noodle that forms the base for dishes like Laksa, Mee Siam, fried bee hoon, and noodle soups across Southeast Asia. Made entirely from rice flour and water, dried rice vermicelli is first soaked in hot water then briefly cooked to restore its soft, springy texture. It is gluten-free, vegan, and allergen-free — the most universally inclusive noodle staple in Singapore's diverse food scene.",
+    "common_user_queries": [
+      "how many calories in bee hoon",
+      "bee hoon vs yellow mee which is healthier",
+      "is bee hoon gluten free",
+      "rice vermicelli GI glycemic index",
+      "bee hoon carbohydrates per serving",
+      "can a diabetic eat bee hoon"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "component ingredient",
+      "all noodle dishes"
+    ],
+    "ingredient_synonyms": {
+      "bee hoon": [
+        "bihun",
+        "mee hoon",
+        "米粉",
+        "rice vermicelli",
+        "thin rice noodles",
+        "sen mee (Thai)"
+      ],
+      "rice vermicelli": [
+        "dried rice noodles",
+        "rice stick noodles (thin)",
+        "pho noodles (thicker version)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No standalone bee hoon entry found in HPB Foodo. Values from USDA SR Legacy rice noodle data, cross-referenced with HPB. Confidence medium.",
+  "notes": "Nutritionally the leanest noodle option. Essentially pure starch and water with negligible protein, fat, and micronutrients. The GI benefit over white rice and fresh rice noodles comes from retrogradation of starch during the drying process. Must be paired with protein and fibre-rich accompaniments for nutritional completeness."
+}

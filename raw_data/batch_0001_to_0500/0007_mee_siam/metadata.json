@@ -1,0 +1,171 @@
+{
+  "food_name": "Mee Siam",
+  "local_names": {
+    "malay": "Mee Siam",
+    "chinese_simplified": "暹罗米粉",
+    "chinese_traditional": "暹羅米粉",
+    "tamil": "மீ சியாம்",
+    "romanized_local": "Mi Siam"
+  },
+  "aliases": [
+    "Singapore mee siam",
+    "Siamese noodles",
+    "spicy vermicelli in gravy",
+    "rice vermicelli in tamarind prawn gravy"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced rice vermicelli in tamarind-coconut gravy",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Mee Siam. Nearest parent would be a spiced rice noodle dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — rice vermicelli in spiced tamarind broth (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "braised",
+      "assembled"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "rice vermicelli",
+      "dried shrimp",
+      "tamarind",
+      "coconut milk",
+      "bean curd (firm tofu, fried)",
+      "prawns",
+      "egg (hard-boiled)",
+      "bean sprouts",
+      "lime"
+    ],
+    "allergens": [
+      "crustaceans",
+      "eggs",
+      "soy",
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 360,
+    "natural_language_portion": "A typical plate of Mee Siam in Singapore weighs approximately 360g and consists of stir-fried rice vermicelli in a spiced, sweet-sour tamarind and coconut milk gravy, topped with prawns, fried tofu, hard-boiled egg, bean sprouts, chives, and a lime wedge on the side."
+  },
+  "nutrient_source": {
+    "title": "Mee Siam — HPB Singapore Foodo Database, Food Code F05060085",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05060085 — Mee Siam, standard hawker preparation with tamarind-coconut gravy."
+  },
+  "per_100g": {
+    "energy_kcal": 124.0,
+    "protein_g": 4.9,
+    "fat_g": 4.1,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 1.2,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 17.4,
+    "sugar_g": 3.2,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 415.0,
+    "potassium_mg": 125.0,
+    "calcium_mg": 30.0,
+    "iron_mg": 1.0,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 3.8,
+    "vitamin_a_mcg_rae": 20.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.07,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.11,
+    "vitamin_b12_mcg": 0.38,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.4,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 90.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 9.0,
+    "water_g": 71.0
+  },
+  "glycemic_index": 47,
+  "glycemic_load_per_serving": 29.3,
+  "gi_source": "University of Sydney GI Database — rice vermicelli (cooked); composite GI estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1494mg per serving (360g) — about 65% of the 2300mg daily recommended limit, driven by dried shrimp, belacan paste, and light soy seasoning.",
+      "guidance": "Patients with hypertension should request reduced sambal and reduced seasoning; the tamarind-based gravy naturally has some acidity that can balance flavour without additional salt."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Rice vermicelli has a moderate GI (~47); the dish has a moderate glycaemic load per serving (~29); added sugars in the tamarind gravy should be noted.",
+      "guidance": "Diabetic patients may consume Mee Siam occasionally with a reduced noodle portion; the tamarind gravy's added sugar content should be accounted for in daily carbohydrate management."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Moderate saturated fat content; tamarind provides antioxidants and the spice base may offer mild anti-inflammatory benefits.",
+      "guidance": "Mee Siam is a relatively suitable dish for patients with rheumatoid arthritis; the tamarind and spice components may offer mild anti-inflammatory benefits, and the overall fat content is lower than many other hawker dishes."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Mee Siam is a Singapore and Malaysian Malay hawker dish of thin rice vermicelli stir-fried in a tangy, mildly spicy, sweet-sour gravy made from dried shrimp, chilli, tamarind, and coconut milk. The dish is garnished with prawns, halved fried tofu, hard-boiled egg, bean sprouts, and Chinese chives, finished with a squeeze of lime and a drizzle of sambal. It is considered a uniquely Singaporean-Malay interpretation of Thai-influenced noodle cooking, distinct from Thai recipes, and is commonly found at Malay hawker stalls and food courts.",
+    "common_user_queries": [
+      "how many calories in mee siam",
+      "is mee siam healthy",
+      "is mee siam halal",
+      "mee siam vs mee goreng which is healthier",
+      "mee siam sodium content",
+      "can a diabetic eat mee siam"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "food court",
+      "Malay stall"
+    ],
+    "ingredient_synonyms": {
+      "rice vermicelli": [
+        "bee hoon",
+        "bihun",
+        "mee hoon",
+        "米粉",
+        "thin rice noodles"
+      ],
+      "tamarind": [
+        "assam",
+        "asam jawa",
+        "imli",
+        "tamarind paste"
+      ],
+      "dried shrimp": [
+        "hae bee",
+        "udang kering",
+        "虾米",
+        "dried prawns"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05060085 — Mee Siam, standard hawker preparation.",
+  "notes": "The dish is halal in its standard Malay hawker preparation. Chinese-stall versions may use non-halal ingredients. Sugar content is notably higher than many other noodle dishes due to the sweetened tamarind gravy."
+}

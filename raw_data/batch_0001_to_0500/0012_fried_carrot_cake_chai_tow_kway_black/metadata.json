@@ -1,0 +1,174 @@
+{
+  "food_name": "Fried Carrot Cake / Chai Tow Kway (black)",
+  "local_names": {
+    "malay": "Chai Tow Kway Hitam",
+    "chinese_simplified": "黑炒萝卜糕",
+    "chinese_traditional": "黑炒蘿蔔糕",
+    "tamil": "பிரைட் கேரட் கேக் (கறுப்பு)",
+    "romanized_local": "Chai tau kueh (or): chāo luóbó gāo (hēi)"
+  },
+  "aliases": [
+    "black carrot cake",
+    "chai tow kway",
+    "chai tau kueh",
+    "fried radish cake (black)",
+    "carrot cake (black)",
+    "Singapore carrot cake black"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried radish cake with sweet dark sauce and egg",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Chai Tow Kway. Nearest parent would be a fried rice cake or stir-fried radish product. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Starchy root-based processed food — fried radish cake (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "chai tow (white radish / daikon radish cake)",
+      "rice flour",
+      "eggs",
+      "preserved radish (chai poh)",
+      "dark soy sauce",
+      "lard or cooking oil",
+      "garlic",
+      "spring onion"
+    ],
+    "allergens": [
+      "eggs",
+      "soy",
+      "gluten (possible in chai poh)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 300,
+    "natural_language_portion": "A typical plate of Black Chai Tow Kway at a Singapore hawker centre weighs approximately 300g and consists of steamed radish cake cubes stir-fried in lard with eggs, preserved radish (chai poh), garlic, and a generous amount of sweet dark soy sauce, giving it a dark caramelised coating, served with a chilli sauce on the side."
+  },
+  "nutrient_source": {
+    "title": "Fried Carrot Cake (Black) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB carrot cake and chai tow kway composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact black Chai Tow Kway entry found in HPB Foodo. Values adapted from HPB radish cake composition data and stir-fried egg dish analysis. White version would have lower sugar and sodium."
+  },
+  "per_100g": {
+    "energy_kcal": 163.0,
+    "protein_g": 3.9,
+    "fat_g": 8.4,
+    "saturated_fat_g": 2.9,
+    "monounsaturated_fat_g": 3.2,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 19.1,
+    "sugar_g": 5.8,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 618.0,
+    "potassium_mg": 88.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 88.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 0.8,
+    "vitamin_b6_mg": 0.08,
+    "vitamin_b12_mcg": 0.32,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.6,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 75.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 8.0,
+    "water_g": 65.0
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 35.4,
+  "gi_source": "University of Sydney GI Database — rice flour-based product; GI estimated from rice cake and rice flour dish data.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1854mg per serving (300g) — about 81% of the 2300mg daily recommended limit, driven by preserved radish (chai poh), dark soy sauce, and seasonings.",
+      "guidance": "Patients with hypertension should consume Chai Tow Kway only occasionally and request reduced dark soy sauce and preserved radish to meaningfully lower sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Rice flour cake base has a moderately high GI (~62); the black version adds significant sugar from dark soy sauce caramelisation, increasing glycaemic load to approximately 35 per serving.",
+      "guidance": "Diabetic patients should prefer the white version (no dark soy sauce) over the black version, as the caramelised sugar coating in the black version substantially increases the glycaemic impact."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High sodium from preserved vegetables and soy sauce; lard use adds saturated fat; limited anti-inflammatory micronutrient content.",
+      "guidance": "Patients with rheumatoid arthritis should limit consumption of Chai Tow Kway due to its high sodium and saturated fat content, and prefer dishes with greater vegetable diversity."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Chai Tow Kway (Singapore Fried Carrot Cake) is a popular hawker dish made from white radish (daikon) steamed with rice flour to form a soft cake, which is then cubed and stir-fried in a hot wok with egg, preserved radish (chai poh), garlic, and spring onions. The black version gets its distinctive sweet and savoury caramelised coating from the liberal addition of dark sweet soy sauce, giving the cubes a glossy, deeply flavoured char. Despite being called 'carrot cake', it contains no orange carrot — the name derives from the Teochew word 'chai tow' meaning white radish, which was mistranslated as 'carrot' in English.",
+    "common_user_queries": [
+      "how many calories in chai tow kway",
+      "black vs white carrot cake which is healthier",
+      "is fried carrot cake healthy",
+      "is chai tow kway halal",
+      "carrot cake calories hawker",
+      "why is Singapore carrot cake not orange",
+      "can a diabetic eat fried carrot cake"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "supper",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "white radish cake": [
+        "radish cake",
+        "turnip cake",
+        "chai tow",
+        "lo bak go",
+        "蘿蔔糕",
+        "carrot cake (Sg)"
+      ],
+      "preserved radish": [
+        "chai poh",
+        "cai pu",
+        "菜脯",
+        "dried radish",
+        "chai por"
+      ],
+      "dark soy sauce": [
+        "sweet dark soy sauce",
+        "kecap manis (similar)",
+        "老抽",
+        "thick soy sauce"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Chai Tow Kway entry found in HPB Foodo. Values adapted from HPB radish cake and egg stir-fry component data. Confidence medium.",
+  "notes": "Not halal at traditional Chinese stalls due to lard use. Halal versions using vegetable oil are available. White version (no dark soy sauce) has significantly less sugar and slightly lower sodium. The dish is often misidentified by tourists as containing orange carrot due to the English name."
+}

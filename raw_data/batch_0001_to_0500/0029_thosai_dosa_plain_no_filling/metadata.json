@@ -1,0 +1,166 @@
+{
+  "food_name": "Thosai / Dosa (plain, no filling)",
+  "local_names": {
+    "malay": "Tosai Kosong",
+    "chinese_simplified": "印度米饼（原味）",
+    "chinese_traditional": "印度米餅（原味）",
+    "tamil": "தோசை (சாதாரண)",
+    "romanized_local": "Thosai / Tosai"
+  },
+  "aliases": [
+    "plain dosa",
+    "thosai",
+    "tosai",
+    "dosa (plain)",
+    "South Indian rice crepe",
+    "fermented rice pancake"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Tamil Nadu / Karnataka)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Fermented rice and lentil pancake (plain)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Thosai/Dosa. Nearest parent is a fermented grain pancake or crepe. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Fermented grain products — fermented rice and lentil pancake, plain (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "griddled",
+      "pan-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice (soaked, fermented)",
+      "urad dal (black lentils, fermented)",
+      "water",
+      "salt",
+      "oil (for greasing griddle)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece",
+    "size_g": 100,
+    "natural_language_portion": "A typical single plain thosai weighs approximately 100g and consists of a thin, lacy, slightly crisp fermented rice and urad dal crepe with a pale golden exterior, served with coconut chutney and sambar."
+  },
+  "nutrient_source": {
+    "title": "Plain Dosa (Thosai) — HPB Singapore Foodo Database, Food Code F05010009",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05010009 — Plain Thosai (dosa), standard preparation without filling."
+  },
+  "per_100g": {
+    "energy_kcal": 183.0,
+    "protein_g": 5.2,
+    "fat_g": 6.5,
+    "saturated_fat_g": 0.7,
+    "monounsaturated_fat_g": 3.5,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 28.2,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 185.0,
+    "potassium_mg": 128.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.05,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 75.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 4.5,
+    "water_g": 58.0
+  },
+  "glycemic_index": 68,
+  "glycemic_load_per_serving": 19.2,
+  "gi_source": "University of Sydney GI Database — plain dosa (fermented rice pancake, griddled); GI higher than expected due to the gelatinised rice starch.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 185mg per thosai (100g) — about 8% of the 2300mg daily recommended limit; one of the lowest-sodium carbohydrate staples in Singapore's hawker landscape.",
+      "guidance": "Patients with hypertension may consume plain thosai freely; the coconut chutney and sambar served alongside are the main sodium contributors and can be moderated."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Plain dosa has a relatively high GI (~68) for a fermented product; however, its per-piece glycaemic load (~19) is manageable; fermentation reduces the glycaemic impact compared to non-fermented rice.",
+      "guidance": "Diabetic patients can consume 1–2 plain thosai per meal, ideally with sambar and chutney which add protein and fibre; the small per-piece portion keeps the glycaemic load moderate."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Completely vegan and anti-inflammatory; fermented batter promotes gut microbiome health which supports immune regulation; urad dal provides folate and plant protein.",
+      "guidance": "Plain thosai is an excellent choice for patients with rheumatoid arthritis; the fermented preparation, gluten-free composition, and vegan profile make it anti-inflammatory, and it pairs well with anti-inflammatory sambar for a complete meal."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Plain Thosai (Dosa) is the foundational South Indian fermented rice and urad dal crepe, made from a batter of soaked rice and dehusked black lentils that is fermented overnight until naturally sour and lightly effervescent, then ladled onto a hot flat griddle and spread in circular motions to create a large, thin, lacy crepe. The plain version is golden-brown, crisp at the edges, and soft in the centre, served with coconut chutney and sambar. It is gluten-free, vegan, and one of the most widely consumed South Indian breakfast items at Singapore's Indian restaurants and mamak stalls.",
+    "common_user_queries": [
+      "how many calories in a plain thosai",
+      "is thosai healthy",
+      "is thosai halal",
+      "is thosai gluten free",
+      "thosai vs roti prata which is healthier",
+      "can a diabetic eat thosai",
+      "thosai calories Singapore"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "lunch",
+      "snack",
+      "24-hour stall"
+    ],
+    "ingredient_synonyms": {
+      "thosai": [
+        "dosa",
+        "dosai",
+        "tosai",
+        "thosé",
+        "South Indian rice crepe"
+      ],
+      "urad dal": [
+        "black gram",
+        "ulundu",
+        "split black lentil",
+        "white lentil (when dehusked)"
+      ],
+      "sambar": [
+        "vegetable lentil soup",
+        "South Indian dal soup",
+        "sambaar",
+        "toor dal soup"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05010009 — Plain Thosai (dosa), standard preparation.",
+  "notes": "Fully vegan. No animal products. GI is higher than expected for a fermented product because the rice starch gelatinisation during cooking largely offsets the acid-mediated GI reduction from fermentation. Cholesterol and vitamin B12 are 0.0. The coconut chutney and sambar accompaniments are not included in per_100g values."
+}

@@ -1,0 +1,169 @@
+{
+  "food_name": "Tom Yum Soup (clear broth, with prawns)",
+  "local_names": {
+    "malay": "Tom Yum (sup, dengan udang)",
+    "chinese_simplified": "冬阴功汤（清汤，加虾）",
+    "chinese_traditional": "冬陰功湯（清湯，加蝦）",
+    "tamil": "டாம் யம் சூப் (இறால் உடன்)",
+    "romanized_local": "Tom yum goong"
+  },
+  "aliases": [
+    "tom yum goong",
+    "tom yam",
+    "Thai hot and sour soup",
+    "tom yum with prawns",
+    "lemongrass prawn soup"
+  ],
+  "cuisine": "Thai",
+  "region_of_origin": "Thailand",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced lemongrass prawn soup (clear broth)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Tom Yum Soup. Nearest parent is a spiced broth-based soup. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Soup dishes — spiced prawn soup with herbs (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "prawns (fresh, shell-on)",
+      "lemongrass",
+      "galangal",
+      "kaffir lime leaves",
+      "bird's eye chilli",
+      "fish sauce",
+      "lime juice",
+      "mushrooms (straw or oyster)",
+      "tomato",
+      "cilantro"
+    ],
+    "allergens": [
+      "crustaceans",
+      "fish"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 450,
+    "natural_language_portion": "A typical bowl of Tom Yum Soup with prawns weighs approximately 450g and consists of a clear, intensely aromatic, hot and sour broth infused with lemongrass, galangal, and kaffir lime leaves, containing 4–6 whole prawns, straw mushrooms, tomato wedges, and cilantro, with bird's eye chilli and fish sauce creating the characteristic sharp, spicy, sour flavour."
+  },
+  "nutrient_source": {
+    "title": "Tom Yum Soup — FAO/INFOODS SEA Food Composition Table; Thai food component data",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Tom Yum Goong entry found as a standalone dish in FAO/INFOODS. Values adapted from FAO/INFOODS SEA prawn broth and spiced soup component data."
+  },
+  "per_100g": {
+    "energy_kcal": 46.0,
+    "protein_g": 4.2,
+    "fat_g": 1.5,
+    "saturated_fat_g": 0.3,
+    "monounsaturated_fat_g": 0.5,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.8,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 675.0,
+    "potassium_mg": 185.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 0.6,
+    "cholesterol_mg": 35.0,
+    "vitamin_c_mg": 12.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.05,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.48,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 88.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 12.0,
+    "water_g": 89.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 3038mg per bowl (450g) — significantly exceeding the 2300mg daily recommended limit; fish sauce is the primary sodium source in the Tom Yum broth.",
+      "guidance": "Patients with hypertension should consume Tom Yum Soup in smaller portions, avoid finishing the broth, and ask for reduced fish sauce; the solid components (prawns, mushrooms, vegetables) provide excellent nutrition at a much lower sodium load."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate content (~3.8g/100g); extremely low calorie density; high protein from prawns with negligible glycaemic impact.",
+      "guidance": "Tom Yum Soup is an excellent low-calorie, low-carbohydrate meal option for diabetic patients; pair with a modest portion of steamed rice and the overall glycaemic impact of the meal remains very manageable."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Lemongrass, galangal, and kaffir lime contain potent anti-inflammatory phytocompounds; prawns provide omega-3 fatty acids; bird's eye chilli provides capsaicin with anti-inflammatory properties.",
+      "guidance": "Tom Yum Soup is one of the most anti-inflammatory dishes available; the aromatic herb base (lemongrass, galangal, kaffir lime) provides significant anti-inflammatory phytocompound content, making it a beneficial choice for patients with rheumatoid arthritis."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Tom Yum Soup (Tom Yum Goong with prawns) is Thailand's most famous soup — a clear, intensely aromatic, hot and sour broth infused with fresh lemongrass, galangal, kaffir lime leaves, and bird's eye chilli, containing whole prawns, straw mushrooms, and tomatoes, seasoned with fish sauce and fresh lime juice. The clear version (tom yum nam sai) is a low-calorie, anti-inflammatory soup with exceptional phytocompound content from the aromatic herbs, while the creamy version (tom yum nam khon) adds coconut milk for a richer, higher-fat profile. It is widely available at Thai restaurants and hawker stalls in Singapore.",
+    "common_user_queries": [
+      "how many calories in tom yum soup",
+      "is tom yum soup healthy",
+      "tom yum soup sodium content",
+      "can a diabetic eat tom yum soup",
+      "is tom yum soup anti-inflammatory",
+      "tom yum clear vs coconut which is healthier",
+      "is tom yum soup halal"
+    ],
+    "meal_context": [
+      "Thai restaurant",
+      "dinner",
+      "starter",
+      "healthy eating"
+    ],
+    "ingredient_synonyms": {
+      "tom yum": [
+        "tom yam",
+        "tom yum goong",
+        "Thai hot and sour soup",
+        "ต้มยำกุ้ง"
+      ],
+      "galangal": [
+        "kha",
+        "blue ginger",
+        "lengkuas",
+        "laos",
+        "greater galangal"
+      ],
+      "kaffir lime leaves": [
+        "makrut lime leaves",
+        "daun limau purut",
+        "ใบมะกรูด"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Tom Yum Goong entry found in FAO/INFOODS SEA. Values adapted from FAO/INFOODS SEA prawn soup component data. Confidence medium.",
+  "notes": "Not halal in traditional Thai preparation as fish sauce (nam pla) used by non-certified vendors may not be halal-certified. Sodium is very high from fish sauce — this is the primary nutritional concern. The creamy coconut milk version (tom yum nam khon) has approximately 3× the fat and calorie content."
+}

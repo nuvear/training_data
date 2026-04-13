@@ -1,0 +1,166 @@
+{
+  "food_name": "Ondeh Ondeh (pandan glutinous rice, palm sugar)",
+  "local_names": {
+    "malay": "Onde Onde",
+    "chinese_simplified": "椰糖糯米球（斑斓）",
+    "chinese_traditional": "椰糖糯米球（斑蘭）",
+    "tamil": "ஓண்டே ஓண்டே",
+    "romanized_local": "Onde-onde"
+  },
+  "aliases": [
+    "onde onde",
+    "ondeh ondeh",
+    "pandan glutinous rice balls",
+    "palm sugar rice balls",
+    "klepon (Indonesian equivalent)"
+  ],
+  "cuisine": "Peranakan",
+  "region_of_origin": "Singapore / Malaysia (Peranakan)",
+  "food_group": "Desserts",
+  "food_subgroup": "Pandan glutinous rice ball with palm sugar filling, rolled in coconut",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Ondeh Ondeh. Nearest parent is a glutinous rice confectionery or steamed rice ball. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Rice-based confectionery — glutinous rice ball with filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "rolled in coconut"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "glutinous rice flour",
+      "pandan juice (or pandan paste)",
+      "gula melaka (palm sugar, filling)",
+      "grated fresh coconut",
+      "water",
+      "salt"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "4 pieces",
+    "size_g": 100,
+    "natural_language_portion": "A standard serving of Ondeh Ondeh consists of 4 pieces (approximately 25g each, 100g total) of small bright green glutinous rice balls with a liquid gula melaka core that bursts in the mouth, rolled in freshly grated coconut."
+  },
+  "nutrient_source": {
+    "title": "Ondeh Ondeh — HPB Singapore Foodo Database, Food Code F11090041",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F11090041 — Ondeh Ondeh, standard Peranakan preparation with pandan dough and gula melaka filling."
+  },
+  "per_100g": {
+    "energy_kcal": 218.0,
+    "protein_g": 2.5,
+    "fat_g": 5.2,
+    "saturated_fat_g": 4.5,
+    "monounsaturated_fat_g": 0.3,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 41.5,
+    "sugar_g": 18.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 82.0,
+    "potassium_mg": 142.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 2.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 5.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 42.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.3,
+    "selenium_mcg": 2.5,
+    "water_g": 48.5
+  },
+  "glycemic_index": 78,
+  "glycemic_load_per_serving": 32.4,
+  "gi_source": "University of Sydney GI Database — glutinous rice (cooked); GI very high due to the waxy starch structure of glutinous rice flour and the high sugar content from gula melaka.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 82mg per 4-piece serving (100g) — about 4% of the 2300mg daily recommended limit; Ondeh Ondeh is one of the lowest-sodium kueh in Singapore.",
+      "guidance": "Patients with hypertension may consume Ondeh Ondeh occasionally; the sodium content is negligible, though the high sugar content warrants attention for overall metabolic health."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Glutinous rice flour has a very high GI (~78); the gula melaka filling adds 18.5g sugar per 100g; per-serving glycaemic load of approximately 32 from just 4 small pieces is high.",
+      "guidance": "Diabetic patients should strictly limit Ondeh Ondeh consumption; the combination of very high GI glutinous rice and high sugar from palm sugar filling produces a significant postprandial glucose spike; 1–2 pieces maximum as an occasional treat."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High refined carbohydrate and sugar content may promote inflammation at frequent consumption; pandan provides chlorophyll antioxidants; coconut provides medium-chain saturated fatty acids.",
+      "guidance": "Patients with rheumatoid arthritis should limit Ondeh Ondeh to occasional treats; the high sugar and refined glutinous rice content are pro-inflammatory at frequent consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ondeh Ondeh (Onde Onde) is a beloved Peranakan and Malay kueh (sweet cake) of small glutinous rice flour balls dyed vivid green with fresh pandan juice, filled with a nugget of gula melaka (palm sugar) that dissolves to a liquid when cooked, and rolled in freshly grated coconut. When bitten, the ball releases a burst of caramel-sweet palm sugar juice. They are one of the most visually striking and flavour-forward kueh in Singapore's traditional confectionery repertoire, sold at Peranakan cake stalls, wet markets, and traditional kueh shops.",
+    "common_user_queries": [
+      "how many calories in ondeh ondeh",
+      "is ondeh ondeh healthy",
+      "is ondeh ondeh vegan",
+      "is ondeh ondeh gluten free",
+      "ondeh ondeh sugar content",
+      "can a diabetic eat ondeh ondeh",
+      "ondeh ondeh vs ang ku kueh calories"
+    ],
+    "meal_context": [
+      "kueh stall",
+      "dessert",
+      "teatime",
+      "Peranakan restaurant",
+      "festive",
+      "Hari Raya",
+      "Chinese New Year"
+    ],
+    "ingredient_synonyms": {
+      "ondeh ondeh": [
+        "onde onde",
+        "klepon (Indonesian equivalent)",
+        "pandan rice balls",
+        "sugar burst rice balls"
+      ],
+      "gula melaka": [
+        "palm sugar",
+        "coconut palm sugar",
+        "kithul palm sugar (Sri Lanka)",
+        "dark palm sugar",
+        "jaggery (Indian equivalent)"
+      ],
+      "pandan": [
+        "screwpine",
+        "daun pandan",
+        "pandanus",
+        "pandan extract"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F11090041 — Ondeh Ondeh, standard Peranakan preparation.",
+  "notes": "Fully vegan, gluten-free, and allergen-free in the standard preparation. Cholesterol and vitamin B12 are 0.0. Sugar content from gula melaka is the primary nutritional concern. The coconut coating adds medium-chain saturated fatty acids. Pandan provides trace chlorophyll and phytol antioxidants."
+}

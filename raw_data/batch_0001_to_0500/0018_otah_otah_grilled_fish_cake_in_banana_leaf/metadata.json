@@ -1,0 +1,174 @@
+{
+  "food_name": "Otah Otah (grilled fish cake in banana leaf)",
+  "local_names": {
+    "malay": "Otak Otak",
+    "chinese_simplified": "乌达（香蕉叶烤鱼饼）",
+    "chinese_traditional": "烏達（香蕉葉烤魚餅）",
+    "tamil": "ஓட்டா ஓட்டா",
+    "romanized_local": "Otak-otak"
+  },
+  "aliases": [
+    "otak otak",
+    "otah",
+    "grilled fish paste in banana leaf",
+    "spiced fish cake",
+    "Nonya otak",
+    "Singapore fish cake wrap"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Singapore / Malaysia",
+  "food_group": "Fish and seafood",
+  "food_subgroup": "Grilled spiced fish paste wrapped in banana leaf",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Otah Otah. Nearest parent is a fish paste product or grilled fish cake. A new FoodOn concept is recommended for this SEA-specific preparation.",
+    "foodex2_code": "A02TH",
+    "foodex2_description": "Fish and fishery products — processed fish paste, spiced and grilled (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "grilled",
+      "charcoal-grilled",
+      "steamed (Muar variant)"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "mackerel (Spanish mackerel / tenggiri)",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "turmeric",
+      "chilli",
+      "belacan (shrimp paste)",
+      "egg",
+      "banana leaf (wrapper)"
+    ],
+    "allergens": [
+      "fish",
+      "crustaceans (belacan)",
+      "eggs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece (banana leaf packet)",
+    "size_g": 80,
+    "natural_language_portion": "A standard piece of Otah Otah weighs approximately 80g and consists of a spiced fish paste made from blended Spanish mackerel mixed with coconut milk, lemongrass, galangal, turmeric, chilli, and shrimp paste, wrapped in a banana leaf and grilled over charcoal until fragrant with a slightly charred leaf exterior."
+  },
+  "nutrient_source": {
+    "title": "Otah Otah — HPB Singapore Foodo Database; no exact code found; values adapted from HPB fish paste product and spiced fish cake composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Otah Otah entry found in HPB Foodo. Values adapted from HPB spiced fish cake / fish paste product data and mackerel composition from FAO/INFOODS SEA."
+  },
+  "per_100g": {
+    "energy_kcal": 133.0,
+    "protein_g": 13.2,
+    "fat_g": 7.5,
+    "saturated_fat_g": 3.8,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 3.5,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 508.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 55.0,
+    "vitamin_c_mg": 2.0,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 5.8,
+    "vitamin_b6_mg": 0.38,
+    "vitamin_b12_mcg": 5.5,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 8.5,
+    "vitamin_e_mg": 1.8,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 28.0,
+    "water_g": 72.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 406mg per piece (80g) — one piece represents about 18% of the daily limit; multiple pieces (3–4 commonly consumed) would bring intake to 70–75% of the daily limit.",
+      "guidance": "Patients with hypertension may consume 1–2 pieces of otah otah as a protein accompaniment; the shrimp paste (belacan) and seasoning salt are the primary sodium sources and increase significantly with portion size."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate content (~3.5g/100g); high protein from mackerel with minimal glycaemic impact; one of the lowest-GI hawker snacks available.",
+      "guidance": "Otah Otah is an excellent protein snack for diabetic patients due to its very low carbohydrate content, high-quality fish protein, and omega-3 fatty acids that support insulin sensitivity."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Spanish mackerel is rich in omega-3 fatty acids (EPA and DHA) with anti-inflammatory effects; turmeric and galangal in the spice paste provide curcumin and anti-inflammatory phytocompounds.",
+      "guidance": "Otah Otah is an excellent food for patients with rheumatoid arthritis; the omega-3 rich mackerel base and anti-inflammatory spice profile (turmeric, galangal, lemongrass) make it one of the most beneficial traditional SEA hawker foods for inflammatory conditions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Otah Otah (commonly called 'otah' in Singapore) is a Southeast Asian snack of fresh mackerel blended into a smooth spiced paste with coconut milk, lemongrass, galangal, turmeric, chilli, and belacan, mixed with egg to bind, wrapped tightly in folded banana leaf, and grilled over charcoal until the fish paste sets and the banana leaf chars slightly, imparting a smoky, herbal fragrance. It is served as an accompaniment to rice or as a standalone snack, and is particularly popular in Singapore and Johor (the Muar-style steamed version is also widely available). Otah is distinguished by its high omega-3 content from mackerel and its anti-inflammatory spice profile.",
+    "common_user_queries": [
+      "how many calories in otah otah",
+      "is otah healthy",
+      "is otah halal",
+      "otah omega-3 content",
+      "can a diabetic eat otah",
+      "otah vs fish cake which is healthier",
+      "how many calories per piece of otah"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "snack",
+      "breakfast",
+      "lunch",
+      "dinner accompaniment",
+      "nasi lemak topping"
+    ],
+    "ingredient_synonyms": {
+      "Spanish mackerel": [
+        "tenggiri",
+        "ikan tenggiri",
+        "wahoo (related)",
+        "Indo-Pacific mackerel",
+        "narrow-barred mackerel"
+      ],
+      "belacan": [
+        "shrimp paste",
+        "dried shrimp paste",
+        "terasi",
+        "bagoong",
+        "kapi"
+      ],
+      "banana leaf": [
+        "daun pisang",
+        "芭蕉叶",
+        "plantain leaf (wrapper)"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Otah Otah entry found in HPB Foodo. Values adapted from HPB fish paste product data and mackerel composition from FAO/INFOODS SEA. Confidence medium.",
+  "notes": "Vitamin D and vitamin B12 values are notably high, reflecting the mackerel base. Selenium content is also elevated from fish. The banana leaf wrapper is not consumed. Muar-style (steamed, not grilled) may have slightly different texture and lower char compounds."
+}

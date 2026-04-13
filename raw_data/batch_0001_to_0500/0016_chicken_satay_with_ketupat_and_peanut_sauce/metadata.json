@@ -1,0 +1,179 @@
+{
+  "food_name": "Chicken Satay (with ketupat and peanut sauce)",
+  "local_names": {
+    "malay": "Satay Ayam",
+    "chinese_simplified": "鸡肉沙爹（附椰糯米饭和花生酱）",
+    "chinese_traditional": "雞肉沙嗲（附椰糯米飯和花生醬）",
+    "tamil": "சாட்டாய் (கோழி)",
+    "romanized_local": "Satay ayam"
+  },
+  "aliases": [
+    "chicken satay",
+    "satay ayam",
+    "skewered chicken with peanut sauce",
+    "Singapore satay",
+    "grilled chicken skewers"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Singapore / Malaysia / Indonesia",
+  "food_group": "Mixed",
+  "food_subgroup": "Grilled marinated chicken skewers with peanut dipping sauce and ketupat",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a generic satay concept but no specific Singapore Chicken Satay with peanut sauce and ketupat. Nearest parent is a grilled meat skewer food product. A specific concept is recommended.",
+    "foodex2_code": "A03XS",
+    "foodex2_description": "Grilled meat dishes — skewered grilled chicken with spiced marinade (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "grilled",
+      "charcoal-grilled",
+      "marinated"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chicken thigh (boneless, cubed)",
+      "lemongrass",
+      "turmeric",
+      "cumin",
+      "coriander",
+      "ketupat (compressed rice cake)",
+      "peanut sauce",
+      "cucumber",
+      "red onion"
+    ],
+    "allergens": [
+      "peanuts",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "10 sticks with ketupat and peanut sauce",
+    "size_g": 400,
+    "natural_language_portion": "A typical satay serving of 10 chicken skewers with accompaniments weighs approximately 400g total and consists of 10 charcoal-grilled marinated chicken thigh skewers (~180g chicken), 2 cubes of ketupat compressed rice cake (~80g), 4–5 tablespoons of peanut dipping sauce (~100g), and a side of cucumber slices and red onion wedges (~40g)."
+  },
+  "nutrient_source": {
+    "title": "Chicken Satay — HPB Singapore Foodo Database, Food Code F11020020",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F11020020 — Chicken Satay with ketupat and peanut sauce, standard hawker preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 218.0,
+    "protein_g": 13.8,
+    "fat_g": 11.5,
+    "saturated_fat_g": 3.2,
+    "monounsaturated_fat_g": 4.8,
+    "polyunsaturated_fat_g": 2.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 15.8,
+    "sugar_g": 6.2,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 418.0,
+    "potassium_mg": 225.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 52.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 15.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 5.8,
+    "vitamin_b6_mg": 0.35,
+    "vitamin_b12_mcg": 0.28,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 1.8,
+    "selenium_mcg": 12.0,
+    "water_g": 52.0
+  },
+  "glycemic_index": 50,
+  "glycemic_load_per_serving": 31.6,
+  "gi_source": "University of Sydney GI Database — ketupat (compressed rice cake) GI estimated from white rice data; peanut sauce has a low GI; composite estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1672mg per serving (400g) — about 73% of the 2300mg daily recommended limit, contributed primarily by the peanut sauce seasoning and marinade.",
+      "guidance": "Patients with hypertension should limit the quantity of peanut dipping sauce and avoid additional soy seasoning; grilled chicken skewers alone are a relatively lean, lower-sodium protein source."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Ketupat (compressed rice) has a moderate-high GI; per-serving carbohydrate load of approximately 63g is moderate; peanut sauce adds healthy fats that slow glucose absorption.",
+      "guidance": "Diabetic patients can enjoy chicken satay focusing on the grilled chicken skewers and limiting ketupat to one cube; peanuts in the sauce provide protein and healthy fats that moderate glycaemic impact."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Turmeric and lemongrass in the satay marinade provide anti-inflammatory curcumin and phytochemicals; peanuts add healthy unsaturated fats; grilled chicken is a lean protein source.",
+      "guidance": "Chicken satay is a beneficial meal choice for patients with rheumatoid arthritis; the turmeric-rich marinade provides curcumin with anti-inflammatory properties, and the grilled preparation is lower in inflammatory fatty acids than fried alternatives."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Chicken Satay consists of small cubes of marinated chicken thigh threaded onto bamboo skewers and charcoal-grilled to produce lightly charred, juicy, fragrant morsels seasoned with lemongrass, turmeric, galangal, cumin, and coriander. The skewers are served with a rich, sweet-spicy peanut dipping sauce (satay sauce), compressed rice cakes (ketupat), cucumber slices, and raw red onion wedges. Satay is a pan-Southeast-Asian dish with roots in Malay, Javanese, and Sumatran cuisine, and is one of the most recognisable Singapore hawker dishes, associated with Lau Pa Sat and Gluttons' Bay satay street stalls.",
+    "common_user_queries": [
+      "how many calories in chicken satay",
+      "is chicken satay healthy",
+      "is satay halal",
+      "how much protein in chicken satay",
+      "chicken satay peanut sauce calories",
+      "can a diabetic eat satay",
+      "chicken satay vs beef satay which is healthier"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "dinner",
+      "supper",
+      "satay street",
+      "festive",
+      "BBQ",
+      "Hari Raya"
+    ],
+    "ingredient_synonyms": {
+      "ketupat": [
+        "compressed rice cake",
+        "rice cake (Malay)",
+        "woven rice dumpling",
+        "lontong (cylinder version)"
+      ],
+      "peanut sauce": [
+        "satay sauce",
+        "kacang sauce",
+        "groundnut sauce",
+        "bumbu kacang"
+      ],
+      "lemongrass": [
+        "serai",
+        "sere",
+        "sereh",
+        "citronella grass",
+        "茅草"
+      ],
+      "turmeric": [
+        "kunyit",
+        "yellow ginger",
+        "haldi",
+        "姜黄"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F11020020 — Chicken Satay with ketupat and peanut sauce.",
+  "notes": "Peanut sauce is a major allergen concern for nut-allergic patients. The serving is inclusive of ketupat and peanut sauce. Pure chicken skewers alone (no ketupat or sauce) would be significantly lower in carbohydrates (~3g per 100g) and calories (~185 kcal/100g)."
+}

@@ -1,0 +1,164 @@
+{
+  "food_name": "Silken Tofu (steamed, plain)",
+  "local_names": {
+    "malay": "Tauhu Sutera (kukus, kosong)",
+    "chinese_simplified": "嫩豆腐（蒸，原味）",
+    "chinese_traditional": "嫩豆腐（蒸，原味）",
+    "tamil": "மென்மையான டோஃபு (வேகவைத்த)",
+    "romanized_local": "Nǎn dòufu / Silken tofu"
+  },
+  "aliases": [
+    "silken tofu",
+    "soft tofu",
+    "Japanese tofu",
+    "steamed tofu",
+    "smooth tofu",
+    "tau huay (dessert sweet version)"
+  ],
+  "cuisine": "Chinese",
+  "region_of_origin": "China / Japan",
+  "food_group": "Meat and alternatives",
+  "food_subgroup": "Soy-based protein — silken tofu, plain",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03315045",
+    "foodon_label": "tofu food product",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a tofu food product concept; silken tofu is a sub-type. A specific silken tofu (soft, steamed) concept would be more precise than the generic tofu concept.",
+    "foodex2_code": "A04FA",
+    "foodex2_description": "Soy products — tofu, soft/silken (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "soybeans",
+      "water",
+      "coagulant (gypsum / nigari / glucono delta-lactone)"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (half block)",
+    "size_g": 150,
+    "natural_language_portion": "A typical serving of steamed silken tofu consists of half a block (approximately 150g) of smooth, custard-like soft tofu that is steamed until just heated through, and may be served plain or with a light soy sauce, sesame oil, and spring onion dressing."
+  },
+  "nutrient_source": {
+    "title": "Silken Tofu — USDA Foundation Foods and HPB Singapore; USDA FDC ID 172448",
+    "organization": "USDA Agricultural Research Service — FoodData Central (Foundation Foods); cross-referenced with HPB Singapore",
+    "url": "https://fdc.nal.usda.gov/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in USDA Foundation Foods for silken tofu (soft, raw/plain). Steamed preparation does not significantly alter macronutrient profile."
+  },
+  "per_100g": {
+    "energy_kcal": 55.0,
+    "protein_g": 4.8,
+    "fat_g": 2.5,
+    "saturated_fat_g": 0.4,
+    "monounsaturated_fat_g": 0.6,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 2.0,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 0.3,
+    "sodium_mg": 12.0,
+    "potassium_mg": 112.0,
+    "calcium_mg": 111.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.1,
+    "vitamin_a_mcg_rae": 1.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.04,
+    "vitamin_b3_niacin_mg": 0.2,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 15.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 55.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.5,
+    "selenium_mcg": 8.5,
+    "water_g": 89.8
+  },
+  "glycemic_index": 15,
+  "glycemic_load_per_serving": 0.5,
+  "gi_source": "University of Sydney GI Database — tofu (all types); GI is very low due to minimal carbohydrate content and the protein-fat composition.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 18mg per serving (150g) — less than 1% of the 2300mg daily recommended limit; silken tofu is one of the lowest-sodium protein foods available.",
+      "guidance": "Patients with hypertension may consume silken tofu freely; the isoflavones in soy have been shown to have a modest blood pressure-lowering effect, and the low sodium makes it an ideal protein food for hypertensive patients."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Extremely low GI (~15) and negligible glycaemic load; high protein content moderates blood glucose responses; soy isoflavones may improve insulin sensitivity.",
+      "guidance": "Silken tofu is one of the most diabetes-friendly protein foods available; its extremely low GI, high protein, and low carbohydrate content make it an ideal component of a diabetic meal plan."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Soy isoflavones have demonstrated anti-inflammatory effects in rheumatoid arthritis research; high calcium and magnesium support bone health which is compromised in RA; completely plant-based.",
+      "guidance": "Silken tofu is an excellent food for patients with rheumatoid arthritis; the soy isoflavones provide anti-inflammatory benefit, the calcium supports bone health, and it is a low-inflammatory-load protein alternative to meat."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Silken tofu is the softest variety of tofu — a delicate, smooth, custard-like soy protein product made from minimally processed whole soybean milk coagulated with gypsum (calcium sulfate), nigari, or GDL to form a smooth, fragile curd with very high water content. In Singapore, steamed silken tofu is typically dressed with a light sauce of soy, sesame oil, and spring onion or served in soups and stews. It is one of the most versatile, nutritious, and allergy-friendly protein foods available — high in protein, calcium, and soy isoflavones with negligible carbohydrate content.",
+    "common_user_queries": [
+      "how many calories in silken tofu",
+      "is silken tofu healthy",
+      "tofu calcium content",
+      "is tofu good for weight loss",
+      "silken vs firm tofu which has more protein",
+      "can a diabetic eat tofu",
+      "is tofu anti-inflammatory"
+    ],
+    "meal_context": [
+      "home cooking",
+      "zi char",
+      "health food",
+      "vegetarian meal",
+      "Japanese restaurant"
+    ],
+    "ingredient_synonyms": {
+      "silken tofu": [
+        "soft tofu",
+        "Japanese tofu",
+        "嫩豆腐",
+        "smooth tofu",
+        "custard tofu"
+      ],
+      "tofu": [
+        "bean curd",
+        "doufu",
+        "tahu",
+        "taufu",
+        "soy protein cake"
+      ],
+      "soy isoflavones": [
+        "phytoestrogens",
+        "genistein",
+        "daidzein",
+        "soy flavonoids"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match from USDA Foundation Foods for silken tofu (soft, plain). USDA data is the highest-fidelity source for this widely standardised product.",
+  "notes": "Calcium content is notably high (111mg/100g) when coagulated with gypsum (calcium sulfate); tofu made with nigari (magnesium chloride) will have lower calcium and higher magnesium. Vegan and fully plant-based. Cholesterol and vitamin B12 are 0.0. The dressing (soy sauce, sesame oil) adds sodium and should be accounted for separately."
+}

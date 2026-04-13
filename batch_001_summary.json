@@ -1,0 +1,402 @@
+[
+  {
+    "record_num": 1,
+    "food_name": "Hainanese Chicken Rice",
+    "food_id": "0001_hainanese_chicken_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "validation"
+  },
+  {
+    "record_num": 2,
+    "food_name": "Char Kway Teow",
+    "food_id": "0002_char_kway_teow",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 3,
+    "food_name": "Laksa (Singapore)",
+    "food_id": "0003_laksa_singapore",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 4,
+    "food_name": "Nasi Lemak (basic)",
+    "food_id": "0004_nasi_lemak_basic",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 5,
+    "food_name": "Bak Kut Teh (pork ribs, pepper broth)",
+    "food_id": "0005_bak_kut_teh_pork_ribs_pepper_broth",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 6,
+    "food_name": "Hokkien Mee",
+    "food_id": "0006_hokkien_mee",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 7,
+    "food_name": "Mee Siam",
+    "food_id": "0007_mee_siam",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 8,
+    "food_name": "Mee Goreng",
+    "food_id": "0008_mee_goreng",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 9,
+    "food_name": "Wonton Mee (dry)",
+    "food_id": "0009_wonton_mee_dry",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 10,
+    "food_name": "Yong Tau Foo (steamed, clear soup)",
+    "food_id": "0010_yong_tau_foo_steamed_clear_soup",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 11,
+    "food_name": "Kaya Toast Set (with half-boiled eggs and kopi)",
+    "food_id": "0011_kaya_toast_set_with_half_boiled_eggs_and_kopi",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "validation"
+  },
+  {
+    "record_num": 12,
+    "food_name": "Fried Carrot Cake / Chai Tow Kway (black)",
+    "food_id": "0012_fried_carrot_cake_chai_tow_kway_black",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 13,
+    "food_name": "Prawn Noodle Soup (Hokkien Prawn Mee)",
+    "food_id": "0013_prawn_noodle_soup_hokkien_prawn_mee",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 14,
+    "food_name": "Ban Mian (dry, with minced pork and egg)",
+    "food_id": "0014_ban_mian_dry_with_minced_pork_and_egg",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 15,
+    "food_name": "Bak Chor Mee (minced pork noodle, dry)",
+    "food_id": "0015_bak_chor_mee_minced_pork_noodle_dry",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 16,
+    "food_name": "Chicken Satay (with ketupat and peanut sauce)",
+    "food_id": "0016_chicken_satay_with_ketupat_and_peanut_sauce",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 17,
+    "food_name": "Beef Rendang (with steamed rice)",
+    "food_id": "0017_beef_rendang_with_steamed_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 18,
+    "food_name": "Otah Otah (grilled fish cake in banana leaf)",
+    "food_id": "0018_otah_otah_grilled_fish_cake_in_banana_leaf",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 19,
+    "food_name": "Popiah (fresh, Singaporean style)",
+    "food_id": "0019_popiah_fresh_singaporean_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 20,
+    "food_name": "Curry Puff (baked, potato filling)",
+    "food_id": "0020_curry_puff_baked_potato_filling",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 21,
+    "food_name": "Chicken Biryani (Singapore Indian)",
+    "food_id": "0021_chicken_biryani_singapore_indian",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "validation"
+  },
+  {
+    "record_num": 22,
+    "food_name": "Mutton Biryani",
+    "food_id": "0022_mutton_biryani",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 23,
+    "food_name": "Butter Chicken (murgh makhani, with rice)",
+    "food_id": "0023_butter_chicken_murgh_makhani_with_rice",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 24,
+    "food_name": "Roti Prata (plain, with dhal curry)",
+    "food_id": "0024_roti_prata_plain_with_dhal_curry",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 25,
+    "food_name": "Fish Head Curry (Singapore Indian style)",
+    "food_id": "0025_fish_head_curry_singapore_indian_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 26,
+    "food_name": "Tandoori Chicken (half chicken, marinated)",
+    "food_id": "0026_tandoori_chicken_half_chicken_marinated",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 27,
+    "food_name": "Samosa (potato and peas, fried)",
+    "food_id": "0027_samosa_potato_and_peas_fried",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 28,
+    "food_name": "Masala Dosa (with potato masala filling)",
+    "food_id": "0028_masala_dosa_with_potato_masala_filling",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 29,
+    "food_name": "Thosai / Dosa (plain, no filling)",
+    "food_id": "0029_thosai_dosa_plain_no_filling",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 30,
+    "food_name": "Dal Curry (yellow lentil, tarka dal)",
+    "food_id": "0030_dal_curry_yellow_lentil_tarka_dal",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 31,
+    "food_name": "Steamed White Rice (jasmine, cooked, plain)",
+    "food_id": "0031_steamed_white_rice_jasmine_cooked_plain",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "validation"
+  },
+  {
+    "record_num": 32,
+    "food_name": "Cooked Yellow Noodle / Mee (plain, drained)",
+    "food_id": "0032_cooked_yellow_noodle_mee_plain_drained",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 33,
+    "food_name": "Cooked Flat Rice Noodle / Kway Teow (plain)",
+    "food_id": "0033_cooked_flat_rice_noodle_kway_teow_plain",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 34,
+    "food_name": "Cooked Rice Vermicelli / Bee Hoon (plain)",
+    "food_id": "0034_cooked_rice_vermicelli_bee_hoon_plain",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 35,
+    "food_name": "Roti Canai (plain, without curry)",
+    "food_id": "0035_roti_canai_plain_without_curry",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 36,
+    "food_name": "Egg Fried Rice (Chinese hawker style)",
+    "food_id": "0036_egg_fried_rice_chinese_hawker_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 37,
+    "food_name": "Char Siu (BBQ Roast Pork, Cantonese)",
+    "food_id": "0037_char_siu_bbq_roast_pork_cantonese",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 38,
+    "food_name": "Stir-fried Kangkung with Belacan",
+    "food_id": "0038_stir_fried_kangkung_with_belacan",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 39,
+    "food_name": "Silken Tofu (steamed, plain)",
+    "food_id": "0039_silken_tofu_steamed_plain",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 40,
+    "food_name": "Half-Boiled Eggs (Singapore style, 2 eggs)",
+    "food_id": "0040_half_boiled_eggs_singapore_style_2_eggs",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 41,
+    "food_name": "Pad Thai (with shrimp, bean sprouts)",
+    "food_id": "0041_pad_thai_with_shrimp_bean_sprouts",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "validation"
+  },
+  {
+    "record_num": 42,
+    "food_name": "Tom Yum Soup (clear broth, with prawns)",
+    "food_id": "0042_tom_yum_soup_clear_broth_with_prawns",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 43,
+    "food_name": "Nasi Goreng (Indonesian hawker style)",
+    "food_id": "0043_nasi_goreng_indonesian_hawker_style",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 44,
+    "food_name": "Gado Gado (with peanut sauce)",
+    "food_id": "0044_gado_gado_with_peanut_sauce",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 45,
+    "food_name": "Pho Bo (Vietnamese beef noodle soup)",
+    "food_id": "0045_pho_bo_vietnamese_beef_noodle_soup",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 46,
+    "food_name": "Banh Mi (Vietnamese baguette, pork pâté)",
+    "food_id": "0046_banh_mi_vietnamese_baguette_pork_pâté",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 47,
+    "food_name": "Ondeh Ondeh (pandan glutinous rice, palm sugar)",
+    "food_id": "0047_ondeh_ondeh_pandan_glutinous_rice_palm_sugar",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 48,
+    "food_name": "Ang Ku Kueh (groundnut filling)",
+    "food_id": "0048_ang_ku_kueh_groundnut_filling",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 49,
+    "food_name": "Putu Piring (steamed rice cake, palm sugar)",
+    "food_id": "0049_putu_piring_steamed_rice_cake_palm_sugar",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  },
+  {
+    "record_num": 50,
+    "food_name": "Kueh Tutu (coconut / groundnut filling)",
+    "food_id": "0050_kueh_tutu_coconut_groundnut_filling",
+    "shard": "batch_0001_to_0500",
+    "images_downloaded": 7,
+    "split": "train"
+  }
+]

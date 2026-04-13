@@ -1,0 +1,169 @@
+{
+  "food_name": "Char Siu (BBQ Roast Pork, Cantonese)",
+  "local_names": {
+    "malay": "Daging Babi Panggang Merah (bukan halal)",
+    "chinese_simplified": "叉烧（广式烤猪肉）",
+    "chinese_traditional": "叉燒（廣式烤豬肉）",
+    "tamil": "சார் சியூ (பன்றி பார்பிக்யூ)",
+    "romanized_local": "Chā shāo"
+  },
+  "aliases": [
+    "char siu",
+    "Chinese BBQ pork",
+    "Cantonese roast pork",
+    "red roast pork",
+    "sweet roast pork"
+  ],
+  "cuisine": "Chinese",
+  "region_of_origin": "China (Guangdong / Cantonese)",
+  "food_group": "Meat and alternatives",
+  "food_subgroup": "Barbecued marinated pork (Cantonese style)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Char Siu. Nearest parent is a roasted or grilled pork product. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XS",
+    "foodex2_description": "Grilled/roasted meat dishes — marinated roast pork (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "roasted",
+      "barbecued"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "pork neck (collar) or pork tenderloin",
+      "honey",
+      "hoisin sauce",
+      "soy sauce",
+      "oyster sauce",
+      "Chinese five-spice powder",
+      "red food colouring or red yeast rice",
+      "sugar",
+      "cooking wine"
+    ],
+    "allergens": [
+      "soy",
+      "sesame"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 serving (sliced, standard hawker portion)",
+    "size_g": 150,
+    "natural_language_portion": "A typical serving of Char Siu at a Singapore hawker centre or roast meats stall consists of approximately 150g of thinly sliced Cantonese BBQ pork with characteristic caramelised red edges, served over steamed rice or with vegetables."
+  },
+  "nutrient_source": {
+    "title": "Char Siu (BBQ Roast Pork) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB roast pork and Chinese BBQ meat data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Char Siu entry found in HPB Foodo. Values adapted from HPB roast pork and siu mei (roast meats) composition data."
+  },
+  "per_100g": {
+    "energy_kcal": 310.0,
+    "protein_g": 22.5,
+    "fat_g": 18.2,
+    "saturated_fat_g": 6.5,
+    "monounsaturated_fat_g": 7.8,
+    "polyunsaturated_fat_g": 2.5,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 13.5,
+    "sugar_g": 11.2,
+    "dietary_fibre_g": 0.2,
+    "sodium_mg": 682.0,
+    "potassium_mg": 315.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 75.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.55,
+    "vitamin_b2_riboflavin_mg": 0.22,
+    "vitamin_b3_niacin_mg": 5.8,
+    "vitamin_b6_mg": 0.45,
+    "vitamin_b12_mcg": 0.72,
+    "folate_mcg_dfe": 8.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 215.0,
+    "magnesium_mg": 25.0,
+    "zinc_mg": 2.5,
+    "selenium_mcg": 20.0,
+    "water_g": 43.5
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1023mg per 150g serving — about 44% of the 2300mg daily recommended limit for the protein portion alone; combined with rice it forms a high-sodium meal.",
+      "guidance": "Patients with hypertension should limit the char siu portion to 100g and request less marinade sauce; the sweet marinade is high in both sodium and sugar."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "High sugar content from honey and hoisin marinade (~11g sugar/100g); the caramelised surface crust concentrates sugars; however, the protein and fat content modulates the glycaemic impact when served with rice.",
+      "guidance": "Diabetic patients should be aware of the high added sugar in the char siu marinade; request reduced sauce drizzle and limit portion to 100–120g to manage sugar intake."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Pork provides good B vitamins and zinc; however, the high processed sugar content and roasting at high temperature creates advanced glycation end products (AGEs) which are pro-inflammatory.",
+      "guidance": "Patients with rheumatoid arthritis should consume char siu occasionally; the high-heat caramelisation creates AGEs that can promote inflammation, though the pork protein provides beneficial micronutrients including zinc and vitamin B12."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Char Siu is a Cantonese Chinese BBQ pork preparation of pork neck or tenderloin marinated in a sweet-savoury glaze of hoisin sauce, honey, soy sauce, oyster sauce, five-spice powder, and sugar, then roasted in a traditional oven on long skewers (叉, 'fork') at high heat until caramelised and lacquered with a distinctive sticky, reddish-brown coating. It is a staple of siu mei (roast meats) shops across Singapore and Hong Kong, served sliced over rice with blanched vegetables and sweet gravy. It is also a key ingredient in Wonton Mee, BBQ pork buns, and many other Cantonese dishes.",
+    "common_user_queries": [
+      "how many calories in char siu",
+      "is char siu healthy",
+      "char siu sugar content",
+      "is char siu halal",
+      "char siu protein content",
+      "char siu vs roast duck which is healthier",
+      "how much sodium in char siu"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "siu mei shop",
+      "lunch",
+      "dinner",
+      "Cantonese restaurant"
+    ],
+    "ingredient_synonyms": {
+      "char siu": [
+        "charsiew",
+        "chāoshāo",
+        "叉燒",
+        "Cantonese BBQ pork",
+        "Chinese roast pork red"
+      ],
+      "hoisin sauce": [
+        "sweet bean paste",
+        "海鲜酱",
+        "plum sauce (related)"
+      ],
+      "five-spice": [
+        "ngoh hiang powder",
+        "五香粉",
+        "Chinese five-spice blend"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Char Siu entry found in HPB Foodo. Values adapted from HPB roast pork and siu mei composition data. Confidence medium.",
+  "notes": "Not halal due to pork. Halal chicken char siu versions exist and have lower fat but similar sugar content. The distinctive red colour from red food colouring or red yeast rice adds no measurable nutritional value. Thiamine (B1) content is notably high from pork, making char siu a good source of vitamin B1."
+}

@@ -1,0 +1,177 @@
+{
+  "food_name": "Yong Tau Foo (steamed, clear soup)",
+  "local_names": {
+    "malay": "Yong Tau Foo",
+    "chinese_simplified": "酿豆腐",
+    "chinese_traditional": "釀豆腐",
+    "tamil": "யோங் டவ் ஃபூ",
+    "romanized_local": "Yǒng dòu fǔ"
+  },
+  "aliases": [
+    "yong tow foo",
+    "yong tau fu",
+    "stuffed tofu",
+    "Hakka stuffed tofu",
+    "yong tau fu clear soup"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Steamed fish-paste stuffed vegetables and tofu in clear broth",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Yong Tau Foo. Nearest parent would be a stuffed tofu or fish paste dish. A new FoodOn concept is recommended for this Hakka-origin Singapore dish.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Mixed vegetable and tofu dishes with fish paste (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "boiled",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "tofu (firm and soft)",
+      "fish paste (mackerel or pollock-based)",
+      "bitter gourd",
+      "brinjal (eggplant)",
+      "chilli",
+      "lady's fingers (okra)",
+      "fish ball",
+      "rice vermicelli or laksa noodles"
+    ],
+    "allergens": [
+      "fish",
+      "soy",
+      "gluten (in some items)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (8–10 items + broth)",
+    "size_g": 500,
+    "natural_language_portion": "A typical bowl of Yong Tau Foo at a Singapore hawker centre weighs approximately 500g and consists of 8 to 10 self-selected items — typically a mix of tofu, stuffed bitter gourd, stuffed brinjal, stuffed chilli, fish balls, fish cakes, and various vegetables — served in a clear anchovy or pork-based broth over noodles or rice."
+  },
+  "nutrient_source": {
+    "title": "Yong Tau Foo (steamed, clear soup) — HPB Singapore Foodo Database; no exact code; values estimated from HPB fish paste, tofu, and vegetable component data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "estimated",
+    "source_match_notes": "No single YTF entry found in HPB Foodo. Values estimated from HPB component data: fish paste products (~85 kcal/100g), tofu (~80 kcal/100g), vegetables (~25 kcal/100g), and clear broth (~10 kcal/100g), weighted by approximate serving composition."
+  },
+  "per_100g": {
+    "energy_kcal": 74.0,
+    "protein_g": 7.4,
+    "fat_g": 2.7,
+    "saturated_fat_g": 0.7,
+    "monounsaturated_fat_g": 0.9,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 6.2,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 348.0,
+    "potassium_mg": 168.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 28.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 35.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.07,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.1,
+    "vitamin_b12_mcg": 0.88,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.8,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 95.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 12.0,
+    "water_g": 80.0
+  },
+  "glycemic_index": 40,
+  "glycemic_load_per_serving": 12.4,
+  "gi_source": "University of Sydney GI Database — rice noodles / vermicelli; low GI estimated due to high proportion of vegetables, tofu, and fish paste relative to noodles.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1740mg per bowl (500g) — about 76% of daily recommended limit, driven primarily by the broth and the dipping sauces served alongside.",
+      "guidance": "Patients with hypertension should avoid drinking the broth and request reduced or no sweet sauce and chilli, significantly lowering sodium intake while retaining the high protein and vegetable benefits."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low GI (~40) and low glycaemic load per serving (~12); high protein from fish paste and tofu moderates the postprandial glucose response; vegetables add fibre.",
+      "guidance": "Yong Tau Foo is one of the most diabetes-friendly hawker options available; patients should select items heavy in tofu and vegetables, limit the noodle base, and avoid the sweet thick sauce topping."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Low fat content, high protein from fish paste (containing omega-3 fatty acids), and abundant vegetables make this one of the most anti-inflammatory hawker options.",
+      "guidance": "Yong Tau Foo in clear soup is an excellent meal choice for patients with rheumatoid arthritis; the fish paste provides omega-3 fatty acids and the diverse vegetable selection delivers antioxidants and anti-inflammatory phytonutrients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Yong Tau Foo is a Singapore Chinese hawker dish of Hakka origin consisting of tofu, vegetables (bitter gourd, brinjal, chilli, ladies fingers), fish cakes, and other items stuffed with or coated in a savoury fish paste, then steamed, boiled, or fried. At Singapore hawker stalls, diners self-select 8–10 items from a display, which are served in a clear, light anchovy or pork broth over noodles or rice. The dish is known for being one of the most balanced and nutritious hawker options, with high protein, abundant vegetables, and relatively low fat content.",
+    "common_user_queries": [
+      "how many calories in yong tau foo",
+      "is yong tau foo healthy",
+      "is yong tau foo halal",
+      "can a diabetic eat yong tau foo",
+      "yong tau foo sodium content",
+      "yong tau foo vs laksa which is healthier",
+      "how many calories in each yong tau foo item"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "food court",
+      "healthy eating"
+    ],
+    "ingredient_synonyms": {
+      "fish paste": [
+        "fish surimi",
+        "fish ball paste",
+        "yu zhu",
+        "ikan paste"
+      ],
+      "bitter gourd": [
+        "bitter melon",
+        "bittergourd",
+        "peria katak",
+        "苦瓜",
+        "ampalaya"
+      ],
+      "brinjal": [
+        "eggplant",
+        "aubergine",
+        "terong",
+        "茄子"
+      ],
+      "ladies fingers": [
+        "okra",
+        "bhindi",
+        "bendi",
+        "秋葵"
+      ]
+    }
+  },
+  "confidence": "low",
+  "confidence_reason": "No exact Yong Tau Foo entry found in any primary database. Values estimated from component analysis using HPB fish paste, tofu, and vegetable data. Confidence is low due to high variability in item selection.",
+  "notes": "Nutritional content is highly variable depending on individual item selection. Deep-fried YTF items (e.g., fried fish cake, fried wonton) will significantly increase fat and calorie content. The sweet black sauce topping adds approximately 60–80 kcal of sugar. The clear soup version is significantly lower in calories than the laksa-based version."
+}

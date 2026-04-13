@@ -1,0 +1,166 @@
+{
+  "food_name": "Masala Dosa (with potato masala filling)",
+  "local_names": {
+    "malay": "Masala Dosa",
+    "chinese_simplified": "马萨拉多萨（印度烙饼配薯仔馅）",
+    "chinese_traditional": "馬薩拉多薩（印度烙餅配薯仔餡）",
+    "tamil": "மசாலா தோசை",
+    "romanized_local": "Masala dosai"
+  },
+  "aliases": [
+    "masala dosa",
+    "masala dosai",
+    "stuffed dosa",
+    "potato-filled dosa",
+    "South Indian crepe with potato filling"
+  ],
+  "cuisine": "South Indian",
+  "region_of_origin": "India (Karnataka / Tamil Nadu)",
+  "food_group": "Mixed",
+  "food_subgroup": "Fermented rice and lentil crepe with spiced potato filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Masala Dosa. Nearest parent is a fermented rice pancake or South Indian crepe. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01XS",
+    "foodex2_description": "Fermented grain products — fermented rice and lentil pancake (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fermented",
+      "griddled",
+      "pan-fried"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "rice (soaked, fermented)",
+      "urad dal (black lentils, fermented)",
+      "potato (boiled, spiced — masala filling)",
+      "onion",
+      "mustard seeds",
+      "turmeric",
+      "curry leaves",
+      "green chilli",
+      "oil"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece (with filling)",
+    "size_g": 280,
+    "natural_language_portion": "A typical Masala Dosa served at a Singapore Indian restaurant or mamak stall weighs approximately 280g and consists of a large, thin, crisp fermented rice and lentil crepe (approximately 180g) rolled around or filled with a spiced mashed potato and onion filling (~100g), served with coconut chutney and sambar."
+  },
+  "nutrient_source": {
+    "title": "Masala Dosa — ICMR-NIN Nutritive Value of Indian Foods, Food Code EI000039",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in ICMR-NIN under food code EI000039 — Masala Dosa, standard South Indian preparation with potato masala filling."
+  },
+  "per_100g": {
+    "energy_kcal": 166.0,
+    "protein_g": 4.6,
+    "fat_g": 6.8,
+    "saturated_fat_g": 0.8,
+    "monounsaturated_fat_g": 3.5,
+    "polyunsaturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 22.8,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 1.8,
+    "sodium_mg": 278.0,
+    "potassium_mg": 265.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 7.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.8,
+    "vitamin_b6_mg": 0.22,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 82.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 5.0,
+    "water_g": 63.5
+  },
+  "glycemic_index": 66,
+  "glycemic_load_per_serving": 42.1,
+  "gi_source": "University of Sydney GI Database — dosa (fermented rice and lentil pancake); GI elevated by the starchy rice base despite fermentation.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 778mg per serving (280g) — about 34% of the 2300mg daily recommended limit; one of the lower-sodium Indian hawker dishes.",
+      "guidance": "Patients with hypertension may consume Masala Dosa regularly; the coconut chutney and sambar served alongside are the main sodium sources and can be consumed in moderation."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Fermented rice base has a high GI (~66) despite fermentation; per-serving glycaemic load of approximately 42 is significant; potato filling adds further starchy carbohydrates.",
+      "guidance": "Diabetic patients should consume Masala Dosa in moderation and pair it with a high-fibre sambar; the fermentation process improves digestibility but does not substantially lower the GI of the rice-based dosa."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Completely vegan and dairy-free; turmeric and mustard seeds in the potato filling provide anti-inflammatory compounds; fermented dosa batter improves gut microbiome diversity.",
+      "guidance": "Masala Dosa is an excellent choice for patients with rheumatoid arthritis; it is entirely plant-based with anti-inflammatory spices, and the fermented batter may support gut health which is linked to immune regulation."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Masala Dosa is a classic South Indian dish of a large, paper-thin, crisply golden fermented rice and urad dal crepe wrapped around a spiced potato masala filling of boiled potatoes seasoned with mustard seeds, turmeric, curry leaves, and green chilli. The batter is made by soaking and grinding rice and urad dal, then fermenting the mixture overnight to develop its characteristic slightly sour flavour and the crisp, porous texture when cooked on a hot griddle. It is served with coconut chutney and sambar (lentil vegetable soup). It is one of the most popular breakfast and light meal dishes at South Indian and Tamil restaurants in Singapore.",
+    "common_user_queries": [
+      "how many calories in masala dosa",
+      "is masala dosa healthy",
+      "is masala dosa vegan",
+      "is masala dosa halal",
+      "can a diabetic eat masala dosa",
+      "masala dosa vs plain dosa calories",
+      "is dosa good for weight loss"
+    ],
+    "meal_context": [
+      "South Indian restaurant",
+      "mamak",
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "ingredient_synonyms": {
+      "dosa": [
+        "dosai",
+        "thosai",
+        "South Indian crepe",
+        "rice pancake (fermented)"
+      ],
+      "urad dal": [
+        "black gram lentils",
+        "split black lentils (white when husked)",
+        "ulundu"
+      ],
+      "masala filling": [
+        "aloo masala",
+        "potato curry filling",
+        "saag aloo (related)",
+        "potato sabzi"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under food code EI000039 — Masala Dosa, standard South Indian preparation.",
+  "notes": "Fully vegan and dairy-free in the standard preparation (no ghee used). Cholesterol and vitamin B12 are 0.0 as there are no animal products. Versions with ghee (butter) on the dosa will have higher saturated fat. The sambar accompaniment adds approximately 30–40 kcal and significant potassium, folate, and fibre when consumed."
+}

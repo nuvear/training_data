@@ -1,0 +1,178 @@
+{
+  "food_name": "Pad Thai (with shrimp, bean sprouts)",
+  "local_names": {
+    "malay": "Pad Thai (dengan udang dan tauge)",
+    "chinese_simplified": "泰式炒米粉（加虾和豆芽）",
+    "chinese_traditional": "泰式炒米粉（加蝦和豆芽）",
+    "tamil": "பாட் தாய் (இறால் மற்றும் பீன் ஸ்பிரவுட்)",
+    "romanized_local": "Phad thai"
+  },
+  "aliases": [
+    "phad thai",
+    "pad thai",
+    "Thai stir-fried noodles",
+    "Thai fried rice noodles with shrimp",
+    "pad thai prawns"
+  ],
+  "cuisine": "Thai",
+  "region_of_origin": "Thailand",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried rice noodles with shrimp, egg, and peanuts",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Pad Thai. Nearest parent is a stir-fried rice noodle dish. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — stir-fried rice noodles with seafood and egg (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "rice vermicelli or flat rice noodles",
+      "shrimp (prawns)",
+      "egg",
+      "bean sprouts",
+      "firm tofu (fried)",
+      "tamarind paste",
+      "fish sauce",
+      "palm sugar",
+      "dried shrimp",
+      "roasted peanuts",
+      "spring onion"
+    ],
+    "allergens": [
+      "crustaceans",
+      "eggs",
+      "fish",
+      "soy",
+      "peanuts"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 350,
+    "natural_language_portion": "A typical plate of Pad Thai at a Thai restaurant or hawker stall in Singapore weighs approximately 350g and consists of rice noodles stir-fried with prawns, scrambled egg, bean sprouts, and fried tofu, seasoned with tamarind, fish sauce, and palm sugar, garnished with crushed peanuts, dried shrimp, lime wedges, and fresh spring onion."
+  },
+  "nutrient_source": {
+    "title": "Pad Thai — FAO/INFOODS SEA Food Composition Table; HPB Singapore Foodo Food Code F05060073",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table; Health Promotion Board (HPB), Singapore",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05060073 — Pad Thai, standard preparation. Cross-referenced with FAO/INFOODS SEA Thai food data."
+  },
+  "per_100g": {
+    "energy_kcal": 146.0,
+    "protein_g": 7.5,
+    "fat_g": 5.5,
+    "saturated_fat_g": 1.0,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 1.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 18.8,
+    "sugar_g": 4.5,
+    "dietary_fibre_g": 1.2,
+    "sodium_mg": 478.0,
+    "potassium_mg": 165.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 68.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.08,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.2,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.72,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 1.2,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.0,
+    "selenium_mcg": 14.0,
+    "water_g": 65.5
+  },
+  "glycemic_index": 47,
+  "glycemic_load_per_serving": 30.9,
+  "gi_source": "University of Sydney GI Database — rice noodles, cooked; composite GI estimated. Tamarind and sugar addition may raise GI slightly.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1673mg per serving (350g) — about 73% of the 2300mg daily recommended limit, driven by fish sauce, dried shrimp, and soy seasoning.",
+      "guidance": "Patients with hypertension should request reduced fish sauce in the Pad Thai preparation; the fish sauce is the primary sodium source and can be moderated without significantly altering the dish's flavour profile."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Rice noodles have a low-moderate GI (~47); added palm sugar in the sauce contributes approximately 4.5g sugar per 100g; per-serving glycaemic load of approximately 31 is moderate.",
+      "guidance": "Diabetic patients can consume Pad Thai in moderation; requesting reduced palm sugar in the preparation will lower the glycaemic load; the peanuts and shrimp add protein that helps moderate glucose absorption."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Shrimp provides omega-3 fatty acids; tamarind has antioxidant properties; roasted peanuts add vitamin E and healthy fats.",
+      "guidance": "Pad Thai is an acceptable meal choice for patients with rheumatoid arthritis; the shrimp provides omega-3 fatty acids, and the tamarind-based seasoning has antioxidant properties, making it a relatively anti-inflammatory hawker option."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Pad Thai is Thailand's most internationally recognised noodle dish — thin rice noodles stir-fried in a screaming-hot wok with shrimp, scrambled egg, bean sprouts, and fried tofu, seasoned with a balance of tamarind paste (sour), fish sauce (umami-salty), and palm sugar (sweet), garnished with crushed roasted peanuts, dried shrimp, fresh spring onion, and a lime wedge. Originally promoted as a national dish by the Thai government in the 1930s, it is ubiquitous at Thai restaurants and hawker stalls across Singapore.",
+    "common_user_queries": [
+      "how many calories in pad thai",
+      "is pad thai healthy",
+      "is pad thai gluten free",
+      "pad thai calories per plate",
+      "can a diabetic eat pad thai",
+      "pad thai vs char kway teow which is healthier",
+      "how much sodium in pad thai"
+    ],
+    "meal_context": [
+      "Thai restaurant",
+      "hawker centre",
+      "lunch",
+      "dinner"
+    ],
+    "ingredient_synonyms": {
+      "pad thai": [
+        "phad thai",
+        "phat thai",
+        "Thai fried noodles",
+        "Thai stir-fried rice noodles"
+      ],
+      "tamarind paste": [
+        "assam paste",
+        "imli paste",
+        "ma-khaam",
+        "น้ำมะขาม"
+      ],
+      "palm sugar": [
+        "nam taan peep",
+        "coconut sugar (related)",
+        "gula melaka (related, darker)"
+      ],
+      "fish sauce": [
+        "nam pla",
+        "patis",
+        "nước mắm",
+        "น้ำปลา"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo under food code F05060073 — Pad Thai; cross-referenced with FAO/INFOODS SEA Thai food data.",
+  "notes": "Not halal in traditional Thai preparation due to dried shrimp paste (belacan) used at some stalls. Fish sauce (nam pla) is also not halal-certified by default at many non-certified establishments. Halal certified versions are available at halal Thai restaurants in Singapore. Peanut allergy is a critical concern."
+}

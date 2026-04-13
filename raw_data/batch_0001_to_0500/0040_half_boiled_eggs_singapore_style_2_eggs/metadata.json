@@ -1,0 +1,156 @@
+{
+  "food_name": "Half-Boiled Eggs (Singapore style, 2 eggs)",
+  "local_names": {
+    "malay": "Telur Separuh Masak (2 biji)",
+    "chinese_simplified": "半熟蛋（新加坡式，2粒）",
+    "chinese_traditional": "半熟蛋（新加坡式，2粒）",
+    "tamil": "அரை வேகவைத்த முட்டை (2)",
+    "romanized_local": "Telur separuh masak"
+  },
+  "aliases": [
+    "soft-boiled eggs Singapore",
+    "half-boiled eggs",
+    "soft-cooked eggs",
+    "runny eggs kopitiam",
+    "Singapore half-cooked eggs"
+  ],
+  "cuisine": "Singapore",
+  "region_of_origin": "Singapore",
+  "food_group": "Dairy and eggs",
+  "food_subgroup": "Soft-cooked eggs with soy sauce and white pepper",
+  "ontology": {
+    "foodon_uri": "http://purl.obolibrary.org/obo/FOODON_03301707",
+    "foodon_label": "egg food product",
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has an egg food product concept; the Singapore-style half-boiled egg (runny, in a bowl with soy sauce) is a specific preparation without an exact FoodOn concept. Closest parent used.",
+    "foodex2_code": "A09CB",
+    "foodex2_description": "Eggs — cooked egg, soft-boiled (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "soft-boiled",
+      "half-boiled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chicken egg (2 large eggs)",
+      "dark soy sauce (topping)",
+      "white pepper (topping)"
+    ],
+    "allergens": [
+      "eggs",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 eggs in bowl",
+    "size_g": 130,
+    "natural_language_portion": "A standard Singapore-style half-boiled egg serving consists of 2 large eggs (approximately 130g total) broken into a small bowl while still warm from a boiling water bath, with the whites just barely set and the yolks completely runny and golden, drizzled with a few drops of dark soy sauce and dusted with white pepper."
+  },
+  "nutrient_source": {
+    "title": "Half-Boiled Eggs — HPB Singapore Foodo Database, Food Code G00010236",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code G00010236 — Half-Boiled Eggs, Singapore style, 2 eggs."
+  },
+  "per_100g": {
+    "energy_kcal": 152.0,
+    "protein_g": 11.2,
+    "fat_g": 10.5,
+    "saturated_fat_g": 3.2,
+    "monounsaturated_fat_g": 4.2,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 1.8,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 0.0,
+    "sodium_mg": 128.0,
+    "potassium_mg": 128.0,
+    "calcium_mg": 52.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 365.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 155.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.48,
+    "vitamin_b3_niacin_mg": 0.1,
+    "vitamin_b6_mg": 0.17,
+    "vitamin_b12_mcg": 1.02,
+    "folate_mcg_dfe": 47.0,
+    "vitamin_d_mcg": 2.2,
+    "vitamin_e_mg": 1.1,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 12.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 30.0,
+    "water_g": 74.5
+  },
+  "glycemic_index": 0,
+  "glycemic_load_per_serving": 0.0,
+  "gi_source": "University of Sydney GI Database — eggs have a GI of essentially 0 due to negligible carbohydrate content. The tiny carbohydrate content from dark soy sauce drizzle is negligible.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 166mg per 2-egg serving (including soy sauce drizzle) — about 7% of the 2300mg daily recommended limit; eggs themselves are low in sodium.",
+      "guidance": "Patients with hypertension may consume half-boiled eggs regularly; the soy sauce drizzle is the primary sodium source and can be omitted or minimised without affecting the nutritional value of the eggs."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Essentially zero glycaemic index; high protein and fat content with no carbohydrates from the eggs themselves; one of the most diabetes-friendly breakfast items available.",
+      "guidance": "Half-boiled eggs are an excellent breakfast choice for diabetic patients, providing high-quality protein, healthy fats, and zero glycaemic load; the protein and fat content helps moderate the glycaemic impact of accompanying carbohydrates like kaya toast."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Eggs are a complete protein source with exceptional selenium (30mcg/100g), vitamin D (2.2mcg/100g), and vitamin B12; all three are clinically relevant for immune function and anti-inflammatory pathways in RA.",
+      "guidance": "Half-boiled eggs are one of the most nutritionally valuable foods for patients with rheumatoid arthritis; the selenium, vitamin D, vitamin B12, and omega-3 fatty acids in egg yolk all support immune regulation and reduce inflammatory burden."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore-style half-boiled eggs are a kopitiam (coffee shop) institution — two fresh eggs lowered into a closed container of just-boiled water for exactly 7–10 minutes, producing whites that are just barely set and opaque while the yolks remain completely liquid and rich. The eggs are broken into a small bowl and consumed immediately, seasoned with a few drops of dark soy sauce and a generous pinch of white pepper. They are always served as part of the Kaya Toast Set and are one of the simplest, most nutritionally complete foods in Singapore's hawker culture.",
+    "common_user_queries": [
+      "how many calories in half-boiled eggs",
+      "are half-boiled eggs healthy",
+      "how many eggs can I eat per day",
+      "is it safe to eat half-boiled eggs",
+      "half-boiled eggs cholesterol content",
+      "half-boiled eggs protein content",
+      "half-boiled eggs vs hard-boiled eggs nutrition"
+    ],
+    "meal_context": [
+      "kopitiam",
+      "breakfast",
+      "kaya toast set",
+      "morning meal"
+    ],
+    "ingredient_synonyms": {
+      "half-boiled eggs": [
+        "soft-boiled eggs",
+        "runny eggs",
+        "telur separuh masak",
+        "3-minute eggs"
+      ],
+      "dark soy sauce": [
+        "thick soy sauce",
+        "老抽 (lao chou)",
+        "黑豉油",
+        "sweet dark soy"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code G00010236 — Half-Boiled Eggs, Singapore style, 2 eggs.",
+  "notes": "Cholesterol content is notably high (365mg/100g for eggs), providing approximately 475mg per 2-egg serving. Current dietary guidelines (2020 Dietary Guidelines) do not set an upper limit for dietary cholesterol for most healthy adults; however, patients with hypercholesterolaemia should discuss egg consumption with their clinician. Selenium content (30mcg/100g) makes eggs one of the best dietary sources of selenium in the Singapore diet."
+}

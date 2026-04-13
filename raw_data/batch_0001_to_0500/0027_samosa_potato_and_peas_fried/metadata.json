@@ -1,0 +1,169 @@
+{
+  "food_name": "Samosa (potato and peas, fried)",
+  "local_names": {
+    "malay": "Samosa (kentang dan peas, goreng)",
+    "chinese_simplified": "萨摩萨炸角（马铃薯豌豆馅）",
+    "chinese_traditional": "薩摩薩炸角（馬鈴薯豌豆餡）",
+    "tamil": "சமோசா (உருளைக்கிழங்கு மற்றும் பட்டாணி, வறுத்தது)",
+    "romanized_local": "Samosa"
+  },
+  "aliases": [
+    "samosa",
+    "samoosa",
+    "potato samosa",
+    "fried samosa",
+    "Indian fried pastry",
+    "aloo samosa"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India / Central Asia",
+  "food_group": "Snacks",
+  "food_subgroup": "Deep-fried wheat pastry with spiced potato and pea filling",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Samosa. Nearest parent is a fried filled pastry or deep-fried dumpling. A new FoodOn concept is recommended.",
+    "foodex2_code": "A01VH",
+    "foodex2_description": "Pastry products — deep-fried wheat pastry with vegetable filling (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "deep-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "wheat flour (pastry)",
+      "potato (mashed, spiced)",
+      "green peas",
+      "onion",
+      "cumin seeds",
+      "coriander",
+      "garam masala",
+      "green chilli",
+      "ginger",
+      "cooking oil (for frying)"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": true,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "2 pieces",
+    "size_g": 150,
+    "natural_language_portion": "A typical serving of 2 samosas weighs approximately 150g and consists of two triangular deep-fried pastry cones filled with a spiced mashed potato and pea mixture, served with tamarind chutney and mint-coriander chutney for dipping."
+  },
+  "nutrient_source": {
+    "title": "Samosa (potato, peas) — ICMR-NIN Nutritive Value of Indian Foods, Food Code F05020106",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in ICMR-NIN under food code F05020106 — Samosa (aloo), fried, standard Indian preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 265.0,
+    "protein_g": 5.8,
+    "fat_g": 14.2,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 5.8,
+    "polyunsaturated_fat_g": 5.5,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 30.5,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 2.8,
+    "sodium_mg": 318.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 8.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.18,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 2.2,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 28.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 2.5,
+    "phosphorus_mg": 82.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 4.5,
+    "water_g": 46.0
+  },
+  "glycemic_index": 65,
+  "glycemic_load_per_serving": 29.2,
+  "gi_source": "University of Sydney GI Database — fried wheat flour pastry with potato filling; GI estimated from refined wheat and potato components.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 477mg per 2-piece serving (150g) — about 21% of the 2300mg daily recommended limit; relatively low-sodium for a fried snack.",
+      "guidance": "Patients with hypertension may consume samosas occasionally; the tamarind and mint chutneys served alongside are additional sodium sources that should be used sparingly."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Refined wheat flour pastry has a high GI (~65); potato filling adds high GI starch; per-serving glycaemic load of approximately 29 is significant for a snack-sized portion.",
+      "guidance": "Diabetic patients should limit samosa consumption to an occasional treat, preferring baked over deep-fried versions, and pairing with a protein-rich accompaniment to moderate the glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Deep-frying creates pro-inflammatory compounds (acrylamide, advanced glycation end products); refined wheat is pro-inflammatory at high consumption; however, cumin and coriander provide anti-inflammatory phytocompounds.",
+      "guidance": "Patients with rheumatoid arthritis should limit fried samosa consumption; baked samosas are a preferable alternative, and the anti-inflammatory spices in the filling provide modest benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Samosa is a classic Indian fried snack of a triangular wheat flour pastry shell filled with a spiced mashed potato and pea mixture seasoned with cumin, coriander, garam masala, and green chilli, then deep-fried until golden and crisp. It is typically served with sweet tamarind chutney and fresh mint-coriander chutney. Samosas are vegetarian and vegan in the standard aloo (potato) preparation, and are widely available at Indian restaurants, mamak stalls, and bakeries across Singapore as a popular snack at all times of day.",
+    "common_user_queries": [
+      "how many calories in a samosa",
+      "is samosa healthy",
+      "is samosa vegan",
+      "is samosa halal",
+      "baked vs fried samosa calories",
+      "can a diabetic eat samosa",
+      "samosa fat content"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "mamak",
+      "snack",
+      "teatime",
+      "appetiser",
+      "Deepavali"
+    ],
+    "ingredient_synonyms": {
+      "samosa": [
+        "samoosa",
+        "aloo samosa",
+        "potato samosa",
+        "sambusa (related)"
+      ],
+      "green peas": [
+        "matar",
+        "petai hijau (different)",
+        "garden peas",
+        "fresh peas"
+      ],
+      "tamarind chutney": [
+        "imli chutney",
+        "sweet chutney",
+        "date tamarind sauce"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in ICMR-NIN under food code F05020106 — Samosa (aloo), fried, standard Indian preparation.",
+  "notes": "The standard potato-pea samosa is vegetarian and vegan (no dairy in the dough in the standard recipe). Cholesterol is 0.0g as this is a vegan dish. Vitamin B12 is 0.0 (no animal products). Meat samosas (chicken or lamb) will have significantly different nutritional profiles. Chutney accompaniments are not included in the per_100g values."
+}

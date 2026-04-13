@@ -1,0 +1,180 @@
+{
+  "food_name": "Prawn Noodle Soup (Hokkien Prawn Mee)",
+  "local_names": {
+    "malay": "Mi Udang",
+    "chinese_simplified": "虾面汤",
+    "chinese_traditional": "蝦麵湯",
+    "tamil": "இறால் நூடுல் சூப்",
+    "romanized_local": "Hae mee (Hokkien)"
+  },
+  "aliases": [
+    "hae mee",
+    "prawn mee soup",
+    "Hokkien prawn mee",
+    "prawn noodles",
+    "har meen",
+    "Singapore prawn noodle soup"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Prawn and pork rib broth noodle soup",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Singapore Prawn Noodle Soup. Nearest parent is a mixed noodle soup concept. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle soup dishes — prawn and pork broth noodle soup (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "assembled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "yellow egg noodles",
+      "rice vermicelli",
+      "prawns (fresh)",
+      "pork spare ribs",
+      "pork belly slices",
+      "bean sprouts",
+      "kangkung (water spinach)",
+      "crispy shallots",
+      "sambal belacan",
+      "prawn stock"
+    ],
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 560,
+    "natural_language_portion": "A typical bowl of Singapore Prawn Noodle Soup weighs approximately 560g and consists of yellow egg noodles and rice vermicelli in a rich sweet prawn and pork rib stock, topped with fresh prawns, pork ribs, thin pork belly slices, half-boiled egg, bean sprouts, and kangkung, garnished with crispy fried shallots and served with sambal belacan on the side."
+  },
+  "nutrient_source": {
+    "title": "Prawn Noodle Soup — HPB Singapore Foodo Database; no exact code found; values adapted from HPB prawn noodle and hae mee composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Prawn Noodle Soup entry found in HPB Foodo under a distinct food code. Values adapted from HPB prawn-based noodle soup component data and prawn stock analysis."
+  },
+  "per_100g": {
+    "energy_kcal": 117.0,
+    "protein_g": 7.3,
+    "fat_g": 3.9,
+    "saturated_fat_g": 1.3,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 0.8,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 14.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 575.0,
+    "potassium_mg": 175.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 65.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 28.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.5,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.85,
+    "folate_mcg_dfe": 20.0,
+    "vitamin_d_mcg": 0.3,
+    "vitamin_e_mg": 0.6,
+    "phosphorus_mg": 118.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 18.0,
+    "water_g": 71.0
+  },
+  "glycemic_index": 51,
+  "glycemic_load_per_serving": 41.6,
+  "gi_source": "University of Sydney GI Database — mixed noodles (egg noodles + rice vermicelli); composite GI estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 3220mg per bowl (560g) — significantly exceeding the 2300mg daily recommended limit, driven by the long-simmered prawn and pork broth.",
+      "guidance": "Patients with hypertension should avoid finishing the broth and request reduced sambal belacan; consuming only the noodles and toppings while leaving most of the broth will substantially reduce sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Mixed noodle base has a moderate GI (~51); the large bowl serving size means a moderate-high carbohydrate load of approximately 81g.",
+      "guidance": "Diabetic patients should request a half-portion of noodles and additional kangkung, and consider the pork ribs and prawns as the primary nutritional focus rather than the noodle base."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Prawns provide omega-3 fatty acids; kangkung adds anti-inflammatory antioxidants; pork rib protein supports muscle maintenance.",
+      "guidance": "Prawn Noodle Soup is a suitable meal for patients with rheumatoid arthritis; the prawn and pork protein content is beneficial, and patients should focus on the solid ingredients while limiting the high-sodium broth."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Singapore Prawn Noodle Soup (Hae Mee) is a hawker classic of yellow egg noodles and rice vermicelli served in a deeply flavourful prawn and pork rib stock that has been simmered for hours with prawn shells, lemongrass, and spices to develop an intensely sweet, umami-rich broth. The bowl is topped with fresh whole prawns, fork-tender pork ribs, thin pork belly slices, half a hard-boiled egg, blanched bean sprouts and kangkung, and crispy fried shallots, with a side of house-made sambal belacan. It is one of Singapore's most enduring hawker dishes, associated with early morning queues and long-established family stalls.",
+    "common_user_queries": [
+      "how many calories in prawn noodle soup",
+      "is prawn mee healthy",
+      "can a diabetic eat prawn noodles",
+      "is prawn noodle soup halal",
+      "how much sodium in prawn noodle soup",
+      "hae mee dry vs soup which is healthier",
+      "prawn mee protein content"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "prawns": [
+        "shrimp",
+        "udang",
+        "虾",
+        "fresh prawns",
+        "sea prawns"
+      ],
+      "kangkung": [
+        "water spinach",
+        "morning glory",
+        "swamp cabbage",
+        "water morning glory",
+        "空心菜",
+        "ong choy"
+      ],
+      "sambal belacan": [
+        "shrimp paste chilli",
+        "sambal",
+        "belacan chilli paste"
+      ],
+      "crispy shallots": [
+        "fried shallots",
+        "bawang goreng",
+        "fried onion flakes"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Prawn Noodle Soup entry found in HPB Foodo. Values adapted from HPB component analysis. Confidence medium.",
+  "notes": "Not halal due to pork ribs and pork belly. Halal prawn mee with chicken substitutes exists. Sodium from broth is very high — the broth alone accounts for the majority of sodium. A dry (gon lo) version with less broth would be lower in sodium."
+}

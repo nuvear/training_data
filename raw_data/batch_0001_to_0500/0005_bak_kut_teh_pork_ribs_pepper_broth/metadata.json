@@ -1,0 +1,172 @@
+{
+  "food_name": "Bak Kut Teh (pork ribs, pepper broth)",
+  "local_names": {
+    "malay": "Sup Tulang Babi",
+    "chinese_simplified": "肉骨茶",
+    "chinese_traditional": "肉骨茶",
+    "tamil": "பாக் குட் தே",
+    "romanized_local": "Bak kut teh (Hokkien: 肉骨茶)"
+  },
+  "aliases": [
+    "BKT",
+    "pork rib soup",
+    "pork bone tea",
+    "pepper pork rib soup",
+    "Singapore bak kut teh",
+    "Teochew bak kut teh"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Pork rib soup (clear, peppery broth)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Bak Kut Teh. Nearest parent would be a pork rib soup or braised pork dish concept. A new FoodOn term is recommended for this Singapore-Chinese dish.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Meat-based soups — pork rib broth with spices (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "braised"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "pork spare ribs",
+      "white pepper",
+      "garlic",
+      "soy sauce",
+      "dark soy sauce",
+      "five-spice (trace)",
+      "tofu puffs (optional)",
+      "mushrooms (optional)"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 claypot serving (ribs + broth)",
+    "size_g": 500,
+    "natural_language_portion": "A typical Singapore Bak Kut Teh serving in a claypot weighs approximately 500g and consists of tender pork spare ribs slow-cooked for over an hour in a clear, intensely peppery broth seasoned with garlic, soy sauce, and white pepper, served alongside steamed white rice and you tiao (dough fritters) for dipping."
+  },
+  "nutrient_source": {
+    "title": "Bak Kut Teh — HPB Singapore Foodo Database (estimated from pork rib soup entry); no exact food code exists; values derived from HPB pork rib soup data and composition analysis",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Bak Kut Teh entry in HPB Foodo at time of research. Values are adapted from HPB pork rib soup and simmered pork preparation data. Confidence is medium due to reliance on component estimation."
+  },
+  "per_100g": {
+    "energy_kcal": 94.0,
+    "protein_g": 12.2,
+    "fat_g": 4.5,
+    "saturated_fat_g": 1.6,
+    "monounsaturated_fat_g": 1.9,
+    "polyunsaturated_fat_g": 0.7,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 1.5,
+    "sugar_g": 0.4,
+    "dietary_fibre_g": 0.1,
+    "sodium_mg": 608.0,
+    "potassium_mg": 210.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 48.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 4.0,
+    "vitamin_b1_thiamine_mg": 0.22,
+    "vitamin_b2_riboflavin_mg": 0.14,
+    "vitamin_b3_niacin_mg": 4.5,
+    "vitamin_b6_mg": 0.35,
+    "vitamin_b12_mcg": 0.68,
+    "folate_mcg_dfe": 5.0,
+    "vitamin_d_mcg": 0.3,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 145.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 2.2,
+    "selenium_mcg": 18.0,
+    "water_g": 80.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 3040mg per serving (500g) — significantly exceeding the 2300mg daily recommended limit, driven by soy sauce seasoning and long-simmered broth.",
+      "guidance": "Patients with hypertension should limit Bak Kut Teh consumption and avoid drinking the broth, requesting reduced soy seasoning and relying on the lean pork rib meat only."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Minimal carbohydrate content in the soup itself (~1.5g per 100g); the rice served alongside is the primary glycaemic driver.",
+      "guidance": "The Bak Kut Teh soup and pork ribs themselves have minimal carbohydrate impact; diabetic patients should manage portion size of the accompanying steamed rice and avoid you tiao (dough fritters)."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "White pepper and garlic in the broth contain anti-inflammatory phytocompounds; lean pork rib meat provides high-quality protein to support muscle maintenance.",
+      "guidance": "Bak Kut Teh is a relatively suitable meal for patients with rheumatoid arthritis due to its lean pork protein and anti-inflammatory spice profile; sodium from soy seasoning should be managed."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bak Kut Teh (literally 'meat bone tea') is a Singapore and Malaysian Chinese dish of pork spare ribs slow-simmered in a clear, intensely peppery and garlicky broth for several hours until the meat is fall-off-the-bone tender. The Singapore (Teochew) version is distinguished by its pale, peppery clear broth, contrasting with the darker, herb-rich Klang (Cantonese) variety popular in Malaysia. It is traditionally consumed as a breakfast dish by early-rising labourers but is now equally popular for lunch, dinner, and supper, typically accompanied by steamed white rice, you tiao (dough fritters) for dipping, and a pot of strong oolong or puer tea.",
+    "common_user_queries": [
+      "how many calories in bak kut teh",
+      "is bak kut teh healthy",
+      "can a diabetic eat bak kut teh",
+      "is bak kut teh high in sodium",
+      "bak kut teh protein content",
+      "is bak kut teh good for joint pain",
+      "Singapore vs Klang bak kut teh difference"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "supper",
+      "Chinese restaurant",
+      "morning tea"
+    ],
+    "ingredient_synonyms": {
+      "pork spare ribs": [
+        "pork ribs",
+        "babi tulang",
+        "猪排骨",
+        "pork back ribs",
+        "pork rib rack"
+      ],
+      "white pepper": [
+        "lada putih",
+        "白胡椒",
+        "Sarawak white pepper"
+      ],
+      "you tiao": [
+        "dough fritters",
+        "Chinese crullers",
+        "油条",
+        "yau char kwai",
+        "fried dough sticks"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Bak Kut Teh entry found in HPB Singapore Foodo or other primary databases at time of research. Values adapted from HPB pork rib soup and simmered pork data with component estimation.",
+  "notes": "Sodium content is highly variable and depends significantly on the amount of soy sauce and salt added during cooking. The Klang (Cantonese) herbal variety will have additional trace minerals from herbs. Confidence upgraded to medium pending exact HPB entry confirmation. Recommend verifying against HPB Foodo if a specific BKT entry is subsequently added."
+}

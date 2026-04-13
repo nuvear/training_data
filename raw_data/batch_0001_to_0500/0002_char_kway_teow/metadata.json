@@ -1,0 +1,181 @@
+{
+  "food_name": "Char Kway Teow",
+  "local_names": {
+    "malay": "Char Kway Teow",
+    "chinese_simplified": "炒粿条",
+    "chinese_traditional": "炒粿條",
+    "tamil": "சார் குவே தியாவ்",
+    "romanized_local": "Cháo guǒ tiáo"
+  },
+  "aliases": [
+    "CKT",
+    "fried flat rice noodles",
+    "char kuay teow",
+    "char koay teow",
+    "stir-fried rice noodles",
+    "fried kway teow"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Stir-fried noodle dish with seafood and egg",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn does not have a specific concept for Char Kway Teow. Nearest parent is a stir-fried noodle dish concept. A new concept proposal covering this Singapore-Chinese hawker staple is warranted.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — stir-fried mixed noodle dish (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "stir-fried",
+      "wok-fried"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "flat rice noodles (kway teow)",
+      "Chinese sausage (lap cheong)",
+      "cockles",
+      "shrimp",
+      "bean sprouts",
+      "eggs",
+      "dark soy sauce",
+      "lard or cooking oil",
+      "chives (garlic chives)"
+    ],
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "eggs",
+      "soy",
+      "fish",
+      "molluscs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 350,
+    "natural_language_portion": "A typical plate of Char Kway Teow served at a Singapore hawker centre weighs approximately 350g and consists of flat rice noodles stir-fried with cockles, shrimp, Chinese sausage, bean sprouts, garlic chives, egg, and a seasoning of dark soy sauce, often cooked in lard for characteristic smoky wok hei flavour."
+  },
+  "nutrient_source": {
+    "title": "Char Kway Teow — HPB Singapore Foodo Database, Food Code F05060005",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code F05060005 — Char Kway Teow, standard hawker preparation including cockles and Chinese sausage."
+  },
+  "per_100g": {
+    "energy_kcal": 154.0,
+    "protein_g": 6.8,
+    "fat_g": 7.2,
+    "saturated_fat_g": 2.5,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 1.4,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 17.0,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 528.0,
+    "potassium_mg": 128.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 2.8,
+    "cholesterol_mg": 78.0,
+    "vitamin_c_mg": 3.2,
+    "vitamin_a_mcg_rae": 32.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.09,
+    "vitamin_b3_niacin_mg": 1.8,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.85,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.4,
+    "vitamin_e_mg": 0.6,
+    "phosphorus_mg": 105.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.4,
+    "selenium_mcg": 15.0,
+    "water_g": 65.5
+  },
+  "glycemic_index": 50,
+  "glycemic_load_per_serving": 29.8,
+  "gi_source": "University of Sydney GI Database — flat rice noodles (cooked); GI referenced for the rice noodle component; composite dish GI estimated based on noodle proportion.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1848mg per serving (350g) — about 80% of the 2300mg daily recommended limit, contributed by dark soy sauce, Chinese sausage, and cockle seasoning.",
+      "guidance": "Patients with hypertension should consume Char Kway Teow only occasionally and request reduced soy sauce, avoiding the lard-based version to control both sodium and saturated fat intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Flat rice noodles have a moderate glycaemic index (~50); per-serving carbohydrate load is approximately 60g, moderate for a single meal.",
+      "guidance": "Diabetic patients may consume Char Kway Teow in moderation; smaller portions (200g or less) are advisable, and the dish should be requested with extra vegetables and reduced sauce."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High saturated fat from lard and Chinese sausage may promote systemic inflammation; however, cockles and shrimp provide zinc and omega-3 fatty acids.",
+      "guidance": "Patients with rheumatoid arthritis should limit frequency of Char Kway Teow consumption due to its high saturated fat content from lard and processed meat, and choose versions cooked in vegetable oil where available."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Char Kway Teow is a beloved Singapore Chinese hawker dish of flat rice noodles (kway teow) stir-fried in a screaming-hot wok with cockles, prawns, Chinese sausage (lap cheong), bean sprouts, garlic chives, and eggs, seasoned generously with dark soy sauce, light soy sauce, and chilli. The dish is traditionally cooked with lard to achieve its characteristic smoky wok hei aroma. It originated among Hokkien and Teochew immigrants in Singapore and Malaysia and remains one of the most popular and culturally significant dishes at hawker centres island-wide.",
+    "common_user_queries": [
+      "how many calories in char kway teow",
+      "is char kway teow healthy",
+      "can a diabetic eat char kway teow",
+      "is char kway teow halal",
+      "how much sodium in char kway teow",
+      "char kway teow vs char bee hoon which is healthier",
+      "is char kway teow high in cholesterol"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "lunch",
+      "dinner",
+      "supper",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "flat rice noodles": [
+        "kway teow",
+        "kuay teow",
+        "guǒ tiáo",
+        "河粉 (ho fun)",
+        "rice ribbon noodles"
+      ],
+      "Chinese sausage": [
+        "lap cheong",
+        "lap chong",
+        "腊肠",
+        "dried pork sausage"
+      ],
+      "cockles": [
+        "blood cockles",
+        "see hum",
+        "泥蚶",
+        "kerang"
+      ],
+      "bean sprouts": [
+        "taugeh",
+        "tauge",
+        "mung bean sprouts",
+        "豆芽"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code F05060005 — Char Kway Teow, standard hawker preparation.",
+  "notes": "The dish is not halal due to pork lard and Chinese sausage. Halal versions exist but use chicken sausage and vegetable oil, with slightly different nutrient profiles. The HPB values represent the traditional preparation. Iron content is notably elevated due to cockles, which are rich in haem iron."
+}

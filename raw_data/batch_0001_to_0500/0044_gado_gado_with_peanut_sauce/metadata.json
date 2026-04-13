@@ -1,0 +1,170 @@
+{
+  "food_name": "Gado Gado (with peanut sauce)",
+  "local_names": {
+    "malay": "Gado Gado (dengan kuah kacang)",
+    "chinese_simplified": "印尼沙拉配花生酱",
+    "chinese_traditional": "印尼沙拉配花生醬",
+    "tamil": "கடோ கடோ (வேர்க்கடலை சாஸ் உடன்)",
+    "romanized_local": "Gado gado"
+  },
+  "aliases": [
+    "Indonesian salad with peanut sauce",
+    "gado gado",
+    "Indonesian vegetable salad",
+    "peanut sauce salad (Indonesian)"
+  ],
+  "cuisine": "Indonesian",
+  "region_of_origin": "Indonesia (Betawi / Java)",
+  "food_group": "Mixed",
+  "food_subgroup": "Blanched vegetable salad with peanut sauce dressing",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Gado Gado. Nearest parent is a vegetable salad with nut dressing. A new FoodOn concept is recommended.",
+    "foodex2_code": "A04DG",
+    "foodex2_description": "Vegetable dishes — mixed blanched vegetables with peanut sauce (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "blanched",
+      "assembled",
+      "raw (some components)"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "bean sprouts",
+      "cabbage (blanched)",
+      "spinach or kangkung (blanched)",
+      "long beans (blanched)",
+      "tofu (fried, sliced)",
+      "tempeh (fried, sliced)",
+      "hard-boiled egg",
+      "potato (boiled)",
+      "prawn crackers",
+      "peanut sauce"
+    ],
+    "allergens": [
+      "eggs",
+      "soy",
+      "peanuts"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate",
+    "size_g": 350,
+    "natural_language_portion": "A typical plate of Gado Gado weighs approximately 350g and consists of a mix of blanched vegetables (cabbage, bean sprouts, long beans, spinach), fried tofu, fried tempeh, boiled potato, hard-boiled egg, and cucumber, topped with a generous portion of thick peanut sauce and garnished with prawn crackers."
+  },
+  "nutrient_source": {
+    "title": "Gado Gado — FAO/INFOODS SEA Food Composition Table; Indonesian food component data",
+    "organization": "FAO/INFOODS Southeast Asian Food Composition Table",
+    "url": "https://www.fao.org/infoods/infoods/tables-and-databases/asia/en/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Gado Gado entry found in FAO/INFOODS. Values adapted from FAO/INFOODS SEA Indonesian vegetable dish data and peanut sauce composition analysis."
+  },
+  "per_100g": {
+    "energy_kcal": 122.0,
+    "protein_g": 5.5,
+    "fat_g": 7.2,
+    "saturated_fat_g": 1.5,
+    "monounsaturated_fat_g": 3.2,
+    "polyunsaturated_fat_g": 2.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 10.2,
+    "sugar_g": 3.5,
+    "dietary_fibre_g": 3.0,
+    "sodium_mg": 375.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 55.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 45.0,
+    "vitamin_c_mg": 18.0,
+    "vitamin_a_mcg_rae": 55.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.8,
+    "vitamin_b6_mg": 0.15,
+    "vitamin_b12_mcg": 0.18,
+    "folate_mcg_dfe": 42.0,
+    "vitamin_d_mcg": 0.4,
+    "vitamin_e_mg": 2.2,
+    "phosphorus_mg": 108.0,
+    "magnesium_mg": 32.0,
+    "zinc_mg": 0.9,
+    "selenium_mcg": 7.5,
+    "water_g": 73.5
+  },
+  "glycemic_index": 40,
+  "glycemic_load_per_serving": 14.3,
+  "gi_source": "University of Sydney GI Database — composite dish GI estimated from vegetable, tofu, and potato components; peanut sauce lowers overall GI through high fat and protein content.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1313mg per serving (350g) — about 57% of the 2300mg daily recommended limit, contributed by the peanut sauce seasoning and soy-marinated tofu and tempeh.",
+      "guidance": "Patients with hypertension should request reduced peanut sauce dressing; the vegetables, tofu, and tempeh themselves are relatively low in sodium, so limiting sauce quantity significantly reduces sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Low overall GI (~40) due to high vegetable fibre, tempeh resistant starch, and peanut sauce fat; per-serving glycaemic load of approximately 14 is low.",
+      "guidance": "Gado Gado is an excellent meal choice for diabetic patients; the high fibre from vegetables, protein from tofu, tempeh, and egg, and the fat content of peanut sauce together produce a low glycaemic response."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Rich in folate, vitamin C, vitamin A, and vitamin E from vegetables; tempeh and tofu provide anti-inflammatory soy isoflavones; peanuts add vitamin E and healthy fats.",
+      "guidance": "Gado Gado is an excellent meal for patients with rheumatoid arthritis; the diverse vegetables provide a broad spectrum of anti-inflammatory antioxidants, and tempeh fermentation increases bioavailability of key nutrients."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Gado Gado is an Indonesian mixed vegetable dish of blanched and raw vegetables — typically cabbage, bean sprouts, long beans, spinach, cucumber, and boiled potato — combined with fried tofu, fried tempeh, and hard-boiled egg, all dressed in a rich, spiced peanut sauce made from ground roasted peanuts, tamarind, palm sugar, chilli, garlic, and kaffir lime juice. It is topped with prawn crackers and is one of Indonesia's most nutritionally complete dishes, combining plant protein, diverse vegetables, and healthy fats.",
+    "common_user_queries": [
+      "how many calories in gado gado",
+      "is gado gado healthy",
+      "is gado gado vegan",
+      "is gado gado halal",
+      "gado gado peanut sauce calories",
+      "can a diabetic eat gado gado",
+      "gado gado protein content"
+    ],
+    "meal_context": [
+      "Indonesian restaurant",
+      "hawker centre",
+      "lunch",
+      "healthy eating"
+    ],
+    "ingredient_synonyms": {
+      "tempeh": [
+        "tempe",
+        "fermented soybean cake",
+        "soy tempeh",
+        "tempe goreng (fried)"
+      ],
+      "peanut sauce": [
+        "bumbu kacang",
+        "saus kacang",
+        "peanut dressing",
+        "satay sauce (similar)"
+      ],
+      "long beans": [
+        "kacang panjang",
+        "yard long beans",
+        "asparagus beans",
+        "Chinese long beans"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Gado Gado entry found in FAO/INFOODS SEA. Values adapted from FAO/INFOODS Indonesian vegetable dish and peanut sauce component analysis. Confidence medium.",
+  "notes": "Vegetarian in standard preparation (egg, no meat). Not vegan due to egg and prawn crackers. Peanut allergy is a critical concern. Tempeh provides probiotics and is more nutritionally bioavailable than raw soy. The prawn crackers contain crustaceans and are not accounted for in per_100g values."
+}

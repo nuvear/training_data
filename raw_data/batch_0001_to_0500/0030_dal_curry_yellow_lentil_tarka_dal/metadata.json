@@ -1,0 +1,176 @@
+{
+  "food_name": "Dal Curry (yellow lentil, tarka dal)",
+  "local_names": {
+    "malay": "Kari Dal (Kacang Dal Kuning)",
+    "chinese_simplified": "黄扁豆咖喱",
+    "chinese_traditional": "黃扁豆咖喱",
+    "tamil": "தால் கறி (பருப்பு)",
+    "romanized_local": "Tarka dal / Dal curry"
+  },
+  "aliases": [
+    "tarka dal",
+    "tadka dal",
+    "yellow lentil curry",
+    "dhal curry",
+    "dhal",
+    "parippu",
+    "Indian lentil curry"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India / Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced yellow lentil curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Tarka Dal. Nearest parent is a cooked lentil dish or legume-based curry. A new FoodOn concept is recommended.",
+    "foodex2_code": "A04CB",
+    "foodex2_description": "Legume dishes — cooked yellow lentil (dal) with spice tempering (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "simmered",
+      "tempered (tarka)"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "toor dal (split pigeon peas) or chana dal (split chickpeas)",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "turmeric",
+      "cumin seeds",
+      "coriander",
+      "ghee or oil (for tempering)",
+      "curry leaves",
+      "red chilli"
+    ],
+    "allergens": [
+      "milk (if ghee used)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 bowl",
+    "size_g": 250,
+    "natural_language_portion": "A typical bowl of Dal Curry served at a Singapore Indian stall weighs approximately 250g and consists of soft-cooked yellow lentils in a mildly spiced, fragrant broth tempered with ghee or oil, cumin seeds, and onion, accompanied as a side dish with rice or roti."
+  },
+  "nutrient_source": {
+    "title": "Dal Curry — ICMR-NIN Nutritive Value of Indian Foods; HPB Food Code G00011178",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad; HPB Singapore Foodo",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Foodo under food code G00011178 — Dal Curry, yellow lentil preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 105.0,
+    "protein_g": 6.2,
+    "fat_g": 3.5,
+    "saturated_fat_g": 1.2,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 13.5,
+    "sugar_g": 2.0,
+    "dietary_fibre_g": 3.2,
+    "sodium_mg": 282.0,
+    "potassium_mg": 285.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 4.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.06,
+    "vitamin_b3_niacin_mg": 1.5,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 48.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 105.0,
+    "magnesium_mg": 32.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 4.0,
+    "water_g": 74.0
+  },
+  "glycemic_index": 29,
+  "glycemic_load_per_serving": 9.9,
+  "gi_source": "University of Sydney GI Database — yellow split peas / pigeon peas (cooked); lentils have one of the lowest GIs of all carbohydrate foods due to high fibre and resistant starch.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Sodium approximately 705mg per bowl (250g) — about 31% of the 2300mg daily recommended limit; moderate sodium for a flavourful curry dish.",
+      "guidance": "Patients with hypertension may consume dal curry regularly; it is a low-fat, high-fibre, moderate-sodium side dish that supports healthy blood pressure when substituted for higher-fat, higher-sodium alternatives."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Extremely low GI (~29) from the lentil base; glycaemic load per bowl of ~10 is very low; high dietary fibre and plant protein moderate postprandial glucose exceptionally well.",
+      "guidance": "Dal Curry is one of the best side dish choices for diabetic patients; its very low GI, high fibre, and plant protein content significantly improve the overall glycaemic profile of any meal it accompanies."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "High folate content supports immune regulation; turmeric, cumin, and coriander in tarka provide anti-inflammatory compounds; plant protein from lentils supports muscle maintenance.",
+      "guidance": "Dal Curry is an excellent dietary staple for patients with rheumatoid arthritis; the high folate, anti-inflammatory spice tempering, and plant-based protein make it one of the most beneficial daily foods for inflammatory conditions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Dal Curry (Tarka Dal) is a foundational Indian dish of slow-cooked yellow lentils (typically toor dal or chana dal) simmered until soft in a mildly spiced broth with turmeric, tomatoes, and onions, then finished with a tarka — a hot oil or ghee tempering of cumin seeds, garlic, dried chillies, and curry leaves poured sizzling over the dal. It is served as a side dish alongside rice, roti, thosai, or prata, and is one of the most nutritionally dense, high-protein, high-fibre, and low-GI items in Singapore's Indian hawker repertoire.",
+    "common_user_queries": [
+      "how many calories in dal curry",
+      "is dal healthy",
+      "can a diabetic eat dal",
+      "is dal curry high in protein",
+      "dal curry folate content",
+      "is dal vegan",
+      "dhal curry vs sambar which is healthier"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "mamak",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "accompaniment"
+    ],
+    "ingredient_synonyms": {
+      "dal": [
+        "dhal",
+        "lentil curry",
+        "parippu",
+        "toor dal soup",
+        "dal fry (with tarka)"
+      ],
+      "toor dal": [
+        "split pigeon peas",
+        "tuvar dal",
+        "arhar dal",
+        "yellow split peas"
+      ],
+      "tarka": [
+        "tadka",
+        "tempering",
+        "vaghar",
+        "chaunk",
+        "popu"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code G00011178 — Dal Curry, yellow lentil preparation.",
+  "notes": "Vitamin B12 is 0.0 in a vegan version (no ghee); versions with ghee will have trace B12. Folate content is notably high from lentils and is a clinically significant value. The dish is inherently gluten-free and typically halal. When made with ghee, it contains trace dairy and is not vegan."
+}

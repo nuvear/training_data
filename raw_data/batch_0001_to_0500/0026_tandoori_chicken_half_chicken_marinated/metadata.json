@@ -1,0 +1,166 @@
+{
+  "food_name": "Tandoori Chicken (half chicken, marinated)",
+  "local_names": {
+    "malay": "Ayam Tandoori",
+    "chinese_simplified": "坦都里烤鸡",
+    "chinese_traditional": "坦都里烤雞",
+    "tamil": "தந்தூரி சிக்கன்",
+    "romanized_local": "Tandoori murgh"
+  },
+  "aliases": [
+    "tandoori murgh",
+    "clay oven chicken",
+    "tandoor chicken",
+    "spiced grilled chicken",
+    "red marinated chicken"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Meat and alternatives",
+  "food_subgroup": "Tandoor-grilled marinated chicken",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Tandoori Chicken. Nearest parent is a spiced grilled chicken product. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XS",
+    "foodex2_description": "Grilled meat dishes — spiced marinated whole chicken, tandoor-grilled (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "tandoor-grilled",
+      "charcoal-grilled"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chicken (half bird, bone-in, skin-on)",
+      "yoghurt",
+      "tandoori masala",
+      "ginger-garlic paste",
+      "turmeric",
+      "red chilli",
+      "cumin",
+      "lemon juice",
+      "oil"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "Half chicken (~300g cooked)",
+    "size_g": 300,
+    "natural_language_portion": "A standard half tandoori chicken serving weighs approximately 300g (bone-in, cooked) and consists of chicken marinated in a spiced yoghurt paste with turmeric, chilli, and garam masala, then grilled in a tandoor clay oven at very high heat until charred at the edges, served with mint chutney, sliced onion rings, lemon wedges, and naan or rice."
+  },
+  "nutrient_source": {
+    "title": "Tandoori Chicken — ICMR-NIN Nutritive Value of Indian Foods; DB code F11020052 cross-referenced with HPB",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "DB code F11020052 in the database maps to a chicken preparation. ICMR-NIN tandoori chicken data used as primary source. Values represent the marinated and grilled chicken only, without accompaniments."
+  },
+  "per_100g": {
+    "energy_kcal": 163.0,
+    "protein_g": 24.2,
+    "fat_g": 6.8,
+    "saturated_fat_g": 1.8,
+    "monounsaturated_fat_g": 2.8,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 2.5,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 0.2,
+    "sodium_mg": 382.0,
+    "potassium_mg": 305.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 82.0,
+    "vitamin_c_mg": 2.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.18,
+    "vitamin_b3_niacin_mg": 8.5,
+    "vitamin_b6_mg": 0.62,
+    "vitamin_b12_mcg": 0.52,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 28.0,
+    "zinc_mg": 2.2,
+    "selenium_mcg": 18.0,
+    "water_g": 63.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": null,
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1146mg per half-chicken serving (300g) — about 50% of the 2300mg daily recommended limit; the marinade salt and tandoori masala are the primary sodium contributors.",
+      "guidance": "Patients with hypertension may consume Tandoori Chicken in moderate portions; requesting the marinade with reduced salt and consuming without additional sauces will keep sodium at a manageable level."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate content (~2.5g/100g); extremely high protein content (24g/100g); negligible glycaemic impact from the chicken itself.",
+      "guidance": "Tandoori Chicken is an excellent high-protein, low-carbohydrate option for diabetic patients; pair with a salad and limit accompanying rice or naan to optimise blood glucose management."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "High protein from lean chicken supports muscle maintenance; turmeric, ginger, and cumin in the marinade provide anti-inflammatory curcumin, gingerol, and cuminaldehyde.",
+      "guidance": "Tandoori Chicken is an excellent choice for patients with rheumatoid arthritis; the lean protein and anti-inflammatory spice marinade make it one of the most beneficial Indian meat preparations for inflammatory conditions."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Tandoori Chicken is a North Indian dish of whole chicken or chicken pieces marinated in yoghurt and a vibrant paste of tandoori masala, turmeric, red chilli, ginger, garlic, and lemon juice, then cooked in a tandoor clay oven at temperatures exceeding 400°C, imparting a characteristic charred, smoky exterior with juicy, spiced meat inside. The vivid orange-red colour comes from the combination of turmeric, red chilli, and sometimes food colouring. It is served with mint chutney, sliced raw onion, and lemon. It is one of the most popular Indian dishes in Singapore's Indian restaurants and is widely available at hawker stalls.",
+    "common_user_queries": [
+      "how many calories in tandoori chicken",
+      "is tandoori chicken healthy",
+      "is tandoori chicken good for weight loss",
+      "is tandoori chicken halal",
+      "tandoori chicken protein content",
+      "tandoori chicken vs butter chicken which is healthier",
+      "can a diabetic eat tandoori chicken"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "lunch",
+      "dinner",
+      "takeaway",
+      "healthy eating",
+      "gym diet"
+    ],
+    "ingredient_synonyms": {
+      "tandoori masala": [
+        "tandoori spice mix",
+        "mixed red spice blend",
+        "tikka masala (related)"
+      ],
+      "tandoor": [
+        "clay oven",
+        "tandur",
+        "Indian clay pot oven"
+      ],
+      "yoghurt marinade": [
+        "dahi marinade",
+        "hung curd marinade"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match sourced from ICMR-NIN for tandoori chicken; values represent marinated grilled chicken portion only.",
+  "notes": "One of the lowest-calorie, highest-protein options in this dataset. Contains dairy (yoghurt). The skin-on preparation adds approximately 15–20% more fat. Skinless, boneless tandoori breast is significantly lower in fat (~4g/100g). The red colour from chilli and turmeric does not add measurable nutrients at marinating quantities."
+}

@@ -1,0 +1,166 @@
+{
+  "food_name": "Roti Canai (plain, without curry)",
+  "local_names": {
+    "malay": "Roti Canai (kosong, tanpa kari)",
+    "chinese_simplified": "印度抛饼（原味，无咖喱）",
+    "chinese_traditional": "印度拋餅（原味，無咖喱）",
+    "tamil": "ரொட்டி சானாய் (சாதாரண)",
+    "romanized_local": "Roti canai (kosong)"
+  },
+  "aliases": [
+    "roti canai kosong",
+    "roti canai plain",
+    "plain paratha (Malaysian)",
+    "Malaysian flatbread",
+    "coin prata (small version)",
+    "roti chennai"
+  ],
+  "cuisine": "Malaysian",
+  "region_of_origin": "Malaysia (Indian Muslim)",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Pan-fried layered wheat flatbread (plain)",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has a paratha concept that is the closest match to Roti Canai. No exact Malaysian Roti Canai concept exists. Recommend new concept.",
+    "foodex2_code": "A01VX",
+    "foodex2_description": "Unleavened bread — pan-fried layered flatbread (paratha style) (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "pan-fried",
+      "griddled",
+      "tossed"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "wheat flour",
+      "water",
+      "salt",
+      "ghee or margarine",
+      "egg (optional, in some recipes)",
+      "condensed milk (trace, for tenderness)"
+    ],
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 piece",
+    "size_g": 100,
+    "natural_language_portion": "A standard piece of plain Roti Canai weighs approximately 100g and consists of a flaky, layered, pan-fried wheat flatbread with golden crispy exterior layers surrounding a soft, pliable interior, traditionally served with a bowl of dhal or fish/chicken curry for dipping."
+  },
+  "nutrient_source": {
+    "title": "Roti Canai — IMR Malaysia MyFCD Database; cross-referenced with ICMR-NIN paratha data",
+    "organization": "Institute for Medical Research (IMR) Malaysia — Malaysian Food Composition Database (MyFCD)",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in IMR Malaysia MyFCD — Roti Canai (kosong), standard Malaysian mamak preparation."
+  },
+  "per_100g": {
+    "energy_kcal": 302.0,
+    "protein_g": 6.8,
+    "fat_g": 13.5,
+    "saturated_fat_g": 5.2,
+    "monounsaturated_fat_g": 5.2,
+    "polyunsaturated_fat_g": 2.4,
+    "trans_fat_g": 0.2,
+    "carbohydrate_g": 40.2,
+    "sugar_g": 1.5,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 380.0,
+    "potassium_mg": 92.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 10.0,
+    "vitamin_c_mg": 0.0,
+    "vitamin_a_mcg_rae": 5.0,
+    "vitamin_b1_thiamine_mg": 0.2,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.0,
+    "vitamin_b6_mg": 0.05,
+    "vitamin_b12_mcg": 0.02,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 72.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.6,
+    "selenium_mcg": 8.5,
+    "water_g": 36.5
+  },
+  "glycemic_index": 62,
+  "glycemic_load_per_serving": 24.9,
+  "gi_source": "University of Sydney GI Database — white flour paratha (pan-fried); same GI category as Singapore prata.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 380mg per piece (100g) — about 17% of the 2300mg daily recommended limit; two pieces commonly consumed would provide 34% of the daily limit from the roti alone.",
+      "guidance": "Patients with hypertension should limit roti canai to one piece and moderate the curry dipping sauce; the dough contains moderate salt but the curry accompaniment significantly increases sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Refined wheat flour has a high GI (~62); high fat content from ghee slows but does not prevent a significant postprandial glucose rise; per-piece glycaemic load is approximately 25.",
+      "guidance": "Diabetic patients should limit roti canai to one piece per meal and replace with whole wheat paratha where available; the high fat and refined carbohydrate combination produces a sustained but significant glucose rise."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Moderate saturated fat from ghee or margarine; refined wheat flour is pro-inflammatory at high consumption frequencies.",
+      "guidance": "Patients with rheumatoid arthritis should limit roti canai to occasional consumption; choosing whole wheat versions and reducing ghee will lower the pro-inflammatory impact of regular consumption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Roti Canai (also called roti prata in Singapore) is a Malaysian Indian Muslim flatbread of refined wheat flour dough enriched with ghee or margarine, stretched by repeatedly folding and tossing the dough to develop multiple layers, then cooked on a greased flat griddle until golden and flaky. The plain (kosong) version is served with dhal curry and fish or chicken curry for dipping. It is the most popular breakfast item at Malaysian mamak stalls and is widely enjoyed in Singapore as well, where it is called prata.",
+    "common_user_queries": [
+      "how many calories in roti canai",
+      "is roti canai the same as roti prata",
+      "is roti canai healthy",
+      "can a diabetic eat roti canai",
+      "roti canai fat content",
+      "roti canai vs chapati which is healthier",
+      "is roti canai halal"
+    ],
+    "meal_context": [
+      "mamak stall",
+      "breakfast",
+      "supper",
+      "24-hour restaurant",
+      "Malaysian restaurant"
+    ],
+    "ingredient_synonyms": {
+      "roti canai": [
+        "roti prata (Singapore)",
+        "paratha (India)",
+        "flaky flatbread",
+        "roti chennai"
+      ],
+      "ghee": [
+        "clarified butter",
+        "samn",
+        "desi ghee"
+      ],
+      "margarine": [
+        "vanaspati",
+        "vegetable shortening (baking)",
+        "plant-based butter"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in IMR Malaysia MyFCD — Roti Canai (kosong), standard Malaysian preparation.",
+  "notes": "Roti Canai (Malaysia) and Roti Prata (Singapore) are the same dish with different regional names. Nutrient values are virtually identical. Trans fat content depends on whether partially hydrogenated margarine is used. Ghee versions have higher saturated fat; margarine versions may have trans fat. The curry accompaniment is not included in per_100g values."
+}

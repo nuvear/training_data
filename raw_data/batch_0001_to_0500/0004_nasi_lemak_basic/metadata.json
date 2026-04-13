@@ -1,0 +1,179 @@
+{
+  "food_name": "Nasi Lemak (basic)",
+  "local_names": {
+    "malay": "Nasi Lemak",
+    "chinese_simplified": "椰浆饭",
+    "chinese_traditional": "椰漿飯",
+    "tamil": "நாசி லெமாக்",
+    "romanized_local": "Nasi Lemak"
+  },
+  "aliases": [
+    "coconut rice",
+    "nasi lemak basic",
+    "Singapore nasi lemak",
+    "lemak rice",
+    "coconut milk rice with condiments"
+  ],
+  "cuisine": "Singapore Malay",
+  "region_of_origin": "Malaysia / Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Coconut rice with traditional accompaniments",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn does not have a specific concept for Nasi Lemak. Nearest parent would be a rice dish cooked in coconut milk. A new FoodOn concept representing this Malaysian-Singaporean staple is recommended.",
+    "foodex2_code": "A03SL",
+    "foodex2_description": "Composite rice dishes — rice cooked in coconut milk with traditional accompaniments (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "steamed",
+      "boiled",
+      "fried (ikan bilis)",
+      "fried (egg)"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "jasmine rice",
+      "coconut milk",
+      "pandan leaf",
+      "ikan bilis (dried anchovies)",
+      "roasted peanuts",
+      "cucumber",
+      "hard-boiled egg",
+      "sambal chilli paste"
+    ],
+    "allergens": [
+      "fish",
+      "peanuts",
+      "eggs"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 packet / 1 plate",
+    "size_g": 380,
+    "natural_language_portion": "A typical basic serving of Nasi Lemak in Singapore (as sold at hawker stalls and mamak stalls) weighs approximately 380g and consists of fragrant coconut rice wrapped in banana leaf or served on a plate, accompanied by crispy fried ikan bilis (dried anchovies), roasted peanuts, sliced cucumber, half a hard-boiled egg, and sambal chilli sauce."
+  },
+  "nutrient_source": {
+    "title": "Nasi Lemak — IMR Malaysia MyFCD and HPB Singapore Foodo cross-referenced, Food Code G00011661",
+    "organization": "Institute for Medical Research (IMR) Malaysia — Malaysian Food Composition Database (MyFCD); cross-referenced with Health Promotion Board (HPB), Singapore",
+    "url": "http://nutriweb.org.my/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "Exact match found in HPB Singapore Foodo under food code G00011661 — Nasi Lemak (basic), standard preparation with ikan bilis, peanuts, cucumber, egg, and sambal."
+  },
+  "per_100g": {
+    "energy_kcal": 176.0,
+    "protein_g": 4.9,
+    "fat_g": 9.4,
+    "saturated_fat_g": 5.8,
+    "monounsaturated_fat_g": 1.8,
+    "polyunsaturated_fat_g": 1.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 19.2,
+    "sugar_g": 1.2,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 278.0,
+    "potassium_mg": 132.0,
+    "calcium_mg": 38.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 55.0,
+    "vitamin_c_mg": 2.0,
+    "vitamin_a_mcg_rae": 22.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.08,
+    "vitamin_b3_niacin_mg": 1.8,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.48,
+    "folate_mcg_dfe": 16.0,
+    "vitamin_d_mcg": 0.5,
+    "vitamin_e_mg": 0.9,
+    "phosphorus_mg": 105.0,
+    "magnesium_mg": 24.0,
+    "zinc_mg": 0.8,
+    "selenium_mcg": 9.5,
+    "water_g": 63.0
+  },
+  "glycemic_index": 60,
+  "glycemic_load_per_serving": 43.7,
+  "gi_source": "University of Sydney GI Database — white rice cooked in coconut milk has a slightly elevated GI compared to plain boiled rice; estimated based on rice component GI data.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1056mg per serving (380g) — about 46% of the 2300mg daily recommended limit, contributed primarily by sambal and ikan bilis.",
+      "guidance": "Hypertensive patients should limit the sambal portion and avoid adding extra soy sauce; the basic preparation without added condiments is more sodium-appropriate."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "Coconut rice has a high GI (~60) and a high glycaemic load per serving (~44); the coconut milk base increases caloric density without reducing the carbohydrate impact.",
+      "guidance": "Diabetic patients should consume Nasi Lemak sparingly, limit rice to half a portion, and prefer the version with more cucumber, egg, and ikan bilis which offer protein and fibre without adding to carbohydrate load."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High saturated fat content from coconut milk may promote pro-inflammatory pathways at high consumption; ikan bilis and peanuts provide calcium and healthy fats respectively.",
+      "guidance": "Patients with rheumatoid arthritis may consume Nasi Lemak in moderation; the coconut milk saturated fat content warrants limiting frequency, while the omega-3 content of ikan bilis provides some anti-inflammatory benefit."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Nasi Lemak is the quintessential breakfast and comfort food of Malaysia and Singapore, consisting of fragrant jasmine rice cooked in coconut milk with pandan leaf, traditionally served wrapped in banana leaf with crispy fried ikan bilis (dried anchovies), roasted peanuts, sliced cucumber, a hard-boiled or fried egg, and spicy sambal chilli paste. The coconut milk imparts a rich, creamy fragrance to the rice and a slightly sweet flavour that balances the heat of the sambal. While originating as a humble Malay breakfast, it is now consumed at all meal times and found at hawker stalls, mamak restaurants, and food courts across Singapore.",
+    "common_user_queries": [
+      "how many calories in nasi lemak",
+      "is nasi lemak healthy",
+      "can a diabetic eat nasi lemak",
+      "is nasi lemak halal",
+      "how much fat is in nasi lemak",
+      "how much sodium in nasi lemak",
+      "is nasi lemak good for weight loss",
+      "nasi lemak with fried chicken calories"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "supper",
+      "mamak",
+      "takeaway"
+    ],
+    "ingredient_synonyms": {
+      "ikan bilis": [
+        "dried anchovies",
+        "teri",
+        "白饭鱼干",
+        "anchovy flakes",
+        "silver fish"
+      ],
+      "sambal": [
+        "chilli paste",
+        "sambal belacan",
+        "chilli sauce (Malay style)",
+        "sambel"
+      ],
+      "pandan leaf": [
+        "screwpine leaf",
+        "daun pandan",
+        "pandanus leaf"
+      ],
+      "coconut milk": [
+        "santan",
+        "coconut cream",
+        "pati santan (for thick version)"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo Database under food code G00011661 — Nasi Lemak (basic), standard preparation with standard accompaniments.",
+  "notes": "Values represent the basic nasi lemak with ikan bilis, peanuts, cucumber, egg, and sambal only. Versions with fried chicken, rendang, or otah will have significantly higher calorie and fat content. The saturated fat is dominated by coconut milk (medium-chain saturated fatty acids)."
+}

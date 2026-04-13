@@ -1,0 +1,179 @@
+{
+  "food_name": "Wonton Mee (dry)",
+  "local_names": {
+    "malay": "Mi Wantan Kering",
+    "chinese_simplified": "云吞面（干捞）",
+    "chinese_traditional": "雲吞麵（乾撈）",
+    "tamil": "வொன்டன் மீ (உலர்)",
+    "romanized_local": "Wàntūn miàn (gān lāo)"
+  },
+  "aliases": [
+    "wonton noodles dry",
+    "wantan mee dry",
+    "wonton noodle dry toss",
+    "gon lo mee",
+    "kon lo meen",
+    "dry tossed wonton noodles"
+  ],
+  "cuisine": "Singapore Chinese",
+  "region_of_origin": "Singapore",
+  "food_group": "Mixed",
+  "food_subgroup": "Dry-tossed egg noodles with wonton dumplings",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Wonton Mee. Nearest parent is a noodle dish with dumplings. A new FoodOn concept is recommended for this Singapore-Chinese hawker dish.",
+    "foodex2_code": "A03SM",
+    "foodex2_description": "Composite noodle dishes — dry-tossed noodle with dumplings (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled",
+      "tossed",
+      "steamed (wontons)"
+    ],
+    "processing_level": "processed",
+    "main_ingredients": [
+      "thin egg noodles (wonton mee noodles)",
+      "wonton dumplings (pork and shrimp filling)",
+      "char siu (roast pork)",
+      "choy sum (Chinese greens)",
+      "lard",
+      "oyster sauce",
+      "dark soy sauce",
+      "sesame oil",
+      "chilli sauce"
+    ],
+    "allergens": [
+      "gluten",
+      "crustaceans",
+      "eggs",
+      "soy",
+      "sesame"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": false,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl / 1 plate",
+    "size_g": 340,
+    "natural_language_portion": "A typical serving of dry Wonton Mee in Singapore weighs approximately 340g and consists of thin springy egg noodles tossed with lard, oyster sauce, dark soy sauce, and chilli sauce, topped with sliced char siu, three to four pork-and-shrimp wontons, blanched choy sum, and a side bowl of clear wonton soup."
+  },
+  "nutrient_source": {
+    "title": "Wonton Mee (dry) — HPB Singapore Foodo Database; no exact code found; values adapted from HPB noodle dish entries and wonton composition data",
+    "organization": "Health Promotion Board (HPB), Singapore",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "No exact Wonton Mee (dry) entry found in HPB Foodo at time of research. Values adapted from HPB thin egg noodle dish data, char siu nutrient data, and wonton dumpling composition analysis."
+  },
+  "per_100g": {
+    "energy_kcal": 154.0,
+    "protein_g": 7.2,
+    "fat_g": 5.9,
+    "saturated_fat_g": 2.0,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 1.1,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 20.2,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 0.8,
+    "sodium_mg": 558.0,
+    "potassium_mg": 165.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.5,
+    "cholesterol_mg": 58.0,
+    "vitamin_c_mg": 4.5,
+    "vitamin_a_mcg_rae": 18.0,
+    "vitamin_b1_thiamine_mg": 0.12,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 2.8,
+    "vitamin_b6_mg": 0.18,
+    "vitamin_b12_mcg": 0.42,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 115.0,
+    "magnesium_mg": 20.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 10.5,
+    "water_g": 64.0
+  },
+  "glycemic_index": 46,
+  "glycemic_load_per_serving": 31.7,
+  "gi_source": "University of Sydney GI Database — thin wheat egg noodles (cooked); composite GI estimated.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "high",
+      "key_factor": "Sodium approximately 1897mg per serving (340g) — about 82% of the 2300mg daily recommended limit, driven by oyster sauce, dark soy sauce, and seasoned char siu.",
+      "guidance": "Patients with hypertension should request reduced soy sauce tossing and ask for char siu portion to be limited; avoiding the additional chilli sauce tossing will also reduce sodium significantly."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Thin egg noodles have a low-moderate GI (~46); per-serving carbohydrate load of approximately 69g is moderate-high for a single meal.",
+      "guidance": "Diabetic patients should consider a half-portion of noodles with extra greens and wontons; the low GI of the thin egg noodles is favourable compared to rice-based alternatives."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Moderate saturated fat from lard; choy sum provides folate and anti-inflammatory antioxidants; overall dish is lower in inflammation markers than deep-fried hawker alternatives.",
+      "guidance": "Wonton Mee is a reasonable meal choice for patients with rheumatoid arthritis; requesting the version with reduced lard and extra blanched vegetables improves the anti-inflammatory nutritional profile."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Wonton Mee (dry) is a classic Singapore Chinese hawker dish of thin, springy egg noodles tossed in a sauce of oyster sauce, dark soy sauce, chilli, and lard, topped with sliced char siu barbecue pork, three to four plump pork-and-shrimp wontons, and blanched choy sum. A small bowl of clear, delicate wonton broth is served alongside. The noodles are distinguished by their slight alkaline bounce from the kansui (lye water) used in their production. It is one of the most enduring Cantonese-influenced dishes at Singapore hawker centres.",
+    "common_user_queries": [
+      "how many calories in wonton mee",
+      "wonton mee dry vs soup which is healthier",
+      "is wonton mee healthy",
+      "can a diabetic eat wonton mee",
+      "is wonton mee halal",
+      "wonton mee sodium content",
+      "how many wontons in a serving of wonton mee"
+    ],
+    "meal_context": [
+      "hawker centre",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "coffee shop"
+    ],
+    "ingredient_synonyms": {
+      "wonton": [
+        "wantan",
+        "云吞",
+        "wonton dumpling",
+        "pork shrimp dumpling"
+      ],
+      "char siu": [
+        "BBQ roast pork",
+        "Chinese barbecue pork",
+        "叉烧",
+        "red roast pork"
+      ],
+      "choy sum": [
+        "Chinese flowering cabbage",
+        "cai xin",
+        "菜心",
+        "choisum"
+      ],
+      "thin egg noodles": [
+        "wonton noodles",
+        "细面",
+        "thin Cantonese noodles"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "No exact Wonton Mee (dry) entry found in HPB Singapore Foodo. Values adapted from HPB noodle dish data and component analysis. Confidence is medium.",
+  "notes": "Not halal due to pork (char siu, wonton filling) and lard. Halal chicken char siu versions exist. Sodium values are highly variable depending on the amount of soy sauce and oyster sauce used in tossing. A wet (soup) version will have higher sodium from the broth."
+}

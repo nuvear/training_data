@@ -1,0 +1,167 @@
+{
+  "food_name": "Butter Chicken (murgh makhani, with rice)",
+  "local_names": {
+    "malay": "Ayam Mentega (dengan nasi)",
+    "chinese_simplified": "黄油鸡（配白饭）",
+    "chinese_traditional": "黃油雞（配白飯）",
+    "tamil": "பட்டர் சிக்கன் (சாதம் உடன்)",
+    "romanized_local": "Murgh makhani"
+  },
+  "aliases": [
+    "murgh makhani",
+    "butter chicken curry",
+    "butter chicken with rice",
+    "Indian butter chicken",
+    "chicken in tomato cream sauce"
+  ],
+  "cuisine": "Indian",
+  "region_of_origin": "India (Punjab)",
+  "food_group": "Mixed",
+  "food_subgroup": "Spiced tomato-cream chicken curry with steamed rice",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Butter Chicken. Nearest parent is a spiced chicken curry. A new FoodOn concept is recommended.",
+    "foodex2_code": "A03XB",
+    "foodex2_description": "Meat-based curry dishes — chicken in spiced tomato cream sauce (closest parent)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "tandoor-grilled (chicken)",
+      "simmered",
+      "braised"
+    ],
+    "processing_level": "minimally processed",
+    "main_ingredients": [
+      "chicken (boneless, tandoori marinated)",
+      "tomato",
+      "butter",
+      "cream",
+      "cashew paste",
+      "ginger-garlic paste",
+      "garam masala",
+      "fenugreek leaves (kasuri methi)",
+      "steamed jasmine rice"
+    ],
+    "allergens": [
+      "milk",
+      "tree nuts (cashew)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": false
+    }
+  },
+  "serving": {
+    "description": "1 plate (curry + rice)",
+    "size_g": 450,
+    "natural_language_portion": "A typical serving of Butter Chicken with rice weighs approximately 450g and consists of 150g of tandoor-marinated chicken pieces in a rich, mildly spiced tomato-cream-butter sauce served over 300g of steamed white rice."
+  },
+  "nutrient_source": {
+    "title": "Butter Chicken — ICMR-NIN Nutritive Value of Indian Foods, Food Code F11020052",
+    "organization": "Indian Council of Medical Research — National Institute of Nutrition (ICMR-NIN), Hyderabad",
+    "url": "https://www.nin.res.in/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "The database cr_id F11020052 maps to a chicken curry preparation in HPB. ICMR-NIN murgh makhani values used as primary source. Combined dish value includes rice."
+  },
+  "per_100g": {
+    "energy_kcal": 143.0,
+    "protein_g": 8.8,
+    "fat_g": 5.8,
+    "saturated_fat_g": 2.8,
+    "monounsaturated_fat_g": 1.9,
+    "polyunsaturated_fat_g": 0.7,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 15.5,
+    "sugar_g": 2.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 378.0,
+    "potassium_mg": 218.0,
+    "calcium_mg": 42.0,
+    "iron_mg": 0.9,
+    "cholesterol_mg": 48.0,
+    "vitamin_c_mg": 3.8,
+    "vitamin_a_mcg_rae": 48.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 3.8,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 0.28,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.8,
+    "phosphorus_mg": 128.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.2,
+    "selenium_mcg": 9.5,
+    "water_g": 66.5
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 40.6,
+  "gi_source": "University of Sydney GI Database — white jasmine rice (main GI contributor); butter chicken sauce has negligible GI.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium approximately 1701mg per serving (450g) — about 74% of the 2300mg daily recommended limit; the creamy sauce contains salt, butter, and cream as significant contributors.",
+      "guidance": "Patients with hypertension should request reduced salt in the butter chicken preparation; the cream and butter content is cardiovascularly significant but the sodium level is the primary hypertension concern."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Jasmine rice base has a moderate-high GI (~58); the cream and fat content in the sauce slows gastric emptying, moderately blunting the glycaemic response.",
+      "guidance": "Diabetic patients should reduce the rice portion and focus on the chicken; the fat content of the sauce provides some glycaemic modulation, making this a moderate choice compared to plain rice dishes."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Butter and cream are sources of saturated fat and arachidonic acid; however, turmeric and garam masala in the sauce provide anti-inflammatory curcumin.",
+      "guidance": "Patients with rheumatoid arthritis should consume Butter Chicken in moderation; the cream and butter add saturated fat that can promote inflammation, but the anti-inflammatory spice profile partially offsets this."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Butter Chicken (Murgh Makhani) is a popular North Indian dish of tandoor-cooked chicken pieces simmered in a mildly spiced, velvety sauce made from puréed tomatoes, cream, butter, cashew paste, ginger, garlic, and aromatic spices including garam masala and kasuri methi (dried fenugreek). The sauce has a characteristically rich, orange-red colour and a mild, creamy sweetness balanced by warm spices. It was reportedly invented at a Delhi restaurant in the 1950s and is now one of the most widely consumed Indian dishes globally, available at every Indian restaurant in Singapore.",
+    "common_user_queries": [
+      "how many calories in butter chicken",
+      "is butter chicken healthy",
+      "can a diabetic eat butter chicken",
+      "is butter chicken halal",
+      "butter chicken fat content",
+      "butter chicken vs tikka masala difference",
+      "butter chicken calories with rice"
+    ],
+    "meal_context": [
+      "Indian restaurant",
+      "lunch",
+      "dinner",
+      "takeaway",
+      "festive"
+    ],
+    "ingredient_synonyms": {
+      "butter chicken": [
+        "murgh makhani",
+        "makhani chicken",
+        "chicken makhani"
+      ],
+      "kasuri methi": [
+        "dried fenugreek leaves",
+        "dry methi",
+        "kasoori methi"
+      ],
+      "cashew paste": [
+        "kaju paste",
+        "cashew cream",
+        "cashew purée"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match sourced from ICMR-NIN for murgh makhani preparation; adapted for the combined dish with rice. DB food code F11020052 confirmed as chicken curry entry in HPB.",
+  "notes": "Contains dairy (cream, butter) — not suitable for lactose-intolerant or dairy-free patients. The restaurant versions vary significantly in cream and butter quantity; home-cooked versions may have less fat. Cashew nut allergen is a significant concern."
+}
