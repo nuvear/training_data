@@ -1,0 +1,60 @@
+{
+  "source_json": "cendol.json",
+  "filename_prefix": "cendol",
+  "save_pattern": "cendol_{x}.jpg",
+  "objective": "Teach MedGemma to visually identify and understand Cendol dessert across its forms, ingredients, textures, regional context, and culinary uses in Southeast Asia.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of cendol dessert with green pandan rice flour jelly strands, shaved ice, sweetened coconut milk, and dark gula melaka syrup",
+      "close-up photorealistic image of cendol dessert showing extruded green pandan jelly noodles with coconut milk and palm sugar syrup",
+      "traditional Penang cendol dessert bowl with shaved ice, green pandan jelly, coconut milk, and gula melaka syrup in hawker centre setting"
+    ],
+    "macro_texture": [
+      "close-up photorealistic texture of pandan rice flour jelly noodles (cendol) extruded through sieve, showing worm-like green strands",
+      "detailed photorealistic image of shaved ice crystals topped with creamy sweetened coconut milk in cendol dessert",
+      "macro shot of dark treacly gula melaka (palm sugar syrup) drizzled over shaved ice and pandan jelly in cendol"
+    ],
+    "raw_ingredients_and_process": [
+      "photorealistic pandan leaves and pandan juice used for coloring cendol jelly noodles",
+      "extrusion process of pandan rice flour jelly noodles through sieve to form green cendol strands",
+      "ingredients layout: pandan rice flour, full-fat coconut milk, gula melaka palm sugar syrup, shaved ice, optional red azuki beans and jackfruit slices"
+    ],
+    "in_the_wild_context": [
+      "cendol dessert served at a Malay hawker centre stall in Penang, Malaysia with local signage",
+      "photorealistic bowl of cendol on a rustic wooden table at a Bazaar Ramadan food market in Southeast Asia",
+      "cendol dessert served as an afternoon refreshment in traditional Singapore Malay cuisine setting"
+    ],
+    "culinary_application": [
+      "cendol dessert served in a clear bowl showing layered shaved ice, pandan jelly, coconut milk, and gula melaka syrup",
+      "variation of cendol with added red azuki beans and jackfruit slices as toppings",
+      "street food vendor preparing and assembling cendol dessert with shaved ice, pandan jelly, coconut milk, and palm sugar syrup"
+    ],
+    "label_truth": [],
+    "optional_local_language_queries": [
+      "煎蕊 dessert bowl with pandan jelly, coconut milk and gula melaka syrup",
+      "சென்டோல் traditional Tamil pandan jelly shaved ice dessert",
+      "Es Cendol or Dawet Indonesian style shaved ice dessert with coconut milk and palm sugar syrup"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

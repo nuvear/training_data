@@ -1,0 +1,160 @@
+{
+  "food_name": "Cendol (pandan jelly, coconut milk, gula melaka shaved ice dessert)",
+  "local_names": {
+    "malay": "Cendol",
+    "chinese_simplified": "煎蕊",
+    "chinese_traditional": "煎蕊",
+    "tamil": "சென்டோல்",
+    "indonesian": "Es Cendol / Dawet"
+  },
+  "aliases": [
+    "cendol",
+    "chendol",
+    "shaved ice pandan jelly dessert",
+    "cendol with gula melaka",
+    "es cendol",
+    "dawet"
+  ],
+  "cuisine": "Singapore Malay / Malaysian Malay / Indonesian / Thai",
+  "region_of_origin": "Malay Archipelago — widespread SEA dessert with Penang being most famous",
+  "food_group": "Desserts and sweets",
+  "food_subgroup": "Shaved ice dessert with pandan rice flour jelly and coconut milk",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Cendol. Closest parent is shaved ice dessert with coconut milk and starch jelly.",
+    "foodex2_code": "A0CEL",
+    "foodex2_description": "Shaved ice dessert with pandan rice flour jelly, coconut milk, and palm sugar syrup (cendol style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "assembled",
+      "shaved (ice)",
+      "extruded (pandan jelly)"
+    ],
+    "processing_level": "assembled dessert",
+    "main_ingredients": [
+      "shaved ice",
+      "pandan rice flour jelly (cendol noodles — green)",
+      "full-fat coconut milk (sweetened)",
+      "gula melaka (palm sugar syrup)",
+      "optional: red azuki beans",
+      "optional: jackfruit slices"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": true,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 350g total",
+    "size_g": 350,
+    "natural_language_portion": "A standard Cendol serving is approximately 350g: 100g shaved ice, 100g sweetened coconut milk, 60g pandan rice flour jelly (cendol strands), 50g gula melaka syrup, and 40g optional toppings (red beans, jackfruit)."
+  },
+  "nutrient_source": {
+    "title": "Cendol — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo and IMR Malaysia MyFCD have entries for Cendol. Values per 100g represent the typical bowl composition (shaved ice, sweetened coconut milk, cendol jelly, gula melaka syrup, without red beans or jackfruit for the base version)."
+  },
+  "per_100g": {
+    "energy_kcal": 118.0,
+    "protein_g": 0.8,
+    "fat_g": 7.2,
+    "saturated_fat_g": 6.2,
+    "monounsaturated_fat_g": 0.5,
+    "polyunsaturated_fat_g": 0.2,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 14.5,
+    "sugar_g": 10.5,
+    "dietary_fibre_g": 0.3,
+    "sodium_mg": 35.0,
+    "potassium_mg": 125.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 0.0,
+    "vitamin_c_mg": 0.5,
+    "vitamin_a_mcg_rae": 0.0,
+    "vitamin_b1_thiamine_mg": 0.02,
+    "vitamin_b2_riboflavin_mg": 0.02,
+    "vitamin_b3_niacin_mg": 0.3,
+    "vitamin_b6_mg": 0.04,
+    "vitamin_b12_mcg": 0.0,
+    "folate_mcg_dfe": 4.0,
+    "vitamin_d_mcg": 0.0,
+    "vitamin_e_mg": 0.2,
+    "phosphorus_mg": 28.0,
+    "magnesium_mg": 15.0,
+    "zinc_mg": 0.2,
+    "selenium_mcg": 1.0,
+    "water_g": 76.0
+  },
+  "glycemic_index": 60,
+  "glycemic_load_per_serving": 30.5,
+  "gi_source": "University of Sydney GI Database — GI moderated by gula melaka (palm sugar, GI ~35–55) rather than cane sugar. Coconut milk fat further slows glucose absorption. The rice flour jelly contributes some starch. Estimated composite GI ~57–63. Per-350g bowl delivers approximately 50.75g carbohydrate; GL per bowl ~30.5.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "low",
+      "key_factor": "Very low sodium (35mg/100g) — a 350g bowl delivers only 123mg sodium. Potassium (125mg/100g) from coconut milk is a positive cardiovascular attribute.",
+      "guidance": "Patients with hypertension can enjoy cendol from a sodium perspective. The primary concern is saturated fat from full-fat coconut milk."
+    },
+    "type2_diabetes": {
+      "concern_level": "high",
+      "key_factor": "A 350g bowl delivers approximately 50.75g carbohydrate (GL ~30.5). The palm sugar (gula melaka) has a lower GI (~35–55) than cane sugar, giving the whole bowl a more moderate GI (~60) compared to teh tarik or bandung. However, the large serving size means the absolute carbohydrate and sugar load remains high.",
+      "guidance": "Patients with type 2 diabetes can eat cendol more moderately than teh tarik or bandung — the palm sugar (gula melaka) has meaningfully lower GI than condensed milk sugar. Limit to half a bowl (175g, GL ~15.3) and avoid adding red beans or extra syrup. Order at stalls that use pure gula melaka (not cane sugar syrup)."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "high",
+      "key_factor": "High saturated fat (6.2g/100g) from full-fat coconut milk — a 350g bowl delivers 21.7g saturated fat, exceeding the 20g/day recommended limit in a single dessert. The palm sugar's anti-inflammatory iron content (0.8mg/100g from gula melaka) is a minor positive.",
+      "guidance": "Patients with rheumatoid arthritis should limit cendol to a small portion (100–150ml) once every 2 weeks. The coconut milk saturated fat is the primary concern. Light coconut milk versions (if available) are preferable. The pandan green jelly itself has no proinflammatory properties."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Cendol is one of Southeast Asia's most beloved and visually striking desserts — a bowl of shaved ice topped with bright green rice flour jellies (extruded through a sieve to create worm-like strands dyed green with pandan juice), drenched in rich sweetened coconut milk and dark, treacly gula melaka (palm sugar) syrup. The combination of cool ice, silky coconut milk, earthy-sweet palm sugar, and the distinctive pandan-flavoured green jelly creates a refreshing yet indulgent dessert. Penang cendol is considered the gold standard. A distinguishing nutritional feature is the use of gula melaka (palm sugar) which has a lower GI than cane sugar — giving cendol a more moderate glycaemic profile than many other Malay sweet drinks despite its apparent richness.",
+    "common_user_queries": [
+      "cendol calories",
+      "cendol nutrition facts",
+      "cendol glycemic index",
+      "cendol vs teh tarik sugar",
+      "cendol healthy dessert",
+      "cendol gula melaka vs cane sugar"
+    ],
+    "meal_context": [
+      "hawker centre dessert stall",
+      "Penang hawker food",
+      "Malay dessert",
+      "afternoon refreshment",
+      "Bazaar Ramadan"
+    ],
+    "ingredient_synonyms": {
+      "cendol": [
+        "chendol",
+        "es cendol",
+        "dawet"
+      ],
+      "cendol jelly": [
+        "pandan rice flour jelly",
+        "green jelly cendol",
+        "lod chong"
+      ],
+      "gula melaka": [
+        "palm sugar syrup",
+        "dark coconut palm sugar"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct entries in HPB Singapore Foodo and IMR Malaysia MyFCD for Cendol. Consistent values across sources.",
+  "notes": "Iron content (0.8mg/100g) from gula melaka (palm sugar) — palm sugar retains trace minerals. A 350g bowl provides 2.8mg iron (19% of the 15mg/day RDA for women). Cholesterol-free (all plant-based ingredients). The green colour and flavour from pandan is natural — pandan (Pandanus amaryllifolius) provides trace antioxidants. Penang Cendol with red beans adds additional carbohydrate from azuki beans (~25g/100g carbohydrate) — adjust values if red beans are included."
+}
