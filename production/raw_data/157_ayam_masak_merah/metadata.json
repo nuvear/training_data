@@ -1,0 +1,155 @@
+{
+  "food_name": "Ayam Masak Merah (chicken in spiced tomato gravy)",
+  "local_names": {
+    "malay": "Ayam Masak Merah",
+    "chinese_simplified": "红烧鸡",
+    "chinese_traditional": "紅燒雞",
+    "tamil": "அயம் மாசாக் மெராஹ்",
+    "indonesian": "Ayam Masak Merah"
+  },
+  "aliases": [
+    "ayam masak merah",
+    "red cooked chicken Malay",
+    "chicken tomato curry Malay",
+    "masak merah chicken",
+    "Malay spiced tomato chicken"
+  ],
+  "cuisine": "Singapore Malay / Malaysian Malay",
+  "region_of_origin": "Malay Peninsula — Singapore and Malaysia Malay home and hawker cooking",
+  "food_group": "Poultry dishes",
+  "food_subgroup": "Chicken in spiced tomato-coconut gravy",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Ayam Masak Merah. Closest parent is chicken in spiced tomato-based curry sauce.",
+    "foodex2_code": "A0CHG",
+    "foodex2_description": "Chicken in spiced tomato-coconut gravy (Malay masak merah style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "fried (chicken)",
+      "simmered (gravy)"
+    ],
+    "processing_level": "prepared poultry dish",
+    "main_ingredients": [
+      "chicken (bone-in, skin-on)",
+      "canned tomatoes",
+      "dried chilli",
+      "onion",
+      "garlic",
+      "ginger",
+      "star anise",
+      "coconut milk",
+      "oil"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (chicken + gravy) = 250g",
+    "size_g": 250,
+    "natural_language_portion": "A standard Ayam Masak Merah serving is one piece of bone-in, skin-on chicken (approximately 150g) with 100g of the spiced tomato-coconut gravy. Served alongside steamed rice (not included in these values)."
+  },
+  "nutrient_source": {
+    "title": "Ayam Masak Merah — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo and IMR Malaysia MyFCD both have entries for Ayam Masak Merah. Values per 100g represent the chicken and gravy combined at approximately 60%:40% ratio. Chicken is bone-in, skin-on — edible yield is approximately 65% of bone-in weight."
+  },
+  "per_100g": {
+    "energy_kcal": 165.0,
+    "protein_g": 12.8,
+    "fat_g": 10.5,
+    "saturated_fat_g": 4.8,
+    "monounsaturated_fat_g": 3.5,
+    "polyunsaturated_fat_g": 1.5,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 5.2,
+    "sugar_g": 2.8,
+    "dietary_fibre_g": 1.0,
+    "sodium_mg": 385.0,
+    "potassium_mg": 255.0,
+    "calcium_mg": 35.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 72.0,
+    "vitamin_c_mg": 9.5,
+    "vitamin_a_mcg_rae": 95.0,
+    "vitamin_b1_thiamine_mg": 0.09,
+    "vitamin_b2_riboflavin_mg": 0.14,
+    "vitamin_b3_niacin_mg": 4.8,
+    "vitamin_b6_mg": 0.32,
+    "vitamin_b12_mcg": 0.4,
+    "folate_mcg_dfe": 18.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 1.5,
+    "phosphorus_mg": 155.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 1.5,
+    "selenium_mcg": 15.0,
+    "water_g": 69.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable to the curry component alone. The small amount of carbohydrate (5.2g/100g) from tomatoes and minor thickening agents does not produce a meaningful glycaemic response. The composite GI with steamed rice is approximately 65.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from spice paste preparation (salt, possible fish sauce or dried shrimp in paste), tomato (naturally low sodium, canned tomato adds variable sodium). A 250g serving delivers approximately 963mg sodium. Moderate for a Malay curry.",
+      "guidance": "Patients with hypertension should consume ayam masak merah in moderation — once or twice per week. The tomato base is lower in sodium than dried shrimp or belacan-heavy curries. Remove chicken skin before eating to reduce fat and allow better meal frequency."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "The curry component has low carbohydrate (5.2g/100g) — glycaemic impact comes from the accompanying steamed rice. Tomato lycopene and the moderate fat content from coconut milk may reduce insulin resistance over time with regular consumption.",
+      "guidance": "Patients with type 2 diabetes can include ayam masak merah as a main protein-rich side dish with controlled rice portion. The chicken skin adds saturated fat without carbohydrate. Remove skin to reduce saturated fat intake."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Tomato lycopene provides anti-oxidative benefit. Coconut milk saturated fat (4.8g/100g) is a concern for systemic inflammation. The spice base (galangal, star anise, ginger, dried chilli) has anti-inflammatory properties.",
+      "guidance": "Ayam masak merah is acceptable for patients with rheumatoid arthritis, particularly for its tomato lycopene content. Remove chicken skin to reduce saturated fat. Limit to 2 times per week due to the coconut milk saturated fat component."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ayam Masak Merah, literally 'red-cooked chicken', is a festive Malay chicken dish characterised by its vibrant red-orange tomato-chilli gravy. Unlike Indian chicken curry (coconut milk and yogurt base) or Chinese braised chicken (soy-based), Ayam Masak Merah uses canned or fresh tomatoes as the primary sauce base, combined with dried chilli, onion, garlic, and a small amount of coconut milk for richness. The chicken is typically pan-fried first to caramelise the skin, then simmered in the tomato gravy until the sauce reduces and coats the chicken. It is a staple Hari Raya dish and common at Malay hawker rice stalls. The tomato base provides lycopene, and the spice blend offers anti-inflammatory compounds.",
+    "common_user_queries": [
+      "ayam masak merah calories",
+      "ayam masak merah nutrition",
+      "ayam masak merah healthy",
+      "ayam masak merah vs rendang",
+      "ayam masak merah recipe ingredients"
+    ],
+    "meal_context": [
+      "Malay hawker centre",
+      "home cooking",
+      "Hari Raya",
+      "nasi padang side",
+      "festive meal"
+    ],
+    "ingredient_synonyms": {
+      "ayam masak merah": [
+        "masak merah chicken",
+        "red chicken curry Malay",
+        "Malay tomato chicken"
+      ],
+      "masak merah": [
+        "red cooking",
+        "tomato chilli gravy"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct entries in HPB Singapore Foodo and IMR Malaysia MyFCD. Consistent values across both sources. High confidence in macro and micronutrient values.",
+  "notes": "Values are for bone-in, skin-on chicken with gravy — edible yield (chicken without bone) is approximately 65% of the reported serving weight. Removing chicken skin reduces fat by approximately 3–5g per 100g serving. Tomato provides lycopene (4–8mg per serving), which has cardiovascular and anti-cancer benefits. The tomato-coconut combination is lower in saturated fat than full rendang but higher than asam pedas."
+}

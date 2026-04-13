@@ -1,0 +1,62 @@
+{
+  "source_json": "ayam_masak_merah.json",
+  "filename_prefix": "ayam_masak_merah",
+  "save_pattern": "ayam_masak_merah_{x}.jpg",
+  "objective": "Train MedGemma to visually recognize Ayam Masak Merah across its product form, texture, ingredients, culinary context, and label-relevant features.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic close-up of Ayam Masak Merah chicken in spiced red tomato-coconut gravy Malay Peninsula",
+      "bone-in skin-on fried chicken pieces coated in vibrant red-orange tomato chilli gravy Malay home cooking",
+      "Ayam Masak Merah served in a bowl with visible thick spiced tomato gravy and chicken skin Malay hawker centre"
+    ],
+    "macro_texture": [
+      "texture of caramelised fried chicken skin coated with thick glossy red tomato chilli gravy",
+      "close-up of chunky spiced tomato gravy with visible onion, garlic, dried chilli and star anise pieces",
+      "surface texture of rich coconut milk infused red tomato gravy simmered on bone-in chicken"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh bone-in skin-on chicken pieces before frying for Ayam Masak Merah Malay cuisine",
+      "canned tomatoes, dried chilli, onion, garlic, ginger, star anise, coconut milk ingredients for Malay tomato chicken curry",
+      "pan-fried chicken pieces caramelising skin before simmering in spiced tomato coconut gravy Malay Peninsula"
+    ],
+    "in_the_wild_context": [
+      "Ayam Masak Merah served at Malay hawker centre with steamed white rice and side dishes Singapore",
+      "festive Hari Raya meal featuring Ayam Masak Merah on a traditional Malay dining table",
+      "home-cooked Malay style Ayam Masak Merah plated with nasi padang and sambal in Malaysian household"
+    ],
+    "culinary_application": [
+      "Ayam Masak Merah as a main poultry dish paired with steamed rice in Malay cuisine",
+      "Malay spiced tomato chicken served as part of nasi padang or festive meal spread",
+      "bone-in chicken in red tomato chilli gravy used in Malay home cooking and hawker stalls"
+    ],
+    "label_truth": [],
+    "optional_local_language_queries": [
+      "Ayam Masak Merah 红烧鸡 Malay spiced tomato chicken dish Singapore Malaysia",
+      "அயம் மாசாக் மெராஹ் Tamil red cooked chicken in spiced tomato gravy",
+      "Ayam Masak Merah Indonesian Malay Peninsula chicken tomato curry",
+      "红烧鸡 Chinese simplified Malay style red cooked chicken tomato gravy",
+      "紅燒雞 Chinese traditional Malay chicken in spiced tomato coconut gravy"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
