@@ -1,0 +1,155 @@
+{
+  "food_name": "Ayam Goreng Berempah (Malay spiced fried chicken)",
+  "local_names": {
+    "malay": "Ayam Goreng Berempah",
+    "chinese_simplified": "马来香料炸鸡",
+    "chinese_traditional": "馬來香料炸雞",
+    "tamil": "அயம் கோரெங் பெரெம்பா",
+    "indonesian": "Ayam Goreng Bumbu"
+  },
+  "aliases": [
+    "ayam goreng berempah",
+    "Malay spiced fried chicken",
+    "rempah fried chicken",
+    "turmeric fried chicken Malay",
+    "berempah chicken"
+  ],
+  "cuisine": "Singapore Malay / Malaysian Malay",
+  "region_of_origin": "Malay Peninsula — Singapore and Malaysia Malay hawker food",
+  "food_group": "Poultry dishes",
+  "food_subgroup": "Deep-fried spice-marinated chicken",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Ayam Goreng Berempah. Closest parent is deep-fried marinated chicken.",
+    "foodex2_code": "A0CHF",
+    "foodex2_description": "Deep-fried spiced marinated chicken, Malay berempah style",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "marinated",
+      "deep-fried"
+    ],
+    "processing_level": "prepared fried chicken dish",
+    "main_ingredients": [
+      "chicken (bone-in, skin-on)",
+      "turmeric",
+      "lemongrass",
+      "galangal",
+      "coriander seed",
+      "fennel seed",
+      "coconut milk (marinade)",
+      "oil (for frying)"
+    ],
+    "allergens": [],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 piece (bone-in, skin-on, fried) = 200g",
+    "size_g": 200,
+    "natural_language_portion": "A standard Ayam Goreng Berempah serving is one piece of bone-in, skin-on deep-fried chicken approximately 200g (e.g., a drumstick or thigh). The edible yield (without bone) is approximately 130–140g. Served with nasi lemak or as a standalone hawker side."
+  },
+  "nutrient_source": {
+    "title": "Ayam Goreng Berempah — HPB Singapore Foodo; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has entries for Malay spiced fried chicken (berempah). Confirmed as the spice-marinated version (turmeric, lemongrass, galangal, coconut milk marinade), not plain KFC-style fried chicken. Values per 100g represent bone-in, skin-on fried chicken with absorbed oil."
+  },
+  "per_100g": {
+    "energy_kcal": 262.0,
+    "protein_g": 20.5,
+    "fat_g": 18.8,
+    "saturated_fat_g": 6.2,
+    "monounsaturated_fat_g": 7.5,
+    "polyunsaturated_fat_g": 3.8,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 2.8,
+    "sugar_g": 0.5,
+    "dietary_fibre_g": 0.5,
+    "sodium_mg": 420.0,
+    "potassium_mg": 275.0,
+    "calcium_mg": 18.0,
+    "iron_mg": 1.0,
+    "cholesterol_mg": 95.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 25.0,
+    "vitamin_b1_thiamine_mg": 0.1,
+    "vitamin_b2_riboflavin_mg": 0.16,
+    "vitamin_b3_niacin_mg": 5.8,
+    "vitamin_b6_mg": 0.42,
+    "vitamin_b12_mcg": 0.5,
+    "folate_mcg_dfe": 10.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 2.5,
+    "phosphorus_mg": 195.0,
+    "magnesium_mg": 24.0,
+    "zinc_mg": 2.2,
+    "selenium_mcg": 18.0,
+    "water_g": 55.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — Ayam Goreng Berempah is a protein and fat dominant dish with negligible carbohydrate (2.8g/100g from the spice paste and minimal marinade residue). No meaningful glycaemic response.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from marinade (salt, possible fish sauce) and deep-frying oil absorption. A 200g serving delivers approximately 840mg sodium. Moderate for a fried chicken dish. The rempah (spice paste) base has lower sodium than soy-marinated or salty-brine style fried chicken.",
+      "guidance": "Patients with hypertension can consume ayam goreng berempah occasionally. Remove the skin before eating to reduce fat and sodium. Limit to once or twice per week, paired with unseasoned steamed vegetables."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Minimal carbohydrate (2.8g/100g) — glycaemic impact is negligible from the chicken itself. The high fat from deep-frying may reduce insulin sensitivity with frequent consumption (>3 times per week). High protein (20.5g/100g) supports satiety.",
+      "guidance": "Patients with type 2 diabetes can include ayam goreng berempah as a protein source with minimal direct glycaemic concern. Limit frequency to 2 times per week due to the saturated fat content. Pair with a high-fibre vegetable accompaniment."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "High fat from deep-frying (18.8g/100g, saturated 6.2g/100g) may promote systemic inflammation with frequent consumption. The spice marinade (turmeric, galangal, lemongrass) provides anti-inflammatory compounds. The net effect depends on frequency.",
+      "guidance": "Patients with rheumatoid arthritis should limit ayam goreng berempah to once per week. Removing the skin reduces saturated fat substantially (from ~6.2g to ~3g per 100g edible meat). The turmeric marinade coating provides curcumin even in the fried preparation."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Ayam Goreng Berempah is the Malay version of spiced fried chicken, distinguished from Western fried chicken by its aromatic rempah (spice paste) marinade made from turmeric, lemongrass, galangal, coriander, and coconut milk. The chicken is marinated in this paste for several hours or overnight, then deep-fried until golden and crispy. The result is a fragrant, golden-crusted fried chicken with a distinctly Southeast Asian flavour profile. It is a staple accompaniment in Nasi Lemak and a popular standalone dish at Malay hawker stalls. The turmeric coating imparts a characteristic golden-yellow colour and contributes curcumin even after frying.",
+    "common_user_queries": [
+      "ayam goreng berempah calories",
+      "ayam goreng berempah vs KFC",
+      "Malay fried chicken nutrition",
+      "ayam goreng berempah healthy",
+      "spiced fried chicken Malay recipe",
+      "ayam goreng berempah fat content"
+    ],
+    "meal_context": [
+      "nasi lemak accompaniment",
+      "Malay hawker centre",
+      "home cooking",
+      "Hari Raya",
+      "breakfast staple"
+    ],
+    "ingredient_synonyms": {
+      "ayam goreng berempah": [
+        "rempah fried chicken",
+        "Malay spiced fried chicken",
+        "turmeric fried chicken"
+      ],
+      "berempah": [
+        "rempah spiced",
+        "spice-marinated"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Direct entry in HPB Singapore Foodo for Ayam Goreng Berempah (Malay spiced fried chicken). Cross-referenced with IMR Malaysia MyFCD. Fat values consistent with deep-fried chicken preparations.",
+  "notes": "Values are per 100g bone-in, skin-on fried chicken (approximately half the weight is edible). The edible yield without bone is approximately 65% of the reported weight. Removing chicken skin reduces fat by approximately 8–10g per 100g portion and substantially reduces saturated fat and cholesterol. Comparison to Tandoori Chicken (Batch 2 #073): berempah has significantly higher fat (18.8g vs ~8g for tandoori) due to deep-frying vs. dry-heat roasting."
+}

@@ -1,0 +1,62 @@
+{
+  "source_json": "ayam_goreng_berempah.json",
+  "filename_prefix": "ayam_goreng_berempah",
+  "save_pattern": "ayam_goreng_berempah_{x}.jpg",
+  "objective": "Train MedGemma to visually recognize Ayam Goreng Berempah across its product forms, textures, ingredients, culinary contexts, and regional variants.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic close-up of Ayam Goreng Berempah Malay spiced fried chicken bone-in skin-on golden crispy deep-fried",
+      "Ayam Goreng Berempah rempah fried chicken turmeric fried chicken Malay hawker food Singapore Malaysia",
+      "Malay spiced fried chicken deep-fried turmeric coated chicken piece with crispy skin"
+    ],
+    "macro_texture": [
+      "golden yellow crispy fried chicken skin with turmeric spice crust Ayam Goreng Berempah",
+      "close-up texture of deep-fried chicken skin marinated in turmeric lemongrass galangal spice paste",
+      "surface detail of Malay spiced fried chicken showing crunchy fried coating with rempah spices"
+    ],
+    "raw_ingredients_and_process": [
+      "fresh bone-in skin-on chicken pieces marinated in turmeric lemongrass galangal coriander fennel coconut milk",
+      "Malay rempah spice paste ingredients turmeric galangal lemongrass coriander seed fennel seed coconut milk",
+      "deep-frying process of marinated chicken in hot oil Malay spiced fried chicken preparation"
+    ],
+    "in_the_wild_context": [
+      "Ayam Goreng Berempah served as side dish with nasi lemak Malay hawker centre Singapore Malaysia",
+      "Malay hawker stall selling golden crispy Ayam Goreng Berempah fried chicken pieces",
+      "home-cooked Malay spiced fried chicken served on plate for breakfast or Hari Raya celebration"
+    ],
+    "culinary_application": [
+      "Ayam Goreng Berempah served with steamed rice and unseasoned vegetables Malay cuisine",
+      "Malay spiced fried chicken as standalone hawker side dish with chili dipping sauce",
+      "traditional Malay meal featuring turmeric fried chicken with coconut milk marinade"
+    ],
+    "label_truth": [],
+    "optional_local_language_queries": [
+      "马来香料炸鸡 deep-fried spiced chicken Singapore Malay hawker food",
+      "馬來香料炸雞 turmeric fried chicken bone-in skin-on Malay Peninsula",
+      "அயம் கோரெங் பெரெம்பா Malay spiced fried chicken Tamil language",
+      "Ayam Goreng Bumbu Indonesian style turmeric fried chicken",
+      "Ayam Goreng Berempah Malay spiced fried chicken halal certified"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

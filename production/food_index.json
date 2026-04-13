@@ -42,5 +42,9 @@
   {
     "food_id": "157_ayam_masak_merah",
     "idx": 10
+  },
+  {
+    "food_id": "158_ayam_goreng_berempah",
+    "idx": 11
   }
 ]
