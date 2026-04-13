@@ -1,0 +1,65 @@
+{
+  "source_json": "rawon_east_java_black_soup.json",
+  "filename_prefix": "rawon_east_java_black_soup",
+  "save_pattern": "rawon_east_java_black_soup_{x}.jpg",
+  "objective": "Train MedGemma to visually identify Rawon soup by its distinctive black keluak nut broth, tender beef cubes, traditional Indonesian garnishes, and typical East Javanese serving context.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of Rawon East Javanese black keluak nut beef soup with tender beef cubes and dark broth",
+      "close-up of Indonesian Rawon sapi black beef soup with keluak nut broth and bean sprouts garnish",
+      "Surabaya style Rawon black soup served in traditional Indonesian bowl with salted egg and sambal on side"
+    ],
+    "macro_texture": [
+      "detailed texture of Rawon black keluak nut broth showing deep dark earthy color and slight oil sheen",
+      "close-up of tender slow-simmered beef cubes in dark Indonesian black keluak nut soup",
+      "texture of bean sprouts floating on top of Rawon black beef soup with visible lemongrass and galangal pieces"
+    ],
+    "raw_ingredients_and_process": [
+      "photorealistic image of processed fermented keluak nuts (Pangium edule) used for black broth in Rawon",
+      "raw tender beef cubes ready for slow simmering in Indonesian black keluak nut soup",
+      "traditional Indonesian spice paste ingredients for Rawon including lemongrass, galangal, turmeric, shallots, garlic, and shrimp paste terasi"
+    ],
+    "in_the_wild_context": [
+      "Rawon soup served in East Java restaurant setting with steamed rice, salted egg, sambal and bean sprouts",
+      "Indonesian food court stall in Jakarta serving bowls of Rawon black keluak nut beef soup",
+      "traditional Indonesian meal with Rawon soup and side dishes in Surabaya local dining environment"
+    ],
+    "culinary_application": [
+      "Rawon black keluak nut beef soup served with steamed white rice and salted egg on traditional Indonesian plate",
+      "Indonesian Rawon soup garnished with fresh bean sprouts and sambal chili sauce for eating",
+      "East Javanese Rawon soup as part of special occasion meal with typical Indonesian side dishes"
+    ],
+    "label_truth": [
+      "close-up of Rawon soup label highlighting allergen shrimp paste terasi and sodium content",
+      "ingredient label on packaged Rawon soup showing keluak nut, beef, lemongrass, galangal, turmeric, shrimp paste",
+      "nutrition facts label for Rawon East Javanese black keluak nut beef soup with sodium and allergen info"
+    ],
+    "optional_local_language_queries": [
+      "爪哇黑牛肉汤 Indonesian Rawon black beef soup in Chinese simplified script",
+      "Rawon sapi black keluak nut beef soup in Indonesian language",
+      "ரவான் Tamil script for Rawon East Javanese black beef soup",
+      "East Javanese black keluak nut beef soup Surabaya style with local names Rawon, kluwak, buah kepayang"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

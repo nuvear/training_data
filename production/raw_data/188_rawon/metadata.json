@@ -1,0 +1,158 @@
+{
+  "food_name": "Rawon (East Javanese black keluak nut beef soup)",
+  "local_names": {
+    "malay": "Rawon",
+    "chinese_simplified": "爪哇黑牛肉汤",
+    "chinese_traditional": "爪哇黑牛肉湯",
+    "tamil": "ரவான்",
+    "indonesian": "Rawon"
+  },
+  "aliases": [
+    "rawon",
+    "rawon sapi",
+    "East Javanese black beef soup",
+    "keluak beef soup",
+    "Surabaya black soup"
+  ],
+  "cuisine": "Indonesian (East Java specialty)",
+  "region_of_origin": "East Java, Indonesia — particularly associated with Surabaya",
+  "food_group": "Soups and stews",
+  "food_subgroup": "Black keluak nut beef soup with beansprout garnish",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no concept for Rawon. Closest parent is beef soup with keluak nut (Pangium edule). Keluak nut is a unique ingredient not represented in most food ontologies.",
+    "foodex2_code": "A00MN",
+    "foodex2_description": "East Javanese black beef soup with keluak nut (Indonesian rawon style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "slow-simmered"
+    ],
+    "processing_level": "prepared soup dish",
+    "main_ingredients": [
+      "beef (tender cuts)",
+      "keluak nuts (Pangium edule — processed/fermented)",
+      "lemongrass",
+      "galangal",
+      "turmeric",
+      "shallots",
+      "garlic",
+      "shrimp paste (terasi)",
+      "bean sprouts",
+      "salted egg"
+    ],
+    "allergens": [
+      "crustaceans (shrimp paste/terasi)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl (soup + beef) = 400g",
+    "size_g": 400,
+    "natural_language_portion": "A standard Rawon serving is approximately 400g: 200g tender beef cubes, 200g black keluak-infused broth with beansprouts and garnishes. Served with steamed rice, salted egg, and sambal (not included)."
+  },
+  "nutrient_source": {
+    "title": "Rawon — FAO/INFOODS SEA Table; estimated from components",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table",
+    "url": "https://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "FAO/INFOODS SEA Table has limited coverage for Rawon. Values estimated from beef broth base (USDA SR Legacy for beef) + keluak nut mineral contribution (keluak nuts contribute fat and minerals) + bean sprout garnish. Per-100g represents blended bowl composition. Confidence: medium."
+  },
+  "per_100g": {
+    "energy_kcal": 112.0,
+    "protein_g": 12.2,
+    "fat_g": 5.5,
+    "saturated_fat_g": 2.2,
+    "monounsaturated_fat_g": 2.2,
+    "polyunsaturated_fat_g": 0.6,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 3.2,
+    "sugar_g": 1.0,
+    "dietary_fibre_g": 0.6,
+    "sodium_mg": 385.0,
+    "potassium_mg": 255.0,
+    "calcium_mg": 22.0,
+    "iron_mg": 1.8,
+    "cholesterol_mg": 55.0,
+    "vitamin_c_mg": 3.5,
+    "vitamin_a_mcg_rae": 12.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.12,
+    "vitamin_b3_niacin_mg": 4.5,
+    "vitamin_b6_mg": 0.28,
+    "vitamin_b12_mcg": 1.8,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.4,
+    "phosphorus_mg": 148.0,
+    "magnesium_mg": 22.0,
+    "zinc_mg": 3.5,
+    "selenium_mcg": 16.0,
+    "water_g": 77.0
+  },
+  "glycemic_index": null,
+  "glycemic_load_per_serving": null,
+  "gi_source": "GI not applicable — Rawon is protein and fat dominant with minimal carbohydrate (3.2g/100g from the keluak nut paste and minor starch). No meaningful glycaemic response.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from the terasi (shrimp paste) in the spice paste and salt in the beef broth. A 400g bowl delivers approximately 1,540mg sodium — 64% of the daily limit. Moderate for a meat soup.",
+      "guidance": "Patients with hypertension can enjoy rawon occasionally. Leave a portion of the broth unconsumed. The protein-dominant nature makes it more suitable than coconut milk-heavy soups."
+    },
+    "type2_diabetes": {
+      "concern_level": "low",
+      "key_factor": "Very low carbohydrate from the soup itself — excellent for blood glucose management. High protein from beef supports satiety. Zinc (3.5mg/100g) from beef supports glucose metabolism and insulin function.",
+      "guidance": "Patients with type 2 diabetes should view rawon as an excellent protein choice with minimal glycaemic impact. Pair with controlled rice portion (100g). The keluak nut adds unique minerals without impacting blood glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Lower saturated fat than coconut milk soups (2.2g/100g). High zinc (3.5mg/100g) from beef supports immune function and wound healing. Iron (1.8mg/100g) is beneficial for anaemia of chronic disease. Turmeric in the spice base provides curcumin.",
+      "guidance": "Rawon is an excellent choice for patients with rheumatoid arthritis — lower saturated fat, high zinc and iron from beef, and anti-inflammatory turmeric in the base. Suitable for regular consumption (2–3 times per week)."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Rawon is one of Indonesia's most distinctive soups, immediately recognisable by its jet-black colour. The black broth comes from keluak nuts (Pangium edule) — a large, dark nut native to Southeast Asian mangrove forests that must be fermented to neutralise toxic hydrocyanic acid. Once processed, the keluak nut flesh is scraped out and added to the beef broth, dissolving to create a deeply dark, earthy, slightly bitter, intensely flavoured black soup. Tender beef cubes are slow-cooked in this unusual broth with lemongrass, galangal, and shrimp paste. Rawon is served with steamed rice, bean sprouts, salted egg, and sambal. It is a dish of tremendous cultural significance in East Java and considered a national dish of Indonesia.",
+    "common_user_queries": [
+      "rawon calories",
+      "rawon nutrition facts",
+      "rawon black soup Indonesia",
+      "rawon keluak nut nutrition",
+      "rawon healthy",
+      "rawon protein content"
+    ],
+    "meal_context": [
+      "East Java restaurant",
+      "Indonesian food court Singapore",
+      "Jakarta hawker",
+      "special occasion"
+    ],
+    "ingredient_synonyms": {
+      "rawon": [
+        "East Javanese black beef soup",
+        "keluak beef soup"
+      ],
+      "keluak": [
+        "kluwak",
+        "pangium edule",
+        "black nut Indonesia",
+        "buah kepayang"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "FAO/INFOODS SEA Table has limited direct Rawon coverage. Values estimated from component data (beef + keluak contribution). Keluak nut nutritional data is scarce in primary databases. Confidence: medium.",
+  "notes": "Keluak nut (Pangium edule) is a unique Southeast Asian ingredient with limited nutritional data in standard databases. It contributes fat, minerals (particularly potassium and magnesium), and the characteristic black colour. Keluak must be processed (fermented and boiled) to remove toxic hydrocyanic acid — safe when properly prepared. This dish is one of the few examples of a naturally black-coloured savoury food from a plant source."
+}
