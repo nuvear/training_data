@@ -1,0 +1,64 @@
+{
+  "source_json": "bakso_indonesian_beef_meatball_soup.json",
+  "filename_prefix": "bakso_indonesian_beef_meatball_soup",
+  "save_pattern": "bakso_indonesian_beef_meatball_soup_{x}.jpg",
+  "objective": "Train MedGemma to visually identify and understand Indonesian Bakso beef meatball soup across its product forms, textures, ingredients, serving contexts, culinary uses, and label-relevant features.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic bowl of Indonesian bakso beef meatball soup with yellow noodles tofu puffs and lime",
+      "close-up of bakso sapi Indonesian beef meatball soup with clear beef broth and fried shallots",
+      "street food style serving of bakso Indonesian beef meatball soup in traditional bowl with sambal and lime"
+    ],
+    "macro_texture": [
+      "close-up of smooth bouncy beef meatballs bakso texture with tapioca starch elasticity",
+      "detailed texture of clear savory beef broth in Indonesian bakso soup",
+      "surface texture of fried shallots topping on bakso beef meatball soup"
+    ],
+    "raw_ingredients_and_process": [
+      "raw minced beef and tapioca starch mixture for bakso meatballs",
+      "yellow wheat noodles and glass noodles used in Indonesian bakso soup",
+      "tofu puffs and fresh lime wedges served with bakso beef meatball soup"
+    ],
+    "in_the_wild_context": [
+      "Indonesian street food vendor selling bakso meatball soup from mobile cart tukang bakso",
+      "Indonesian hawker centre stall serving bakso beef meatball soup with sambal and lime",
+      "Indonesian food court lunch scene featuring bowls of bakso beef meatball soup"
+    ],
+    "culinary_application": [
+      "Indonesian bakso beef meatball soup served as lunch or supper with sambal chili sauce",
+      "traditional Indonesian bakso soup presentation with lime wedge and fried shallots garnish",
+      "bakso beef meatball soup served with glass noodles as lower glycemic index option"
+    ],
+    "label_truth": [
+      "bakso beef meatball soup label highlighting allergens gluten from wheat noodles and soy from tofu",
+      "close-up of sodium content information on bakso beef meatball soup packaging or menu",
+      "halal certified label on Indonesian bakso beef meatball soup product or stall sign"
+    ],
+    "optional_local_language_queries": [
+      "印尼牛肉丸汤 Indonesian beef meatball soup bowl with noodles and tofu",
+      "Bakso Sapi Indonesian beef meatball soup with clear broth and fried shallots",
+      "பாக்சோ Tamil language bakso beef meatball soup with sambal and lime"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}

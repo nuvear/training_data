@@ -1,0 +1,157 @@
+{
+  "food_name": "Bakso (Indonesian beef meatball soup with noodles)",
+  "local_names": {
+    "malay": "Bakso",
+    "chinese_simplified": "印尼牛肉丸汤",
+    "chinese_traditional": "印尼牛肉丸湯",
+    "tamil": "பாக்சோ",
+    "indonesian": "Bakso Sapi"
+  },
+  "aliases": [
+    "bakso",
+    "baso",
+    "Indonesian beef meatball",
+    "bakso sapi",
+    "bakso soup"
+  ],
+  "cuisine": "Indonesian (Javanese origin; ubiquitous nationwide)",
+  "region_of_origin": "Java, Indonesia — one of Indonesia's most popular street foods",
+  "food_group": "Soups and stews",
+  "food_subgroup": "Beef meatball soup with noodles and tofu",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for Bakso. Closest parent is beef meatball soup with noodles.",
+    "foodex2_code": "A00MN",
+    "foodex2_description": "Beef meatball soup with noodles (Indonesian bakso style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled (meatballs)",
+      "simmered (broth)",
+      "assembled"
+    ],
+    "processing_level": "prepared noodle soup dish",
+    "main_ingredients": [
+      "beef meatballs (minced beef + tapioca starch)",
+      "clear beef broth",
+      "yellow noodles or glass noodles",
+      "tofu puffs",
+      "fried shallots",
+      "chilli sauce",
+      "lime"
+    ],
+    "allergens": [
+      "gluten (possible — wheat noodles)",
+      "soy (tofu)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": false,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 bowl = 500g total",
+    "size_g": 500,
+    "natural_language_portion": "A standard Bakso serving is approximately 500g: 200g clear beef broth, 3–4 beef meatballs (~150g), 100g noodles, 50g tofu puffs and fried shallots. Served with sambal and lime."
+  },
+  "nutrient_source": {
+    "title": "Bakso (Indonesian beef meatball soup) — FAO/INFOODS SEA; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "FAO/INFOODS Southeast Asia Regional Food Composition Table; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://www.fao.org/infoods/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "adapted",
+    "source_match_notes": "FAO/INFOODS SEA Table and IMR Malaysia MyFCD have entries for beef meatball soup. Per-100g values represent the blended bowl composition. The tapioca starch binder in bakso meatballs contributes carbohydrate — unusual for a meat component. Indonesian bakso uses a distinctive smooth, bouncy meatball texture from the tapioca-beef emulsion."
+  },
+  "per_100g": {
+    "energy_kcal": 105.0,
+    "protein_g": 8.2,
+    "fat_g": 3.5,
+    "saturated_fat_g": 1.2,
+    "monounsaturated_fat_g": 1.5,
+    "polyunsaturated_fat_g": 0.5,
+    "trans_fat_g": 0.1,
+    "carbohydrate_g": 11.2,
+    "sugar_g": 0.8,
+    "dietary_fibre_g": 0.6,
+    "sodium_mg": 420.0,
+    "potassium_mg": 188.0,
+    "calcium_mg": 28.0,
+    "iron_mg": 1.2,
+    "cholesterol_mg": 28.0,
+    "vitamin_c_mg": 1.5,
+    "vitamin_a_mcg_rae": 8.0,
+    "vitamin_b1_thiamine_mg": 0.07,
+    "vitamin_b2_riboflavin_mg": 0.1,
+    "vitamin_b3_niacin_mg": 3.5,
+    "vitamin_b6_mg": 0.2,
+    "vitamin_b12_mcg": 0.8,
+    "folate_mcg_dfe": 12.0,
+    "vitamin_d_mcg": 0.1,
+    "vitamin_e_mg": 0.3,
+    "phosphorus_mg": 105.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 2.5,
+    "selenium_mcg": 12.0,
+    "water_g": 74.0
+  },
+  "glycemic_index": 58,
+  "glycemic_load_per_serving": 32.5,
+  "gi_source": "University of Sydney GI Database — GI driven by noodle component (~GI 50–65) and tapioca starch in meatballs (~GI 70). Beef protein and tofu fat moderate the overall glycaemic response. Estimated composite bowl GI ~55–62. Per-500g bowl delivers approximately 56g carbohydrate; GL per bowl ~32.5.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium from beef broth, soy sauce in preparation, and possible MSG in commercial bakso. A 500g bowl delivers approximately 2,100mg sodium — 87% of the daily limit. The clear broth is the primary sodium source.",
+      "guidance": "Patients with hypertension can enjoy bakso occasionally. Leave a significant portion of the broth unconsumed — this alone reduces sodium by approximately 400–600mg. Request reduced seasoning if ordering from fresh-cooked stalls."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "Bakso has a moderate carbohydrate load from noodles (11.2g/100g) and tapioca in meatballs. A 500g bowl delivers approximately 56g carbohydrate. The beef protein (8.2g/100g) moderates the glycaemic response. Zinc from beef (2.5mg/100g) supports glucose metabolism.",
+      "guidance": "Patients with type 2 diabetes can eat bakso as a moderate-GL meal. Request glass noodles (lower GI than yellow noodles) as a substitute. The beef meatballs themselves are moderate-GI due to tapioca. Avoid adding extra kecap manis (sweet soy) which adds significant sugar."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "low",
+      "key_factor": "Low fat (3.5g/100g) with modest saturated fat from beef (1.2g/100g). Zinc from beef (2.5mg/100g) is important for immune function in autoimmune conditions. Vitamin B12 (0.8mcg/100g) supports neurological health.",
+      "guidance": "Bakso is a suitable regular meal for patients with rheumatoid arthritis — low saturated fat, good protein, and meaningful zinc. The clear broth is easy to digest. Add extra lime juice (vitamin C) to the bowl to enhance iron absorption."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Bakso is Indonesia's most beloved street food — smooth, bouncy beef meatballs (made from finely minced beef emulsified with tapioca starch) served in a clear, savory beef broth with yellow noodles or glass noodles, tofu puffs, fried shallots, and a spoonful of sambal and lime. The bakso meatball has a distinctive smooth, elastic texture unlike Chinese meatballs — the tapioca starch creates a springy, bouncy consistency. It is sold from mobile cart vendors (tukang bakso) throughout Indonesia and at Indonesian restaurants in Singapore. Nutritionally, it is a moderate-calorie, high-protein soup dish, lower in fat than coconut-milk-based dishes.",
+    "common_user_queries": [
+      "bakso calories",
+      "Indonesian meatball soup nutrition",
+      "bakso healthy",
+      "bakso vs fishball soup",
+      "bakso sodium content",
+      "bakso protein content"
+    ],
+    "meal_context": [
+      "Indonesian food court",
+      "mobile cart street food",
+      "hawker centre Indonesian stall",
+      "lunch",
+      "supper"
+    ],
+    "ingredient_synonyms": {
+      "bakso": [
+        "baso",
+        "Indonesian beef meatball soup"
+      ],
+      "bakso sapi": [
+        "beef bakso",
+        "sapi bakso"
+      ]
+    }
+  },
+  "confidence": "medium",
+  "confidence_reason": "FAO/INFOODS SEA and IMR Malaysia MyFCD used for bakso. Values consistent with known beef meatball and noodle soup composition. Medium confidence as Indonesian-specific bakso formulation (tapioca binding ratio) varies.",
+  "notes": "The tapioca starch in bakso meatballs (approximately 20–25% of meatball weight) contributes unusual carbohydrate for a meat product — clinically relevant for diabetes management. Indonesian bakso is halal by default at Indonesian food establishments. Zinc content (2.5mg/100g) from beef is notable. Glass noodles (soun) have lower GI than yellow wheat noodles — can substitute to lower GL."
+}
