@@ -1,0 +1,161 @@
+{
+  "food_name": "Lontong (compressed rice cake with coconut vegetable curry)",
+  "local_names": {
+    "malay": "Lontong",
+    "chinese_simplified": "糯米卷",
+    "chinese_traditional": "糯米卷",
+    "tamil": "லொந்தோங்",
+    "indonesian": "Lontong Sayur"
+  },
+  "aliases": [
+    "lontong",
+    "ketupat sayur",
+    "lontong sayur",
+    "compressed rice cake with curry",
+    "Malay rice cake curry"
+  ],
+  "cuisine": "Singapore Malay / Javanese-Malay",
+  "region_of_origin": "Java, Indonesia — widely adopted in Singapore Malay cuisine",
+  "food_group": "Grains and staples",
+  "food_subgroup": "Compressed rice cake in coconut vegetable curry",
+  "ontology": {
+    "foodon_uri": null,
+    "foodon_label": null,
+    "foodon_match_type": "closest_parent",
+    "foodon_gap_note": "FoodOn has no specific concept for lontong (compressed rice cake dish). Closest parent is rice-based Southeast Asian dish with vegetable curry.",
+    "foodex2_code": "A00PB",
+    "foodex2_description": "Rice-based dish with coconut vegetable curry (Malay lontong style)",
+    "foodex2_match_type": "closest_parent",
+    "snomed_ct_code": null,
+    "snomed_ct_description": null
+  },
+  "classification": {
+    "preparation_method": [
+      "boiled/compressed",
+      "simmered",
+      "steamed"
+    ],
+    "processing_level": "prepared composite dish",
+    "main_ingredients": [
+      "compressed rice cake",
+      "long beans",
+      "carrot",
+      "cabbage",
+      "tofu puffs",
+      "hard-boiled egg",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "turmeric"
+    ],
+    "allergens": [
+      "eggs",
+      "soy (tofu)",
+      "crustaceans (possible belacan in curry base)"
+    ],
+    "dietary_flags": {
+      "is_vegetarian": false,
+      "is_vegan": false,
+      "is_halal": true,
+      "is_kosher": false,
+      "is_gluten_free": true,
+      "is_dairy_free": true
+    }
+  },
+  "serving": {
+    "description": "1 plate = 400g total",
+    "size_g": 400,
+    "natural_language_portion": "A standard lontong serving consists of 160g compressed rice cake cubes and 240g coconut vegetable curry, including long beans, cabbage, tofu puffs, and a hard-boiled egg, with garnishes of serunding and sambal."
+  },
+  "nutrient_source": {
+    "title": "Lontong — HPB Singapore Foodo Database; cross-referenced with IMR Malaysia MyFCD",
+    "organization": "Health Promotion Board (HPB), Singapore; Institute for Medical Research (IMR) Malaysia",
+    "url": "https://foodo.sg/",
+    "accessed_date": "2026-04-13",
+    "source_match_type": "exact",
+    "source_match_notes": "HPB Singapore Foodo has a Lontong entry covering the compressed rice cake with coconut vegetable curry combination. Values per 100g represent the blended dish composition (rice cake + coconut curry at ~40%:60% weight ratio). IMR Malaysia MyFCD used for validation of coconut curry component nutrient values."
+  },
+  "per_100g": {
+    "energy_kcal": 108.0,
+    "protein_g": 4.2,
+    "fat_g": 4.8,
+    "saturated_fat_g": 3.5,
+    "monounsaturated_fat_g": 0.7,
+    "polyunsaturated_fat_g": 0.4,
+    "trans_fat_g": 0.0,
+    "carbohydrate_g": 12.8,
+    "sugar_g": 1.8,
+    "dietary_fibre_g": 1.5,
+    "sodium_mg": 210.0,
+    "potassium_mg": 145.0,
+    "calcium_mg": 45.0,
+    "iron_mg": 0.8,
+    "cholesterol_mg": 28.0,
+    "vitamin_c_mg": 5.5,
+    "vitamin_a_mcg_rae": 48.0,
+    "vitamin_b1_thiamine_mg": 0.06,
+    "vitamin_b2_riboflavin_mg": 0.07,
+    "vitamin_b3_niacin_mg": 1.2,
+    "vitamin_b6_mg": 0.12,
+    "vitamin_b12_mcg": 0.1,
+    "folate_mcg_dfe": 22.0,
+    "vitamin_d_mcg": 0.2,
+    "vitamin_e_mg": 0.5,
+    "phosphorus_mg": 78.0,
+    "magnesium_mg": 18.0,
+    "zinc_mg": 0.7,
+    "selenium_mcg": 4.5,
+    "water_g": 75.0
+  },
+  "glycemic_index": 55,
+  "glycemic_load_per_serving": 28.2,
+  "gi_source": "University of Sydney GI Database — Compressed rice (lontong/ketupat style) has lower GI (~50–58) than freshly steamed rice due to starch retrogradation during the compression and cooling process. Coconut milk fat in the curry further lowers the composite plate GI. Estimated composite GI ~52–58. Per-400g plate GL approximately 28.2.",
+  "health_context": {
+    "hypertension": {
+      "concern_level": "moderate",
+      "key_factor": "Sodium in lontong originates from the spice base of the coconut curry (belacan, dried shrimp), sambal garnish, and serunding. A 400g plate delivers approximately 840mg sodium. Compressed rice itself is unsalted, making the curry the main sodium source.",
+      "guidance": "Patients with hypertension can choose lontong over nasi lemak or nasi padang as the compressed rice contributes minimal sodium. Ask for reduced sambal and less serunding. Request the curry gravy to be served on the side to control sodium intake."
+    },
+    "type2_diabetes": {
+      "concern_level": "moderate",
+      "key_factor": "The lower GI of compressed rice (~55 vs ~73 for steamed jasmine rice) makes lontong a better choice than most rice dishes. The fat from coconut milk further moderates blood glucose rise. A 400g plate delivers approximately 51g carbohydrate, with a GL of ~28.2.",
+      "guidance": "Lontong is a reasonable choice for patients with type 2 diabetes compared to plain steamed rice dishes, provided the coconut curry is not excessive. Portion control remains important — limit to 1 plate. The vegetable content (long beans, cabbage, carrot) provides fibre that further attenuates postprandial glucose."
+    },
+    "rheumatoid_arthritis": {
+      "concern_level": "moderate",
+      "key_factor": "Coconut milk saturated fat content is 3.5g/100g — moderate for a rice dish. The turmeric in the curry base provides curcumin with anti-inflammatory properties. Vegetables (long beans, cabbage) contribute vitamin C and folate.",
+      "guidance": "Lontong is acceptable for patients with rheumatoid arthritis. The anti-inflammatory turmeric in the curry base is beneficial. Limit frequency to 2–3 times per week due to saturated fat from coconut milk."
+    }
+  },
+  "llm_training": {
+    "natural_language_description": "Lontong is a popular Malay breakfast and lunch dish consisting of compressed rice cakes — rice cooked inside banana leaf or plastic sleeves until the starch gelatinises into a dense, firm cylinder — cut into bite-sized cubes and served immersed in a rich yellow coconut vegetable curry. The curry contains long beans, cabbage, carrot, tofu puffs, and sometimes hard-boiled egg, and is generously seasoned with lemongrass, galangal, and turmeric. Lontong is traditionally served with sambal and serunding kelapa (coconut floss). The compressed rice has a lower glycaemic index than freshly steamed rice due to starch retrogradation. It is a Hari Raya staple alongside ketupat.",
+    "common_user_queries": [
+      "lontong calories",
+      "lontong nutrition facts",
+      "is lontong healthy",
+      "lontong GI glycemic index",
+      "lontong vs nasi lemak",
+      "lontong for diabetes"
+    ],
+    "meal_context": [
+      "Malay breakfast",
+      "hawker centre",
+      "Hari Raya",
+      "paired with ketupat",
+      "nasi padang accompaniment"
+    ],
+    "ingredient_synonyms": {
+      "lontong": [
+        "ketupat sayur",
+        "compressed rice cake with curry"
+      ],
+      "ketupat sayur": [
+        "lontong sayur",
+        "rice cake curry"
+      ]
+    }
+  },
+  "confidence": "high",
+  "confidence_reason": "Exact match found in HPB Singapore Foodo for Lontong (compressed rice cake with coconut vegetable curry). IMR Malaysia MyFCD used for cross-validation of coconut curry component.",
+  "notes": "Nutritionally distinct from nasi lemak despite both being Malay rice dishes — lontong's compressed rice has lower GI and the curry is vegetable-dominant rather than high-fat sambal-dominant. Coconut milk content is significant (3.5g saturated fat/100g) — note for cardiovascular risk counselling. Serunding and sambal are served as accompaniments and not included in the per-100g values; they add sodium significantly if consumed in generous quantities."
+}

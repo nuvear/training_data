@@ -1,0 +1,64 @@
+{
+  "source_json": "lontong.json",
+  "filename_prefix": "lontong",
+  "save_pattern": "lontong_{x}.jpg",
+  "objective": "Train MedGemma to visually recognize Lontong, a Southeast Asian compressed rice cake dish with coconut vegetable curry, capturing its product form, texture, ingredients, cultural context, culinary use, and allergen cues.",
+  "suggested_images_per_query": 3,
+  "query_groups": {
+    "hero_product": [
+      "photorealistic Malay lontong dish with compressed rice cake cubes and yellow coconut vegetable curry",
+      "Singapore Malay lontong served on plate with long beans, cabbage, carrot, tofu puffs, and hard-boiled egg in coconut curry",
+      "Javanese lontong sayur with firm compressed rice cakes immersed in turmeric coconut milk vegetable curry"
+    ],
+    "macro_texture": [
+      "close-up of compressed rice cake cubes showing dense firm gelatinized texture from boiling and steaming",
+      "detailed texture of yellow coconut milk vegetable curry with visible long beans, cabbage, carrot, and tofu puffs",
+      "surface texture of lontong curry showing turmeric, lemongrass, and galangal spices in rich coconut gravy"
+    ],
+    "raw_ingredients_and_process": [
+      "compressed rice cake wrapped in banana leaf or plastic sleeve before cutting",
+      "fresh long beans, cabbage, carrot, tofu puffs, hard-boiled eggs as lontong curry ingredients",
+      "photorealistic turmeric, galangal, lemongrass roots and coconut milk used in lontong curry preparation"
+    ],
+    "in_the_wild_context": [
+      "Malay breakfast hawker stall serving lontong with sambal and serunding kelapa accompaniments",
+      "Hari Raya festive table featuring lontong alongside ketupat and other Malay dishes",
+      "Singapore hawker centre plate of lontong with typical garnishes and side sambal in natural dining setting"
+    ],
+    "culinary_application": [
+      "lontong served as a breakfast or lunch dish in Malay cuisine with coconut vegetable curry",
+      "traditional lontong presentation with sambal and serunding kelapa coconut floss on side",
+      "lontong paired with ketupat and nasi padang dishes in Southeast Asian meal context"
+    ],
+    "label_truth": [
+      "close-up photo of lontong dish highlighting visible hard-boiled egg and tofu puffs allergens",
+      "photorealistic lontong plate showing presence of possible crustacean-based belacan in curry",
+      "image emphasizing lontong as halal, gluten-free, dairy-free Malay rice cake curry dish"
+    ],
+    "optional_local_language_queries": [
+      "糯米卷 Malay lontong dish with compressed rice cake and coconut vegetable curry",
+      "lontong sayur Indonesian style compressed rice cake curry with vegetables and coconut milk",
+      "லொந்தோங் Tamil lontong rice cake with yellow coconut curry and vegetable ingredients"
+    ]
+  },
+  "filters": {
+    "min_resolution": ">=1600x1200",
+    "preferred_formats": [
+      "jpg",
+      "webp"
+    ],
+    "faces": "none or cropped out",
+    "style": "real photography only"
+  },
+  "negative_terms": [
+    "illustration",
+    "cartoon",
+    "AI art",
+    "recipe card",
+    "infographic",
+    "logo only",
+    "portrait",
+    "vector",
+    "clipart"
+  ]
+}
