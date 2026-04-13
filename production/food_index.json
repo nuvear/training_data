@@ -14,5 +14,9 @@
   {
     "food_id": "0004_nasi_lemak_basic",
     "idx": 3
+  },
+  {
+    "food_id": "0005_bak_kut_teh_pork_ribs_pepper_broth",
+    "idx": 4
   }
 ]
